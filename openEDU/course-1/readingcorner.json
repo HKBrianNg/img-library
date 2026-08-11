@@ -1,0 +1,149 @@
+[
+  {
+    "id": "8-01",
+    "title": "看书时别驼背",
+    "type": "article",
+    "content": "Don't hunch over.",
+    "lessonUrl": "/images/dont-hunch-over.jpg"
+  },
+  {
+    "id": "8-02",
+    "title": "不要撕书",
+    "type": "article",
+    "content": "Don't tear the book up.",
+    "lessonUrl": "/images/dont-tear-the-book-up.jpg"
+  },
+  {
+    "id": "8-03",
+    "title": "不要咬书",
+    "type": "article",
+    "content": "Don't bite on the book.",
+    "lessonUrl": "/images/dont-bite-on-the-book.jpg"
+  },
+  {
+    "id": "8-04",
+    "title": "不要在书上乱涂乱画",
+    "type": "article",
+    "content": "Don't scribble on the book.",
+    "lessonUrl": "/images/dont-scribble-on-the-book.jpg"
+  },
+  {
+    "id": "8-05",
+    "title": "看看封面上有什么",
+    "type": "article",
+    "content": "Look! What's on the cover?",
+    "lessonUrl": "/images/look-whats-on-the-cover.jpg"
+  },
+  {
+    "id": "8-06",
+    "title": "请帮我翻到下一页",
+    "type": "article",
+    "content": "Help me turn to the next page, please.",
+    "lessonUrl": "/images/help-me-turn-to-the-next-page-please.jpg"
+  },
+  {
+    "id": "8-07",
+    "title": "别翻太快",
+    "type": "article",
+    "content": "Don't flip through the pages.",
+    "lessonUrl": "/images/dont-flip-through-the-pages.jpg"
+  },
+  {
+    "id": "8-08",
+    "title": "翻回上一页",
+    "type": "article",
+    "content": "Go back to the last page.",
+    "lessonUrl": "/images/go-back-to-the-last-page.jpg"
+  },
+  {
+    "id": "8-09",
+    "title": "告诉妈妈你看到了什么呀",
+    "type": "article",
+    "content": "Tell mom what you see.",
+    "lessonUrl": "/images/tell-mom-what-you-see.jpg"
+  },
+  {
+    "id": "8-10",
+    "title": "这是什么猜一下",
+    "type": "article",
+    "content": "What is it? Take a guess.",
+    "lessonUrl": "/images/what-is-it-take-a-guess.jpg"
+  },
+  {
+    "id": "8-11",
+    "title": "这是什么颜色",
+    "type": "article",
+    "content": "What color is this?",
+    "lessonUrl": "/images/what-color-is-this.jpg"
+  },
+  {
+    "id": "8-12",
+    "title": "你喜欢这个故事吗",
+    "type": "article",
+    "content": "Do you like this story?",
+    "lessonUrl": "/images/do-you-like-this-story.jpg"
+  },
+  {
+    "id": "8-13",
+    "title": "把书放回书架上",
+    "type": "article",
+    "content": "Put the book back on the shelf.",
+    "lessonUrl": "/images/put-the-book-back-on-the-shelf.jpg"
+  },
+  {
+    "id": "8-14",
+    "title": "把书整理好",
+    "type": "article",
+    "content": "Put the books in order.",
+    "lessonUrl": "/images/put-the-books-in-order.jpg"
+  },
+  {
+    "id": "8-15",
+    "title": "你眼睛不舒服吗",
+    "type": "article",
+    "content": "Are your eyes bothering you?",
+    "lessonUrl": "/images/are-your-eyes-bothering-you.jpg"
+  },
+  {
+    "id": "8-16",
+    "title": "痛不痛",
+    "type": "article",
+    "content": "Does it hurt?",
+    "lessonUrl": "/images/does-it-hurt.jpg"
+  },
+  {
+    "id": "8-17",
+    "title": "我们让眼睛休息一下吧",
+    "type": "article",
+    "content": "Let's give our eyes a rest!",
+    "lessonUrl": "/images/lets-give-our-eyes-a-rest.jpg"
+  },
+  {
+    "id": "8-18",
+    "title": "你作业写完了吗",
+    "type": "article",
+    "content": "Have you finished your homework?",
+    "lessonUrl": "/images/have-you-finished-your-homework.jpg"
+  },
+  {
+    "id": "8-19",
+    "title": "你复习今天的功课了吗",
+    "type": "article",
+    "content": "Did you review today's lessons?",
+    "lessonUrl": "/images/did-you-review-todays-lessons.jpg"
+  },
+  {
+    "id": "8-20",
+    "title": "你预习明天的功课了吗",
+    "type": "article",
+    "content": "Did you preview tomorrow's lessons?",
+    "lessonUrl": "/images/did-you-preview-tomorrows-lessons.jpg"
+  },
+  {
+    "id": "8-21",
+    "title": "让我检查一下你的作业吧",
+    "type": "article",
+    "content": "Let me check your homework.",
+    "lessonUrl": "/images/let-me-check-your-homework.jpg"
+  }
+]

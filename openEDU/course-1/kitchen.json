@@ -1,0 +1,114 @@
+[
+  {
+    "id": "5-01",
+    "title": "碗要轻拿轻放哦",
+    "type": "article",
+    "content": "Be gentle with your bowl.",
+    "lessonUrl": "/images/be-gentle-with-your-bowl.jpg"
+  },
+  {
+    "id": "5-02",
+    "title": "把这个放到下面的架子上",
+    "type": "article",
+    "content": "Put this on the bottom shelf.",
+    "lessonUrl": "/images/put-this-on-the-bottom-shelf.jpg"
+  },
+  {
+    "id": "5-03",
+    "title": "把餐具放到碗柜里",
+    "type": "article",
+    "content": "Put the dishes in the cupboard.",
+    "lessonUrl": "/images/put-the-dishes-in-the-cupboard.jpg"
+  },
+  {
+    "id": "5-04",
+    "title": "用微波炉加热一下",
+    "type": "article",
+    "content": "Let's heat it up in the microwave.",
+    "lessonUrl": "/images/lets-heat-it-up-in-the-microwave.jpg"
+  },
+  {
+    "id": "5-05",
+    "title": "把这个用保鲜袋装起来",
+    "type": "article",
+    "content": "Put this in a ziploc bag.",
+    "lessonUrl": "/images/put-this-in-a-ziploc-bag.jpg"
+  },
+  {
+    "id": "5-06",
+    "title": "把它放到冰箱里",
+    "type": "article",
+    "content": "Put it in the fridge.",
+    "lessonUrl": "/images/put-it-in-the-fridge.jpg"
+  },
+  {
+    "id": "5-07",
+    "title": "别忘了关上冰箱门",
+    "type": "article",
+    "content": "Don't forget to close the fridge door.",
+    "lessonUrl": "/images/dont-forget-to-close-the-fridge-door.jpg"
+  },
+  {
+    "id": "5-08",
+    "title": "穿上围裙",
+    "type": "article",
+    "content": "Put this apron on.",
+    "lessonUrl": "/images/put-this-apron-on.jpg"
+  },
+  {
+    "id": "5-09",
+    "title": "把鸡蛋打到碗里",
+    "type": "article",
+    "content": "Crack the eggs into the bowl.",
+    "lessonUrl": "/images/crack-the-eggs-into-the-bowl.jpg"
+  },
+  {
+    "id": "5-10",
+    "title": "把蔬菜放在沥水篮沥干",
+    "type": "article",
+    "content": "Put the vegetables in the drainer.",
+    "lessonUrl": "/images/put-the-vegetables-in-the-drainer.jpg"
+  },
+  {
+    "id": "5-11",
+    "title": "帮妈妈洗一下菜",
+    "type": "article",
+    "content": "Help mom wash the vegetables.",
+    "lessonUrl": "/images/help-mom-wash-the-vegetables.jpg"
+  },
+  {
+    "id": "5-12",
+    "title": "帮妈妈摘一下菜",
+    "type": "article",
+    "content": "Help mom clean up the veggies.",
+    "lessonUrl": "/images/help-mom-clean-up-the-veggies.jpg"
+  },
+  {
+    "id": "5-13",
+    "title": "帮妈妈打开冰箱门",
+    "type": "article",
+    "content": "Help mom open the fridge door.",
+    "lessonUrl": "/images/help-mom-open-the-fridge-door.jpg"
+  },
+  {
+    "id": "5-14",
+    "title": "帮妈妈拿一下酱油",
+    "type": "article",
+    "content": "Help mom get the soy sauce.",
+    "lessonUrl": "/images/help-mom-get-the-soy-sauce.jpg"
+  },
+  {
+    "id": "5-15",
+    "title": "帮妈妈揉面团",
+    "type": "article",
+    "content": "Help mom knead the dough.",
+    "lessonUrl": "/images/help-mom-knead-the-dough.jpg"
+  },
+  {
+    "id": "5-16",
+    "title": "帮妈妈包饺子",
+    "type": "article",
+    "content": "Help mom make some dumplings.",
+    "lessonUrl": "/images/help-mom-make-some-dumplings.jpg"
+  }
+]

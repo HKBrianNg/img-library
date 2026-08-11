@@ -1,0 +1,324 @@
+[
+  {
+    "id": "1-01",
+    "title": "先换拖鞋",
+    "type": "article",
+    "content": "Change into your slippers first.",
+    "lessonUrl": "/images/change-into-your-slippers-first.jpg"
+  },
+  {
+    "id": "1-02",
+    "title": "先把鞋脱了",
+    "type": "article",
+    "content": "Take off your shoes first.",
+    "lessonUrl": "/images/take-off-your-shoes-first.jpg"
+  },
+  {
+    "id": "1-03",
+    "title": "拍拍鞋子上的泥",
+    "type": "article",
+    "content": "Dust the mud off your shoes.",
+    "lessonUrl": "/images/dust-the-mud-off-your-shoes.jpg"
+  },
+  {
+    "id": "1-04",
+    "title": "把鞋子摆整齐",
+    "type": "article",
+    "content": "Make your shoes nice and neat.",
+    "lessonUrl": "/images/make-your-shoes-nice-and-neat.jpg"
+  },
+  {
+    "id": "1-05",
+    "title": "你的鞋在鞋柜里",
+    "type": "article",
+    "content": "Your shoes are in the shoe cabinet.",
+    "lessonUrl": "/images/your-shoes-are-in-the-shoe-cabinet.jpg"
+  },
+  {
+    "id": "1-06",
+    "title": "打开鞋柜把鞋拿出来",
+    "type": "article",
+    "content": "Open the shoe cabinet and take out your shoes.",
+    "lessonUrl": "/images/open-the-shoe-cabinet-and-take-out-your-shoes.jpg"
+  },
+  {
+    "id": "1-07",
+    "title": "坐下来换鞋",
+    "type": "article",
+    "content": "Sit down to change your shoes.",
+    "lessonUrl": "/images/sit-down-to-change-your-shoes.jpg"
+  },
+  {
+    "id": "1-08",
+    "title": "快点穿上鞋",
+    "type": "article",
+    "content": "Put your shoes on.",
+    "lessonUrl": "/images/put-your-shoes-on.jpg"
+  },
+  {
+    "id": "1-09",
+    "title": "你要迟到了",
+    "type": "article",
+    "content": "You're going to be late.",
+    "lessonUrl": "/images/youre-going-to-be-late.jpg"
+  },
+  {
+    "id": "1-10",
+    "title": "你的鞋带松了",
+    "type": "article",
+    "content": "Your shoes are untied.",
+    "lessonUrl": "/images/your-shoes-are-untied.jpg"
+  },
+  {
+    "id": "1-11",
+    "title": "把鞋带系好",
+    "type": "article",
+    "content": "Tie your shoelaces.",
+    "lessonUrl": "/images/tie-your-shoelaces.jpg"
+  },
+  {
+    "id": "1-12",
+    "title": "你东西都拿好了吗",
+    "type": "article",
+    "content": "Did you get everything?",
+    "lessonUrl": "/images/did-you-get-everything.jpg"
+  },
+  {
+    "id": "1-13",
+    "title": "你的书包收拾好了吗",
+    "type": "article",
+    "content": "Is your bag ready to go?",
+    "lessonUrl": "/images/is-your-bag-ready-to-go.jpg"
+  },
+  {
+    "id": "1-14",
+    "title": "书都放进去了吗",
+    "type": "article",
+    "content": "Are your books all packed?",
+    "lessonUrl": "/images/are-your-books-all-packed.jpg"
+  },
+  {
+    "id": "1-15",
+    "title": "确认一下东西都带齐了哦",
+    "type": "article",
+    "content": "Make sure you have everything.",
+    "lessonUrl": "/images/make-sure-you-have-everything.jpg"
+  },
+  {
+    "id": "1-16",
+    "title": "水杯带了吗",
+    "type": "article",
+    "content": "Do you have your water bottle?",
+    "lessonUrl": "/images/do-you-have-your-water-bottle.jpg"
+  },
+  {
+    "id": "1-17",
+    "title": "自己背书包",
+    "type": "article",
+    "content": "Carry your own bag.",
+    "lessonUrl": "/images/carry-your-own-bag.jpg"
+  },
+  {
+    "id": "1-18",
+    "title": "妈妈要锁门了",
+    "type": "article",
+    "content": "Mom is going to lock the door.",
+    "lessonUrl": "/images/mom-is-going-to-lock-the-door.jpg"
+  },
+  {
+    "id": "1-19",
+    "title": "小心夹到手",
+    "type": "article",
+    "content": "Watch your fingers.",
+    "lessonUrl": "/images/watch-your-fingers.jpg"
+  },
+  {
+    "id": "1-20",
+    "title": "记得关灯",
+    "type": "article",
+    "content": "Remember to turn off the lights.",
+    "lessonUrl": "/images/remember-to-turn-off-the-lights.jpg"
+  },
+  {
+    "id": "1-21",
+    "title": "快点爸爸在电梯那等你呢",
+    "type": "article",
+    "content": "Come on, dad's waiting for you by the elevator.",
+    "lessonUrl": "/images/come-on-dads-waiting-for-you-by-the-elevator.jpg"
+  },
+  {
+    "id": "1-22",
+    "title": "走去上学啦",
+    "type": "article",
+    "content": "Let's go to school.",
+    "lessonUrl": "/images/lets-go-to-school.jpg"
+  },
+  {
+    "id": "1-23",
+    "title": "爸爸要上班啦",
+    "type": "article",
+    "content": "Dad has to go to work.",
+    "lessonUrl": "/images/dad-has-to-go-to-work.jpg"
+  },
+  {
+    "id": "1-24",
+    "title": "妈妈出门啦",
+    "type": "article",
+    "content": "Mom's heading out.",
+    "lessonUrl": "/images/moms-heading-out.jpg"
+  },
+  {
+    "id": "1-25",
+    "title": "跟妈妈说拜拜",
+    "type": "article",
+    "content": "Say goodbye to mom.",
+    "lessonUrl": "/images/say-goodbye-to-mom.jpg"
+  },
+  {
+    "id": "1-26",
+    "title": "爸爸回来我们一起玩游戏",
+    "type": "article",
+    "content": "We'll play a game when dad comes back.",
+    "lessonUrl": "/images/well-play-a-game-when-dad-comes-back.jpg"
+  },
+  {
+    "id": "1-27",
+    "title": "爸爸上完班很快就会回来的",
+    "type": "article",
+    "content": "Dad will be back soon after work.",
+    "lessonUrl": "/images/dad-will-be-back-soon-after-work.jpg"
+  },
+  {
+    "id": "1-28",
+    "title": "给妈妈一个飞吻",
+    "type": "article",
+    "content": "Blow a kiss to mom.",
+    "lessonUrl": "/images/blow-a-kiss-to-mom.jpg"
+  },
+  {
+    "id": "1-29",
+    "title": "快过来抱抱",
+    "type": "article",
+    "content": "Come and give me a hug.",
+    "lessonUrl": "/images/come-and-give-me-a-hug.jpg"
+  },
+  {
+    "id": "1-30",
+    "title": "我会想你的宝贝",
+    "type": "article",
+    "content": "I'm going to miss you, baby.",
+    "lessonUrl": "/images/im-going-to-miss-you-baby.jpg"
+  },
+  {
+    "id": "1-31",
+    "title": "要听外婆奶奶的话噢",
+    "type": "article",
+    "content": "Mind your grandmother.",
+    "lessonUrl": "/images/mind-your-grandmother.jpg"
+  },
+  {
+    "id": "1-32",
+    "title": "在家去上学要乖乖噢",
+    "type": "article",
+    "content": "Be good at home/ school.",
+    "lessonUrl": "/images/be-good-at-home-school.jpg"
+  },
+  {
+    "id": "1-33",
+    "title": "按一楼负一楼",
+    "type": "article",
+    "content": "Press the 1st floor/ B1 button.",
+    "lessonUrl": "/images/press-the-1st-floor-b1-button.jpg"
+  },
+  {
+    "id": "1-34",
+    "title": "我回来啦",
+    "type": "article",
+    "content": "I'm back.",
+    "lessonUrl": "/images/im-back.jpg"
+  },
+  {
+    "id": "1-35",
+    "title": "把书包放好",
+    "type": "article",
+    "content": "Put your bag away.",
+    "lessonUrl": "/images/put-your-bag-away.jpg"
+  },
+  {
+    "id": "1-36",
+    "title": "今天有没有乖乖听话呀",
+    "type": "article",
+    "content": "Were you good today?",
+    "lessonUrl": "/images/were-you-good-today.jpg"
+  },
+  {
+    "id": "1-37",
+    "title": "今天过得怎么样",
+    "type": "article",
+    "content": "How was your day?",
+    "lessonUrl": "/images/how-was-your-day.jpg"
+  },
+  {
+    "id": "1-38",
+    "title": "今天老师有没有表扬你呀",
+    "type": "article",
+    "content": "Did the teacher praise you today?",
+    "lessonUrl": "/images/did-the-teacher-praise-you-today.jpg"
+  },
+  {
+    "id": "1-39",
+    "title": "跟妈妈一起去取快递吧",
+    "type": "article",
+    "content": "Come with mom to pick up our package.",
+    "lessonUrl": "/images/come-with-mom-to-pick-up-our-package.jpg"
+  },
+  {
+    "id": "1-40",
+    "title": "走出去玩啦",
+    "type": "article",
+    "content": "Let's go outside to play.",
+    "lessonUrl": "/images/lets-go-outside-to-play.jpg"
+  },
+  {
+    "id": "1-41",
+    "title": "带你喜欢的小零食吧",
+    "type": "article",
+    "content": "Bring some of your favorite snacks.",
+    "lessonUrl": "/images/bring-some-of-your-favorite-snacks.jpg"
+  },
+  {
+    "id": "1-42",
+    "title": "涂一点防晒霜",
+    "type": "article",
+    "content": "Let's put on a little sunscreen.",
+    "lessonUrl": "/images/lets-put-on-a-little-sunscreen.jpg"
+  },
+  {
+    "id": "1-43",
+    "title": "你需要戴上防晒帽",
+    "type": "article",
+    "content": "You'll need your sun hat.",
+    "lessonUrl": "/images/youll-need-your-sun-hat.jpg"
+  },
+  {
+    "id": "1-44",
+    "title": "骑上你的滑板车吧",
+    "type": "article",
+    "content": "Ride your little scooter.",
+    "lessonUrl": "/images/ride-your-little-scooter.jpg"
+  },
+  {
+    "id": "1-45",
+    "title": "骑上你的扭扭车吧",
+    "type": "article",
+    "content": "Ride your wiggle car.",
+    "lessonUrl": "/images/ride-your-wiggle-car.jpg"
+  },
+  {
+    "id": "1-46",
+    "title": "戴上护膝",
+    "type": "article",
+    "content": "Put on your pads.",
+    "lessonUrl": "/images/put-on-your-pads.jpg"
+  }
+]

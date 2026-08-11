@@ -1,0 +1,84 @@
+{
+  "id": "1",
+  "title": {
+    "zh": "基础英语300句",
+    "en": "Basic 300 English Sentences"
+  },
+  "description": {
+    "zh": "生活常用英语",
+    "en": "Everyday English for Daily Life"
+  },
+  "coverUrl": "/images/home.jpg",
+  "category": {
+    "zh": "日常英语",
+    "en": "Daily English"
+  },
+  "level": {
+    "zh": "初级",
+    "en": "Beginner"
+  },
+  "createdAt": "2026-08-02",
+  "tags": ["英文"],
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "第一章：在家门口",
+      "order": 1,
+      "lessonsFile": "atthedoor.json"
+    },
+    {
+      "id": "ch2",
+      "title": "第二章：在客厅",
+      "order": 2,
+      "lessonsFile": "livingroom.json"
+    },
+    {
+      "id": "ch3",
+      "title": "第三章：在阳台",
+      "order": 3,
+      "lessonsFile": "balcony.json"
+    },
+    {
+      "id": "ch4",
+      "title": "第四章：在餐厅",
+      "order": 4,
+      "lessonsFile": "diningroom.json"
+    },
+    {
+      "id": "ch5",
+      "title": "第五章：在厨房",
+      "order": 5,
+      "lessonsFile": "kitchen.json"
+    },
+    {
+      "id": "ch6",
+      "title": "第六章：在卫生间",
+      "order": 6,
+      "lessonsFile": "bathroom.json"
+    },
+    {
+      "id": "ch7",
+      "title": "第七章：在卧室",
+      "order": 7,
+      "lessonsFile": "bedroom.json"
+    },
+    {
+      "id": "ch8",
+      "title": "第八章：在阅读角",
+      "order": 8,
+      "lessonsFile": "readingcorner.json"
+    },
+    {
+      "id": "ch9",
+      "title": "第九章：在游戏区",
+      "order": 9,
+      "lessonsFile": "playarea.json"
+    },
+    {
+      "id": "ch10",
+      "title": "第十章：宝宝说",
+      "order": 10,
+      "lessonsFile": "kiddiespeak.json"
+    }
+  ]
+}

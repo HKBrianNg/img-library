@@ -1,0 +1,310 @@
+[
+  {
+    "id": "4-01",
+    "title": "吃饭啦",
+    "type": "article",
+    "content": "It's time to eat.",
+    "lessonUrl": "/images/its-time-to-eat.jpg"
+  },
+  {
+    "id": "4-02",
+    "title": "先去洗手吧",
+    "type": "article",
+    "content": "Go wash your hands.",
+    "lessonUrl": "/images/go-wash-your-hands.jpg"
+  },
+  {
+    "id": "4-03",
+    "title": "穿上你的小围兜",
+    "type": "article",
+    "content": "Put on your bib.",
+    "lessonUrl": "/images/put-on-your-bib.jpg"
+  },
+  {
+    "id": "4-04",
+    "title": "它们看上去都好好吃呀",
+    "type": "article",
+    "content": "They all look so delicious.",
+    "lessonUrl": "/images/they-all-look-so-delicious.jpg"
+  },
+  {
+    "id": "4-05",
+    "title": "它闻起来好香啊",
+    "type": "article",
+    "content": "It smells so good.",
+    "lessonUrl": "/images/it-smells-so-good.jpg"
+  },
+  {
+    "id": "4-06",
+    "title": "你想吃哪个",
+    "type": "article",
+    "content": "Which one do you want?",
+    "lessonUrl": "/images/which-one-do-you-want.jpg"
+  },
+  {
+    "id": "4-07",
+    "title": "尝尝这个吧",
+    "type": "article",
+    "content": "Try some of this.",
+    "lessonUrl": "/images/try-some-of-this.jpg"
+  },
+  {
+    "id": "4-08",
+    "title": "这个有点烫先吹吹",
+    "type": "article",
+    "content": "It's a little hot, blow on it first.",
+    "lessonUrl": "/images/its-a-little-hot-blow-on-it-first.jpg"
+  },
+  {
+    "id": "4-09",
+    "title": "多吃点蔬菜",
+    "type": "article",
+    "content": "Eat more veggies.",
+    "lessonUrl": "/images/eat-more-veggies.jpg"
+  },
+  {
+    "id": "4-10",
+    "title": "不要只吃肉",
+    "type": "article",
+    "content": "Don't just eat meat.",
+    "lessonUrl": "/images/dont-just-eat-meat.jpg"
+  },
+  {
+    "id": "4-11",
+    "title": "不要挑食",
+    "type": "article",
+    "content": "Don't be picky.",
+    "lessonUrl": "/images/dont-be-picky.jpg"
+  },
+  {
+    "id": "4-12",
+    "title": "多嚼一下食物帮助消化",
+    "type": "article",
+    "content": "Chew your food a little more.",
+    "lessonUrl": "/images/chew-your-food-a-little-more.jpg"
+  },
+  {
+    "id": "4-13",
+    "title": "你慢点吃",
+    "type": "article",
+    "content": "Take your time.",
+    "lessonUrl": "/images/take-your-time.jpg"
+  },
+  {
+    "id": "4-14",
+    "title": "快点把食物咽下去",
+    "type": "article",
+    "content": "Swallow your food.",
+    "lessonUrl": "/images/swallow-your-food.jpg"
+  },
+  {
+    "id": "4-15",
+    "title": "你吃得太少了",
+    "type": "article",
+    "content": "You didn't eat enough.",
+    "lessonUrl": "/images/you-didnt-eat-enough.jpg"
+  },
+  {
+    "id": "4-16",
+    "title": "别吃撑了",
+    "type": "article",
+    "content": "Don't stuff yourself.",
+    "lessonUrl": "/images/dont-stuff-yourself.jpg"
+  },
+  {
+    "id": "4-17",
+    "title": "不要弄得到处都是",
+    "type": "article",
+    "content": "Don't mess around.",
+    "lessonUrl": "/images/dont-mess-around.jpg"
+  },
+  {
+    "id": "4-18",
+    "title": "不要浪费食物",
+    "type": "article",
+    "content": "Don't waste your food.",
+    "lessonUrl": "/images/dont-waste-your-food.jpg"
+  },
+  {
+    "id": "4-19",
+    "title": "好好吃饭别乱动",
+    "type": "article",
+    "content": "Eat right and quit moving around.",
+    "lessonUrl": "/images/eat-right-and-quit-moving-around.jpg"
+  },
+  {
+    "id": "4-20",
+    "title": "不要站起来危险",
+    "type": "article",
+    "content": "Don't stand up, it's dangerous.",
+    "lessonUrl": "/images/dont-stand-up-its-dangerous.jpg"
+  },
+  {
+    "id": "4-21",
+    "title": "不要那样拿筷子",
+    "type": "article",
+    "content": "Don't hold your chopsticks like that.",
+    "lessonUrl": "/images/dont-hold-your-chopsticks-like-that.jpg"
+  },
+  {
+    "id": "4-22",
+    "title": "不要一边吃饭一边说话",
+    "type": "article",
+    "content": "Don't talk with your mouth full.",
+    "lessonUrl": "/images/dont-talk-with-your-mouth-full.jpg"
+  },
+  {
+    "id": "4-23",
+    "title": "不要玩食物",
+    "type": "article",
+    "content": "Don't play with your food.",
+    "lessonUrl": "/images/dont-play-with-your-food.jpg"
+  },
+  {
+    "id": "4-24",
+    "title": "不要扔地上",
+    "type": "article",
+    "content": "Don't throw it on the floor.",
+    "lessonUrl": "/images/dont-throw-it-on-the-floor.jpg"
+  },
+  {
+    "id": "4-25",
+    "title": "你还要再吃点吗",
+    "type": "article",
+    "content": "Do you want some more?",
+    "lessonUrl": "/images/do-you-want-some-more.jpg"
+  },
+  {
+    "id": "4-26",
+    "title": "最后一口吃完再去玩",
+    "type": "article",
+    "content": "One last bite, then you can go play.",
+    "lessonUrl": "/images/one-last-bite-then-you-can-go-play.jpg"
+  },
+  {
+    "id": "4-27",
+    "title": "你吃饱了吗",
+    "type": "article",
+    "content": "Are you full?",
+    "lessonUrl": "/images/are-you-full.jpg"
+  },
+  {
+    "id": "4-28",
+    "title": "你吃完了呀",
+    "type": "article",
+    "content": "You're all done.",
+    "lessonUrl": "/images/youre-all-done.jpg"
+  },
+  {
+    "id": "4-29",
+    "title": "用纸巾擦一下鼻子",
+    "type": "article",
+    "content": "Wipe your nose.",
+    "lessonUrl": "/images/wipe-your-nose.jpg"
+  },
+  {
+    "id": "4-30",
+    "title": "让妈妈把你抱下来",
+    "type": "article",
+    "content": "Let mom get you down.",
+    "lessonUrl": "/images/let-mom-get-you-down.jpg"
+  },
+  {
+    "id": "4-31",
+    "title": "该喝奶啦",
+    "type": "article",
+    "content": "It's milk time.",
+    "lessonUrl": "/images/its-milk-time.jpg"
+  },
+  {
+    "id": "4-32",
+    "title": "你打嗝了",
+    "type": "article",
+    "content": "You have the hiccups.",
+    "lessonUrl": "/images/you-have-the-hiccups.jpg"
+  },
+  {
+    "id": "4-33",
+    "title": "你要喝点水",
+    "type": "article",
+    "content": "You need to drink some water.",
+    "lessonUrl": "/images/you-need-to-drink-some-water.jpg"
+  },
+  {
+    "id": "4-34",
+    "title": "我饿死了",
+    "type": "article",
+    "content": "I'm starving.",
+    "lessonUrl": "/images/im-starving.jpg"
+  },
+  {
+    "id": "4-35",
+    "title": "我们点外卖吧",
+    "type": "article",
+    "content": "Let's order some take out.",
+    "lessonUrl": "/images/lets-order-some-take-out.jpg"
+  },
+  {
+    "id": "4-36",
+    "title": "去拿一下你的餐盘",
+    "type": "article",
+    "content": "Go get your plate.",
+    "lessonUrl": "/images/go-get-your-plate.jpg"
+  },
+  {
+    "id": "4-37",
+    "title": "能帮妈妈一起摆餐具吗",
+    "type": "article",
+    "content": "Can you help me set the table?",
+    "lessonUrl": "/images/can-you-help-me-set-the-table.jpg"
+  },
+  {
+    "id": "4-38",
+    "title": "帮妈妈收拾一下桌子吧",
+    "type": "article",
+    "content": "Please help clear the table.",
+    "lessonUrl": "/images/please-help-clear-the-table.jpg"
+  },
+  {
+    "id": "4-39",
+    "title": "好油啊",
+    "type": "article",
+    "content": "It's so greasy.",
+    "lessonUrl": "/images/its-so-greasy.jpg"
+  },
+  {
+    "id": "4-40",
+    "title": "我好胀啊",
+    "type": "article",
+    "content": "I'm stuffed.",
+    "lessonUrl": "/images/im-stuffed.jpg"
+  },
+  {
+    "id": "4-41",
+    "title": "吃饭时不要玩手机",
+    "type": "article",
+    "content": "Don't play with the phone while eating.",
+    "lessonUrl": "/images/dont-play-with-the-phone-while-eating.jpg"
+  },
+  {
+    "id": "4-42",
+    "title": "不要吃太多零食",
+    "type": "article",
+    "content": "Don't eat too many snacks.",
+    "lessonUrl": "/images/dont-eat-too-many-snacks.jpg"
+  },
+  {
+    "id": "4-43",
+    "title": "吃完饭再吃零食",
+    "type": "article",
+    "content": "Finish your meal then you can have a snack.",
+    "lessonUrl": "/images/finish-your-meal-then-you-can-have-a-snack.jpg"
+  },
+  {
+    "id": "4-44",
+    "title": "你要吃点水果吗",
+    "type": "article",
+    "content": "Do you want to eat some fruit?",
+    "lessonUrl": "/images/do-you-want-to-eat-some-fruit.jpg"
+  }
+]

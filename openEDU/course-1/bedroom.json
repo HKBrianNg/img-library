@@ -1,0 +1,212 @@
+[
+  {
+    "id": "7-01",
+    "title": "该睡觉了",
+    "type": "article",
+    "content": "It's time to go sleepy bye!",
+    "lessonUrl": "/images/its-time-to-go-sleepy-bye.jpg"
+  },
+  {
+    "id": "7-02",
+    "title": "你今晚想听什么故事",
+    "type": "article",
+    "content": "What story do you want to hear tonight?",
+    "lessonUrl": "/images/what-story-do-you-want-to-hear-tonight.jpg"
+  },
+  {
+    "id": "7-03",
+    "title": "快来快来讲故事喽",
+    "type": "article",
+    "content": "Come, come, it's story time!",
+    "lessonUrl": "/images/come-come-its-story-time.jpg"
+  },
+  {
+    "id": "7-04",
+    "title": "那好吧最后一本喽",
+    "type": "article",
+    "content": "Okay, that is the last one.",
+    "lessonUrl": "/images/okay-that-is-the-last-one.jpg"
+  },
+  {
+    "id": "7-05",
+    "title": "好啦不讲啦睡觉时间到了",
+    "type": "article",
+    "content": "Okay that's it, it's time for bed.",
+    "lessonUrl": "/images/okay-thats-it-its-time-for-bed.jpg"
+  },
+  {
+    "id": "7-06",
+    "title": "悠着点跳注意别摔下来",
+    "type": "article",
+    "content": "Don't jump so hard, you don't want to fall down.",
+    "lessonUrl": "/images/dont-jump-so-hard-you-dont-want-to-fall-down.jpg"
+  },
+  {
+    "id": "7-07",
+    "title": "把毯子盖好",
+    "type": "article",
+    "content": "Cover up with the blanket.",
+    "lessonUrl": "/images/cover-up-with-the-blanket.jpg"
+  },
+  {
+    "id": "7-08",
+    "title": "早点睡不然起不来哦",
+    "type": "article",
+    "content": "Get to bed early, or you won't be able to get up.",
+    "lessonUrl": "/images/get-to-bed-early-or-you-wont-be-able-to-get-up.jpg"
+  },
+  {
+    "id": "7-09",
+    "title": "晚安好梦",
+    "type": "article",
+    "content": "Good night, sweet dreams.",
+    "lessonUrl": "/images/good-night-sweet-dreams.jpg"
+  },
+  {
+    "id": "7-10",
+    "title": "不要躺在床上看书",
+    "type": "article",
+    "content": "Don't lie on the bed to read.",
+    "lessonUrl": "/images/dont-lie-on-the-bed-to-read.jpg"
+  },
+  {
+    "id": "7-11",
+    "title": "不要翻床围栏",
+    "type": "article",
+    "content": "Don't roll over the bed gate.",
+    "lessonUrl": "/images/dont-roll-over-the-bed-gate.jpg"
+  },
+  {
+    "id": "7-12",
+    "title": "起床啦起床啦",
+    "type": "article",
+    "content": "Get up, get up.",
+    "lessonUrl": "/images/get-up-get-up.jpg"
+  },
+  {
+    "id": "7-13",
+    "title": "太阳晒屁股啦",
+    "type": "article",
+    "content": "Rise and shine.",
+    "lessonUrl": "/images/rise-and-shine.jpg"
+  },
+  {
+    "id": "7-14",
+    "title": "你醒了吗",
+    "type": "article",
+    "content": "Are you awake?",
+    "lessonUrl": "/images/are-you-awake.jpg"
+  },
+  {
+    "id": "7-15",
+    "title": "你终于醒啦",
+    "type": "article",
+    "content": "You're finally awake.",
+    "lessonUrl": "/images/youre-finally-awake.jpg"
+  },
+  {
+    "id": "7-16",
+    "title": "早上好宝贝",
+    "type": "article",
+    "content": "Good morning, baby!",
+    "lessonUrl": "/images/good-morning-baby.jpg"
+  },
+  {
+    "id": "7-17",
+    "title": "睡得好吗",
+    "type": "article",
+    "content": "Did you sleep well?",
+    "lessonUrl": "/images/did-you-sleep-well.jpg"
+  },
+  {
+    "id": "7-18",
+    "title": "伸个懒腰",
+    "type": "article",
+    "content": "Stretch out your arms.",
+    "lessonUrl": "/images/stretch-out-your-arms.jpg"
+  },
+  {
+    "id": "7-19",
+    "title": "来穿衣服啦",
+    "type": "article",
+    "content": "Let's get dressed.",
+    "lessonUrl": "/images/lets-get-dressed.jpg"
+  },
+  {
+    "id": "7-20",
+    "title": "你能自己穿衣服吗",
+    "type": "article",
+    "content": "Can you get dressed by yourself?",
+    "lessonUrl": "/images/can-you-get-dressed-by-yourself.jpg"
+  },
+  {
+    "id": "7-21",
+    "title": "今天你想穿什么衣服",
+    "type": "article",
+    "content": "What do you want to wear today?",
+    "lessonUrl": "/images/what-do-you-want-to-wear-today.jpg"
+  },
+  {
+    "id": "7-22",
+    "title": "快点穿好小心感冒哦",
+    "type": "article",
+    "content": "Get dressed! Don't catch a cold.",
+    "lessonUrl": "/images/get-dressed-dont-catch-a-cold.jpg"
+  },
+  {
+    "id": "7-23",
+    "title": "请帮妈妈铺一下床",
+    "type": "article",
+    "content": "Help mom make the bed, please.",
+    "lessonUrl": "/images/help-mom-make-the-bed-please.jpg"
+  },
+  {
+    "id": "7-24",
+    "title": "把枕巾盖到枕头上",
+    "type": "article",
+    "content": "Put the pillow towel on the pillow.",
+    "lessonUrl": "/images/put-the-pillow-towel-on-the-pillow.jpg"
+  },
+  {
+    "id": "7-25",
+    "title": "一起套枕头套吧",
+    "type": "article",
+    "content": "Let's put the pillowcases on the pillows.",
+    "lessonUrl": "/images/lets-put-the-pillowcases-on-the-pillows.jpg"
+  },
+  {
+    "id": "7-26",
+    "title": "把衣服放到衣柜里",
+    "type": "article",
+    "content": "Put your clothes in the wardrobe.",
+    "lessonUrl": "/images/put-your-clothes-in-the-wardrobe.jpg"
+  },
+  {
+    "id": "7-27",
+    "title": "轻轻关上抽屉",
+    "type": "article",
+    "content": "Close the drawer gently.",
+    "lessonUrl": "/images/close-the-drawer-gently.jpg"
+  },
+  {
+    "id": "7-28",
+    "title": "量一下身高吧",
+    "type": "article",
+    "content": "Let's see how tall you are.",
+    "lessonUrl": "/images/lets-see-how-tall-you-are.jpg"
+  },
+  {
+    "id": "7-29",
+    "title": "称一下体重吧",
+    "type": "article",
+    "content": "Let's see how much you weigh.",
+    "lessonUrl": "/images/lets-see-how-much-you-weigh.jpg"
+  },
+  {
+    "id": "7-30",
+    "title": "你又长高了一点",
+    "type": "article",
+    "content": "You've grown a little taller.",
+    "lessonUrl": "/images/youve-grown-a-little-taller.jpg"
+  }
+]

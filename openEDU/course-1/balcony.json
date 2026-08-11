@@ -1,0 +1,107 @@
+[
+  {
+    "id": "3-13",
+    "title": "帮妈妈收一下垃圾",
+    "type": "article",
+    "content": "Help mom get the trash, please.",
+    "lessonUrl": "/images/help-mom-get-the-trash-please.jpg"
+  },
+  {
+    "id": "3-14",
+    "title": "我们去扔垃圾",
+    "type": "article",
+    "content": "Let's take out the trash.",
+    "lessonUrl": "/images/lets-take-out-the-trash.jpg"
+  },
+  {
+    "id": "3-15",
+    "title": "给植物浇点水",
+    "type": "article",
+    "content": "Let's water the plants.",
+    "lessonUrl": "/images/lets-water-the-plants.jpg"
+  },
+  {
+    "id": "3-01",
+    "title": "不要爬护栏",
+    "type": "article",
+    "content": "Don't climb on the railing.",
+    "lessonUrl": "/images/dont-climb-on-the-railing.jpg"
+  },
+  {
+    "id": "3-02",
+    "title": "你会掉下去的",
+    "type": "article",
+    "content": "You're going to fall.",
+    "lessonUrl": "/images/youre-going-to-fall.jpg"
+  },
+  {
+    "id": "3-03",
+    "title": "离窗户远一点",
+    "type": "article",
+    "content": "Stay away from the window.",
+    "lessonUrl": "/images/stay-away-from-the-window.jpg"
+  },
+  {
+    "id": "3-04",
+    "title": "不要把头探到窗户外面",
+    "type": "article",
+    "content": "Don't stick your head out the window.",
+    "lessonUrl": "/images/dont-stick-your-head-out-the-window.jpg"
+  },
+  {
+    "id": "3-05",
+    "title": "你可以和妈妈一起晾衣服吗",
+    "type": "article",
+    "content": "Can you hang the laundry with mom?",
+    "lessonUrl": "/images/can-you-hang-the-laundry-with-mom.jpg"
+  },
+  {
+    "id": "3-06",
+    "title": "你可以帮我递一下衣架吗",
+    "type": "article",
+    "content": "Can you pass me the hanger, please?",
+    "lessonUrl": "/images/can-you-pass-me-the-hanger-please.jpg"
+  },
+  {
+    "id": "3-07",
+    "title": "请把衣服挂在衣架上",
+    "type": "article",
+    "content": "Hang the clothes on the hangers, please.",
+    "lessonUrl": "/images/hang-the-clothes-on-the-hangers-please.jpg"
+  },
+  {
+    "id": "3-08",
+    "title": "把袜子用夹子夹起来",
+    "type": "article",
+    "content": "Clip the socks together.",
+    "lessonUrl": "/images/clip-the-socks-together.jpg"
+  },
+  {
+    "id": "3-09",
+    "title": "衣服干了我们去收衣服吧",
+    "type": "article",
+    "content": "The clothes are dry. Let's go and get them.",
+    "lessonUrl": "/images/the-clothes-are-dry-lets-go-and-get-them.jpg"
+  },
+  {
+    "id": "3-10",
+    "title": "请把扫把放好",
+    "type": "article",
+    "content": "Put the broom away, please.",
+    "lessonUrl": "/images/put-the-broom-away-please.jpg"
+  },
+  {
+    "id": "3-11",
+    "title": "你可以拿个新的垃圾袋过来吗",
+    "type": "article",
+    "content": "Can you get a new trash bag, please?",
+    "lessonUrl": "/images/can-you-get-a-new-trash-bag-please.jpg"
+  },
+  {
+    "id": "3-12",
+    "title": "把垃圾袋打开套在垃圾桶上",
+    "type": "article",
+    "content": "Open the trash bag and put it in the trash can.",
+    "lessonUrl": "/images/open-the-trash-bag-and-put-it-in-the-trash-can.jpg"
+  }
+]
