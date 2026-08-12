@@ -1,40 +1,37 @@
 [
   {
-    "id": "l14",
-    "title": "4.1 项目需求分析",
-    "type": "article",
-    "lessonUrl": "/articles/todo-analysis",
-    "content": "我们将构建一个完整的 Todo 应用，包含增删改查、筛选、本地持久化等功能..."
+    "id": "4-1",
+    "title": "",
+    "type": "audio",
+    "lessonUrl": "",
+    "content":""
   },
   {
-    "id": "l15",
-    "title": "4.2 搭建项目框架",
-    "type": "video",
-    "lessonUrl": "https://example.com/videos/todo-setup.mp4"
+    "id": "4-2",
+    "title": "",
+    "type": "audio",
+    "lessonUrl": "",
+    "content":""
   },
   {
-    "id": "l16",
-    "title": "4.3 实现 CRUD 功能",
-    "type": "video",
-    "lessonUrl": "https://example.com/videos/todo-crud.mp4"
+    "id": "4-3",
+    "title": "",
+    "type": "audio",
+    "lessonUrl": "",
+    "content":""
   },
   {
-    "id": "l17",
-    "title": "4.4 添加筛选与排序",
-    "type": "video",
-    "lessonUrl": "https://example.com/videos/todo-filter.mp4"
+    "id": "4-4",
+    "title": "",
+    "type": "audio",
+    "lessonUrl": "",
+    "content": ""
   },
   {
-    "id": "l18",
-    "title": "4.5 本地存储持久化",
-    "type": "video",
-    "lessonUrl": "https://example.com/videos/todo-storage.mp4"
-  },
-  {
-    "id": "l19",
-    "title": "4.6 项目总结与扩展思路",
-    "type": "article",
-    "lessonUrl": "/articles/todo-summary",
-    "content": "恭喜完成项目！可以尝试的扩展方向：添加拖拽排序、接入后端 API、添加用户认证..."
+    "id": "4-5",
+    "title": "",
+    "type": "audio",
+    "lessonUrl": "",
+    "content": ""
   }
 ]
