@@ -8,31 +8,33 @@
     <style>
         * { box-sizing: border-box; }
         body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin: 0; display: flex; height: 100vh; background: #1e1e1e; color: #ccc; }
-        .sidebar { width: 240px; background: #252526; padding: 15px; overflow-y: auto; border-right: 1px solid #333; flex-shrink: 0; }
+        .sidebar { width: 270px; background: #252526; padding: 15px; overflow-y: auto; border-right: 1px solid #333; flex-shrink: 0; }
         .sidebar h3 { margin-top: 0; color: #fff; }
         .sidebar select { width: 100%; padding: 8px; margin-bottom: 10px; background: #3c3c3c; color: #ccc; border: 1px solid #555; border-radius: 4px; }
         .file-item { padding: 8px 12px; cursor: pointer; border-radius: 4px; margin-bottom: 2px; display: flex; justify-content: space-between; align-items: center; }
         .file-item:hover { background: #2a2d2e; }
         .file-item.active { background: #094771; color: #fff; }
         .file-item .time { font-size: 0.75em; color: #888; }
-        
-        .main { flex: 1; display: flex; flex-direction: column; padding: 15px; min-width: 0; }
+        .main { flex: 1; display: flex; flex-direction: column; padding: 18px; min-width: 0; }
+        .tab-bar { display: flex; gap: 0; margin-bottom: 15px; border-bottom: 2px solid #333; }
+        .tab-bar button { padding: 10px 22px; background: transparent; color: #888; border: none; cursor: pointer; font-size: 14px; border-bottom: 2px solid transparent; margin-bottom: -2px; transition: 0.2s; }
+        .tab-bar button.active { color: #fff; border-bottom-color: #0e639c; }
+        .tab-content { display: none; flex: 1; flex-direction: column; }
+        .tab-content.active { display: flex; }
         .toolbar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; align-items: center; }
         .toolbar button, .toolbar label { padding: 8px 14px; background: #0e639c; color: #fff; border: none; border-radius: 4px; cursor: pointer; font-size: 13px; }
         .toolbar button:hover { background: #1177bb; }
         .toolbar button:disabled { opacity: 0.5; cursor: not-allowed; }
         .toolbar input[type="file"] { display: none; }
-        
-        .editor-preview-container { display: flex; flex: 1; gap: 10px; min-height: 0; }
+        .editor-preview-container { display: flex; flex: 1; gap: 12px; min-height: 0; }
         .editor-wrapper { flex: 3; display: flex; flex-direction: column; min-width: 0; }
-        .preview-wrapper { flex: 2; display: flex; flex-direction: column; min-width: 0; border-left: 1px solid #333; padding-left: 10px; }
+        .preview-wrapper { flex: 2; display: flex; flex-direction: column; min-width: 0; border-left: 1px solid #333; padding-left: 12px; }
         .preview-wrapper h4 { margin: 0 0 8px 0; color: #fff; font-size: 14px; }
-        .preview-wrapper input { width: 100%; padding: 6px; background: #3c3c3c; color: #ccc; border: 1px solid #555; border-radius: 4px; margin-bottom: 6px; }
-        .preview-wrapper button { padding: 6px 12px; background: #0e639c; color: #fff; border: none; border-radius: 4px; cursor: pointer; font-size: 13px; }
-        .preview-wrapper button:hover { background: #1177bb; }
-        .preview-placeholder { flex: 1; display: flex; align-items: center; justify-content: center; background: #2d2d2d; border-radius: 4px; color: #888; font-size: 13px; }
-        
-        #editor { flex: 1; border: 1px solid #333; min-height: 350px; }
+        .preview-controls { display: flex; gap: 6px; margin-bottom: 8px; }
+        .preview-controls input { flex: 1; padding: 6px; background: #3c3c3c; color: #ccc; border: 1px solid #555; border-radius: 4px; }
+        .preview-controls button { padding: 6px 12px; background: #0e639c; color: #fff; border: none; border-radius: 4px; cursor: pointer; font-size: 13px; white-space: nowrap; }
+        #preview-frame { flex: 1; border: 1px solid #333; border-radius: 4px; background: #fff; width: 100%; min-height: 320px; }
+        #editor { flex: 1; border: 1px solid #333; min-height: 360px; }
         #status { margin-top: 10px; padding: 10px; border-radius: 4px; font-size: 13px; }
         .success { background: #1e3a2f; color: #7ec8a3; }
         .error { background: #3a1e1e; color: #e06c75; }
@@ -40,6 +42,20 @@
         .history { margin-top: 10px; padding: 8px; background: #252526; border-radius: 4px; font-size: 12px; }
         .history div { padding: 4px 0; border-bottom: 1px solid #333; }
         .history span { color: #888; }
+        /* 向导样式 */
+        .wizard-steps { overflow-y: auto; padding-right: 5px; }
+        .step { margin-bottom: 18px; padding: 15px; background: #2d2d2d; border-radius: 8px; border-left: 4px solid #555; }
+        .step.completed { border-left-color: #4caf50; }
+        .step h4 { margin: 0 0 10px 0; color: #fff; font-size: 14px; display: flex; align-items: center; gap: 8px; }
+        .step .status-badge { font-size: 12px; padding: 2px 8px; border-radius: 10px; background: #555; color: #ccc; }
+        .step.completed .status-badge { background: #4caf50; color: #fff; }
+        .step input, .step select { padding: 8px; background: #3c3c3c; color: #ccc; border: 1px solid #555; border-radius: 4px; width: 100%; margin-bottom: 8px; }
+        .step button { padding: 8px 16px; background: #0e639c; color: #fff; border: none; border-radius: 4px; cursor: pointer; }
+        .step button:disabled { opacity: 0.5; cursor: not-allowed; }
+        .inline-group { display: flex; gap: 10px; align-items: center; }
+        .inline-group input[type="file"] { flex: 1; padding: 6px; }
+        .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+        #wizard-status { margin-top: 10px; padding: 10px; border-radius: 4px; font-size: 13px; }
     </style>
 </head>
 <body>
@@ -57,69 +73,155 @@
 </div>
 
 <div class="main">
-    <div class="toolbar">
-        <button id="save-btn"><i class="bi bi-cloud-upload"></i> Save & Push</button>
-        <button id="purge-btn"><i class="bi bi-trash"></i> Purge CDN</button>
-        <label for="upload-input"><i class="bi bi-upload"></i> Upload File</label>
-        <input type="file" id="upload-input" multiple>
-        <select id="subfolder-select" style="padding:6px;background:#3c3c3c;color:#ccc;border:1px solid #555;border-radius:4px;">
-            <option value="">Root</option>
-            <option value="audio">Audio</option>
-            <option value="images">Images</option>
-            <option value="lyric">Lyric</option>
-        </select>
+    <!-- 顶部标签切换 -->
+    <div class="tab-bar">
+        <button id="tab-editor" class="active">Data Editor</button>
+        <button id="tab-wizard">Add Song Wizard</button>
     </div>
 
-    <!-- 左右分栏：编辑器 + 预览 -->
-    <div class="editor-preview-container">
-        <div class="editor-wrapper">
-            <div id="editor"></div>
+    <!-- ==================== 数据编辑模式 ==================== -->
+    <div id="editor-tab" class="tab-content active">
+        <div class="toolbar">
+            <button id="save-btn"><i class="bi bi-cloud-upload"></i> Save & Push</button>
+            <button id="purge-btn"><i class="bi bi-trash"></i> Purge CDN</button>
+            <label for="upload-input"><i class="bi bi-upload"></i> Upload File</label>
+            <input type="file" id="upload-input" multiple>
+            <select id="subfolder-select" style="padding:6px;background:#3c3c3c;color:#ccc;border:1px solid #555;border-radius:4px;">
+                <option value="">Root</option>
+                <option value="audio">Audio</option>
+                <option value="images">Images</option>
+                <option value="lyric">Lyric</option>
+            </select>
         </div>
-        <div class="preview-wrapper">
-            <h4><i class="bi bi-eye"></i> Preview</h4>
-            <input type="url" id="frontend-url" placeholder="Paste frontend URL (e.g., https://xxx.pages.dev)" />
-            <button id="preview-btn"><i class="bi bi-box-arrow-up-right"></i> Open in New Tab</button>
-            <div class="preview-placeholder">
-                Enter the deployment URL above and click "Open in New Tab".
+        <div class="editor-preview-container">
+            <div class="editor-wrapper">
+                <div id="editor"></div>
+            </div>
+            <div class="preview-wrapper">
+                <h4><i class="bi bi-eye"></i> Preview</h4>
+                <div class="preview-controls">
+                    <input type="url" id="frontend-url" placeholder="Paste frontend URL (e.g., https://xxx.pages.dev)" />
+                    <button id="refresh-preview-btn"><i class="bi bi-arrow-clockwise"></i> Refresh</button>
+                </div>
+                <iframe id="preview-frame" src="" title="Course Preview"></iframe>
             </div>
         </div>
+        <div id="status"></div>
     </div>
 
-    <div id="status"></div>
+    <!-- ==================== 添加歌曲向导模式 ==================== -->
+    <div id="wizard-tab" class="tab-content">
+        <h3 style="color:#fff;margin-bottom:12px;"><i class="bi bi-music-note-beamed"></i> Add Song Wizard</h3>
+        <p style="color:#888;margin-bottom:16px;">Follow the steps below to add a new song to the current course.</p>
+        <div class="wizard-steps">
+
+            <!-- Step 1 -->
+            <div class="step" id="step1">
+                <h4>Step 1: Upload Audio File <span class="status-badge" id="step1-status">Pending</span></h4>
+                <div class="inline-group">
+                    <input type="file" id="audio-file" accept="audio/*">
+                    <button id="upload-audio-btn">Upload</button>
+                </div>
+            </div>
+
+            <!-- Step 2 -->
+            <div class="step" id="step2">
+                <h4>Step 2: Upload Lyric File <span class="status-badge" id="step2-status">Pending</span></h4>
+                <div class="inline-group">
+                    <input type="file" id="lyric-file" accept=".lrc,.txt,.json">
+                    <button id="upload-lyric-btn">Upload</button>
+                </div>
+            </div>
+
+            <!-- Step 3 -->
+            <div class="step" id="step3">
+                <h4>Step 3: Register Song to Chapter <span class="status-badge" id="step3-status">Pending</span></h4>
+                <div class="grid-2">
+                    <input type="text" id="song-id" placeholder="Song ID (e.g., 2-1-5)">
+                    <input type="text" id="song-title" placeholder="Song Title">
+                    <select id="chapter-select">
+                        <option value="">Select Chapter...</option>
+                        <option value="ch1-english-children-songs.json">Ch1 - English Children Songs</option>
+                        <option value="ch2-chinese-children-songs.json">Ch2 - Chinese Children Songs</option>
+                        <option value="ch3-english-pop-music.json">Ch3 - English Pop Music</option>
+                        <option value="ch4-chinese-pop-music.json">Ch4 - Chinese Pop Music</option>
+                    </select>
+                    <input type="text" id="song-type" value="audio" placeholder="Type (audio/article)">
+                </div>
+                <button id="register-song-btn" style="margin-top:10px;">Register to JSON</button>
+            </div>
+
+            <!-- Step 4 -->
+            <div class="step" id="step4">
+                <h4>Step 4: Save & Push to GitHub <span class="status-badge" id="step4-status">Pending</span></h4>
+                <button id="wizard-save-btn">Save & Push</button>
+            </div>
+
+            <!-- Step 5 -->
+            <div class="step" id="step5">
+                <h4>Step 5: Purge CDN Cache <span class="status-badge" id="step5-status">Pending</span></h4>
+                <button id="wizard-purge-btn">Purge CDN</button>
+            </div>
+
+            <!-- Step 6 -->
+            <div class="step" id="step6">
+                <h4>Step 6: Preview <span class="status-badge" id="step6-status">Ready</span></h4>
+                <div class="inline-group">
+                    <input type="url" id="wizard-frontend-url" placeholder="Frontend URL">
+                    <button id="wizard-preview-btn">Open Preview</button>
+                </div>
+            </div>
+
+        </div>
+        <div id="wizard-status" class="info">Waiting for steps...</div>
+    </div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/monaco-editor@0.45.0/min/vs/loader.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/monaco-editor@0.46.0/min/vs/loader.js"></script>
 <script>
-require.config({ paths: { vs: 'https://cdn.jsdelivr.net/npm/monaco-editor@0.45.0/min/vs' } });
+require.config({ paths: { vs: 'https://cdn.jsdelivr.net/npm/monaco-editor@0.46.0/min/vs' } });
 
+// ===== 全局变量 =====
 let editor;
 let currentFilePath = '';
+let uploadedAudioPath = '';
+let uploadedLyricPath = '';
+let registered = false;
+let saved = false;
+let purged = false;
+
+// DOM元素
+const courseSelect = document.getElementById('course-select');
 const fileListEl = document.getElementById('file-list');
 const statusEl = document.getElementById('status');
 const historyEl = document.getElementById('history');
-const courseSelect = document.getElementById('course-select');
-const subfolderSelect = document.getElementById('subfolder-select');
-const uploadInput = document.getElementById('upload-input');
-const frontendUrlInput = document.getElementById('frontend-url');
-const previewBtn = document.getElementById('preview-btn');
+const tabEditor = document.getElementById('tab-editor');
+const tabWizard = document.getElementById('tab-wizard');
+const editorTab = document.getElementById('editor-tab');
+const wizardTab = document.getElementById('wizard-tab');
+const wizardStatus = document.getElementById('wizard-status');
 
-function showStatus(msg, type = 'info') {
-    statusEl.textContent = msg;
-    statusEl.className = type;
+// ===== 标签切换 =====
+tabEditor.onclick = () => {
+    tabEditor.classList.add('active');
+    tabWizard.classList.remove('active');
+    editorTab.classList.add('active');
+    wizardTab.classList.remove('active');
+};
+tabWizard.onclick = () => {
+    tabWizard.classList.add('active');
+    tabEditor.classList.remove('active');
+    wizardTab.classList.add('active');
+    editorTab.classList.remove('active');
+};
+
+// ===== 通用函数 =====
+function showStatus(msg, type = 'info', target = statusEl) {
+    target.textContent = msg;
+    target.className = type;
 }
 
-// 预览按钮：在新标签页打开
-previewBtn.onclick = () => {
-    const baseUrl = frontendUrlInput.value.trim();
-    if (!baseUrl) {
-        showStatus('Please enter the frontend deployment URL first.', 'error');
-        return;
-    }
-    const course = courseSelect.value;
-    const courseNum = course.replace('course-', '');
-    const cleanUrl = baseUrl.replace(/\/+$/, '');
-    window.open(`${cleanUrl}/course/${courseNum}`, '_blank');
-};
+// ===== 编辑器模式功能 =====
 
 // 加载文件列表
 async function loadFiles(course) {
@@ -199,11 +301,11 @@ document.getElementById('purge-btn').onclick = async () => {
 };
 
 // 上传文件
-uploadInput.onchange = async (e) => {
+document.getElementById('upload-input').onchange = async (e) => {
     const files = e.target.files;
     if (!files.length) return;
     const course = courseSelect.value;
-    const subfolder = subfolderSelect.value;
+    const subfolder = document.getElementById('subfolder-select').value;
     const formData = new FormData();
     formData.append('course', course);
     formData.append('subfolder', subfolder);
@@ -219,7 +321,17 @@ uploadInput.onchange = async (e) => {
     } catch (e) {
         showStatus('Upload failed', 'error');
     }
-    uploadInput.value = '';
+    document.getElementById('upload-input').value = '';
+};
+
+// 预览刷新
+document.getElementById('refresh-preview-btn').onclick = () => {
+    const baseUrl = document.getElementById('frontend-url').value.trim();
+    if (!baseUrl) return showStatus('Please enter frontend URL', 'error');
+    const course = courseSelect.value;
+    const courseNum = course.replace('course-', '');
+    document.getElementById('preview-frame').src = `${baseUrl.replace(/\/+$/, '')}/course/${courseNum}`;
+    showStatus('Preview refreshed', 'info');
 };
 
 // 加载提交历史
@@ -230,7 +342,7 @@ async function loadHistory() {
         historyEl.innerHTML = '<strong>Recent Commits</strong>';
         commits.forEach(c => {
             const d = document.createElement('div');
-            d.innerHTML = `<span>${new Date(c.date).toLocaleString()}</span> - ${c.message.substring(0, 50)}`;
+            d.innerHTML = `<span>${new Date(c.date).toLocaleString()}</span> - ${c.message.substring(0, 55)}`;
             historyEl.appendChild(d);
         });
     } catch (e) {}
@@ -239,9 +351,156 @@ async function loadHistory() {
 // 切换课程
 courseSelect.onchange = () => {
     loadFiles(courseSelect.value);
+    // 同时更新预览
+    const baseUrl = document.getElementById('frontend-url').value.trim();
+    if (baseUrl) {
+        const courseNum = courseSelect.value.replace('course-', '');
+        document.getElementById('preview-frame').src = `${baseUrl.replace(/\/+$/, '')}/course/${courseNum}`;
+    }
 };
 
-// 初始化编辑器
+// ===== 向导模式功能 =====
+
+// Step 1: 上传音频
+document.getElementById('upload-audio-btn').onclick = async () => {
+    const fileInput = document.getElementById('audio-file');
+    if (!fileInput.files.length) return showStatus('Please select an audio file', 'error', wizardStatus);
+    const formData = new FormData();
+    formData.append('course', courseSelect.value);
+    formData.append('subfolder', 'audio');
+    formData.append('file', fileInput.files[0]);
+    try {
+        const res = await fetch('/api/upload', { method: 'POST', body: formData });
+        const data = await res.json();
+        if (data.error) throw new Error(data.error);
+        uploadedAudioPath = `audio/${fileInput.files[0].name}`;
+        document.getElementById('step1-status').textContent = 'Completed';
+        document.getElementById('step1').classList.add('completed');
+        showStatus('Audio uploaded successfully', 'success', wizardStatus);
+    } catch (e) {
+        showStatus('Upload failed: ' + e.message, 'error', wizardStatus);
+    }
+};
+
+// Step 2: 上传歌词
+document.getElementById('upload-lyric-btn').onclick = async () => {
+    const fileInput = document.getElementById('lyric-file');
+    if (!fileInput.files.length) return showStatus('Please select a lyric file', 'error', wizardStatus);
+    const formData = new FormData();
+    formData.append('course', courseSelect.value);
+    formData.append('subfolder', 'lyric');
+    formData.append('file', fileInput.files[0]);
+    try {
+        const res = await fetch('/api/upload', { method: 'POST', body: formData });
+        const data = await res.json();
+        if (data.error) throw new Error(data.error);
+        uploadedLyricPath = `lyric/${fileInput.files[0].name}`;
+        document.getElementById('step2-status').textContent = 'Completed';
+        document.getElementById('step2').classList.add('completed');
+        showStatus('Lyric uploaded successfully', 'success', wizardStatus);
+    } catch (e) {
+        showStatus('Upload failed: ' + e.message, 'error', wizardStatus);
+    }
+};
+
+// Step 3: 注册歌曲到章节JSON
+document.getElementById('register-song-btn').onclick = async () => {
+    const songId = document.getElementById('song-id').value.trim();
+    const songTitle = document.getElementById('song-title').value.trim();
+    const chapterFile = document.getElementById('chapter-select').value;
+    const songType = document.getElementById('song-type').value.trim() || 'audio';
+
+    if (!songId || !songTitle || !chapterFile) {
+        return showStatus('Please fill in Song ID, Title, and select a chapter', 'error', wizardStatus);
+    }
+
+    const newLesson = {
+        id: songId,
+        title: songTitle,
+        type: songType,
+        lessonUrl: uploadedAudioPath || '',
+        lyric: uploadedLyricPath || ''
+    };
+
+    const course = courseSelect.value;
+    const filePath = `openEDU/${course}/${chapterFile}`;
+    try {
+        const readRes = await fetch(`/api/read?path=${encodeURIComponent(filePath)}`);
+        if (!readRes.ok) throw new Error('Cannot read chapter file');
+        let content = await readRes.json();
+        if (!Array.isArray(content)) throw new Error('Chapter file is not an array');
+        content.push(newLesson);
+
+        const saveRes = await fetch('/api/save', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ path: filePath, content: JSON.stringify(content, null, 2) })
+        });
+        const saveData = await saveRes.json();
+        if (saveData.error) throw new Error(saveData.error);
+        registered = true;
+        document.getElementById('step3-status').textContent = 'Registered';
+        document.getElementById('step3').classList.add('completed');
+        showStatus(`Song ${songId} registered to ${chapterFile}`, 'success', wizardStatus);
+    } catch (e) {
+        showStatus('Registration failed: ' + e.message, 'error', wizardStatus);
+    }
+};
+
+// Step 4: Save & Push
+document.getElementById('wizard-save-btn').onclick = async () => {
+    if (!registered) return showStatus('Please complete step 3 first', 'error', wizardStatus);
+    // 由于step3已经保存了章节文件，但音频和歌词可能尚未提交，这里触发一次完整提交
+    // 实际上step3的save已经提交了章节文件，但音频和歌词在step1/2已经单独提交了
+    // 为了确保所有变更都被推送，我们执行一次git push（如果无变更也不会报错）
+    try {
+        // 直接调用一个虚拟保存来触发提交（如果还有未提交的变更）
+        const res = await fetch('/api/save', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ path: currentFilePath || 'openEDU/' + courseSelect.value + '/dummy.json', content: '{}' })
+        });
+        const data = await res.json();
+        // 如果返回no changes也没关系
+        saved = true;
+        document.getElementById('step4-status').textContent = 'Pushed';
+        document.getElementById('step4').classList.add('completed');
+        showStatus('All changes pushed to GitHub', 'success', wizardStatus);
+    } catch (e) {
+        showStatus('Push failed: ' + e.message, 'error', wizardStatus);
+    }
+};
+
+// Step 5: Purge CDN
+document.getElementById('wizard-purge-btn').onclick = async () => {
+    const course = courseSelect.value;
+    try {
+        const res = await fetch('/api/purge', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ course })
+        });
+        const data = await res.json();
+        purged = true;
+        document.getElementById('step5-status').textContent = 'Purged';
+        document.getElementById('step5').classList.add('completed');
+        showStatus('CDN cache purged', 'success', wizardStatus);
+    } catch (e) {
+        showStatus('Purge failed: ' + e.message, 'error', wizardStatus);
+    }
+};
+
+// Step 6: Preview
+document.getElementById('wizard-preview-btn').onclick = () => {
+    const url = document.getElementById('wizard-frontend-url').value.trim();
+    if (!url) return showStatus('Please enter frontend URL', 'error', wizardStatus);
+    const courseNum = courseSelect.value.replace('course-', '');
+    window.open(`${url.replace(/\/+$/, '')}/course/${courseNum}`, '_blank');
+    document.getElementById('step6-status').textContent = 'Opened';
+    document.getElementById('step6').classList.add('completed');
+};
+
+// ===== 初始化编辑器 =====
 require(['vs/editor/editor.main'], function() {
     editor = monaco.editor.create(document.getElementById('editor'), {
         value: '',

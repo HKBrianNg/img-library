@@ -108,7 +108,7 @@ app.post('/api/save', async (req, res) => {
   }
 });
 
-// 4. 上传文件（音频/图片）
+// 4. 上传文件（音频/图片/歌词）
 app.post('/api/upload', upload.single('file'), async (req, res) => {
   if (!req.file) return res.status(400).send('No file uploaded');
 
@@ -156,6 +156,58 @@ app.get('/api/history', async (req, res) => {
     const log = await git.log({ maxCount: 3 });
     res.json(log.all.map(c => ({ date: c.date, message: c.message, hash: c.hash })));
   } catch (e) {
+    res.status(500).json({ error: e.message });
+  }
+});
+
+// 7. 添加歌曲专用API：上传音频+歌词+更新章节JSON（一次性完成）
+app.post('/api/add-song', upload.fields([
+  { name: 'audio', maxCount: 1 },
+  { name: 'lyric', maxCount: 1 }
+]), async (req, res) => {
+  try {
+    const { course, chapterFile, songId, songTitle, songType } = req.body;
+    const audioFile = req.files['audio'] ? req.files['audio'][0] : null;
+    const lyricFile = req.files['lyric'] ? req.files['lyric'][0] : null;
+
+    // 1. 读取章节JSON文件
+    const chapterPath = path.join(openeduDir, course, chapterFile);
+    if (!fs.existsSync(chapterPath)) {
+      return res.status(404).json({ error: `Chapter file not found: ${chapterFile}` });
+    }
+    const chapterData = JSON.parse(fs.readFileSync(chapterPath, 'utf8'));
+
+    // 2. 构造新歌曲对象
+    const newSong = {
+      id: songId,
+      title: songTitle,
+      type: songType || 'audio',
+      lessonUrl: audioFile ? `audio/${audioFile.originalname}` : '',
+      lyric: lyricFile ? `lyric/${lyricFile.originalname}` : ''
+    };
+
+    // 3. 追加到章节JSON的lessons数组
+    if (!Array.isArray(chapterData)) {
+      return res.status(400).json({ error: 'Chapter file must be an array of lessons' });
+    }
+    chapterData.push(newSong);
+
+    // 4. 写回文件
+    fs.writeFileSync(chapterPath, JSON.stringify(chapterData, null, 2), 'utf8');
+
+    // 5. Git提交所有变更
+    const filesToAdd = [chapterPath];
+    if (audioFile) filesToAdd.push(audioFile.path);
+    if (lyricFile) filesToAdd.push(lyricFile.path);
+    for (const f of filesToAdd) {
+      await git.add(path.relative(repoRoot, f));
+    }
+    await git.commit(`Admin: Add song ${songId} to ${chapterFile}`);
+    await git.push('origin', 'main');
+
+    res.json({ message: `Song ${songTitle} added successfully!` });
+  } catch (e) {
+    console.error(e);
     res.status(500).json({ error: e.message });
   }
 });
