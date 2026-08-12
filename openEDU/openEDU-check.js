@@ -162,8 +162,8 @@ function printFileSummary(filePath, result, isMeta = false) {
         console.log(`         └─ content: ${preview}`);
       }
     });
-    if (data.length > 3) {
-      console.log(`         ... 还有 ${data.length - 3} 个课时`);
+    if (data.length > 10) {
+      console.log(`         ... 还有 ${data.length - 10} 个课时`);
     }
   } else {
     // 其他 JSON 对象（如 course-1 中的单个场景文件）
