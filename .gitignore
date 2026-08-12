@@ -1,0 +1,51 @@
+# Node.js 依赖
+node_modules/
+
+# 环境变量文件（包含敏感信息）
+.env
+.env.local
+.env.*.local
+
+# 构建输出
+dist/
+build/
+out/
+
+# IDE 和编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS 系统文件
+.DS_Store
+
+# 日志
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 测试覆盖率
+coverage/
+
+# 临时文件
+tmp/
+temp/
+
+# 特定于 admin 管理后台
+admin/node_modules/
+
+# 特定于 client 前端
+client/node_modules/
+client/dist/
+
+# 如果你使用 pnpm
+pnpm-lock.yaml
+
+# 如果你使用 yarn
+yarn.lock
+
+# 可选：锁定文件（通常应跟踪，但如果你不希望可以取消注释）
+# package-lock.json
