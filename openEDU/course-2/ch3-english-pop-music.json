@@ -15,16 +15,65 @@
   },
   {
     "id": "3-3",
-    "title": "",
+    "title": "Hello",
     "type": "audio",
-    "lessonUrl": "",
-    "content": ""
+    "lessonUrl": "/audio/hello.mp3",
+    "content": "/lyric/hello.lrc"
   },
   {
     "id": "3-4",
+    "title": "How Deep Is Your Love",
+    "type": "audio",
+    "lessonUrl": "/audio/how-deep-is-your-love.mp3",
+    "content": "/lyric/how-deep-is-your-love.lrc"
+  },
+  {
+    "id": "3-5",
+    "title": "Let It Be",
+    "type": "audio",
+    "lessonUrl": "/audio/let-it-be.mp3",
+    "content": "/lyric/let-it-be.lrc"
+  },
+  {
+    "id": "3-6",
+    "title": "Stayin Alive",
+    "type": "audio",
+    "lessonUrl": "/audio/stayin-alive.mp3",
+    "content": "/lyric/stayin-alive.lrc"
+  },
+  {
+    "id": "3-7",
+    "title": "To Love Somebody",
+    "type": "audio",
+    "lessonUrl": "/audio/to-love-somebody.mp3",
+    "content": "/lyric/to-love-somebody.lrc"
+  },
+  {
+    "id": "3-8",
+    "title": "We've Only Just Begun",
+    "type": "audio",
+    "lessonUrl": "/audio/we've-only-just-begun.mp3",
+    "content": "/lyric/we've-only-just-begun.lrc"
+  },
+  {
+    "id": "3-9",
+    "title": "Yesterday Once More",
+    "type": "audio",
+    "lessonUrl": "/audio/yesterday-once-more.mp3",
+    "content": "/lyric/yesterday-once-more.lrc"
+  },
+  {
+    "id": "3-10",
+    "title": "Yesterday",
+    "type": "audio",
+    "lessonUrl": "/audio/yesterday.mp3",
+    "content": "/lyric/yesterday.lrc"
+  },
+  {
+    "id": "3-11",
     "title": "",
     "type": "audio",
-    "lessonUrl": "",
-    "content": ""
+    "lessonUrl": "/audio/",
+    "content": "/lyric/"
   }
 ]

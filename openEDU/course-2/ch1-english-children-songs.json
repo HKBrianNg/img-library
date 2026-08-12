@@ -27,11 +27,60 @@
     "lessonUrl": "/audio/rain-rain-go-away.mp3",
     "content": "/lyric/rain-rain-go-away.lrc"
   },
-    {
+  {
     "id": "1-5",
     "title": "Hello How are you",
     "type": "audio",
     "lessonUrl": "/audio/hello-hello-how-are-you.mp3",
     "content":"/lyric/hello-hello-how-are-you.lrc"
+  },
+  {
+    "id": "1-6",
+    "title": "Don't Judge Me",
+    "type": "audio",
+    "lessonUrl": "/audio/don't-judge-me.mp3",
+    "content":"/lyric/don't-judge-me.lrc"
+  },
+  {
+    "id": "1-7",
+    "title": "Let It Go",
+    "type": "audio",
+    "lessonUrl": "/audio/let-it-go.mp3",
+    "content":"/lyric/let-it-go.lrc"
+  },
+  {
+    "id": "1-8",
+    "title": "Row Row Row Your Boat",
+    "type": "audio",
+    "lessonUrl": "/audio/row-row-row-your-boat.mp3",
+    "content":"/lyric/row-row-row-your-boat.lrc"
+  },
+  {
+    "id": "1-9",
+    "title": "Twinkle Star",
+    "type": "audio",
+    "lessonUrl": "/audio/twinkle-star.mp3",
+    "content":"/lyric/twinkle-star.lrc"
+  },
+  {
+    "id": "1-10",
+    "title": "Wheels On The Bus",
+    "type": "audio",
+    "lessonUrl": "/audio/wheels-on-the-bus.mp3",
+    "content":"/lyric/wheels-on-the-bus.lrc"
+  },
+  {
+    "id": "1-11",
+    "title": "",
+    "type": "audio",
+    "lessonUrl": "/audio/",
+    "content":"/lyric/"
+  },
+   {
+    "id": "1-12",
+    "title": "",
+    "type": "audio",
+    "lessonUrl": "/audio/",
+    "content":"/lyric/"
   }
 ]
