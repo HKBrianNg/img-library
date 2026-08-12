@@ -8,27 +8,20 @@
   },
   {
     "id": "3-2",
-    "title": "Hello How are you",
-    "type": "audio",
-    "lessonUrl": "/audio/hello-hello-how-are-you.mp3",
-    "content":"/lyric/hello-hello-how-are-you.lrc"
-  },
-  {
-    "id": "3-3",
     "title": "Hey ",
     "type": "audio",
     "lessonUrl": "/audio/hey-jude.mp3",
     "content":"/lyric/hey-jude.lrc"
   },
   {
-    "id": "3-4",
+    "id": "3-3",
     "title": "",
     "type": "audio",
     "lessonUrl": "",
     "content": ""
   },
   {
-    "id": "3-5",
+    "id": "3-4",
     "title": "",
     "type": "audio",
     "lessonUrl": "",
