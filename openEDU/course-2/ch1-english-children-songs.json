@@ -26,5 +26,12 @@
     "type": "audio",
     "lessonUrl": "/audio/rain-rain-go-away.mp3",
     "content": "/lyric/rain-rain-go-away.lrc"
+  },
+    {
+    "id": "1-5",
+    "title": "Hello How are you",
+    "type": "audio",
+    "lessonUrl": "/audio/hello-hello-how-are-you.mp3",
+    "content":"/lyric/hello-hello-how-are-you.lrc"
   }
 ]
