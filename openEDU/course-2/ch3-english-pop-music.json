@@ -1,34 +1,37 @@
 [
   {
-    "id": "l9",
-    "title": "3.1 useState Hook 详解",
-    "type": "video",
-    "lessonUrl": "https://example.com/videos/usestate.mp4"
+    "id": "3-1",
+    "title": "emotion",
+    "type": "audio",
+    "lessonUrl": "/audio/emotion.mp3",
+    "content":"/lyric/bingo.lrc"
   },
   {
-    "id": "l10",
-    "title": "3.2 useEffect Hook 详解",
-    "type": "video",
-    "lessonUrl": "https://example.com/videos/useeffect.mp4"
+    "id": "3-2",
+    "title": "",
+    "type": "audio",
+    "lessonUrl": "",
+    "content":""
   },
   {
-    "id": "l11",
-    "title": "3.3 自定义 Hook",
-    "type": "video",
-    "lessonUrl": "https://example.com/videos/custom-hook.mp4"
+    "id": "3-3",
+    "title": "",
+    "type": "audio",
+    "lessonUrl": "",
+    "content":""
   },
   {
-    "id": "l12",
-    "title": "3.4 状态管理最佳实践",
-    "type": "article",
-    "lessonUrl": "/articles/state-management",
-    "content": "状态提升、Context 还是 Redux？选择合适的方案..."
+    "id": "3-4",
+    "title": "",
+    "type": "audio",
+    "lessonUrl": "",
+    "content": ""
   },
   {
-    "id": "l13",
-    "title": "3.5 章节综合测验",
-    "type": "quiz",
-    "lessonUrl": "/quizzes/ch3-quiz",
-    "content": "以下关于 useEffect 的说法正确的是？\nA. 每次渲染都会执行\nB. 只在挂载时执行一次\nC. 依赖项变化时执行\nD. B 和 C 都对"
+    "id": "3-5",
+    "title": "",
+    "type": "audio",
+    "lessonUrl": "",
+    "content": ""
   }
 ]
