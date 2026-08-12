@@ -4,7 +4,13 @@
     "title": "孩子的天空",
     "type": "audio",
     "lessonUrl": "/audio/孩子的天空.mp3",
-    "content":"/lyric/孩子的天空.lrc"
+    "content": "/lyric/孩子的天空.lrc"
+  },
+  {
+    "id": "2-2",
+    "title": "勇气大爆发",
+    "type": "audio",
+    "lessonUrl": "audio/勇气大爆发.mp3",
+    "lyric": "lyric/勇气大爆发.lrc"
   }
- 
 ]
