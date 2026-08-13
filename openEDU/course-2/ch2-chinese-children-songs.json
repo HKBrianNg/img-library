@@ -10,7 +10,7 @@
     "id": "2-2",
     "title": "勇气大爆发",
     "type": "audio",
-    "lessonUrl": "audio/勇气大爆发.mp3",
-    "lyric": "lyric/勇气大爆发.lrc"
+    "lessonUrl": "/audio/勇气大爆发.mp3",
+    "content": "/lyric/勇气大爆发.lrc"
   }
 ]
