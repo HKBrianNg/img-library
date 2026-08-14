@@ -24,49 +24,49 @@
       "id": "ch1",
       "title": "Human Body",
       "order": 1,
-      "lessonsFile": "ch1-human-body.json"
+      "lessonsFile": "human-body.json"
     },
     {
       "id": "ch2",
       "title": "Animals",
       "order": 2,
-      "lessonsFile": "ch2-animals.json"
+      "lessonsFile": "animals.json"
     },
     {
       "id": "ch3",
-      "title": "Earch and Nature",
+      "title": "Earth and Nature",
       "order": 3,
-      "lessonsFile": "ch3-earth-and-nature.json"
+      "lessonsFile": "earth-and-nature.json"
     },
     {
       "id": "ch4",
       "title": "Space",
       "order": 4,
-      "lessonsFile": "ch4-space.json"
+      "lessonsFile": "space.json"
     },
     {
       "id": "ch5",
       "title": "Food",
       "order": 5,
-      "lessonsFile": "ch5-food.json"
+      "lessonsFile": "food.json"
     },
     {
       "id": "ch6",
       "title": "Plants and Water",
       "order": 6,
-      "lessonsFile": "ch6-plants-and-water.json"
+      "lessonsFile": "plants-and-water.json"
     },
     {
       "id": "ch7",
       "title": "Chemistry and Physics",
       "order": 7,
-      "lessonsFile": "ch7-chemistry-and-physics.json"
+      "lessonsFile": "chemistry-and-physics.json"
     },
     {
       "id": "ch8",
       "title": "Wired Science",
       "order": 8,
-      "lessonsFile": "ch8-wired-science.json"
+      "lessonsFile": "wired-science.json"
     }
   ]
 }
