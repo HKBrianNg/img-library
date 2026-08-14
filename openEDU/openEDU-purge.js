@@ -10,13 +10,13 @@ const COURSE_FILES = {
     'course-1/atthedoor.json',
     'course-1/balcony.json',
     'course-1/bedroom.json',
-    'course-1/course-1.json',
     'course-1/diningroom.json',
     'course-1/kiddiespeak.json',
     'course-1/kitchen.json',
     'course-1/livingroom.json',
     'course-1/playarea.json',
     'course-1/readingcorner.json',
+    'course-1/course-1.json',
   ],
   '2': [
     'course-2/ch1-english-children-songs.json',
@@ -25,6 +25,10 @@ const COURSE_FILES = {
     'course-2/ch4-chinese-pop-music.json',
     'course-2/course-2.json',
   ],
+  '3': [
+    'course-3/ch1-human-body.json',
+    'course-3/course-3.json'
+  ]
 };
 
 const args = process.argv.slice(2);
