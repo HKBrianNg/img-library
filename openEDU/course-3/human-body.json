@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1-1",
+    "title": "At The Door",
+    "type": "audio",
+    "lessonUrl": "/audio/atthedoor.mp3",
+    "content": "/lyric/atthedoor.lrc"
+  },
+  {
+    "id": "1-2",
+    "title": "",
+    "type": "audio",
+    "lessonUrl": "/audio/",
+    "content": "/lyric/"
+  }
+]
