@@ -26,14 +26,14 @@ const COURSE_FILES = {
     'course-2/course-2.json',
   ],
   '3': [
-    'course-3/ch1-human-body.json',
-    'course-3/ch2-animals.json',
-    'course-3/ch3-earth-and-nature.json',
-    'course-3/ch4-space.json',
-    'course-3/ch5-food.json',
-    'course-3/ch6-plants-and-water.json',
-    'course-3/ch7-chemistry-and-physics.json',
-    'course-3/ch8-wired-science.json',
+    'course-3/human-body.json',
+    'course-3/animals.json',
+    'course-3/earth-and-nature.json',
+    'course-3/space.json',
+    'course-3/food.json',
+    'course-3/plants-and-water.json',
+    'course-3/chemistry-and-physics.json',
+    'course-3/wired-science.json',
     'course-3/course-3.json',
   ]
 };
