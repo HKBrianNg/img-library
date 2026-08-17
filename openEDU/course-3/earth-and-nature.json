@@ -24,5 +24,57 @@
       "en": "The Earth spins like a top. When it faces the sun, it's daytime; when it turns away, it's nighttime. It's like riding a merry-go-round!"
     },
     "lessonUrl": "/images/为什么有白天和黑夜.jpg"
+  },
+  {
+    "id": "3",
+    "title": {
+      "zh": "彩虹是怎么出来的",
+      "en": "How Is a Rainbow Formed?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "雨后空气里有很多小水珠，像小镜子一样。太阳光照进去，被拆成了红橙黄绿青蓝紫七种颜色，就是彩虹！",
+      "en": "After rain, there are many tiny water droplets in the air, like little mirrors. Sunlight enters them and gets split into seven colors: red, orange, yellow, green, blue, indigo, and violet — that's a rainbow!"
+    },
+    "lessonUrl": "/images/彩虹是怎么出来的.jpg"
+  },
+  {
+    "id": "4",
+    "title": {
+      "zh": "树叶为什么会变黄变红",
+      "en": "Why Do Leaves Turn Yellow and Red?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "树叶里本来有绿色的颜料（叶绿素）。秋天冷了，绿色颜料下班了，藏在里面的黄色、红色颜料就露脸啦。",
+      "en": "Leaves naturally contain green pigment called chlorophyll. When autumn arrives and it gets colder, the green pigment takes a break, allowing the hidden yellow and red pigments to show their colors."
+    },
+    "lessonUrl": "/images/树叶为什么会变黄变红.jpg"
+  },
+  {
+    "id": "5",
+    "title": {
+      "zh": "风是怎么来的",
+      "en": "Where Does Wind Come From?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "太阳把不同地方的空气晒得不一样热。热的空气往上跑，冷的空气赶紧跑过来填满，空气跑来跑去就是风。",
+      "en": "The sun heats the air differently in different places. Hot air rises, and cool air rushes in to fill the space. This movement of air is what we call wind."
+    },
+    "lessonUrl": "/images/风是怎么来的.jpg"
+  },
+  {
+    "id": "6",
+    "title": {
+      "zh": "月亮为什么会变形状",
+      "en": "Why Does the Moon Change Shape?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "月亮本身不会发光，它反射太阳光。我们看到的月亮的形状，其实是太阳照亮的那个部分。随着月亮绕着地球转，我们看到被照亮的部分每天都不一样，所以就有了月牙、半圆、满月。",
+      "en": "The moon doesn't produce its own light; it reflects sunlight. The shape we see is actually the part lit by the sun. As the moon orbits Earth, the lit portion changes each day, creating crescent, half, and full moons."
+    },
+    "lessonUrl": "/images/月亮为什么会变形状.jpg"
   }
 ]

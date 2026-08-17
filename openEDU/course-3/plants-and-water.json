@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "title": {
+      "zh": "植物吃什么",
+      "en": "What Do Plants Eat?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "植物不用吃饭，它们吃‘阳光’、喝‘水’、吸‘空气’。在叶子里，它们用阳光做魔法，给自己造出营养，还能吐出我们需要的氧气！",
+      "en": "Plants don't eat food like we do. They 'eat' sunlight, 'drink' water, and 'breathe' air. Inside their leaves, they use sunlight like magic to make their own food, and they even produce the oxygen we need!"
+    },
+    "lessonUrl": "/images/植物吃什么.jpg"
+  },
+  {
+    "id": "2",
+    "title": {
+      "zh": "为什么向日葵跟着太阳转",
+      "en": "Why Do Sunflowers Follow the Sun?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "向日葵是个‘追光小粉丝’，它想多晒晒太阳，长得更高，所以脖子会跟着太阳转。",
+      "en": "Sunflowers are little 'sun fans.' They want to soak up more sunlight to grow taller, so their stems turn to follow the sun across the sky."
+    },
+    "lessonUrl": "/images/为什么向日葵跟着太阳转.jpg"
+  },
+  {
+    "id": "3",
+    "title": {
+      "zh": "种子是怎么发芽的",
+      "en": "How Does a Seed Sprout?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "种子像一个小宝宝，裹着厚厚的衣服（种皮）。有了水、阳光和温暖的泥土，它就会慢慢长出小小的根和芽，钻出地面变成一棵小苗。",
+      "en": "A seed is like a tiny baby wrapped in a thick coat (the seed coat). With water, sunlight, and warm soil, it slowly grows small roots and a sprout, pushing through the ground to become a little seedling."
+    },
+    "lessonUrl": "/images/种子是怎么发芽的.jpg"
+  }
+]
