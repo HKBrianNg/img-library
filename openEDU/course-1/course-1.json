@@ -22,61 +22,91 @@
   "chapters": [
     {
       "id": "ch1",
-      "title": "第一章：在家门口",
+      "title": {
+        "zh": "第一章：在家门口",
+        "en": "Chapter 1: At the Door"
+      },
       "order": 1,
       "lessonsFile": "atthedoor.json"
     },
     {
       "id": "ch2",
-      "title": "第二章：在客厅",
+      "title": {
+        "zh": "第二章：在客厅",
+        "en": "Chapter 2: In the Living Room"
+      },
       "order": 2,
       "lessonsFile": "livingroom.json"
     },
     {
       "id": "ch3",
-      "title": "第三章：在阳台",
+      "title": {
+        "zh": "第三章：在阳台",
+        "en": "Chapter 3: On the Balcony"
+      },
       "order": 3,
       "lessonsFile": "balcony.json"
     },
     {
       "id": "ch4",
-      "title": "第四章：在餐厅",
+      "title": {
+        "zh": "第四章：在餐厅",
+        "en": "Chapter 4: In the Dining Room"
+      },
       "order": 4,
       "lessonsFile": "diningroom.json"
     },
     {
       "id": "ch5",
-      "title": "第五章：在厨房",
+      "title": {
+        "zh": "第五章：在厨房",
+        "en": "Chapter 5: In the Kitchen"
+      },
       "order": 5,
       "lessonsFile": "kitchen.json"
     },
     {
       "id": "ch6",
-      "title": "第六章：在卫生间",
+      "title": {
+        "zh": "第六章：在卫生间",
+        "en": "Chapter 6: In the Bathroom"
+      },
       "order": 6,
       "lessonsFile": "bathroom.json"
     },
     {
       "id": "ch7",
-      "title": "第七章：在卧室",
+      "title": {
+        "zh": "第七章：在卧室",
+        "en": "Chapter 7: In the Bedroom"
+      },
       "order": 7,
       "lessonsFile": "bedroom.json"
     },
     {
       "id": "ch8",
-      "title": "第八章：在阅读角",
+      "title": {
+        "zh": "第八章：在阅读角",
+        "en": "Chapter 8: At the Reading Corner"
+      },
       "order": 8,
       "lessonsFile": "readingcorner.json"
     },
     {
       "id": "ch9",
-      "title": "第九章：在游戏区",
+      "title": {
+        "zh": "第九章：在游戏区",
+        "en": "Chapter 9: In the Play Area"
+      },
       "order": 9,
       "lessonsFile": "playarea.json"
     },
     {
       "id": "ch10",
-      "title": "第十章：宝宝说",
+      "title": {
+        "zh": "第十章：宝宝说",
+        "en": "Chapter 10: Baby Says"
+      },
       "order": 10,
       "lessonsFile": "kiddiespeak.json"
     }

@@ -22,25 +22,37 @@
   "chapters": [
     {
       "id": "ch1",
-      "title": "英文儿歌",
+      "title": {
+        "zh": "英文儿歌",
+        "en": "English Children's Songs"
+      },
       "order": 1,
       "lessonsFile": "ch1-english-children-songs.json"
     },
     {
       "id": "ch2",
-      "title": "中文儿歌",
+      "title": {
+        "zh": "中文儿歌",
+        "en": "Chinese Children's Songs"
+      },
       "order": 2,
       "lessonsFile": "ch2-chinese-children-songs.json"
     },
     {
       "id": "ch3",
-      "title": "英文流行音乐",
+      "title": {
+        "zh": "英文流行音乐",
+        "en": "English Pop Music"
+      },
       "order": 3,
       "lessonsFile": "ch3-english-pop-music.json"
     },
     {
       "id": "ch4",
-      "title": "中文流行音乐",
+      "title": {
+        "zh": "中文流行音乐",
+        "en": "Chinese Pop Music"
+      },
       "order": 4,
       "lessonsFile": "ch4-chinese-pop-music.json"
     }

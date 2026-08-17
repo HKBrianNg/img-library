@@ -2,11 +2,11 @@
   "id": "3",
   "title": {
     "zh": "科学小知识",
-    "en": "Science facts"
+    "en": "Science Facts"
   },
   "description": {
     "zh": "儿童趣味科学小知识",
-    "en": "Fun science facts for kids"
+    "en": "Fun Science Facts for Kids"
   },
   "coverUrl": "/images/fun-science-facts-for-kids.jpg",
   "category": {
@@ -22,49 +22,73 @@
   "chapters": [
     {
       "id": "ch1",
-      "title": "Human Body",
+      "title": {
+        "zh": "人体",
+        "en": "Human Body"
+      },
       "order": 1,
       "lessonsFile": "human-body.json"
     },
     {
       "id": "ch2",
-      "title": "Animals",
+      "title": {
+        "zh": "动物",
+        "en": "Animals"
+      },
       "order": 2,
       "lessonsFile": "animals.json"
     },
     {
       "id": "ch3",
-      "title": "Earth and Nature",
+      "title": {
+        "zh": "地球与自然",
+        "en": "Earth and Nature"
+      },
       "order": 3,
       "lessonsFile": "earth-and-nature.json"
     },
     {
       "id": "ch4",
-      "title": "Space",
+      "title": {
+        "zh": "太空",
+        "en": "Space"
+      },
       "order": 4,
       "lessonsFile": "space.json"
     },
     {
       "id": "ch5",
-      "title": "Food",
+      "title": {
+        "zh": "食物",
+        "en": "Food"
+      },
       "order": 5,
       "lessonsFile": "food.json"
     },
     {
       "id": "ch6",
-      "title": "Plants and Water",
+      "title": {
+        "zh": "植物与水",
+        "en": "Plants and Water"
+      },
       "order": 6,
       "lessonsFile": "plants-and-water.json"
     },
     {
       "id": "ch7",
-      "title": "Chemistry and Physics",
+      "title": {
+        "zh": "化学与物理",
+        "en": "Chemistry and Physics"
+      },
       "order": 7,
       "lessonsFile": "chemistry-and-physics.json"
     },
     {
       "id": "ch8",
-      "title": "Wired Science",
+      "title": {
+        "zh": "奇妙科学",
+        "en": "Weird Science"
+      },
       "order": 8,
       "lessonsFile": "wired-science.json"
     }
