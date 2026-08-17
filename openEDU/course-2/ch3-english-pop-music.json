@@ -1,77 +1,110 @@
 [
   {
-    "id": "3-1",
-    "title": "emotion",
+    "id": "1",
+    "title": {
+      "zh": "情感",
+      "en": "Emotion"
+    },
     "type": "audio",
     "lessonUrl": "/audio/emotion.mp3",
-    "content":"/lyric/emotion.lrc"
+    "content": "/lyric/emotion.lrc"
   },
   {
-    "id": "3-2",
-    "title": "Hey ",
+    "id": "2",
+    "title": {
+      "zh": "嘿，朱迪",
+      "en": "Hey Jude"
+    },
     "type": "audio",
     "lessonUrl": "/audio/hey-jude.mp3",
-    "content":"/lyric/hey-jude.lrc"
+    "content": "/lyric/hey-jude.lrc"
   },
   {
-    "id": "3-3",
-    "title": "Hello",
+    "id": "3",
+    "title": {
+      "zh": "你好",
+      "en": "Hello"
+    },
     "type": "audio",
     "lessonUrl": "/audio/hello.mp3",
     "content": "/lyric/hello.lrc"
   },
   {
-    "id": "3-4",
-    "title": "How Deep Is Your Love",
+    "id": "4",
+    "title": {
+      "zh": "你的爱有多深",
+      "en": "How Deep Is Your Love"
+    },
     "type": "audio",
     "lessonUrl": "/audio/how-deep-is-your-love.mp3",
     "content": "/lyric/how-deep-is-your-love.lrc"
   },
   {
-    "id": "3-5",
-    "title": "Let It Be",
+    "id": "5",
+    "title": {
+      "zh": "顺其自然",
+      "en": "Let It Be"
+    },
     "type": "audio",
     "lessonUrl": "/audio/let-it-be.mp3",
     "content": "/lyric/let-it-be.lrc"
   },
   {
-    "id": "3-6",
-    "title": "Stayin Alive",
+    "id": "6",
+    "title": {
+      "zh": "活着",
+      "en": "Stayin' Alive"
+    },
     "type": "audio",
     "lessonUrl": "/audio/stayin-alive.mp3",
     "content": "/lyric/stayin-alive.lrc"
   },
   {
-    "id": "3-7",
-    "title": "To Love Somebody",
+    "id": "7",
+    "title": {
+      "zh": "爱上一个人",
+      "en": "To Love Somebody"
+    },
     "type": "audio",
     "lessonUrl": "/audio/to-love-somebody.mp3",
     "content": "/lyric/to-love-somebody.lrc"
   },
   {
-    "id": "3-8",
-    "title": "We've Only Just Begun",
+    "id": "8",
+    "title": {
+      "zh": "我们才刚刚开始",
+      "en": "We've Only Just Begun"
+    },
     "type": "audio",
     "lessonUrl": "/audio/we've-only-just-begun.mp3",
     "content": "/lyric/we've-only-just-begun.lrc"
   },
   {
-    "id": "3-9",
-    "title": "Yesterday Once More",
+    "id": "9",
+    "title": {
+      "zh": "昨日重现",
+      "en": "Yesterday Once More"
+    },
     "type": "audio",
     "lessonUrl": "/audio/yesterday-once-more.mp3",
     "content": "/lyric/yesterday-once-more.lrc"
   },
   {
-    "id": "3-10",
-    "title": "Yesterday",
+    "id": "10",
+    "title": {
+      "zh": "昨天",
+      "en": "Yesterday"
+    },
     "type": "audio",
     "lessonUrl": "/audio/yesterday.mp3",
     "content": "/lyric/yesterday.lrc"
   },
   {
-    "id": "3-11",
-    "title": "",
+    "id": "11",
+    "title": {
+      "zh": "",
+      "en": ""
+    },
     "type": "audio",
     "lessonUrl": "/audio/",
     "content": "/lyric/"

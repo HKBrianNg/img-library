@@ -1,9 +1,28 @@
 [
   {
-    "id": "1-01",
-    "title": "先换拖鞋",
+    "id": "1",
+    "title": {
+      "zh": "雨从哪里来",
+      "en": "Where Does Rain Come From?"
+    },
     "type": "article",
-    "content": "Change into your slippers first.",
-    "lessonUrl": "/images/change-into-your-slippers-first.jpg"
+    "content": {
+      "zh": "太阳把河里的水晒热，变成看不见的水蒸气飞到天上，聚在一起变成云。云太重了，抱不动了，就掉下来变成雨啦！",
+      "en": "The sun heats the water in rivers, turning it into invisible water vapor that rises into the sky and gathers to form clouds. When the clouds get too heavy, they can't hold the water anymore, and it falls down as rain!"
+    },
+    "lessonUrl": "/images/雨从哪里来.jpg"
+  },
+  {
+    "id": "2",
+    "title": {
+      "zh": "为什么有白天和黑夜",
+      "en": "Why Do We Have Day and Night?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "地球像个陀螺，一直在转。转到面向太阳就是白天，背对太阳就是黑夜。我们就像坐在旋转木马上一样。",
+      "en": "The Earth spins like a top. When it faces the sun, it's daytime; when it turns away, it's nighttime. It's like riding a merry-go-round!"
+    },
+    "lessonUrl": "/images/为什么有白天和黑夜.jpg"
   }
 ]

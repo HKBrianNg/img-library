@@ -1,177 +1,327 @@
 [
   {
-    "id": "9-01",
-    "title": "我们来画画吧",
+    "id": "1",
+    "title": {
+      "zh": "我们来画画吧",
+      "en": "Let's draw something."
+    },
     "type": "article",
-    "content": "Let's draw something.",
+    "content": {
+      "zh": "我们来画画吧",
+      "en": "Let's draw something."
+    },
     "lessonUrl": "/images/lets-draw-something.jpg"
   },
   {
-    "id": "9-02",
-    "title": "我们来填色吧",
+    "id": "2",
+    "title": {
+      "zh": "我们来填色吧",
+      "en": "Let's color it."
+    },
     "type": "article",
-    "content": "Let's color it.",
+    "content": {
+      "zh": "我们来填色吧",
+      "en": "Let's color it."
+    },
     "lessonUrl": "/images/lets-color-it.jpg"
   },
   {
-    "id": "9-03",
-    "title": "你可以为我画朵花吗",
+    "id": "3",
+    "title": {
+      "zh": "你可以为我画朵花吗",
+      "en": "Can you draw me a flower?"
+    },
     "type": "article",
-    "content": "Can you draw me a flower?",
+    "content": {
+      "zh": "你可以为我画朵花吗",
+      "en": "Can you draw me a flower?"
+    },
     "lessonUrl": "/images/can-you-draw-me-a-flower.jpg"
   },
   {
-    "id": "9-04",
-    "title": "把它涂成红色吧",
+    "id": "4",
+    "title": {
+      "zh": "把它涂成红色吧",
+      "en": "Color it red."
+    },
     "type": "article",
-    "content": "Color it red.",
+    "content": {
+      "zh": "把它涂成红色吧",
+      "en": "Color it red."
+    },
     "lessonUrl": "/images/color-it-red.jpg"
   },
   {
-    "id": "9-05",
-    "title": "你可以把花剪下来",
+    "id": "5",
+    "title": {
+      "zh": "你可以把花剪下来",
+      "en": "You can cut the flower out."
+    },
     "type": "article",
-    "content": "You can cut the flower out.",
+    "content": {
+      "zh": "你可以把花剪下来",
+      "en": "You can cut the flower out."
+    },
     "lessonUrl": "/images/you-can-cut-the-flower-out.jpg"
   },
   {
-    "id": "9-06",
-    "title": "我们需要一把儿童剪刀",
+    "id": "6",
+    "title": {
+      "zh": "我们需要一把儿童剪刀",
+      "en": "We need a pair of children's scissors."
+    },
     "type": "article",
-    "content": "We need a pair of children's scissors.",
+    "content": {
+      "zh": "我们需要一把儿童剪刀",
+      "en": "We need a pair of children's scissors."
+    },
     "lessonUrl": "/images/we-need-a-pair-of-childrens-scissors.jpg"
   },
   {
-    "id": "9-07",
-    "title": "像妈妈这样拿剪刀",
+    "id": "7",
+    "title": {
+      "zh": "像妈妈这样拿剪刀",
+      "en": "Hold the scissors like mom does."
+    },
     "type": "article",
-    "content": "Hold the scissors like mom does.",
+    "content": {
+      "zh": "像妈妈这样拿剪刀",
+      "en": "Hold the scissors like mom does."
+    },
     "lessonUrl": "/images/hold-the-scissors-like-mom-does.jpg"
   },
   {
-    "id": "9-08",
-    "title": "小心不要剪到手了",
+    "id": "8",
+    "title": {
+      "zh": "小心不要剪到手了",
+      "en": "Be careful not to cut your hand."
+    },
     "type": "article",
-    "content": "Be careful not to cut your hand.",
+    "content": {
+      "zh": "小心不要剪到手了",
+      "en": "Be careful not to cut your hand."
+    },
     "lessonUrl": "/images/be-careful-not-to-cut-your-hand.jpg"
   },
   {
-    "id": "9-09",
-    "title": "把花贴到这里吧",
+    "id": "9",
+    "title": {
+      "zh": "把花贴到这里吧",
+      "en": "Stick the flower here."
+    },
     "type": "article",
-    "content": "Stick the flower here.",
+    "content": {
+      "zh": "把花贴到这里吧",
+      "en": "Stick the flower here."
+    },
     "lessonUrl": "/images/stick-the-flower-here.jpg"
   },
   {
-    "id": "9-10",
-    "title": "把胶水涂在背面",
+    "id": "10",
+    "title": {
+      "zh": "把胶水涂在背面",
+      "en": "Put some glue on the back."
+    },
     "type": "article",
-    "content": "Put some glue on the back.",
+    "content": {
+      "zh": "把胶水涂在背面",
+      "en": "Put some glue on the back."
+    },
     "lessonUrl": "/images/put-some-glue-on-the-back.jpg"
   },
   {
-    "id": "9-11",
-    "title": "你要玩积木吗",
+    "id": "11",
+    "title": {
+      "zh": "你要玩积木吗",
+      "en": "Do you want to play with the blocks?"
+    },
     "type": "article",
-    "content": "Do you want to play with the blocks?",
+    "content": {
+      "zh": "你要玩积木吗",
+      "en": "Do you want to play with the blocks?"
+    },
     "lessonUrl": "/images/do-you-want-to-play-with-the-blocks.jpg"
   },
   {
-    "id": "9-12",
-    "title": "我们来玩积木吧",
+    "id": "12",
+    "title": {
+      "zh": "我们来玩积木吧",
+      "en": "Let's play with the blocks."
+    },
     "type": "article",
-    "content": "Let's play with the blocks.",
+    "content": {
+      "zh": "我们来玩积木吧",
+      "en": "Let's play with the blocks."
+    },
     "lessonUrl": "/images/lets-play-with-the-blocks.jpg"
   },
   {
-    "id": "9-13",
-    "title": "我们把积木倒出来吧",
+    "id": "13",
+    "title": {
+      "zh": "我们把积木倒出来吧",
+      "en": "Let's pour out the blocks."
+    },
     "type": "article",
-    "content": "Let's pour out the blocks.",
+    "content": {
+      "zh": "我们把积木倒出来吧",
+      "en": "Let's pour out the blocks."
+    },
     "lessonUrl": "/images/lets-pour-out-the-blocks.jpg"
   },
   {
-    "id": "9-14",
-    "title": "你能用积木搭什么",
+    "id": "14",
+    "title": {
+      "zh": "你能用积木搭什么",
+      "en": "What can you build with the blocks?"
+    },
     "type": "article",
-    "content": "What can you build with the blocks?",
+    "content": {
+      "zh": "你能用积木搭什么",
+      "en": "What can you build with the blocks?"
+    },
     "lessonUrl": "/images/what-can-you-build-with-the-blocks.jpg"
   },
   {
-    "id": "9-15",
-    "title": "试一试",
+    "id": "15",
+    "title": {
+      "zh": "试一试",
+      "en": "Give it a shot."
+    },
     "type": "article",
-    "content": "Give it a shot.",
+    "content": {
+      "zh": "试一试",
+      "en": "Give it a shot."
+    },
     "lessonUrl": "/images/give-it-a-shot.jpg"
   },
   {
-    "id": "9-16",
-    "title": "坚持",
+    "id": "16",
+    "title": {
+      "zh": "坚持",
+      "en": "Keep going."
+    },
     "type": "article",
-    "content": "Keep going.",
+    "content": {
+      "zh": "坚持",
+      "en": "Keep going."
+    },
     "lessonUrl": "/images/keep-going.jpg"
   },
   {
-    "id": "9-17",
-    "title": "给你",
+    "id": "17",
+    "title": {
+      "zh": "给你",
+      "en": "Here you go."
+    },
     "type": "article",
-    "content": "Here you go.",
+    "content": {
+      "zh": "给你",
+      "en": "Here you go."
+    },
     "lessonUrl": "/images/here-you-go.jpg"
   },
   {
-    "id": "9-18",
-    "title": "哇你搭成功了",
+    "id": "18",
+    "title": {
+      "zh": "哇你搭成功了",
+      "en": "Wow, you made something!"
+    },
     "type": "article",
-    "content": "Wow, you made something!",
+    "content": {
+      "zh": "哇你搭成功了",
+      "en": "Wow, you made something!"
+    },
     "lessonUrl": "/images/wow-you-made-something.jpg"
   },
   {
-    "id": "9-19",
-    "title": "玩完了把积木收到盒子里",
+    "id": "19",
+    "title": {
+      "zh": "玩完了把积木收到盒子里",
+      "en": "When you're done, put the blocks back in the box."
+    },
     "type": "article",
-    "content": "When you're done, put the blocks back in the box.",
+    "content": {
+      "zh": "玩完了把积木收到盒子里",
+      "en": "When you're done, put the blocks back in the box."
+    },
     "lessonUrl": "/images/when-youre-done-put-the-blocks-back-in-the-box.jpg"
   },
   {
-    "id": "9-20",
-    "title": "玩完把玩具收好",
+    "id": "20",
+    "title": {
+      "zh": "玩完把玩具收好",
+      "en": "Put away your toys when you're done playing."
+    },
     "type": "article",
-    "content": "Put away your toys when you're done playing.",
+    "content": {
+      "zh": "玩完把玩具收好",
+      "en": "Put away your toys when you're done playing."
+    },
     "lessonUrl": "/images/put-away-your-toys-when-youre-done-playing.jpg"
   },
   {
-    "id": "9-21",
-    "title": "你吹牛",
+    "id": "21",
+    "title": {
+      "zh": "你吹牛",
+      "en": "Oh, baloney!"
+    },
     "type": "article",
-    "content": "Oh, baloney!",
+    "content": {
+      "zh": "你吹牛",
+      "en": "Oh, baloney!"
+    },
     "lessonUrl": "/images/oh-baloney.jpg"
   },
   {
-    "id": "9-22",
-    "title": "我完成了",
+    "id": "22",
+    "title": {
+      "zh": "我完成了",
+      "en": "I'm done."
+    },
     "type": "article",
-    "content": "I'm done.",
+    "content": {
+      "zh": "我完成了",
+      "en": "I'm done."
+    },
     "lessonUrl": "/images/im-done.jpg"
   },
   {
-    "id": "9-23",
-    "title": "小气鬼",
+    "id": "23",
+    "title": {
+      "zh": "小气鬼",
+      "en": "You big stinker."
+    },
     "type": "article",
-    "content": "You big stinker.",
+    "content": {
+      "zh": "小气鬼",
+      "en": "You big stinker."
+    },
     "lessonUrl": "/images/you-big-stinker.jpg"
   },
   {
-    "id": "9-24",
-    "title": "输了别耍赖哦",
+    "id": "24",
+    "title": {
+      "zh": "输了别耍赖哦",
+      "en": "No cheating!"
+    },
     "type": "article",
-    "content": "No cheating!",
+    "content": {
+      "zh": "输了别耍赖哦",
+      "en": "No cheating!"
+    },
     "lessonUrl": "/images/no-cheating.jpg"
   },
   {
-    "id": "9-25",
-    "title": "你赢了太厉害了吧",
+    "id": "25",
+    "title": {
+      "zh": "你赢了太厉害了吧",
+      "en": "You won! What a rock star!"
+    },
     "type": "article",
-    "content": "You won! What a rock star!",
+    "content": {
+      "zh": "你赢了太厉害了吧",
+      "en": "You won! What a rock star!"
+    },
     "lessonUrl": "/images/you-won-what-a-rock-star.jpg"
   }
 ]

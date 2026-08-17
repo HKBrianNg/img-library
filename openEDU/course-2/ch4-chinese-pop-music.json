@@ -1,35 +1,50 @@
 [
   {
-    "id": "4-1",
-    "title": "黄昏",
+    "id": "1",
+    "title": {
+      "zh": "黄昏",
+      "en": "Dusk"
+    },
     "type": "audio",
     "lessonUrl": "/audio/黄昏.mp3",
-    "content":"/lyric/黄昏.lrc"
+    "content": "/lyric/黄昏.lrc"
   },
   {
-    "id": "4-2",
-    "title": "小幸运",
+    "id": "2",
+    "title": {
+      "zh": "小幸运",
+      "en": "Little Happiness"
+    },
     "type": "audio",
     "lessonUrl": "/audio/小幸运.mp3",
-    "content":"/lyric/小幸运.lrc"
+    "content": "/lyric/小幸运.lrc"
   },
   {
-    "id": "4-3",
-    "title": "",
-    "type": "audio",
-    "lessonUrl": "",
-    "content":""
-  },
-  {
-    "id": "4-4",
-    "title": "",
+    "id": "3",
+    "title": {
+      "zh": "",
+      "en": ""
+    },
     "type": "audio",
     "lessonUrl": "",
     "content": ""
   },
   {
-    "id": "4-5",
-    "title": "",
+    "id": "4",
+    "title": {
+      "zh": "",
+      "en": ""
+    },
+    "type": "audio",
+    "lessonUrl": "",
+    "content": ""
+  },
+  {
+    "id": "5",
+    "title": {
+      "zh": "",
+      "en": ""
+    },
     "type": "audio",
     "lessonUrl": "",
     "content": ""

@@ -1,14 +1,20 @@
 [
   {
-    "id": "2-1",
-    "title": "孩子的天空",
+    "id": "1",
+    "title": {
+      "zh": "孩子的天空",
+      "en": "Children's Sky"
+    },
     "type": "audio",
     "lessonUrl": "/audio/孩子的天空.mp3",
     "content": "/lyric/孩子的天空.lrc"
   },
   {
-    "id": "2-2",
-    "title": "勇气大爆发",
+    "id": "2",
+    "title": {
+      "zh": "勇气大爆发",
+      "en": "Courage Explosion"
+    },
     "type": "audio",
     "lessonUrl": "/audio/勇气大爆发.mp3",
     "content": "/lyric/勇气大爆发.lrc"

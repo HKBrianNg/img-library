@@ -1,324 +1,600 @@
 [
   {
-    "id": "1-01",
-    "title": "先换拖鞋",
+    "id": "1",
+    "title": {
+      "zh": "先换拖鞋",
+      "en": "Change into your slippers first."
+    },
     "type": "article",
-    "content": "Change into your slippers first.",
+    "content": {
+      "zh": "先换拖鞋",
+      "en": "Change into your slippers first."
+    },
     "lessonUrl": "/images/change-into-your-slippers-first.jpg"
   },
   {
-    "id": "1-02",
-    "title": "先把鞋脱了",
+    "id": "2",
+    "title": {
+      "zh": "先把鞋脱了",
+      "en": "Take off your shoes first."
+    },
     "type": "article",
-    "content": "Take off your shoes first.",
+    "content": {
+      "zh": "先把鞋脱了",
+      "en": "Take off your shoes first."
+    },
     "lessonUrl": "/images/take-off-your-shoes-first.jpg"
   },
   {
-    "id": "1-03",
-    "title": "拍拍鞋子上的泥",
+    "id": "3",
+    "title": {
+      "zh": "拍拍鞋子上的泥",
+      "en": "Dust the mud off your shoes."
+    },
     "type": "article",
-    "content": "Dust the mud off your shoes.",
+    "content": {
+      "zh": "拍拍鞋子上的泥",
+      "en": "Dust the mud off your shoes."
+    },
     "lessonUrl": "/images/dust-the-mud-off-your-shoes.jpg"
   },
   {
-    "id": "1-04",
-    "title": "把鞋子摆整齐",
+    "id": "4",
+    "title": {
+      "zh": "把鞋子摆整齐",
+      "en": "Make your shoes nice and neat."
+    },
     "type": "article",
-    "content": "Make your shoes nice and neat.",
+    "content": {
+      "zh": "把鞋子摆整齐",
+      "en": "Make your shoes nice and neat."
+    },
     "lessonUrl": "/images/make-your-shoes-nice-and-neat.jpg"
   },
   {
-    "id": "1-05",
-    "title": "你的鞋在鞋柜里",
+    "id": "5",
+    "title": {
+      "zh": "你的鞋在鞋柜里",
+      "en": "Your shoes are in the shoe cabinet."
+    },
     "type": "article",
-    "content": "Your shoes are in the shoe cabinet.",
+    "content": {
+      "zh": "你的鞋在鞋柜里",
+      "en": "Your shoes are in the shoe cabinet."
+    },
     "lessonUrl": "/images/your-shoes-are-in-the-shoe-cabinet.jpg"
   },
   {
-    "id": "1-06",
-    "title": "打开鞋柜把鞋拿出来",
+    "id": "6",
+    "title": {
+      "zh": "打开鞋柜把鞋拿出来",
+      "en": "Open the shoe cabinet and take out your shoes."
+    },
     "type": "article",
-    "content": "Open the shoe cabinet and take out your shoes.",
+    "content": {
+      "zh": "打开鞋柜把鞋拿出来",
+      "en": "Open the shoe cabinet and take out your shoes."
+    },
     "lessonUrl": "/images/open-the-shoe-cabinet-and-take-out-your-shoes.jpg"
   },
   {
-    "id": "1-07",
-    "title": "坐下来换鞋",
+    "id": "7",
+    "title": {
+      "zh": "坐下来换鞋",
+      "en": "Sit down to change your shoes."
+    },
     "type": "article",
-    "content": "Sit down to change your shoes.",
+    "content": {
+      "zh": "坐下来换鞋",
+      "en": "Sit down to change your shoes."
+    },
     "lessonUrl": "/images/sit-down-to-change-your-shoes.jpg"
   },
   {
-    "id": "1-08",
-    "title": "快点穿上鞋",
+    "id": "8",
+    "title": {
+      "zh": "快点穿上鞋",
+      "en": "Put your shoes on."
+    },
     "type": "article",
-    "content": "Put your shoes on.",
+    "content": {
+      "zh": "快点穿上鞋",
+      "en": "Put your shoes on."
+    },
     "lessonUrl": "/images/put-your-shoes-on.jpg"
   },
   {
-    "id": "1-09",
-    "title": "你要迟到了",
+    "id": "9",
+    "title": {
+      "zh": "你要迟到了",
+      "en": "You're going to be late."
+    },
     "type": "article",
-    "content": "You're going to be late.",
+    "content": {
+      "zh": "你要迟到了",
+      "en": "You're going to be late."
+    },
     "lessonUrl": "/images/youre-going-to-be-late.jpg"
   },
   {
-    "id": "1-10",
-    "title": "你的鞋带松了",
+    "id": "10",
+    "title": {
+      "zh": "你的鞋带松了",
+      "en": "Your shoes are untied."
+    },
     "type": "article",
-    "content": "Your shoes are untied.",
+    "content": {
+      "zh": "你的鞋带松了",
+      "en": "Your shoes are untied."
+    },
     "lessonUrl": "/images/your-shoes-are-untied.jpg"
   },
   {
-    "id": "1-11",
-    "title": "把鞋带系好",
+    "id": "11",
+    "title": {
+      "zh": "把鞋带系好",
+      "en": "Tie your shoelaces."
+    },
     "type": "article",
-    "content": "Tie your shoelaces.",
+    "content": {
+      "zh": "把鞋带系好",
+      "en": "Tie your shoelaces."
+    },
     "lessonUrl": "/images/tie-your-shoelaces.jpg"
   },
   {
-    "id": "1-12",
-    "title": "你东西都拿好了吗",
+    "id": "12",
+    "title": {
+      "zh": "你东西都拿好了吗",
+      "en": "Did you get everything?"
+    },
     "type": "article",
-    "content": "Did you get everything?",
+    "content": {
+      "zh": "你东西都拿好了吗",
+      "en": "Did you get everything?"
+    },
     "lessonUrl": "/images/did-you-get-everything.jpg"
   },
   {
-    "id": "1-13",
-    "title": "你的书包收拾好了吗",
+    "id": "13",
+    "title": {
+      "zh": "你的书包收拾好了吗",
+      "en": "Is your bag ready to go?"
+    },
     "type": "article",
-    "content": "Is your bag ready to go?",
+    "content": {
+      "zh": "你的书包收拾好了吗",
+      "en": "Is your bag ready to go?"
+    },
     "lessonUrl": "/images/is-your-bag-ready-to-go.jpg"
   },
   {
-    "id": "1-14",
-    "title": "书都放进去了吗",
+    "id": "14",
+    "title": {
+      "zh": "书都放进去了吗",
+      "en": "Are your books all packed?"
+    },
     "type": "article",
-    "content": "Are your books all packed?",
+    "content": {
+      "zh": "书都放进去了吗",
+      "en": "Are your books all packed?"
+    },
     "lessonUrl": "/images/are-your-books-all-packed.jpg"
   },
   {
-    "id": "1-15",
-    "title": "确认一下东西都带齐了哦",
+    "id": "15",
+    "title": {
+      "zh": "确认一下东西都带齐了哦",
+      "en": "Make sure you have everything."
+    },
     "type": "article",
-    "content": "Make sure you have everything.",
+    "content": {
+      "zh": "确认一下东西都带齐了哦",
+      "en": "Make sure you have everything."
+    },
     "lessonUrl": "/images/make-sure-you-have-everything.jpg"
   },
   {
-    "id": "1-16",
-    "title": "水杯带了吗",
+    "id": "16",
+    "title": {
+      "zh": "水杯带了吗",
+      "en": "Do you have your water bottle?"
+    },
     "type": "article",
-    "content": "Do you have your water bottle?",
+    "content": {
+      "zh": "水杯带了吗",
+      "en": "Do you have your water bottle?"
+    },
     "lessonUrl": "/images/do-you-have-your-water-bottle.jpg"
   },
   {
-    "id": "1-17",
-    "title": "自己背书包",
+    "id": "17",
+    "title": {
+      "zh": "自己背书包",
+      "en": "Carry your own bag."
+    },
     "type": "article",
-    "content": "Carry your own bag.",
+    "content": {
+      "zh": "自己背书包",
+      "en": "Carry your own bag."
+    },
     "lessonUrl": "/images/carry-your-own-bag.jpg"
   },
   {
-    "id": "1-18",
-    "title": "妈妈要锁门了",
+    "id": "18",
+    "title": {
+      "zh": "妈妈要锁门了",
+      "en": "Mom is going to lock the door."
+    },
     "type": "article",
-    "content": "Mom is going to lock the door.",
+    "content": {
+      "zh": "妈妈要锁门了",
+      "en": "Mom is going to lock the door."
+    },
     "lessonUrl": "/images/mom-is-going-to-lock-the-door.jpg"
   },
   {
-    "id": "1-19",
-    "title": "小心夹到手",
+    "id": "19",
+    "title": {
+      "zh": "小心夹到手",
+      "en": "Watch your fingers."
+    },
     "type": "article",
-    "content": "Watch your fingers.",
+    "content": {
+      "zh": "小心夹到手",
+      "en": "Watch your fingers."
+    },
     "lessonUrl": "/images/watch-your-fingers.jpg"
   },
   {
-    "id": "1-20",
-    "title": "记得关灯",
+    "id": "20",
+    "title": {
+      "zh": "记得关灯",
+      "en": "Remember to turn off the lights."
+    },
     "type": "article",
-    "content": "Remember to turn off the lights.",
+    "content": {
+      "zh": "记得关灯",
+      "en": "Remember to turn off the lights."
+    },
     "lessonUrl": "/images/remember-to-turn-off-the-lights.jpg"
   },
   {
-    "id": "1-21",
-    "title": "快点爸爸在电梯那等你呢",
+    "id": "21",
+    "title": {
+      "zh": "快点爸爸在电梯那等你呢",
+      "en": "Come on, dad's waiting for you by the elevator."
+    },
     "type": "article",
-    "content": "Come on, dad's waiting for you by the elevator.",
+    "content": {
+      "zh": "快点爸爸在电梯那等你呢",
+      "en": "Come on, dad's waiting for you by the elevator."
+    },
     "lessonUrl": "/images/come-on-dads-waiting-for-you-by-the-elevator.jpg"
   },
   {
-    "id": "1-22",
-    "title": "走去上学啦",
+    "id": "22",
+    "title": {
+      "zh": "走去上学啦",
+      "en": "Let's go to school."
+    },
     "type": "article",
-    "content": "Let's go to school.",
+    "content": {
+      "zh": "走去上学啦",
+      "en": "Let's go to school."
+    },
     "lessonUrl": "/images/lets-go-to-school.jpg"
   },
   {
-    "id": "1-23",
-    "title": "爸爸要上班啦",
+    "id": "23",
+    "title": {
+      "zh": "爸爸要上班啦",
+      "en": "Dad has to go to work."
+    },
     "type": "article",
-    "content": "Dad has to go to work.",
+    "content": {
+      "zh": "爸爸要上班啦",
+      "en": "Dad has to go to work."
+    },
     "lessonUrl": "/images/dad-has-to-go-to-work.jpg"
   },
   {
-    "id": "1-24",
-    "title": "妈妈出门啦",
+    "id": "24",
+    "title": {
+      "zh": "妈妈出门啦",
+      "en": "Mom's heading out."
+    },
     "type": "article",
-    "content": "Mom's heading out.",
+    "content": {
+      "zh": "妈妈出门啦",
+      "en": "Mom's heading out."
+    },
     "lessonUrl": "/images/moms-heading-out.jpg"
   },
   {
-    "id": "1-25",
-    "title": "跟妈妈说拜拜",
+    "id": "25",
+    "title": {
+      "zh": "跟妈妈说拜拜",
+      "en": "Say goodbye to mom."
+    },
     "type": "article",
-    "content": "Say goodbye to mom.",
+    "content": {
+      "zh": "跟妈妈说拜拜",
+      "en": "Say goodbye to mom."
+    },
     "lessonUrl": "/images/say-goodbye-to-mom.jpg"
   },
   {
-    "id": "1-26",
-    "title": "爸爸回来我们一起玩游戏",
+    "id": "26",
+    "title": {
+      "zh": "爸爸回来我们一起玩游戏",
+      "en": "We'll play a game when dad comes back."
+    },
     "type": "article",
-    "content": "We'll play a game when dad comes back.",
+    "content": {
+      "zh": "爸爸回来我们一起玩游戏",
+      "en": "We'll play a game when dad comes back."
+    },
     "lessonUrl": "/images/well-play-a-game-when-dad-comes-back.jpg"
   },
   {
-    "id": "1-27",
-    "title": "爸爸上完班很快就会回来的",
+    "id": "27",
+    "title": {
+      "zh": "爸爸上完班很快就会回来的",
+      "en": "Dad will be back soon after work."
+    },
     "type": "article",
-    "content": "Dad will be back soon after work.",
+    "content": {
+      "zh": "爸爸上完班很快就会回来的",
+      "en": "Dad will be back soon after work."
+    },
     "lessonUrl": "/images/dad-will-be-back-soon-after-work.jpg"
   },
   {
-    "id": "1-28",
-    "title": "给妈妈一个飞吻",
+    "id": "28",
+    "title": {
+      "zh": "给妈妈一个飞吻",
+      "en": "Blow a kiss to mom."
+    },
     "type": "article",
-    "content": "Blow a kiss to mom.",
+    "content": {
+      "zh": "给妈妈一个飞吻",
+      "en": "Blow a kiss to mom."
+    },
     "lessonUrl": "/images/blow-a-kiss-to-mom.jpg"
   },
   {
-    "id": "1-29",
-    "title": "快过来抱抱",
+    "id": "29",
+    "title": {
+      "zh": "快过来抱抱",
+      "en": "Come and give me a hug."
+    },
     "type": "article",
-    "content": "Come and give me a hug.",
+    "content": {
+      "zh": "快过来抱抱",
+      "en": "Come and give me a hug."
+    },
     "lessonUrl": "/images/come-and-give-me-a-hug.jpg"
   },
   {
-    "id": "1-30",
-    "title": "我会想你的宝贝",
+    "id": "30",
+    "title": {
+      "zh": "我会想你的宝贝",
+      "en": "I'm going to miss you, baby."
+    },
     "type": "article",
-    "content": "I'm going to miss you, baby.",
+    "content": {
+      "zh": "我会想你的宝贝",
+      "en": "I'm going to miss you, baby."
+    },
     "lessonUrl": "/images/im-going-to-miss-you-baby.jpg"
   },
   {
-    "id": "1-31",
-    "title": "要听外婆奶奶的话噢",
+    "id": "31",
+    "title": {
+      "zh": "要听外婆奶奶的话噢",
+      "en": "Mind your grandmother."
+    },
     "type": "article",
-    "content": "Mind your grandmother.",
+    "content": {
+      "zh": "要听外婆奶奶的话噢",
+      "en": "Mind your grandmother."
+    },
     "lessonUrl": "/images/mind-your-grandmother.jpg"
   },
   {
-    "id": "1-32",
-    "title": "在家去上学要乖乖噢",
+    "id": "32",
+    "title": {
+      "zh": "在家去上学要乖乖噢",
+      "en": "Be good at home/ school."
+    },
     "type": "article",
-    "content": "Be good at home/ school.",
+    "content": {
+      "zh": "在家去上学要乖乖噢",
+      "en": "Be good at home/ school."
+    },
     "lessonUrl": "/images/be-good-at-home-school.jpg"
   },
   {
-    "id": "1-33",
-    "title": "按一楼负一楼",
+    "id": "33",
+    "title": {
+      "zh": "按一楼负一楼",
+      "en": "Press the 1st floor/ B1 button."
+    },
     "type": "article",
-    "content": "Press the 1st floor/ B1 button.",
+    "content": {
+      "zh": "按一楼负一楼",
+      "en": "Press the 1st floor/ B1 button."
+    },
     "lessonUrl": "/images/press-the-1st-floor-b1-button.jpg"
   },
   {
-    "id": "1-34",
-    "title": "我回来啦",
+    "id": "34",
+    "title": {
+      "zh": "我回来啦",
+      "en": "I'm back."
+    },
     "type": "article",
-    "content": "I'm back.",
+    "content": {
+      "zh": "我回来啦",
+      "en": "I'm back."
+    },
     "lessonUrl": "/images/im-back.jpg"
   },
   {
-    "id": "1-35",
-    "title": "把书包放好",
+    "id": "35",
+    "title": {
+      "zh": "把书包放好",
+      "en": "Put your bag away."
+    },
     "type": "article",
-    "content": "Put your bag away.",
+    "content": {
+      "zh": "把书包放好",
+      "en": "Put your bag away."
+    },
     "lessonUrl": "/images/put-your-bag-away.jpg"
   },
   {
-    "id": "1-36",
-    "title": "今天有没有乖乖听话呀",
+    "id": "36",
+    "title": {
+      "zh": "今天有没有乖乖听话呀",
+      "en": "Were you good today?"
+    },
     "type": "article",
-    "content": "Were you good today?",
+    "content": {
+      "zh": "今天有没有乖乖听话呀",
+      "en": "Were you good today?"
+    },
     "lessonUrl": "/images/were-you-good-today.jpg"
   },
   {
-    "id": "1-37",
-    "title": "今天过得怎么样",
+    "id": "37",
+    "title": {
+      "zh": "今天过得怎么样",
+      "en": "How was your day?"
+    },
     "type": "article",
-    "content": "How was your day?",
+    "content": {
+      "zh": "今天过得怎么样",
+      "en": "How was your day?"
+    },
     "lessonUrl": "/images/how-was-your-day.jpg"
   },
   {
-    "id": "1-38",
-    "title": "今天老师有没有表扬你呀",
+    "id": "38",
+    "title": {
+      "zh": "今天老师有没有表扬你呀",
+      "en": "Did the teacher praise you today?"
+    },
     "type": "article",
-    "content": "Did the teacher praise you today?",
+    "content": {
+      "zh": "今天老师有没有表扬你呀",
+      "en": "Did the teacher praise you today?"
+    },
     "lessonUrl": "/images/did-the-teacher-praise-you-today.jpg"
   },
   {
-    "id": "1-39",
-    "title": "跟妈妈一起去取快递吧",
+    "id": "39",
+    "title": {
+      "zh": "跟妈妈一起去取快递吧",
+      "en": "Come with mom to pick up our package."
+    },
     "type": "article",
-    "content": "Come with mom to pick up our package.",
+    "content": {
+      "zh": "跟妈妈一起去取快递吧",
+      "en": "Come with mom to pick up our package."
+    },
     "lessonUrl": "/images/come-with-mom-to-pick-up-our-package.jpg"
   },
   {
-    "id": "1-40",
-    "title": "走出去玩啦",
+    "id": "40",
+    "title": {
+      "zh": "走出去玩啦",
+      "en": "Let's go outside to play."
+    },
     "type": "article",
-    "content": "Let's go outside to play.",
+    "content": {
+      "zh": "走出去玩啦",
+      "en": "Let's go outside to play."
+    },
     "lessonUrl": "/images/lets-go-outside-to-play.jpg"
   },
   {
-    "id": "1-41",
-    "title": "带你喜欢的小零食吧",
+    "id": "41",
+    "title": {
+      "zh": "带你喜欢的小零食吧",
+      "en": "Bring some of your favorite snacks."
+    },
     "type": "article",
-    "content": "Bring some of your favorite snacks.",
+    "content": {
+      "zh": "带你喜欢的小零食吧",
+      "en": "Bring some of your favorite snacks."
+    },
     "lessonUrl": "/images/bring-some-of-your-favorite-snacks.jpg"
   },
   {
-    "id": "1-42",
-    "title": "涂一点防晒霜",
+    "id": "42",
+    "title": {
+      "zh": "涂一点防晒霜",
+      "en": "Let's put on a little sunscreen."
+    },
     "type": "article",
-    "content": "Let's put on a little sunscreen.",
+    "content": {
+      "zh": "涂一点防晒霜",
+      "en": "Let's put on a little sunscreen."
+    },
     "lessonUrl": "/images/lets-put-on-a-little-sunscreen.jpg"
   },
   {
-    "id": "1-43",
-    "title": "你需要戴上防晒帽",
+    "id": "43",
+    "title": {
+      "zh": "你需要戴上防晒帽",
+      "en": "You'll need your sun hat."
+    },
     "type": "article",
-    "content": "You'll need your sun hat.",
+    "content": {
+      "zh": "你需要戴上防晒帽",
+      "en": "You'll need your sun hat."
+    },
     "lessonUrl": "/images/youll-need-your-sun-hat.jpg"
   },
   {
-    "id": "1-44",
-    "title": "骑上你的滑板车吧",
+    "id": "44",
+    "title": {
+      "zh": "骑上你的滑板车吧",
+      "en": "Ride your little scooter."
+    },
     "type": "article",
-    "content": "Ride your little scooter.",
+    "content": {
+      "zh": "骑上你的滑板车吧",
+      "en": "Ride your little scooter."
+    },
     "lessonUrl": "/images/ride-your-little-scooter.jpg"
   },
   {
-    "id": "1-45",
-    "title": "骑上你的扭扭车吧",
+    "id": "45",
+    "title": {
+      "zh": "骑上你的扭扭车吧",
+      "en": "Ride your wiggle car."
+    },
     "type": "article",
-    "content": "Ride your wiggle car.",
+    "content": {
+      "zh": "骑上你的扭扭车吧",
+      "en": "Ride your wiggle car."
+    },
     "lessonUrl": "/images/ride-your-wiggle-car.jpg"
   },
   {
-    "id": "1-46",
-    "title": "戴上护膝",
+    "id": "46",
+    "title": {
+      "zh": "戴上护膝",
+      "en": "Put on your pads."
+    },
     "type": "article",
-    "content": "Put on your pads.",
+    "content": {
+      "zh": "戴上护膝",
+      "en": "Put on your pads."
+    },
     "lessonUrl": "/images/put-on-your-pads.jpg"
   }
 ]

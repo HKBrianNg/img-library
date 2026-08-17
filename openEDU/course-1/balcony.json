@@ -1,107 +1,197 @@
 [
   {
-    "id": "3-13",
-    "title": "帮妈妈收一下垃圾",
+    "id": "1",
+    "title": {
+      "zh": "帮妈妈收一下垃圾",
+      "en": "Help mom get the trash, please."
+    },
     "type": "article",
-    "content": "Help mom get the trash, please.",
+    "content": {
+      "zh": "帮妈妈收一下垃圾",
+      "en": "Help mom get the trash, please."
+    },
     "lessonUrl": "/images/help-mom-get-the-trash-please.jpg"
   },
   {
-    "id": "3-14",
-    "title": "我们去扔垃圾",
+    "id": "2",
+    "title": {
+      "zh": "我们去扔垃圾",
+      "en": "Let's take out the trash."
+    },
     "type": "article",
-    "content": "Let's take out the trash.",
+    "content": {
+      "zh": "我们去扔垃圾",
+      "en": "Let's take out the trash."
+    },
     "lessonUrl": "/images/lets-take-out-the-trash.jpg"
   },
   {
-    "id": "3-15",
-    "title": "给植物浇点水",
+    "id": "3",
+    "title": {
+      "zh": "给植物浇点水",
+      "en": "Let's water the plants."
+    },
     "type": "article",
-    "content": "Let's water the plants.",
+    "content": {
+      "zh": "给植物浇点水",
+      "en": "Let's water the plants."
+    },
     "lessonUrl": "/images/lets-water-the-plants.jpg"
   },
   {
-    "id": "3-01",
-    "title": "不要爬护栏",
+    "id": "4",
+    "title": {
+      "zh": "不要爬护栏",
+      "en": "Don't climb on the railing."
+    },
     "type": "article",
-    "content": "Don't climb on the railing.",
+    "content": {
+      "zh": "不要爬护栏",
+      "en": "Don't climb on the railing."
+    },
     "lessonUrl": "/images/dont-climb-on-the-railing.jpg"
   },
   {
-    "id": "3-02",
-    "title": "你会掉下去的",
+    "id": "5",
+    "title": {
+      "zh": "你会掉下去的",
+      "en": "You're going to fall."
+    },
     "type": "article",
-    "content": "You're going to fall.",
+    "content": {
+      "zh": "你会掉下去的",
+      "en": "You're going to fall."
+    },
     "lessonUrl": "/images/youre-going-to-fall.jpg"
   },
   {
-    "id": "3-03",
-    "title": "离窗户远一点",
+    "id": "6",
+    "title": {
+      "zh": "离窗户远一点",
+      "en": "Stay away from the window."
+    },
     "type": "article",
-    "content": "Stay away from the window.",
+    "content": {
+      "zh": "离窗户远一点",
+      "en": "Stay away from the window."
+    },
     "lessonUrl": "/images/stay-away-from-the-window.jpg"
   },
   {
-    "id": "3-04",
-    "title": "不要把头探到窗户外面",
+    "id": "7",
+    "title": {
+      "zh": "不要把头探到窗户外面",
+      "en": "Don't stick your head out the window."
+    },
     "type": "article",
-    "content": "Don't stick your head out the window.",
+    "content": {
+      "zh": "不要把头探到窗户外面",
+      "en": "Don't stick your head out the window."
+    },
     "lessonUrl": "/images/dont-stick-your-head-out-the-window.jpg"
   },
   {
-    "id": "3-05",
-    "title": "你可以和妈妈一起晾衣服吗",
+    "id": "8",
+    "title": {
+      "zh": "你可以和妈妈一起晾衣服吗",
+      "en": "Can you hang the laundry with mom?"
+    },
     "type": "article",
-    "content": "Can you hang the laundry with mom?",
+    "content": {
+      "zh": "你可以和妈妈一起晾衣服吗",
+      "en": "Can you hang the laundry with mom?"
+    },
     "lessonUrl": "/images/can-you-hang-the-laundry-with-mom.jpg"
   },
   {
-    "id": "3-06",
-    "title": "你可以帮我递一下衣架吗",
+    "id": "9",
+    "title": {
+      "zh": "你可以帮我递一下衣架吗",
+      "en": "Can you pass me the hanger, please?"
+    },
     "type": "article",
-    "content": "Can you pass me the hanger, please?",
+    "content": {
+      "zh": "你可以帮我递一下衣架吗",
+      "en": "Can you pass me the hanger, please?"
+    },
     "lessonUrl": "/images/can-you-pass-me-the-hanger-please.jpg"
   },
   {
-    "id": "3-07",
-    "title": "请把衣服挂在衣架上",
+    "id": "10",
+    "title": {
+      "zh": "请把衣服挂在衣架上",
+      "en": "Hang the clothes on the hangers, please."
+    },
     "type": "article",
-    "content": "Hang the clothes on the hangers, please.",
+    "content": {
+      "zh": "请把衣服挂在衣架上",
+      "en": "Hang the clothes on the hangers, please."
+    },
     "lessonUrl": "/images/hang-the-clothes-on-the-hangers-please.jpg"
   },
   {
-    "id": "3-08",
-    "title": "把袜子用夹子夹起来",
+    "id": "11",
+    "title": {
+      "zh": "把袜子用夹子夹起来",
+      "en": "Clip the socks together."
+    },
     "type": "article",
-    "content": "Clip the socks together.",
+    "content": {
+      "zh": "把袜子用夹子夹起来",
+      "en": "Clip the socks together."
+    },
     "lessonUrl": "/images/clip-the-socks-together.jpg"
   },
   {
-    "id": "3-09",
-    "title": "衣服干了我们去收衣服吧",
+    "id": "12",
+    "title": {
+      "zh": "衣服干了我们去收衣服吧",
+      "en": "The clothes are dry. Let's go and get them."
+    },
     "type": "article",
-    "content": "The clothes are dry. Let's go and get them.",
+    "content": {
+      "zh": "衣服干了我们去收衣服吧",
+      "en": "The clothes are dry. Let's go and get them."
+    },
     "lessonUrl": "/images/the-clothes-are-dry-lets-go-and-get-them.jpg"
   },
   {
-    "id": "3-10",
-    "title": "请把扫把放好",
+    "id": "13",
+    "title": {
+      "zh": "请把扫把放好",
+      "en": "Put the broom away, please."
+    },
     "type": "article",
-    "content": "Put the broom away, please.",
+    "content": {
+      "zh": "请把扫把放好",
+      "en": "Put the broom away, please."
+    },
     "lessonUrl": "/images/put-the-broom-away-please.jpg"
   },
   {
-    "id": "3-11",
-    "title": "你可以拿个新的垃圾袋过来吗",
+    "id": "14",
+    "title": {
+      "zh": "你可以拿个新的垃圾袋过来吗",
+      "en": "Can you get a new trash bag, please?"
+    },
     "type": "article",
-    "content": "Can you get a new trash bag, please?",
+    "content": {
+      "zh": "你可以拿个新的垃圾袋过来吗",
+      "en": "Can you get a new trash bag, please?"
+    },
     "lessonUrl": "/images/can-you-get-a-new-trash-bag-please.jpg"
   },
   {
-    "id": "3-12",
-    "title": "把垃圾袋打开套在垃圾桶上",
+    "id": "15",
+    "title": {
+      "zh": "把垃圾袋打开套在垃圾桶上",
+      "en": "Open the trash bag and put it in the trash can."
+    },
     "type": "article",
-    "content": "Open the trash bag and put it in the trash can.",
+    "content": {
+      "zh": "把垃圾袋打开套在垃圾桶上",
+      "en": "Open the trash bag and put it in the trash can."
+    },
     "lessonUrl": "/images/open-the-trash-bag-and-put-it-in-the-trash-can.jpg"
   }
 ]

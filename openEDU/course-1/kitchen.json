@@ -1,114 +1,210 @@
 [
   {
-    "id": "5-01",
-    "title": "碗要轻拿轻放哦",
+    "id": "1",
+    "title": {
+      "zh": "碗要轻拿轻放哦",
+      "en": "Be gentle with your bowl."
+    },
     "type": "article",
-    "content": "Be gentle with your bowl.",
+    "content": {
+      "zh": "碗要轻拿轻放哦",
+      "en": "Be gentle with your bowl."
+    },
     "lessonUrl": "/images/be-gentle-with-your-bowl.jpg"
   },
   {
-    "id": "5-02",
-    "title": "把这个放到下面的架子上",
+    "id": "2",
+    "title": {
+      "zh": "把这个放到下面的架子上",
+      "en": "Put this on the bottom shelf."
+    },
     "type": "article",
-    "content": "Put this on the bottom shelf.",
+    "content": {
+      "zh": "把这个放到下面的架子上",
+      "en": "Put this on the bottom shelf."
+    },
     "lessonUrl": "/images/put-this-on-the-bottom-shelf.jpg"
   },
   {
-    "id": "5-03",
-    "title": "把餐具放到碗柜里",
+    "id": "3",
+    "title": {
+      "zh": "把餐具放到碗柜里",
+      "en": "Put the dishes in the cupboard."
+    },
     "type": "article",
-    "content": "Put the dishes in the cupboard.",
+    "content": {
+      "zh": "把餐具放到碗柜里",
+      "en": "Put the dishes in the cupboard."
+    },
     "lessonUrl": "/images/put-the-dishes-in-the-cupboard.jpg"
   },
   {
-    "id": "5-04",
-    "title": "用微波炉加热一下",
+    "id": "4",
+    "title": {
+      "zh": "用微波炉加热一下",
+      "en": "Let's heat it up in the microwave."
+    },
     "type": "article",
-    "content": "Let's heat it up in the microwave.",
+    "content": {
+      "zh": "用微波炉加热一下",
+      "en": "Let's heat it up in the microwave."
+    },
     "lessonUrl": "/images/lets-heat-it-up-in-the-microwave.jpg"
   },
   {
-    "id": "5-05",
-    "title": "把这个用保鲜袋装起来",
+    "id": "5",
+    "title": {
+      "zh": "把这个用保鲜袋装起来",
+      "en": "Put this in a ziploc bag."
+    },
     "type": "article",
-    "content": "Put this in a ziploc bag.",
+    "content": {
+      "zh": "把这个用保鲜袋装起来",
+      "en": "Put this in a ziploc bag."
+    },
     "lessonUrl": "/images/put-this-in-a-ziploc-bag.jpg"
   },
   {
-    "id": "5-06",
-    "title": "把它放到冰箱里",
+    "id": "6",
+    "title": {
+      "zh": "把它放到冰箱里",
+      "en": "Put it in the fridge."
+    },
     "type": "article",
-    "content": "Put it in the fridge.",
+    "content": {
+      "zh": "把它放到冰箱里",
+      "en": "Put it in the fridge."
+    },
     "lessonUrl": "/images/put-it-in-the-fridge.jpg"
   },
   {
-    "id": "5-07",
-    "title": "别忘了关上冰箱门",
+    "id": "7",
+    "title": {
+      "zh": "别忘了关上冰箱门",
+      "en": "Don't forget to close the fridge door."
+    },
     "type": "article",
-    "content": "Don't forget to close the fridge door.",
+    "content": {
+      "zh": "别忘了关上冰箱门",
+      "en": "Don't forget to close the fridge door."
+    },
     "lessonUrl": "/images/dont-forget-to-close-the-fridge-door.jpg"
   },
   {
-    "id": "5-08",
-    "title": "穿上围裙",
+    "id": "8",
+    "title": {
+      "zh": "穿上围裙",
+      "en": "Put this apron on."
+    },
     "type": "article",
-    "content": "Put this apron on.",
+    "content": {
+      "zh": "穿上围裙",
+      "en": "Put this apron on."
+    },
     "lessonUrl": "/images/put-this-apron-on.jpg"
   },
   {
-    "id": "5-09",
-    "title": "把鸡蛋打到碗里",
+    "id": "9",
+    "title": {
+      "zh": "把鸡蛋打到碗里",
+      "en": "Crack the eggs into the bowl."
+    },
     "type": "article",
-    "content": "Crack the eggs into the bowl.",
+    "content": {
+      "zh": "把鸡蛋打到碗里",
+      "en": "Crack the eggs into the bowl."
+    },
     "lessonUrl": "/images/crack-the-eggs-into-the-bowl.jpg"
   },
   {
-    "id": "5-10",
-    "title": "把蔬菜放在沥水篮沥干",
+    "id": "10",
+    "title": {
+      "zh": "把蔬菜放在沥水篮沥干",
+      "en": "Put the vegetables in the drainer."
+    },
     "type": "article",
-    "content": "Put the vegetables in the drainer.",
+    "content": {
+      "zh": "把蔬菜放在沥水篮沥干",
+      "en": "Put the vegetables in the drainer."
+    },
     "lessonUrl": "/images/put-the-vegetables-in-the-drainer.jpg"
   },
   {
-    "id": "5-11",
-    "title": "帮妈妈洗一下菜",
+    "id": "11",
+    "title": {
+      "zh": "帮妈妈洗一下菜",
+      "en": "Help mom wash the vegetables."
+    },
     "type": "article",
-    "content": "Help mom wash the vegetables.",
+    "content": {
+      "zh": "帮妈妈洗一下菜",
+      "en": "Help mom wash the vegetables."
+    },
     "lessonUrl": "/images/help-mom-wash-the-vegetables.jpg"
   },
   {
-    "id": "5-12",
-    "title": "帮妈妈摘一下菜",
+    "id": "12",
+    "title": {
+      "zh": "帮妈妈摘一下菜",
+      "en": "Help mom clean up the veggies."
+    },
     "type": "article",
-    "content": "Help mom clean up the veggies.",
+    "content": {
+      "zh": "帮妈妈摘一下菜",
+      "en": "Help mom clean up the veggies."
+    },
     "lessonUrl": "/images/help-mom-clean-up-the-veggies.jpg"
   },
   {
-    "id": "5-13",
-    "title": "帮妈妈打开冰箱门",
+    "id": "13",
+    "title": {
+      "zh": "帮妈妈打开冰箱门",
+      "en": "Help mom open the fridge door."
+    },
     "type": "article",
-    "content": "Help mom open the fridge door.",
+    "content": {
+      "zh": "帮妈妈打开冰箱门",
+      "en": "Help mom open the fridge door."
+    },
     "lessonUrl": "/images/help-mom-open-the-fridge-door.jpg"
   },
   {
-    "id": "5-14",
-    "title": "帮妈妈拿一下酱油",
+    "id": "14",
+    "title": {
+      "zh": "帮妈妈拿一下酱油",
+      "en": "Help mom get the soy sauce."
+    },
     "type": "article",
-    "content": "Help mom get the soy sauce.",
+    "content": {
+      "zh": "帮妈妈拿一下酱油",
+      "en": "Help mom get the soy sauce."
+    },
     "lessonUrl": "/images/help-mom-get-the-soy-sauce.jpg"
   },
   {
-    "id": "5-15",
-    "title": "帮妈妈揉面团",
+    "id": "15",
+    "title": {
+      "zh": "帮妈妈揉面团",
+      "en": "Help mom knead the dough."
+    },
     "type": "article",
-    "content": "Help mom knead the dough.",
+    "content": {
+      "zh": "帮妈妈揉面团",
+      "en": "Help mom knead the dough."
+    },
     "lessonUrl": "/images/help-mom-knead-the-dough.jpg"
   },
   {
-    "id": "5-16",
-    "title": "帮妈妈包饺子",
+    "id": "16",
+    "title": {
+      "zh": "帮妈妈包饺子",
+      "en": "Help mom make some dumplings."
+    },
     "type": "article",
-    "content": "Help mom make some dumplings.",
+    "content": {
+      "zh": "帮妈妈包饺子",
+      "en": "Help mom make some dumplings."
+    },
     "lessonUrl": "/images/help-mom-make-some-dumplings.jpg"
   }
 ]
