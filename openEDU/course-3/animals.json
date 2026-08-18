@@ -1,42 +1,80 @@
 [
-    {
-        "id": "1",
-        "title": {
-            "zh": "鱼睡觉闭眼睛吗",
-            "en": "Do fish close their eyes when they sleep?"
-        },
-        "type": "article",
-        "content": {
-            "zh": "不闭哦！因为鱼没有眼皮，没法闭眼。它们只是静静地停在水里，或者游得很慢很慢，就是在睡觉啦。",
-            "en": "No! Fish don't have eyelids, so they can't close their eyes. They just stay still in the water or swim very slowly — that's how they sleep."
-        },
-        "lessonUrl": "/images/鱼睡觉闭眼睛吗.jpg"
+  {
+    "id": "1",
+    "title": {
+      "zh": "鱼睡觉闭眼睛吗",
+      "en": "Do fish close their eyes when they sleep?"
     },
-    {
-        "id": "2",
-        "title": {
-            "zh": "蜗牛的牙齿在哪里",
-            "en": "Where are a snail's teeth?"
-        },
-        "type": "article",
-        "content": {
-            "zh": "蜗牛的牙齿不在嘴里，而在舌头上！它的舌头像一把带刺的锉刀，有上万颗小牙齿，专门用来刮叶子吃。",
-            "en": "A snail's teeth aren't in its mouth — they're on its tongue! Its tongue is like a spiky file with tens of thousands of tiny teeth, used to scrape leaves for food."
-        },
-        "lessonUrl": "/images/蜗牛的牙齿在哪里.jpg"
+    "type": "article",
+    "content": {
+      "zh": "不闭哦！因为鱼没有眼皮，没法闭眼。它们只是静静地停在水里，或者游得很慢很慢，就是在睡觉啦。",
+      "en": "No! Fish don't have eyelids, so they can't close their eyes. They just stay still in the water or swim very slowly — that's how they sleep."
     },
-    {
-        "id": "3",
-        "title": {
-            "zh": "企鹅的脚为什么不怕冷",
-            "en": "Why don't penguins' feet get cold?"
-        },
-        "type": "article",
-        "content": {
-            "zh": "企鹅的脚里有特殊的血管结构，能让血液在流到脚掌之前先降温，这样热量就不会流失太多。同时它们的脚掌上还有厚厚的脂肪和鳞片，就像穿了保暖靴一样。",
-            "en": "Penguins have a special blood vessel structure in their feet that cools the blood before it reaches the soles, so they don't lose much heat. Their feet also have thick fat and scales, like wearing warm boots."
-        },
-        "lessonUrl": "/images/企鹅的脚为什么不怕冷.jpg"
-    }
+    "lessonUrl": "/images/鱼睡觉闭眼睛吗.jpg"
+  },
+  {
+    "id": "2",
+    "title": {
+      "zh": "蜗牛的牙齿在哪里",
+      "en": "Where are a snail's teeth?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "蜗牛的牙齿不在嘴里，而在舌头上！它的舌头像一把带刺的锉刀，有上万颗小牙齿，专门用来刮叶子吃。",
+      "en": "A snail's teeth aren't in its mouth — they're on its tongue! Its tongue is like a spiky file with tens of thousands of tiny teeth, used to scrape leaves for food."
+    },
+    "lessonUrl": "/images/蜗牛的牙齿在哪里.jpg"
+  },
+  {
+    "id": "3",
+    "title": {
+      "zh": "企鹅的脚为什么不怕冷",
+      "en": "Why don't penguins' feet get cold?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "企鹅的脚里有特殊的血管结构，能让血液在流到脚掌之前先降温，这样热量就不会流失太多。同时它们的脚掌上还有厚厚的脂肪和鳞片，就像穿了保暖靴一样。",
+      "en": "Penguins have a special blood vessel structure in their feet that cools the blood before it reaches the soles, so they don't lose much heat. Their feet also have thick fat and scales, like wearing warm boots."
+    },
+    "lessonUrl": "/images/企鹅的脚为什么不怕冷.jpg"
+  },
+  {
+    "id": "4",
+    "title": {
+      "zh": "蛇为什么一直吐舌头",
+      "en": "Why do snakes stick out their tongues?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "蛇的舌头不是用来舔人的，而是它的“鼻子”！舌头在空气里沾一点气味分子，缩回去插进嘴里的一个小洞，就能“闻”到猎物在哪里啦。",
+      "en": "A snake's tongue isn't for licking, it's its nose! It collects tiny scent particles in the air, then puts its tongue back into a special hole in its mouth to 'smell' where its prey is."
+    },
+    "lessonUrl": "/images/蛇为什么一直吐舌头.jpg"
+  },
+  {
+    "id": "5",
+    "title": {
+      "zh": "火烈鸟为什么是粉红色的",
+      "en": "Why are flamingos pink?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "火烈鸟生下来其实是灰白色的！但它们爱吃一种小虾和藻类，里面有很多“虾青素”。吃多了，羽毛就被“染”成粉红色啦。",
+      "en": "Flamingos are actually born grayish-white! But they love eating tiny shrimp and algae that contain a lot of 'carotenoids'. Eating lots of them dyes their feathers pink."
+    },
+    "lessonUrl": "/images/火烈鸟为什么是粉红色的.jpg"
+  },
+  {
+    "id": "6",
+    "title": {
+      "zh": "章鱼有几个心脏",
+      "en": "How many hearts does an octopus have?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "章鱼有3个心脏！两个负责把血送到腮里吸氧气，一个负责把血送到全身。所以章鱼游泳特别累，它们更喜欢在海底爬着走。",
+      "en": "An octopus has 3 hearts! Two pump blood to the gills to get oxygen, and one pumps blood to the rest of the body. Because swimming is tiring, they prefer crawling on the ocean floor."
+    },
+    "lessonUrl": "/images/章鱼有几个心脏.jpg"
+  }
 ]
- 
