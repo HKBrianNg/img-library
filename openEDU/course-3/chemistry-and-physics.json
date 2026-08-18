@@ -1,0 +1,67 @@
+ [
+  {
+    "id": "1",
+    "title": {
+      "zh": "为什么冰块会消失",
+      "en": "Why does ice disappear?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "冰块其实没有消失，而是融化（Melting）啦！冰块太冷了，它想变暖，就从周围的空气里“偷”热量。偷够了热量，它就变成水溜走啦！",
+      "en": "The ice didn't actually disappear, it melted! The ice is very cold and wants to get warm, so it 'steals' heat from the air around it. Once it gets enough heat, it turns into water!"
+    },
+    "lessonUrl": "/images/为什么冰块会消失.jpg"
+  },
+  {
+    "id": "2",
+    "title": {
+      "zh": "为什么油浮在水面上",
+      "en": "Why does oil float on water?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "因为油比水“轻”（密度 Density 更小）！就像皮球浮在水面上一样，油总是喜欢漂在最上面，和水做不了好朋友（不溶解）。",
+      "en": "Because oil is 'lighter' than water (it has a lower Density)! Just like a ball floats on water, oil always likes to stay on top and doesn't mix well with water."
+    },
+    "lessonUrl": "/images/为什么油浮在水面上.jpg"
+  },
+  {
+    "id": "3",
+    "title": {
+      "zh": "为什么苹果切开后会变色",
+      "en": "Why does an apple turn brown?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "因为苹果肉里有一种东西，一碰到空气就会“生锈”（氧化 Oxidation），变成褐色。如果滴点柠檬汁，就能保护它不变色哦！",
+      "en": "Because the apple's flesh has something inside that 'rusts' (Oxidation) when it touches the air, turning brown. If you squeeze some lemon juice on it, it can protect the apple from changing color!"
+    },
+    "lessonUrl": "/images/为什么苹果切开后会变色.jpg"
+  },
+  {
+    "id": "4",
+    "title": {
+      "zh": "为什么梳头后头发会飞起来",
+      "en": "Why does hair fly up after combing?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "梳子和头发摩擦，产生了“静电小精灵”（Static Electricity）。它们互相排斥，谁也不想挨着谁，头发就炸毛飞起来啦！",
+      "en": "Rubbing the comb against your hair creates tiny 'Static Electricity' sprites. They push each other away because no one wants to touch, making your hair fly up!"
+    },
+    "lessonUrl": "/images/为什么梳头后头发会飞起来.jpg"
+  },
+  {
+    "id": "5",
+    "title": {
+      "zh": "为什么彩虹是五颜六色的",
+      "en": "Why are rainbows colorful?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "太阳光看起来是白色的，其实里面藏着七种颜色！雨后空气里有很多小水珠，像小镜子一样把阳光拆开，这就叫光的折射（Refraction）！",
+      "en": "Sunlight looks white, but it actually hides seven colors! After rain, tiny water drops in the air act like little mirrors that split the sunlight apart. This is called Refraction of light!"
+    },
+    "lessonUrl": "/images/为什么彩虹是五颜六色的.jpg"
+  }
+]

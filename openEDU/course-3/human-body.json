@@ -1,3 +1,67 @@
 [
- 
+  {
+    "id": "1",
+    "title": {
+      "zh": "肚子为什么会咕咕叫",
+      "en": "Why does our stomach rumble?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "那是肚子在“按摩”呢！我们的肠胃在用力挤压，把食物和空气推来推去，这种肠胃蠕动（Peristalsis）发出的声音，就是肚子在咕咕叫啦。",
+      "en": "Your tummy is giving itself a massage! Your stomach and intestines squeeze to push food and air around. This movement, called Peristalsis, makes the rumbling sound."
+    },
+    "lessonUrl": "/images/肚子为什么会咕咕叫.jpg"
+  },
+  {
+    "id": "2",
+    "title": {
+      "zh": "伤口为什么会结痂",
+      "en": "Why do cuts form a scab?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "血液里有神奇的“建筑工人”（血小板 Platelets），它们会手拉手堵住伤口，变硬后形成一块“天然创可贴”（结痂），保护下面的新皮肤慢慢长出来。",
+      "en": "Your blood has tiny builders called Platelets. They hold hands to plug the cut and form a hard natural bandage (a scab), protecting the new skin growing underneath."
+    },
+    "lessonUrl": "/images/伤口为什么会结痂.jpg"
+  },
+  {
+    "id": "3",
+    "title": {
+      "zh": "为什么我们要打哈欠",
+      "en": "Why do we yawn?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "当大脑工作累了或者有点热的时候，打哈欠是为了深吸一大口气，给大脑降降温、加加油，让我们重新清醒起来！",
+      "en": "When our brain is tired or a bit warm, yawning helps us take a deep breath to cool the brain down and wake it back up!"
+    },
+    "lessonUrl": "/images/为什么我们要打哈欠.jpg"
+  },
+  {
+    "id": "4",
+    "title": {
+      "zh": "人的骨头是空心的吗",
+      "en": "Are human bones hollow?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "不是哦！虽然骨头里面没有空气，但它们比钢铁还要坚硬（Bone Strength）。不过骨头里面住着骨髓（Bone Marrow），它是我们身体制造血液的超级工厂！",
+      "en": "No! Bones aren't hollow, and they are actually stronger than steel! Inside the bones lives Bone Marrow, which is a super factory that makes our blood."
+    },
+    "lessonUrl": "/images/人的骨头是空心的吗.jpg"
+  },
+  {
+    "id": "5",
+    "title": {
+      "zh": "我们每天都在掉皮吗",
+      "en": "Do we lose skin every day?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "是的！我们的身体就像一件神奇的外衣，每天都在悄悄脱落死去的皮肤细胞（Skin Cells）。我们每天掉落的皮屑，其实都是身体在换新衣服呢！",
+      "en": "Yes! Our body is like a magic coat. We shed dead Skin Cells every day. Those tiny flakes are just our body putting on a brand new coat!"
+    },
+    "lessonUrl": "/images/我们每天都在掉皮吗.jpg"
+  }
 ]

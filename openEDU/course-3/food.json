@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "title": {
+      "zh": "胡萝卜最早不是橙色的",
+      "en": "Carrots weren't always orange"
+    },
+    "type": "article",
+    "content": {
+      "zh": "最早的胡萝卜其实是紫色、黄色甚至白色的！我们现在吃的橙色胡萝卜，是16世纪荷兰人为了致敬国王而特意培育出来的哦。",
+      "en": "The earliest carrots were actually purple, yellow, or even white! The orange carrots we eat today were specially bred by the Dutch in the 16th century to honor their king."
+    },
+    "lessonUrl": "/images/胡萝卜最早不是橙色的.jpg"
+  },
+  {
+    "id": "2",
+    "title": {
+      "zh": "香蕉为什么是弯的",
+      "en": "Why are bananas curved?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "因为香蕉在努力“追光”呀！香蕉刚长出来时是垂下的，但在成熟过程中，它会逆着地心引力，朝着太阳的方向弯曲生长。",
+      "en": "Because bananas are trying to reach the sun! Bananas start growing downwards, but as they mature, they curve upwards against gravity towards the sunlight."
+    },
+    "lessonUrl": "/images/香蕉为什么是弯的.jpg"
+  },
+  {
+    "id": "3",
+    "title": {
+      "zh": "草莓的种子长在外面",
+      "en": "Strawberries have seeds on the outside"
+    },
+    "type": "article",
+    "content": {
+      "zh": "草莓是唯一一种种子长在表皮外面的水果！平均一颗草莓上大概有200多颗种子，就像穿了一件长满小芝麻的红外衣。",
+      "en": "The strawberry is the only fruit that has its seeds on the outside! An average strawberry has about 200 seeds, like wearing a red coat covered in tiny sesame seeds."
+    },
+    "lessonUrl": "/images/草莓的种子长在外面.jpg"
+  },
+  {
+    "id": "4",
+    "title": {
+      "zh": "蜂蜜永远不会变质",
+      "en": "Honey never spoils"
+    },
+    "type": "article",
+    "content": {
+      "zh": "蜂蜜是大自然里的“防腐剂”！因为它含糖量极高，细菌在里面根本无法生存。考古学家甚至在几千年前的古埃及墓穴里发现了还能吃的蜂蜜呢！",
+      "en": "Honey is nature's preservative! Because it has extremely high sugar content, bacteria cannot survive in it. Archaeologists even found edible honey in ancient Egyptian tombs thousands of years old!"
+    },
+    "lessonUrl": "/images/蜂蜜永远不会变质.jpg"
+  },
+  {
+    "id": "5",
+    "title": {
+      "zh": "番茄其实是水果",
+      "en": "Tomatoes are actually fruits"
+    },
+    "type": "article",
+    "content": {
+      "zh": "虽然我们在厨房里把番茄当蔬菜，但从植物学上讲，番茄属于果实！因为它是由花朵发育而来，而且肚子里面装满了种子。",
+      "en": "Although we treat tomatoes as vegetables in the kitchen, botanically, they are fruits! This is because they develop from flowers and are filled with seeds inside."
+    },
+    "lessonUrl": "/images/番茄其实是水果.jpg"
+  }
+]

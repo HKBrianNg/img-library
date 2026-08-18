@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "title": {
+      "zh": "太空里能听到声音吗",
+      "en": "Can you hear sounds in space?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "不能哦！太空里几乎没有空气，是个大真空（Vacuum）。因为声音需要空气来传播，所以太空里是绝对安静的，宇航员交流都要靠无线电！",
+      "en": "No! Space is almost completely empty, creating a Vacuum. Because sound needs air to travel, space is absolutely silent. Astronauts have to use radios to talk to each other!"
+    },
+    "lessonUrl": "/images/太空里能听到声音吗.jpg"
+  },
+  {
+    "id": "2",
+    "title": {
+      "zh": "宇航员在太空怎么睡觉",
+      "en": "How do astronauts sleep in space?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "在太空里因为没有重力（Microgravity），宇航员会飘起来！所以他们必须钻进固定在墙上的睡袋里，就像被绑在床上的小气球，这样才不会在睡觉时飘走。",
+      "en": "Because there is Microgravity in space, astronauts float! They must zip themselves into sleeping bags attached to the wall, like little balloons tied to a bed, so they don't float away while sleeping."
+    },
+    "lessonUrl": "/images/宇航员在太空怎么睡觉.jpg"
+  },
+  {
+    "id": "3",
+    "title": {
+      "zh": "月亮自己会发光吗",
+      "en": "Does the moon make its own light?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "不会哦！月亮其实像一面大镜子，它自己没有光，我们看到的月光，其实是它反射（Reflection）了太阳的光。",
+      "en": "No! The moon is actually like a giant mirror. It doesn't have its own light; the moonlight we see is just sunlight reflecting off its surface."
+    },
+    "lessonUrl": "/images/月亮自己会发光吗.jpg"
+  },
+  {
+    "id": "4",
+    "title": {
+      "zh": "太阳系的八大行星",
+      "en": "The eight planets in our solar system"
+    },
+    "type": "article",
+    "content": {
+      "zh": "我们住在地球上，太阳系里还有七个行星小伙伴！按离太阳从近到远的顺序，它们分别是：水星、金星、地球、火星、木星、土星、天王星和海王星。",
+      "en": "We live on Earth, and there are seven other planet friends in our solar system! From closest to farthest from the Sun, they are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+    },
+    "lessonUrl": "/images/太阳系的八大行星.jpg"
+  },
+  {
+    "id": "5",
+    "title": {
+      "zh": "宇航员在太空怎么喝水",
+      "en": "How do astronauts drink water in space?"
+    },
+    "type": "article",
+    "content": {
+      "zh": "在太空里，水不会乖乖待在杯子里，而是会变成一个个飘浮的水球（Water Droplets）！宇航员需要像吃糖果一样，把飘过来的水球“啊呜”一口吞进嘴里。",
+      "en": "In space, water doesn't stay in a cup; it forms floating Water Droplets! Astronauts have to catch the floating water balls and eat them like candy!"
+    },
+    "lessonUrl": "/images/宇航员在太空怎么喝水.jpg"
+  }
+]
