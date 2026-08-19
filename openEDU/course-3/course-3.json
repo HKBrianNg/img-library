@@ -86,11 +86,11 @@
     {
       "id": "ch8",
       "title": {
-        "zh": "奇妙科学",
-        "en": "Weird Science"
+        "zh": "文化",
+        "en": "Culture"
       },
       "order": 8,
-      "lessonsFile": "wired-science.json"
+      "lessonsFile": "culture.json"
     }
   ]
 }
