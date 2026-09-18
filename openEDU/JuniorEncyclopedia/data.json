@@ -1,0 +1,491 @@
+{
+  "title": "少年百科全书",
+  "titleEn": "Junior Encyclopedia",
+  "chapters": [
+    {
+      "name": "第一章 我们的身体",
+      "en": "Chapter 1: Our Body",
+      "descriptionCn": "了解你自己的身体，从外表到内部，从感觉到成长，学会爱护自己。",
+      "descriptionEn": "Learn about your own body, from outside appearance to inside, from senses to growth, and learn to take care of yourself.",
+      "sections": [
+        {
+          "name": "你的外表",
+          "en": "Your Outside Appearance",
+          "descriptionCn": "看看镜子里的自己——脸、头发、皮肤、手脚，这些都是构成你外表的独特部分。",
+          "descriptionEn": "Look at yourself in the mirror — face, hair, skin, hands and feet, these are the unique parts that make up your appearance.",
+          "items": [
+            { "name": "面对面", "en": "Face to Face", "contentLink": "Face-to-Face" },
+            { "name": "你的两侧", "en": "Your Two Sides", "contentLink": "Your-Two-Sides" },
+            { "name": "让我们聊聊牙齿！", "en": "Let's Talk Teeth!", "contentLink": "Lets-Talk-Teeth" },
+            { "name": "聊聊毛发", "en": "Talking About Hair", "contentLink": "Talking-About-Hair" },
+            { "name": "包裹你的皮肤", "en": "Your Wrapping Skin", "contentLink": "Your-Wrapping-Skin" },
+            { "name": "为什么皮肤有不同的颜色？", "en": "Why Does Skin Have Different Colors?", "contentLink": "Why-Does-Skin-Have-Different-Colors" },
+            { "name": "手和脚的作用", "en": "What Hands and Feet Do", "contentLink": "What-Hands-and-Feet-Do" },
+            { "name": "为什么你会有指甲和趾甲？", "en": "Why Do You Have Fingernails and Toenails?", "contentLink": "Why-Do-You-Have-Fingernails-and-Toenails" },
+            { "name": "你的专属印记", "en": "Your Unique Marks", "contentLink": "Your-Unique-Marks" },
+            { "name": "盲人摸象", "en": "The Blind Men and the Elephant", "contentLink": "The-Blind-Men-and-the-Elephant" },
+            { "name": "当耳朵需要帮助", "en": "When Ears Need Help", "contentLink": "When-Ears-Need-Help" },
+            { "name": "了解你的鼻子", "en": "Getting to Know Your Nose", "contentLink": "Getting-to-Know-Your-Nose" },
+            { "name": "味觉的奥秘", "en": "The Mystery of Taste", "contentLink": "The-Mystery-of-Taste" },
+            { "name": "关于触觉", "en": "About Touch", "contentLink": "About-Touch" }
+          ]
+        },
+        {
+          "name": "你的体内",
+          "en": "Inside Your Body",
+          "descriptionCn": "骨骼、肌肉、心脏、肺……你的身体内部就像一个精密的机器，每时每刻都在工作。",
+          "descriptionEn": "Bones, muscles, heart, lungs... the inside of your body is like a precise machine working every moment.",
+          "items": [
+            { "name": "生命的积木块", "en": "Building Blocks of Life", "contentLink": "Building-Blocks-of-Life" },
+            { "name": "身体的框架", "en": "The Body's Framework", "contentLink": "The-Bodys-Framework" },
+            { "name": "神奇的肌肉", "en": "Amazing Muscles", "contentLink": "Amazing-Muscles" },
+            { "name": "跳动的心脏", "en": "The Beating Heart", "contentLink": "The-Beating-Heart" },
+            { "name": "血液的作用是什么？", "en": "What Does Blood Do?", "contentLink": "What-Does-Blood-Do" },
+            { "name": "你的每一次呼吸", "en": "Every Breath You Take", "contentLink": "Every-Breath-You-Take" },
+            { "name": "当你吃东西时发生了什么？", "en": "What Happens When You Eat?", "contentLink": "What-Happens-When-You-Eat" },
+            { "name": "保持血液的洁净", "en": "Keeping Blood Clean", "contentLink": "Keeping-Blood-Clean" },
+            { "name": "男孩和女孩不一样", "en": "Boys and Girls Are Different", "contentLink": "Boys-and-Girls-Are-Different" },
+            { "name": "你的思考机器", "en": "Your Thinking Machine", "contentLink": "Your-Thinking-Machine" },
+            { "name": "你的身体控制中心", "en": "Your Body's Control Center", "contentLink": "Your-Bodys-Control-Center" }
+          ]
+        },
+        {
+          "name": "你的感觉",
+          "en": "Your Senses",
+          "descriptionCn": "看、听、闻、尝、摸——五种感觉让你认识这个丰富多彩的世界。",
+          "descriptionEn": "See, hear, smell, taste, touch — five senses help you experience the colorful world.",
+          "items": [
+            { "name": "每种感觉都很特别", "en": "Each Sense Is Special", "contentLink": "Each-Sense-Is-Special" },
+            { "name": "你是如何看见的？", "en": "How Do You See?", "contentLink": "How-Do-You-See" },
+            { "name": "当眼睛需要帮助", "en": "When Eyes Need Help", "contentLink": "When-Eyes-Need-Help" },
+            { "name": "我们如何说话？", "en": "How Do We Speak?", "contentLink": "How-Do-We-Speak" },
+            { "name": "现在来听听这个！", "en": "Now Listen to This!", "contentLink": "Now-Listen-to-This" }
+          ]
+        },
+        {
+          "name": "成长和变化",
+          "en": "Growing and Changing",
+          "descriptionCn": "从出生到长大，你的身体和心灵一直在发生变化，这是每个人都会经历的奇妙旅程。",
+          "descriptionEn": "From birth to growing up, your body and mind keep changing — it's a wonderful journey everyone goes through.",
+          "items": [
+            { "name": "在你出生之前", "en": "Before You Were Born", "contentLink": "Before-You-Were-Born" },
+            { "name": "等待出生", "en": "Waiting to Be Born", "contentLink": "Waiting-to-Be-Born" },
+            { "name": "出生", "en": "Birth", "contentLink": "Birth" },
+            { "name": "全新的你", "en": "A Brand New You", "contentLink": "A-Brand-New-You" },
+            { "name": "你会长得像谁？", "en": "Who Will You Look Like?", "contentLink": "Who-Will-You-Look-Like" },
+            { "name": "骨头在生长", "en": "Bones Are Growing", "contentLink": "Bones-Are-Growing" },
+            { "name": "你会长多高？", "en": "How Tall Will You Grow?", "contentLink": "How-Tall-Will-You-Grow" },
+            { "name": "家庭", "en": "Family", "contentLink": "Family" },
+            { "name": "亲戚", "en": "Relatives", "contentLink": "Relatives" }
+          ]
+        },
+        {
+          "name": "思想和感受",
+          "en": "Thoughts and Feelings",
+          "descriptionCn": "你的大脑不仅在学习知识，也在学习如何理解自己和别人的感受。",
+          "descriptionEn": "Your brain not only learns knowledge but also learns how to understand your own and others' feelings.",
+          "items": [
+            { "name": "你的世界在不断变大", "en": "Your World Keeps Growing", "contentLink": "Your-World-Keeps-Growing" },
+            { "name": "在学校里也很自在", "en": "Feeling at Home at School", "contentLink": "Feeling-at-Home-at-School" },
+            { "name": "了解世界", "en": "Understanding the World", "contentLink": "Understanding-the-World" },
+            { "name": "你不断变化的感受", "en": "Your Changing Feelings", "contentLink": "Your-Changing-Feelings" },
+            { "name": "交朋友", "en": "Making Friends", "contentLink": "Making-Friends" },
+            { "name": "每个人都与众不同", "en": "Everyone Is Different", "contentLink": "Everyone-Is-Different" },
+            { "name": "不是坏事", "en": "It's Not a Bad Thing", "contentLink": "Its-Not-a-Bad-Thing" },
+            { "name": "学习分辨对错", "en": "Learning Right from Wrong", "contentLink": "Learning-Right-from-Wrong" },
+            { "name": "失去爱的人", "en": "Losing Someone You Love", "contentLink": "Losing-Someone-You-Love" }
+          ]
+        },
+        {
+          "name": "爱护你自己",
+          "en": "Take Care of Yourself",
+          "descriptionCn": "学会照顾自己的身体和心情，健康快乐地成长。",
+          "descriptionEn": "Learn to take care of your body and mood, grow up healthy and happy.",
+          "items": [
+            { "name": "当你生病时会发生什么？", "en": "What Happens When You Are Sick?", "contentLink": "What-Happens-When-You-Are-Sick" },
+            { "name": "你的身体如何自我修复？", "en": "How Does Your Body Heal Itself?", "contentLink": "How-Does-Your-Body-Heal-Itself" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "第二章 植物王国",
+      "en": "Chapter 2: Plant Kingdom",
+      "descriptionCn": "走进绿色的植物世界，认识各种各样的花草树木，了解它们如何生长和繁衍。",
+      "descriptionEn": "Step into the green world of plants, get to know various flowers, grasses and trees, and learn how they grow and reproduce.",
+      "sections": [
+        {
+          "name": "植物是什么？",
+          "en": "What Are Plants?",
+          "descriptionCn": "植物是地球上最重要的生命之一，它们为我们提供食物、氧气和美丽的风景。",
+          "descriptionEn": "Plants are one of the most important life forms on Earth, providing us with food, oxygen and beautiful scenery.",
+          "items": [
+            { "name": "植物的世界", "en": "The World of Plants", "contentLink": "The-World-of-Plants" },
+            { "name": "植物如何制造食物", "en": "How Plants Make Food", "contentLink": "How-Plants-Make-Food" },
+            { "name": "植物的分类", "en": "Classification of Plants", "contentLink": "Classification-of-Plants" },
+            { "name": "植物的重要性", "en": "Importance of Plants", "contentLink": "Importance-of-Plants" }
+          ]
+        },
+        {
+          "name": "种子和球茎",
+          "en": "Seeds and Bulbs",
+          "descriptionCn": "一颗小小的种子，可以长成一棵参天大树。来看看种子和球茎的神奇力量。",
+          "descriptionEn": "A tiny seed can grow into a towering tree. Let's discover the amazing power of seeds and bulbs.",
+          "items": [
+            { "name": "种子的旅行", "en": "Seed Travel", "contentLink": "Seed-Travel" },
+            { "name": "种子发芽", "en": "Seed Germination", "contentLink": "Seed-Germination" },
+            { "name": "球茎植物", "en": "Bulb Plants", "contentLink": "Bulb-Plants" },
+            { "name": "种子的结构", "en": "Structure of Seeds", "contentLink": "Structure-of-Seeds" }
+          ]
+        },
+        {
+          "name": "树木",
+          "en": "Trees",
+          "descriptionCn": "树木是地球上最大最高的植物，它们默默守护着我们的家园。",
+          "descriptionEn": "Trees are the largest and tallest plants on Earth, silently guarding our home.",
+          "items": [
+            { "name": "树的各个部分", "en": "Parts of a Tree", "contentLink": "Parts-of-a-Tree" },
+            { "name": "常绿树和落叶树", "en": "Evergreen and Deciduous Trees", "contentLink": "Evergreen-and-Deciduous-Trees" },
+            { "name": "年轮的故事", "en": "Story of Tree Rings", "contentLink": "Story-of-Tree-Rings" },
+            { "name": "森林", "en": "Forests", "contentLink": "Forests" },
+            { "name": "有用的木材", "en": "Useful Wood", "contentLink": "Useful-Wood" }
+          ]
+        },
+        {
+          "name": "花和果实",
+          "en": "Flowers and Fruits",
+          "descriptionCn": "五彩缤纷的花朵和香甜美味的果实，都是植物送给我们的礼物。",
+          "descriptionEn": "Colorful flowers and sweet fruits are gifts from plants to us.",
+          "items": [
+            { "name": "花的各个部分", "en": "Parts of a Flower", "contentLink": "Parts-of-a-Flower" },
+            { "name": "授粉", "en": "Pollination", "contentLink": "Pollination" },
+            { "name": "果实的形成", "en": "Fruit Formation", "contentLink": "Fruit-Formation" },
+            { "name": "可食用的果实", "en": "Edible Fruits", "contentLink": "Edible-Fruits" },
+            { "name": "蔬菜是植物的哪个部分？", "en": "Which Part of the Plant Are Vegetables?", "contentLink": "Which-Part-of-the-Plant-Are-Vegetables" }
+          ]
+        },
+        {
+          "name": "没有花的植物",
+          "en": "Plants Without Flowers",
+          "descriptionCn": "不是所有植物都会开花，蕨类、苔藓、藻类用另一种方式展现生命的美。",
+          "descriptionEn": "Not all plants bloom — ferns, mosses and algae show the beauty of life in other ways.",
+          "items": [
+            { "name": "蕨类植物", "en": "Ferns", "contentLink": "Ferns" },
+            { "name": "苔藓", "en": "Mosses", "contentLink": "Mosses" },
+            { "name": "藻类", "en": "Algae", "contentLink": "Algae" },
+            { "name": "真菌不是植物", "en": "Fungi Are Not Plants", "contentLink": "Fungi-Are-Not-Plants" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "第三章 动物世界",
+      "en": "Chapter 3: Animal World",
+      "descriptionCn": "从微小的昆虫到巨大的鲸鱼，动物世界充满了惊奇和多样性，一起来认识我们的动物朋友。",
+      "descriptionEn": "From tiny insects to giant whales, the animal world is full of wonder and diversity. Let's meet our animal friends.",
+      "sections": [
+        {
+          "name": "哺乳动物",
+          "en": "Mammals",
+          "descriptionCn": "哺乳动物是和我们最亲近的动物，它们用乳汁哺育后代，身上大多覆盖着毛发。",
+          "descriptionEn": "Mammals are the animals closest to us. They feed their young with milk and most have fur or hair.",
+          "items": [
+            { "name": "什么是哺乳动物？", "en": "What Are Mammals?", "contentLink": "What-Are-Mammals" },
+            { "name": "有袋动物", "en": "Marsupials", "contentLink": "Marsupials" },
+            { "name": "海洋哺乳动物", "en": "Marine Mammals", "contentLink": "Marine-Mammals" },
+            { "name": "灵长类动物", "en": "Primates", "contentLink": "Primates" },
+            { "name": "大型猫科动物", "en": "Big Cats", "contentLink": "Big-Cats" },
+            { "name": "熊", "en": "Bears", "contentLink": "Bears" }
+          ]
+        },
+        {
+          "name": "鸟类",
+          "en": "Birds",
+          "descriptionCn": "鸟儿们身披羽毛，展翅飞翔，它们的歌声和色彩让世界更加生动。",
+          "descriptionEn": "Birds are covered in feathers and soar through the sky. Their songs and colors make the world more vibrant.",
+          "items": [
+            { "name": "什么是鸟类？", "en": "What Are Birds?", "contentLink": "What-Are-Birds" },
+            { "name": "鸟类的飞行", "en": "Bird Flight", "contentLink": "Bird-Flight" },
+            { "name": "不会飞的鸟", "en": "Flightless Birds", "contentLink": "Flightless-Birds" },
+            { "name": "鸟巢和鸟蛋", "en": "Nests and Eggs", "contentLink": "Nests-and-Eggs" },
+            { "name": "候鸟", "en": "Migratory Birds", "contentLink": "Migratory-Birds" }
+          ]
+        },
+        {
+          "name": "爬行动物和两栖动物",
+          "en": "Reptiles and Amphibians",
+          "descriptionCn": "冷血的爬行动物和既能在水里又能在陆地上生活的两栖动物，有着独特的生存智慧。",
+          "descriptionEn": "Cold-blooded reptiles and amphibians that live both in water and on land have unique survival wisdom.",
+          "items": [
+            { "name": "什么是爬行动物？", "en": "What Are Reptiles?", "contentLink": "What-Are-Reptiles" },
+            { "name": "蛇", "en": "Snakes", "contentLink": "Snakes" },
+            { "name": "蜥蜴", "en": "Lizards", "contentLink": "Lizards" },
+            { "name": "龟和鳖", "en": "Turtles and Tortoises", "contentLink": "Turtles-and-Tortoises" },
+            { "name": "鳄鱼", "en": "Crocodiles", "contentLink": "Crocodiles" },
+            { "name": "什么是两栖动物？", "en": "What Are Amphibians?", "contentLink": "What-Are-Amphibians" },
+            { "name": "青蛙的一生", "en": "Life of a Frog", "contentLink": "Life-of-a-Frog" }
+          ]
+        },
+        {
+          "name": "鱼类",
+          "en": "Fish",
+          "descriptionCn": "在水中游弋的鱼儿种类繁多，形态各异，它们是海洋和河流中的重要居民。",
+          "descriptionEn": "Fish swimming in water come in many shapes and sizes. They are important residents of oceans and rivers.",
+          "items": [
+            { "name": "什么是鱼类？", "en": "What Are Fish?", "contentLink": "What-Are-Fish" },
+            { "name": "淡水鱼和海水鱼", "en": "Freshwater and Saltwater Fish", "contentLink": "Freshwater-and-Saltwater-Fish" },
+            { "name": "鲨鱼", "en": "Sharks", "contentLink": "Sharks" },
+            { "name": "珊瑚礁鱼类", "en": "Coral Reef Fish", "contentLink": "Coral-Reef-Fish" }
+          ]
+        },
+        {
+          "name": "昆虫和蜘蛛",
+          "en": "Insects and Spiders",
+          "descriptionCn": "昆虫是地球上数量最多的动物，而蜘蛛虽然常常被误解，但它们也是了不起的小生物。",
+          "descriptionEn": "Insects are the most numerous animals on Earth, and spiders, though often misunderstood, are also remarkable creatures.",
+          "items": [
+            { "name": "什么是昆虫？", "en": "What Are Insects?", "contentLink": "What-Are-Insects" },
+            { "name": "蝴蝶的一生", "en": "Life of a Butterfly", "contentLink": "Life-of-a-Butterfly" },
+            { "name": "蜜蜂", "en": "Bees", "contentLink": "Bees" },
+            { "name": "蚂蚁", "en": "Ants", "contentLink": "Ants" },
+            { "name": "甲虫", "en": "Beetles", "contentLink": "Beetles" },
+            { "name": "蜘蛛不是昆虫", "en": "Spiders Are Not Insects", "contentLink": "Spiders-Are-Not-Insects" }
+          ]
+        },
+        {
+          "name": "动物的栖息地",
+          "en": "Animal Habitats",
+          "descriptionCn": "从炎热的沙漠到冰冷的极地，不同的环境孕育了不同的动物。",
+          "descriptionEn": "From hot deserts to frozen polar regions, different environments nurture different animals.",
+          "items": [
+            { "name": "雨林", "en": "Rainforests", "contentLink": "Rainforests" },
+            { "name": "沙漠", "en": "Deserts", "contentLink": "Deserts" },
+            { "name": "草原", "en": "Grasslands", "contentLink": "Grasslands" },
+            { "name": "极地", "en": "Polar Regions", "contentLink": "Polar-Regions" },
+            { "name": "海洋", "en": "Oceans", "contentLink": "Oceans" },
+            { "name": "山地", "en": "Mountains", "contentLink": "Mountains" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "第四章 地球科学",
+      "en": "Chapter 4: Earth Science",
+      "descriptionCn": "我们生活的地球是一颗神奇的行星，有山川河流、风云变幻，还有丰富的资源等待我们去探索。",
+      "descriptionEn": "The Earth we live on is a magical planet with mountains, rivers, changing weather, and abundant resources waiting to be explored.",
+      "sections": [
+        {
+          "name": "我们的星球",
+          "en": "Our Planet",
+          "descriptionCn": "地球是我们的家园，它是什么样的？内部有什么？让我们一起了解这颗蓝色星球。",
+          "descriptionEn": "Earth is our home. What does it look like? What's inside? Let's learn about this blue planet together.",
+          "items": [
+            { "name": "地球的形状", "en": "Shape of the Earth", "contentLink": "Shape-of-the-Earth" },
+            { "name": "地球的内部", "en": "Inside the Earth", "contentLink": "Inside-the-Earth" },
+            { "name": "大陆和大洋", "en": "Continents and Oceans", "contentLink": "Continents-and-Oceans" },
+            { "name": "地图和地球仪", "en": "Maps and Globes", "contentLink": "Maps-and-Globes" }
+          ]
+        },
+        {
+          "name": "天气",
+          "en": "Weather",
+          "descriptionCn": "晴天、雨天、刮风、下雪……天气每天都在变化，影响着我们的生活。",
+          "descriptionEn": "Sunny days, rainy days, windy days, snowy days... the weather changes every day and affects our lives.",
+          "items": [
+            { "name": "太阳和温度", "en": "Sun and Temperature", "contentLink": "Sun-and-Temperature" },
+            { "name": "风", "en": "Wind", "contentLink": "Wind" },
+            { "name": "云", "en": "Clouds", "contentLink": "Clouds" },
+            { "name": "雨和雪", "en": "Rain and Snow", "contentLink": "Rain-and-Snow" },
+            { "name": "暴风雨", "en": "Storms", "contentLink": "Storms" },
+            { "name": "天气预报", "en": "Weather Forecast", "contentLink": "Weather-Forecast" }
+          ]
+        },
+        {
+          "name": "岩石和矿物",
+          "en": "Rocks and Minerals",
+          "descriptionCn": "脚下的石头其实大有来头，它们记录着地球亿万年的历史。",
+          "descriptionEn": "The stones beneath your feet have fascinating stories, recording billions of years of Earth's history.",
+          "items": [
+            { "name": "岩石的种类", "en": "Types of Rocks", "contentLink": "Types-of-Rocks" },
+            { "name": "化石", "en": "Fossils", "contentLink": "Fossils" },
+            { "name": "宝石", "en": "Gems", "contentLink": "Gems" },
+            { "name": "金属从哪里来？", "en": "Where Do Metals Come From?", "contentLink": "Where-Do-Metals-Come-From" }
+          ]
+        },
+        {
+          "name": "火山和地震",
+          "en": "Volcanoes and Earthquakes",
+          "descriptionCn": "火山喷发和地震是地球上最壮观也最危险的自然现象，它们展示了地球内部的巨大力量。",
+          "descriptionEn": "Volcanic eruptions and earthquakes are the most spectacular and dangerous natural phenomena, showing the immense power inside the Earth.",
+          "items": [
+            { "name": "火山是如何形成的？", "en": "How Do Volcanoes Form?", "contentLink": "How-Do-Volcanoes-Form" },
+            { "name": "著名的火山喷发", "en": "Famous Volcanic Eruptions", "contentLink": "Famous-Volcanic-Eruptions" },
+            { "name": "地震的原因", "en": "Causes of Earthquakes", "contentLink": "Causes-of-Earthquakes" },
+            { "name": "海啸", "en": "Tsunamis", "contentLink": "Tsunamis" }
+          ]
+        },
+        {
+          "name": "河流和海洋",
+          "en": "Rivers and Oceans",
+          "descriptionCn": "水是生命之源，河流和海洋覆盖了地球大部分表面，蕴藏着无数秘密。",
+          "descriptionEn": "Water is the source of life. Rivers and oceans cover most of the Earth's surface and hold countless secrets.",
+          "items": [
+            { "name": "水循环", "en": "Water Cycle", "contentLink": "Water-Cycle" },
+            { "name": "河流的旅程", "en": "Journey of a River", "contentLink": "Journey-of-a-River" },
+            { "name": "湖泊", "en": "Lakes", "contentLink": "Lakes" },
+            { "name": "海洋的特点", "en": "Features of the Ocean", "contentLink": "Features-of-the-Ocean" },
+            { "name": "潮汐", "en": "Tides", "contentLink": "Tides" }
+          ]
+        },
+        {
+          "name": "保护地球",
+          "en": "Protecting the Earth",
+          "descriptionCn": "地球正在面临各种环境问题，我们每个人都可以为保护地球出一份力。",
+          "descriptionEn": "The Earth is facing various environmental problems, and each of us can do our part to protect it.",
+          "items": [
+            { "name": "污染", "en": "Pollution", "contentLink": "Pollution" },
+            { "name": "回收利用", "en": "Recycling", "contentLink": "Recycling" },
+            { "name": "节约能源", "en": "Saving Energy", "contentLink": "Saving-Energy" },
+            { "name": "濒危动物", "en": "Endangered Animals", "contentLink": "Endangered-Animals" },
+            { "name": "我们可以做什么？", "en": "What Can We Do?", "contentLink": "What-Can-We-Do" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "第五章 宇宙",
+      "en": "Chapter 5: The Universe",
+      "descriptionCn": "仰望星空，浩瀚的宇宙充满了神秘和美丽，从太阳系到遥远的星系，等待着我们去发现。",
+      "descriptionEn": "Look up at the stars. The vast universe is full of mystery and beauty, from the solar system to distant galaxies, waiting for us to discover.",
+      "sections": [
+        {
+          "name": "太阳系",
+          "en": "The Solar System",
+          "descriptionCn": "太阳系是我们的宇宙家园，太阳和八大行星组成了这个大家庭。",
+          "descriptionEn": "The solar system is our cosmic home, where the Sun and eight planets form this big family.",
+          "items": [
+            { "name": "太阳", "en": "The Sun", "contentLink": "The-Sun" },
+            { "name": "水星", "en": "Mercury", "contentLink": "Mercury" },
+            { "name": "金星", "en": "Venus", "contentLink": "Venus" },
+            { "name": "地球", "en": "Earth", "contentLink": "Earth" },
+            { "name": "火星", "en": "Mars", "contentLink": "Mars" },
+            { "name": "木星", "en": "Jupiter", "contentLink": "Jupiter" },
+            { "name": "土星", "en": "Saturn", "contentLink": "Saturn" },
+            { "name": "天王星和海王星", "en": "Uranus and Neptune", "contentLink": "Uranus-and-Neptune" }
+          ]
+        },
+        {
+          "name": "月球",
+          "en": "The Moon",
+          "descriptionCn": "月球是地球最近的邻居，它的阴晴圆缺和潮汐变化都与我们息息相关。",
+          "descriptionEn": "The Moon is Earth's closest neighbor. Its phases and tidal effects are closely connected to us.",
+          "items": [
+            { "name": "月球的表面", "en": "Surface of the Moon", "contentLink": "Surface-of-the-Moon" },
+            { "name": "月相", "en": "Moon Phases", "contentLink": "Moon-Phases" },
+            { "name": "日食和月食", "en": "Solar and Lunar Eclipses", "contentLink": "Solar-and-Lunar-Eclipses" },
+            { "name": "登月", "en": "Moon Landing", "contentLink": "Moon-Landing" }
+          ]
+        },
+        {
+          "name": "星星和星座",
+          "en": "Stars and Constellations",
+          "descriptionCn": "夜空中闪烁的星星组成了各种图案，古人通过它们来导航和讲故事。",
+          "descriptionEn": "The twinkling stars in the night sky form various patterns. Ancient people used them for navigation and storytelling.",
+          "items": [
+            { "name": "恒星", "en": "Stars", "contentLink": "Stars" },
+            { "name": "星座", "en": "Constellations", "contentLink": "Constellations" },
+            { "name": "北斗七星", "en": "Big Dipper", "contentLink": "Big-Dipper" },
+            { "name": "银河", "en": "Milky Way", "contentLink": "Milky-Way" }
+          ]
+        },
+        {
+          "name": "太空探索",
+          "en": "Space Exploration",
+          "descriptionCn": "人类从未停止对太空的向往，火箭、卫星、空间站，我们一步步走向星辰大海。",
+          "descriptionEn": "Humans have never stopped yearning for space. Rockets, satellites, space stations — we are reaching for the stars step by step.",
+          "items": [
+            { "name": "火箭", "en": "Rockets", "contentLink": "Rockets" },
+            { "name": "宇航员", "en": "Astronauts", "contentLink": "Astronauts" },
+            { "name": "国际空间站", "en": "International Space Station", "contentLink": "International-Space-Station" },
+            { "name": "望远镜", "en": "Telescopes", "contentLink": "Telescopes" },
+            { "name": "外星生命", "en": "Extraterrestrial Life", "contentLink": "Extraterrestrial-Life" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "第六章 科技与发明",
+      "en": "Chapter 6: Technology and Inventions",
+      "descriptionCn": "人类的智慧和创造力带来了无数伟大的发明，从古老的工具到现代的智能科技，改变了我们的生活。",
+      "descriptionEn": "Human wisdom and creativity have brought countless great inventions, from ancient tools to modern smart technology, changing our lives.",
+      "sections": [
+        {
+          "name": "通信",
+          "en": "Communication",
+          "descriptionCn": "从语言到文字，从书信到互联网，人类沟通的方式在不断进化。",
+          "descriptionEn": "From spoken language to written words, from letters to the internet, the way humans communicate keeps evolving.",
+          "items": [
+            { "name": "语言的起源", "en": "Origin of Language", "contentLink": "Origin-of-Language" },
+            { "name": "书写的历史", "en": "History of Writing", "contentLink": "History-of-Writing" },
+            { "name": "印刷术", "en": "Printing", "contentLink": "Printing" },
+            { "name": "电话", "en": "Telephone", "contentLink": "Telephone" },
+            { "name": "互联网", "en": "Internet", "contentLink": "Internet" }
+          ]
+        },
+        {
+          "name": "交通",
+          "en": "Transportation",
+          "descriptionCn": "从步行到骑马，从汽车到飞机，交通工具让世界变得越来越小。",
+          "descriptionEn": "From walking to horse riding, from cars to airplanes, transportation has made the world smaller and smaller.",
+          "items": [
+            { "name": "自行车", "en": "Bicycles", "contentLink": "Bicycles" },
+            { "name": "汽车", "en": "Cars", "contentLink": "Cars" },
+            { "name": "火车", "en": "Trains", "contentLink": "Trains" },
+            { "name": "飞机", "en": "Airplanes", "contentLink": "Airplanes" },
+            { "name": "轮船", "en": "Ships", "contentLink": "Ships" }
+          ]
+        },
+        {
+          "name": "能源",
+          "en": "Energy",
+          "descriptionCn": "能量驱动着整个世界，从烧柴到核电，人类一直在寻找更清洁高效的能源。",
+          "descriptionEn": "Energy powers the whole world. From burning wood to nuclear power, humans keep seeking cleaner and more efficient energy sources.",
+          "items": [
+            { "name": "什么是能量？", "en": "What Is Energy?", "contentLink": "What-Is-Energy" },
+            { "name": "电", "en": "Electricity", "contentLink": "Electricity" },
+            { "name": "太阳能", "en": "Solar Energy", "contentLink": "Solar-Energy" },
+            { "name": "风力发电", "en": "Wind Power", "contentLink": "Wind-Power" },
+            { "name": "核能", "en": "Nuclear Energy", "contentLink": "Nuclear-Energy" }
+          ]
+        },
+        {
+          "name": "医疗科技",
+          "en": "Medical Technology",
+          "descriptionCn": "医学的进步让我们能够战胜疾病、延长寿命，享受更健康的生活。",
+          "descriptionEn": "Advances in medicine allow us to fight diseases, extend lifespans, and enjoy healthier lives.",
+          "items": [
+            { "name": "疫苗", "en": "Vaccines", "contentLink": "Vaccines" },
+            { "name": "X光和CT扫描", "en": "X-rays and CT Scans", "contentLink": "X-rays-and-CT-Scans" },
+            { "name": "手术", "en": "Surgery", "contentLink": "Surgery" },
+            { "name": "假肢", "en": "Prosthetics", "contentLink": "Prosthetics" },
+            { "name": "药物", "en": "Medicine", "contentLink": "Medicine" }
+          ]
+        },
+        {
+          "name": "伟大的发明家",
+          "en": "Great Inventors",
+          "descriptionCn": "每一位伟大的发明家背后都有一个改变世界的想法，他们的故事激励着我们不断创新。",
+          "descriptionEn": "Behind every great inventor is an idea that changed the world. Their stories inspire us to keep innovating.",
+          "items": [
+            { "name": "托马斯·爱迪生", "en": "Thomas Edison", "contentLink": "Thomas-Edison" },
+            { "name": "亚历山大·贝尔", "en": "Alexander Bell", "contentLink": "Alexander-Bell" },
+            { "name": "玛丽·居里", "en": "Marie Curie", "contentLink": "Marie-Curie" },
+            { "name": "莱特兄弟", "en": "Wright Brothers", "contentLink": "Wright-Brothers" },
+            { "name": "尼古拉·特斯拉", "en": "Nikola Tesla", "contentLink": "Nikola-Tesla" },
+            { "name": "中国的四大发明", "en": "Four Great Inventions of China", "contentLink": "Four-Great-Inventions-of-China" }
+          ]
+        }
+      ]
+    }
+  ]
+}
