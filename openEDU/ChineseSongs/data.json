@@ -1,0 +1,26 @@
+{
+    "title": "中文歌",
+    "titleEn": "Chinese Songs",
+    "categories": [
+        {
+            "name":"儿歌",
+            "en": "Children Songs",
+            "items": [
+                {"name": "孩子的天空", "en": "Children's Sky", "audio": "/audio/孩子的天空.mp3", "lyric": "/lyric/孩子的天空.lrc"},
+                {"name": "勇气大爆发", "en": "Courage Explosion", "audio": "/audio/勇气大爆发.mp3", "lyric": "/lyric/勇气大爆发.lrc"}
+            ]
+        },
+        {
+            "name": "流行歌曲",
+            "en": "Pop Music",
+            "items": [
+                {"name": "黄昏", "en": "Dusk", "audio": "/audio/黄昏.mp3", "lyric": "/lyric/黄昏.lrc"},
+                {"name": "小幸运", "en": "Little Happiness", "audio": "/audio/小幸运.mp3", "lyric": "/lyric/小幸运.lrc"},
+                {"name": "", "en": "", "audio": "", "lyric": ""},
+                {"name": "", "en": "", "audio": "", "lyric": ""},
+                {"name": "", "en": "", "audio": "", "lyric": ""}
+            ]
+
+        }
+    ]
+}
