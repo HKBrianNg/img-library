@@ -1,0 +1,42 @@
+{
+    "title": "英文歌",
+    "titleEn": "English Songs",
+    "categories": [
+        {
+            "name":"儿歌",
+            "en": "Children Songs",
+            "items": [
+                {"name": "宾果", "en": "Bingo", "audio": "/audio/bingo.mp3", "lyric": "/lyric/bingo.lrc"},
+                {"name": "老麦克唐纳", "en": "Old Macdonald", "audio": "/audio/old-macdonald.mp3", "lyric": "/lyric/old-macdonald.lrc"},
+                {"name": "铃儿响叮当", "en": "Jingle Bells", "audio": "/audio/jingle-bells.mp3", "lyric": "/lyric/jingle-bells.lrc"},
+                {"name": "雨啊雨快走开", "en": "Rain Rain Go Away", "audio": "/audio/rain-rain-go-away.mp3", "lyric": "/lyric/rain-rain-go-away.lrc"},
+                {"name": "你好吗", "en": "Hello How are you", "audio": "/audio/hello-hello-how-are-you.mp3", "lyric": "/lyric/hello-hello-how-are-you.lrc"},
+                {"name": "别评判我", "en": "Don't Judge Me", "audio": "/audio/don't-judge-me.mp3", "lyric": "/lyric/don't-judge-me.lrc"},
+                {"name": "随它吧", "en": "Let It Go", "audio": "/audio/let-it-go.mp3", "lyric": "/lyric/let-it-go.lrc"},
+                {"name": "划船歌", "en": "Row Row Row Your Boat", "audio": "/audio/row-row-row-your-boat.mp3", "lyric": "/lyric/row-row-row-your-boat.lrc"},
+                {"name": "小星星", "en": "Twinkle Star", "audio": "/audio/twinkle-star.mp3", "lyric": "/lyric/twinkle-star.lrc"},
+                {"name": "巴士上的轮子", "en": "Wheels On The Bus", "audio": "/audio/wheels-on-the-bus.mp3", "lyric": "/lyric/wheels-on-the-bus.lrc"},
+                {"name": "", "en": "", "audio": "/audio/", "lyric": "/lyric/"},
+                {"name": "", "en": "", "audio": "/audio/", "lyric": "/lyric/"}
+            ]
+        },
+        {
+            "name": "流行歌曲",
+            "en": "Pop Music",
+            "items": [
+                {"name": "情感", "en": "Emotion", "audio": "/audio/emotion.mp3", "lyric": "/lyric/emotion.lrc"},
+                {"name": "嘿，朱迪", "en": "Hey Jude", "audio": "/audio/hey-jude.mp3", "lyric": "/lyric/hey-jude.lrc"},
+                {"name": "你好", "en": "Hello", "audio": "/audio/hello.mp3", "lyric": "/lyric/hello.lrc"},
+                {"name": "你的爱有多深", "en": "How Deep Is Your Love", "audio": "/audio/how-deep-is-your-love.mp3", "lyric": "/lyric/how-deep-is-your-love.lrc"},
+                {"name": "顺其自然", "en": "Let It Be", "audio": "/audio/let-it-be.mp3", "lyric": "/lyric/let-it-be.lrc"},
+                {"name": "活着", "en": "Stayin' Alive", "audio": "/audio/stayin-alive.mp3", "lyric": "/lyric/stayin-alive.lrc"},
+                {"name": "爱上一个人", "en": "To Love Somebody", "audio": "/audio/to-love-somebody.mp3", "lyric": "/lyric/to-love-somebody.lrc"},
+                {"name": "我们才刚刚开始", "en": "We've Only Just Begun", "audio": "/audio/we've-only-just-begun.mp3", "lyric": "/lyric/we've-only-just-begun.lrc"},
+                {"name": "昨日重现", "en": "Yesterday Once More", "audio": "/audio/yesterday-once-more.mp3", "lyric": "/lyric/yesterday-once-more.lrc"},
+                {"name": "昨天", "en": "Yesterday", "audio": "/audio/yesterday.mp3", "lyric": "/lyric/yesterday.lrc"},
+                {"name": "", "en": "", "audio": "/audio/", "lyric": "/lyric/"}
+            ]
+
+        }
+    ]
+}
