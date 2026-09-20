@@ -8,7 +8,7 @@
       "zh": "古代的小朋友学写字，桌上必须摆着四样宝贝：毛笔、墨汁、宣纸和砚台。这就叫“文房四宝”哦！",
       "en": "Ancient kids needed four treasures on their desks to write: the brush, ink, paper, and inkstone. They are called the 'Four Treasures of the Study'!"
     },
-    "imageUrl": "/images/文房四宝.jpg"
+    "imageUrl": "文房四宝.jpg"
   },
   {
     "title": {
@@ -19,7 +19,7 @@
       "zh": "我们每个人都有属于自己的小动物！它们是鼠、牛、虎、兔、龙、蛇、马、羊、猴、鸡、狗、猪。你属什么呢？",
       "en": "Everyone has a special animal! They are Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, and Pig. Which one are you?"
     },
-    "imageUrl": "/images/十二生肖.jpg"
+    "imageUrl": "十二生肖.jpg"
   },
   {
     "title": {
@@ -30,7 +30,7 @@
       "zh": "古代中国人超级聪明，发明了四样了不起的东西：造纸术、指南针、火药和印刷术！过年放的鞭炮，就是火药哦！",
       "en": "Ancient Chinese people were super smart and invented four amazing things: papermaking, the compass, gunpowder, and printing! The firecrackers for New Year are made of gunpowder!"
     },
-    "imageUrl": "/images/四大发明.jpg"
+    "imageUrl": "四大发明.jpg"
   },
   {
     "title": {
@@ -41,7 +41,7 @@
       "zh": "冬天大雪纷飞的时候，有三种植物依然绿油油的，它们是松树、竹子和梅花。古人夸它们勇敢，叫它们“岁寒三友”。",
       "en": "When it snows in winter, three plants stay green: pine, bamboo, and plum blossoms. Ancient people called them the 'Three Friends of Winter' because they are brave!"
     },
-    "imageUrl": "/images/岁寒三友.jpg"
+    "imageUrl": "岁寒三友.jpg"
   },
   {
     "title": {
@@ -52,6 +52,6 @@
       "zh": "我们唱歌有 Do Re Mi Fa Sol，古代中国人也有自己的五个音符哦，它们叫：宫、商、角、徵、羽！",
       "en": "We sing Do Re Mi Fa Sol, but ancient Chinese people had their own five notes: Gong, Shang, Jue, Zhi, and Yu!"
     },
-    "imageUrl": "/images/五音.jpg"
+    "imageUrl": "五音.jpg"
   }
 ]

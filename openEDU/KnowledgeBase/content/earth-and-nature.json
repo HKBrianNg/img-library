@@ -8,7 +8,7 @@
       "zh": "太阳把河里的水晒热，变成看不见的水蒸气飞到天上，聚在一起变成云。云太重了，抱不动了，就掉下来变成雨啦！",
       "en": "The sun heats the water in rivers, turning it into invisible water vapor that rises into the sky and gathers to form clouds. When the clouds get too heavy, they can't hold the water anymore, and it falls down as rain!"
     },
-    "imageUrl": "/images/雨从哪里来.jpg"
+    "imageUrl": "雨从哪里来.jpg"
   },
   {
     "title": {
@@ -19,7 +19,7 @@
       "zh": "地球像个陀螺，一直在转。转到面向太阳就是白天，背对太阳就是黑夜。我们就像坐在旋转木马上一样。",
       "en": "The Earth spins like a top. When it faces the sun, it's daytime; when it turns away, it's nighttime. It's like riding a merry-go-round!"
     },
-    "imageUrl": "/images/为什么有白天和黑夜.jpg"
+    "imageUrl": "为什么有白天和黑夜.jpg"
   },
   {
     "title": {
@@ -30,7 +30,7 @@
       "zh": "雨后空气里有很多小水珠，像小镜子一样。太阳光照进去，被拆成了红橙黄绿青蓝紫七种颜色，就是彩虹！",
       "en": "After rain, there are many tiny water droplets in the air, like little mirrors. Sunlight enters them and gets split into seven colors: red, orange, yellow, green, blue, indigo, and violet — that's a rainbow!"
     },
-    "imageUrl": "/images/彩虹是怎么出来的.jpg"
+    "imageUrl": "彩虹是怎么出来的.jpg"
   },
   {
     "title": {
@@ -41,7 +41,7 @@
       "zh": "树叶里本来有绿色的颜料（叶绿素）。秋天冷了，绿色颜料下班了，藏在里面的黄色、红色颜料就露脸啦。",
       "en": "Leaves naturally contain green pigment called chlorophyll. When autumn arrives and it gets colder, the green pigment takes a break, allowing the hidden yellow and red pigments to show their colors."
     },
-    "imageUrl": "/images/树叶为什么会变黄变红.jpg"
+    "imageUrl": "树叶为什么会变黄变红.jpg"
   },
   {
     "title": {
@@ -52,7 +52,7 @@
       "zh": "太阳把不同地方的空气晒得不一样热。热的空气往上跑，冷的空气赶紧跑过来填满，空气跑来跑去就是风。",
       "en": "The sun heats the air differently in different places. Hot air rises, and cool air rushes in to fill the space. This movement of air is what we call wind."
     },
-    "imageUrl": "/images/风是怎么来的.jpg"
+    "imageUrl": "风是怎么来的.jpg"
   },
   {
     "title": {
@@ -63,6 +63,6 @@
       "zh": "月亮本身不会发光，它反射太阳光。我们看到的月亮的形状，其实是太阳照亮的那个部分。随着月亮绕着地球转，我们看到被照亮的部分每天都不一样，所以就有了月牙、半圆、满月。",
       "en": "The moon doesn't produce its own light; it reflects sunlight. The shape we see is actually the part lit by the sun. As the moon orbits Earth, the lit portion changes each day, creating crescent, half, and full moons."
     },
-    "imageUrl": "/images/月亮为什么会变形状.jpg"
+    "imageUrl": "月亮为什么会变形状.jpg"
   }
 ]
