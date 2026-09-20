@@ -1,0 +1,46 @@
+{
+    "title": "知识库",
+    "titleEn": "Knowledge Base",
+    "chapters": [
+        {
+            "name": "人体",
+            "en": "Human Body",
+            "contentLink": "human-body.json"
+        },
+         {
+            "name": "动物",
+            "en": "Animals",
+            "contentLink": "animals.json"
+        },
+         {
+            "name": "地球与自然",
+            "en": "Earth and Nature",
+            "contentLink": "earth-and-nature.json"
+        },
+         {
+            "name": "太空",
+            "en": "Space",
+            "contentLink": "space.json"
+        },
+         {
+            "name": "食物",
+            "en": "Food",
+            "contentLink": "food.json"
+        },
+         {
+            "name": "植物与水",
+            "en": "Plants and Water",
+            "contentLink": "plants-and-water.json"
+        },
+         {
+            "name": "化学与物理",
+            "en": "Chemistry and Physics",
+            "contentLink": "chemistry-and-physics.json"
+        },
+           {
+            "name": "文化",
+            "en": "Culture",
+            "contentLink": "culture.json"
+        }
+    ]
+}
