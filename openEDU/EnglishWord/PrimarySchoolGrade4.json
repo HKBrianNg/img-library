@@ -14,7 +14,7 @@
   {"name":"种子","en":"seed","en_sentense":"A seed will grow into a new plant.","zh_sentense":"一粒种子会长成新植株。","group":"植物部位","url":""},
   {"name":"嫩芽","en":"bud","en_sentense":"Small buds come out in early spring.","zh_sentense":"初春冒出小小的嫩芽。","group":"植物部位","url":""},
   {"name":"茎秆","en":"stem","en_sentense":"The stem holds leaves up high.","zh_sentense":"茎秆把叶片支撑起来。","group":"植物部位","url":""},
-  {"name":"昆虫","en":"insect","en_sentense":"Most insects have six legs.","zh_sentense":"大多数昆虫有六条腿。","group":"小动物","url":""},
+  {"name":"昆虫","en":"insect","en_sentense":"Most insects have six legs.","zh_sentense":"大多数昆虫有六条腿。","group":"昆虫","url":""},
   {"name":"蜻蜓","en":"dragonfly","en_sentense":"Dragonfly flies above the water.","zh_sentense":"蜻蜓在水面上方飞翔。","group":"昆虫","url":""},
   {"name":"瓢虫","en":"ladybug","en_sentense":"Ladybug eats harmful plant pests.","zh_sentense":"瓢虫吃掉植物害虫。","group":"昆虫","url":""},
   {"name":"蟋蟀","en":"cricket","en_sentense":"Cricket sings at night in grass.","zh_sentense":"蟋蟀夜晚在草丛里鸣叫。","group":"昆虫","url":""},
