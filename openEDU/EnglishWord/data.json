@@ -1,0 +1,36 @@
+{
+    "title": "英文单字",
+    "titleEn": "English Words",
+    "chapters": [
+        {
+            "name": "幼稚园",
+            "en": "Kindergarten",
+            "contentLink": "Kindergarten.json"
+        },
+        {
+            "name": "小学3年级",
+            "en": "Primary School Grade 3",
+            "contentLink": "PrimarySchoolGrade3.json"
+        },
+        {
+            "name": "小学4年级",
+            "en": "Primary School Grade 4",
+            "contentLink": "PrimarySchoolGrade4.json"
+        },
+        {
+            "name": "小学5年级",
+            "en": "Primary School Grade 5",
+            "contentLink": "PrimarySchoolGrade5.json"
+        },
+        {
+            "name": "小学6年级",
+            "en": "Primary School Grade 6",
+            "contentLink": "PrimarySchoolGrade6.json"
+        },
+        {
+            "name": "中学1年级",
+            "en": "Secondary School Grade 1",
+            "contentLink": "SecondarySchoolGrade1.json"
+        }
+    ]
+}
