@@ -65,6 +65,12 @@
           "en": "Wheels On The Bus",
           "audio": "/audio/wheels-on-the-bus.mp3",
           "lyric": "/lyric/wheels-on-the-bus.lrc"
+        },
+        {
+          "name": "蛋头先生",
+          "en": "Humpty Dumpty",
+          "audio": "/audio/humpty-dumpty.mp3",
+          "lyric": "/lyric/humpty-dumpty.lrc"
         }
       ]
     },
