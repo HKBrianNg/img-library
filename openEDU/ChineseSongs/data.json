@@ -15,7 +15,11 @@
             "en": "Pop Music",
             "items": [
                 {"name": "黄昏", "en": "Dusk", "audio": "/audio/dusk.mp3", "lyric": "/lyric/dusk.lrc"},
-                {"name": "小幸运", "en": "Little Happiness", "audio": "/audio/little-happiness.mp3", "lyric": "/lyric/little-happiness.lrc"}
+                {"name": "小幸运", "en": "Little Happiness", "audio": "/audio/little-happiness.mp3", "lyric": "/lyric/little-happiness.lrc"},
+                {"name": "多远都要在一起", "en": "Together No Matter How Far", "audio": "/audio/together-no-matter-how-far.mp3", "lyric": "/lyric/together-no-matter-how-far.lrc"},
+                {"name": "爱在西元前", "en": "Love Before Christ", "audio": "/audio/love-before-christ.mp3", "lyric": "/lyric/love-before-christ.lrc"},
+                {"name": "晴天", "en": "Sunny Day", "audio": "/audio/sunny-day.mp3", "lyric": "/lyric/sunny-day.lrc"},
+                {"name": "青花瓷", "en": "Blue and White Porcelain", "audio": "/audio/blue-and-white-porcelain.mp3", "lyric": "/lyric/blue-and-white-porcelain.lrc"}
             ]
 
         }
