@@ -139,7 +139,11 @@
           "lyric": "/lyric/yesterday.lrc"
         },
         {"name": "在你身旁", "en": "Close To You", "audio": "/audio/close-to-you.aac", "lyric": "/lyric/close-to-you.lrc"},
-        {"name": "This Masquerade", "en": "This Masquerade", "audio": "/audio/this-masquerade.mp3", "lyric": "/lyric/this-masquerade.lrc"}
+        {"name": "This Masquerade", "en": "This Masquerade", "audio": "/audio/this-masquerade.mp3", "lyric": "/lyric/this-masquerade.lrc"},
+        {"name": "Jambalaya (On The Bayou)", "en": "Jambalaya (On The Bayou)", "audio": "/audio/jambalaya-(on-the-bayou).mp3", "lyric": "/lyric/jambalaya-(on-the-bayou).lrc"},
+        {"name": "Please, Mr. Postman", "en": "Please Mr Postman", "audio": "/audio/please-mr-postman.mp3", "lyric": "/lyric/please-mr-postman.lrc"},
+        {"name": "The End Of The World", "en": "The End Of The World", "audio": "/audio/the-end-of-the-world.mp3", "lyric": "/lyric/the-end-of-the-world.lrc"},
+        {"name": "Hello", "en": "Hello Lionel Richie", "audio": "/audio/hello-lionel-richie.mp3", "lyric": "/lyric/hello-lionel-richie.lrc"}
       ]
     }
   ]
