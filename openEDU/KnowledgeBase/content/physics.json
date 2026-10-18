@@ -118,5 +118,485 @@
       "zh": "刚下的雪又松又软，里面全是小空隙。声音钻进这些小洞里就出不来，被雪\"吃\"掉了，所以雪后的世界特别安静。",
       "en": "Fresh snow is soft and full of tiny air gaps. Sound slips into these holes and cannot get back out, so the snow swallows noise and all is quiet."
     }
+  },
+  {
+    "title": {
+      "zh": "飞机在天上为什么看起来飞得很慢",
+      "en": "Why Do Planes in the Sky Look So Slow?"
+    },
+    "content": {
+      "zh": "飞机其实飞得很快，只是离我们很远。远处的东西在眼里挪一点点，实际它已经飞出去好几百米了。",
+      "en": "Planes are fast, but they are far away. Something far off only seems to creep across your view, even while covering hundreds of metres."
+    }
+  },
+  {
+    "title": {
+      "zh": "冬天为什么能看到呼出的白气",
+      "en": "Why Can We See Our Breath in Winter?"
+    },
+    "content": {
+      "zh": "呼出的气又热又湿，一碰到冷空气，里面的水蒸气马上凝成小水滴，聚在一起就成了看得见的白雾。",
+      "en": "Your breath is warm and wet. Cold air turns the water vapour in it into tiny drops at once, and those drops make the little white cloud you see."
+    }
+  },
+  {
+    "title": {
+      "zh": "冰为什么能浮在水面上",
+      "en": "Why Does Ice Float on Water?"
+    },
+    "content": {
+      "zh": "水结冰时体积反而变大、变轻了，同样大小的一块冰比水轻，所以能浮上来。水这一点很特别。",
+      "en": "Water swells when it freezes, so the same amount of ice is lighter than the same amount of water. That is why ice floats, and water is unusual for doing it."
+    }
+  },
+  {
+    "title": {
+      "zh": "筷子为什么能夹起东西",
+      "en": "Why Can Chopsticks Pick Things Up?"
+    },
+    "content": {
+      "zh": "筷子是一对杠杆：手指动的地方是力点，交叉处是支点，两头一合就把菜夹住了。用得越巧，夹得越稳。",
+      "en": "Chopsticks are two levers. Your fingers supply the force, the crossing point is the pivot, and the tips pinch the food together."
+    }
+  },
+  {
+    "title": {
+      "zh": "秋千为什么能越荡越高",
+      "en": "Why Can a Swing Go Higher and Higher?"
+    },
+    "content": {
+      "zh": "每次荡到最高点时把腿一伸一收，就给秋千加了一点力气。加得正是时候，力气就越攒越多。",
+      "en": "Each time you stretch and pull your legs at just the right moment, you add a small push. Push on the right beat and the swing climbs higher."
+    }
+  },
+  {
+    "title": {
+      "zh": "不倒翁为什么不会倒",
+      "en": "Why Does a Roly-Poly Never Fall Over?"
+    },
+    "content": {
+      "zh": "不倒翁的底部压着一块重物，重心很低。一推它，重心总被拉回正下方，它就自己站起来了。",
+      "en": "A roly-poly carries a heavy weight in its base, so its centre of gravity sits very low. Tip it over and the weight pulls it upright again."
+    }
+  },
+  {
+    "title": {
+      "zh": "滑雪板为什么又宽又长",
+      "en": "Why Are Skis Long and Wide?"
+    },
+    "content": {
+      "zh": "又宽又长能把人的重量摊在更大一片雪上，压强变小，人就不会陷进雪里，滑起来也更快。",
+      "en": "Long, wide skis spread your weight over much more snow. The push on each bit of snow is smaller, so you glide on top instead of sinking in."
+    }
+  },
+  {
+    "title": {
+      "zh": "保温瓶为什么能保温",
+      "en": "How Does a Thermos Keep Things Hot?"
+    },
+    "content": {
+      "zh": "保温瓶是双层玻璃，中间抽成真空，热传不出去；内壁还镀了银，把热又反射回去，所以能保温很久。",
+      "en": "A thermos has two walls with a vacuum between them. Heat cannot cross a vacuum, and the shiny lining reflects heat back, so drinks stay hot for hours."
+    }
+  },
+  {
+    "title": {
+      "zh": "灯泡为什么会发光",
+      "en": "Why Does a Light Bulb Glow?"
+    },
+    "content": {
+      "zh": "电流过像头发丝那么细的灯丝时，灯丝被烧得又热又亮，就发出了光。老式灯泡就是靠这个亮的。",
+      "en": "Electricity pushes through a wire as thin as a hair. The wire gets so hot that it glows, and that glow is the light we see."
+    }
+  },
+  {
+    "title": {
+      "zh": "皮球拍下去为什么会弹起来",
+      "en": "Why Does a Ball Bounce Back?"
+    },
+    "content": {
+      "zh": "皮球落到地面被压扁，里面的空气被挤得更紧，像弹簧一样把球顶回去，于是又弹了起来。",
+      "en": "When a ball hits the ground it squashes and the air inside is squeezed tight. The air pushes back like a spring and the ball jumps up."
+    }
+  },
+  {
+    "title": {
+      "zh": "陀螺转起来为什么不会倒",
+      "en": "Why Doesn't a Spinning Top Fall Over?"
+    },
+    "content": {
+      "zh": "转得快的陀螺有股“保持转动方向”的劲儿，这股劲儿把它撑住。转速一慢，它就摇摇晃晃倒下了。",
+      "en": "A fast-spinning top wants to keep spinning the same way, and that keeps it upright. As it slows down it starts to wobble and falls."
+    }
+  },
+  {
+    "title": {
+      "zh": "微波炉为什么能加热食物",
+      "en": "Why Does a Microwave Heat Food?"
+    },
+    "content": {
+      "zh": "微波炉发出的微波能让食物里的水分子飞快地抖动，分子互相摩擦就生出热，食物从里到外都热了。",
+      "en": "Microwaves make the water molecules in food shake very fast. Rubbing against one another they create heat, so the food warms all the way through."
+    }
+  },
+  {
+    "title": {
+      "zh": "回声是怎么来的",
+      "en": "How Does an Echo Happen?"
+    },
+    "content": {
+      "zh": "声音撞到山崖或高墙会弹回来。弹回来的声音比原来晚一点，我们就听见了回声。",
+      "en": "Sound bounces off a cliff or a high wall and comes back a moment later, and that is the echo you hear."
+    }
+  },
+  {
+    "title": {
+      "zh": "声音为什么有高有低",
+      "en": "Why Are Some Sounds High and Some Low?"
+    },
+    "content": {
+      "zh": "声音高低看振动快慢：振得快音就高，振得慢音就低。敲小鼓比敲大鼓快，所以声音更尖。",
+      "en": "Pitch depends on how fast something vibrates: fast means high and slow means low, and a small drum vibrates faster than a big one."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么声音在固体里传得更快",
+      "en": "Why Does Sound Travel Faster Through Solids?"
+    },
+    "content": {
+      "zh": "固体里的分子挨得紧，振动能很快传给邻居。所以趴在铁轨上，能先听见远处的火车。",
+      "en": "Particles in a solid are packed close so vibration passes quickly from one to the next, and pressing your ear to a rail lets you hear a distant train first."
+    }
+  },
+  {
+    "title": {
+      "zh": "小提琴和笛子的声音为什么不一样",
+      "en": "Why Do a Violin and a Flute Sound Different?"
+    },
+    "content": {
+      "zh": "音色由发声体的材料和形状决定。弦和空气柱振动的方式不同，耳朵一听就能分出来。",
+      "en": "Timbre comes from the material and shape of what vibrates, and a string and a column of air do it differently, so your ear can tell."
+    }
+  },
+  {
+    "title": {
+      "zh": "我们为什么能听出声音从哪来",
+      "en": "How Do We Tell Where a Sound Comes From?"
+    },
+    "content": {
+      "zh": "两只耳朵听到的时间和响度略有差别，大脑比较一下，就知道声音是从左还是从右来的。",
+      "en": "Your two ears hear a sound at slightly different times and loudness, and the brain compares them and works out the direction."
+    }
+  },
+  {
+    "title": {
+      "zh": "放大镜为什么能把字放大",
+      "en": "Why Does a Magnifying Glass Make Print Bigger?"
+    },
+    "content": {
+      "zh": "放大镜是中间厚、边上薄的镜片，能把光线弯折，让字在眼里张成一个更大的角。",
+      "en": "A magnifier is thick in the middle and thin at the edge, and it bends light so the print makes a wider angle in your eye."
+    }
+  },
+  {
+    "title": {
+      "zh": "望远镜为什么能看那么远",
+      "en": "Why Can a Telescope See So Far?"
+    },
+    "content": {
+      "zh": "望远镜用大镜片收集更多光，再用目镜把像放大。远处的星星看着又亮又大，就看清了。",
+      "en": "A telescope uses a big lens to gather lots of light and a second lens to magnify the image, so distant stars look brighter and bigger."
+    }
+  },
+  {
+    "title": {
+      "zh": "显微镜为什么能看到很小的东西",
+      "en": "Why Can a Microscope See Tiny Things?"
+    },
+    "content": {
+      "zh": "两级镜片把微小的东西一层层放大，能放大几百倍，肉眼看不见的小生物就现形了。",
+      "en": "Two sets of lenses magnify a tiny object step by step, hundreds of times over, so creatures invisible to the eye appear."
+    }
+  },
+  {
+    "title": {
+      "zh": "影子为什么会变长变短",
+      "en": "Why Do Shadows Change Length?"
+    },
+    "content": {
+      "zh": "太阳位置低时影子长，升到头顶时影子短。影子一直在跟着太阳的高低变。",
+      "en": "When the sun is low the shadow is long and when it is overhead the shadow is short, so shadows follow the height of the sun all day."
+    }
+  },
+  {
+    "title": {
+      "zh": "水为什么总是往低处流",
+      "en": "Why Does Water Always Flow Downhill?"
+    },
+    "content": {
+      "zh": "地球把水往下拉，水就顺着最低的路走。江河一路往低处去，最后汇进大海。",
+      "en": "Earth pulls water downward and water takes the lowest path it can find, so rivers run downhill until they reach the sea."
+    }
+  },
+  {
+    "title": {
+      "zh": "苹果为什么会掉下来",
+      "en": "Why Does an Apple Fall?"
+    },
+    "content": {
+      "zh": "地球有一种把东西往自己身上拉的力，叫重力。苹果熟了离开树枝，就被拉到地上。",
+      "en": "Earth pulls things toward itself with a force called gravity, so once a ripe apple lets go of the branch it is pulled to the ground."
+    }
+  },
+  {
+    "title": {
+      "zh": "在月球上为什么能跳得很高",
+      "en": "Why Can You Jump Higher on the Moon?"
+    },
+    "content": {
+      "zh": "月亮比地球小得多，拉力只有地球的六分之一。同样的力气，能跳到地球上的六倍高。",
+      "en": "The moon is much smaller than Earth and pulls with only a sixth of the force, so the same jump takes you six times higher."
+    }
+  },
+  {
+    "title": {
+      "zh": "冰面为什么那么滑",
+      "en": "Why Is Ice So Slippery?"
+    },
+    "content": {
+      "zh": "冰刀压上去，压力让表面化出一层极薄的水膜，像抹了油一样，人就滑起来了。",
+      "en": "The blade presses on the ice and the pressure melts a very thin film of water that acts like oil, so away you glide."
+    }
+  },
+  {
+    "title": {
+      "zh": "搓手为什么会暖和",
+      "en": "Why Does Rubbing Your Hands Warm Them?"
+    },
+    "content": {
+      "zh": "两手摩擦时，动的力气变成了热。手越冷搓得越快，暖得也越快。",
+      "en": "Rubbing turns the energy of movement into heat, and the colder your hands the faster you rub and the sooner they warm."
+    }
+  },
+  {
+    "title": {
+      "zh": "轮子为什么让人省力",
+      "en": "Why Do Wheels Save Effort?"
+    },
+    "content": {
+      "zh": "拖着走要跟地面硬磨，装上轮子变成滚动，摩擦力小得多，推起来就轻了。",
+      "en": "Dragging scrapes against the ground while a wheel rolls instead, and rolling has far less friction so pushing is easy."
+    }
+  },
+  {
+    "title": {
+      "zh": "滑轮为什么能吊起重物",
+      "en": "Why Can a Pulley Lift Heavy Things?"
+    },
+    "content": {
+      "zh": "定滑轮改变用力的方向，往下拽就能把东西提上去；多装几个动滑轮，还能省一半的力。",
+      "en": "A fixed pulley changes the direction of your pull so tugging down raises the load, and adding moving pulleys means less force still."
+    }
+  },
+  {
+    "title": {
+      "zh": "跷跷板怎样才能平衡",
+      "en": "How Do You Balance a Seesaw?"
+    },
+    "content": {
+      "zh": "又重又大的一方要坐得离中间近一些，轻的一方坐远一些，两边一压就平了。",
+      "en": "The heavier person sits closer to the middle and the lighter one further out, and then the two sides come level."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么刀磨薄了才锋利",
+      "en": "Why Is a Thin Blade Sharper?"
+    },
+    "content": {
+      "zh": "刀刃越薄，压在食物上的面积越小，同样的力气压强就越大，切起来自然利索。",
+      "en": "A thinner edge presses on a smaller area, so the same push makes more pressure and cuts cleanly."
+    }
+  },
+  {
+    "title": {
+      "zh": "书包带为什么做得宽宽的",
+      "en": "Why Are Schoolbag Straps Wide?"
+    },
+    "content": {
+      "zh": "带子宽，书的重量就摊在更大一片肩膀上，压强小了，背着就不勒得慌。",
+      "en": "Wide straps spread the weight of your books over more shoulder, so the pressure is lower and it stops digging in."
+    }
+  },
+  {
+    "title": {
+      "zh": "夏天马路远处为什么像有水",
+      "en": "Why Does a Hot Road Look Wet Far Away?"
+    },
+    "content": {
+      "zh": "路面上的热空气让光线拐了弯，把天空的影像投到路面上，看着像一滩水，走近就没了。",
+      "en": "Hot air above the road bends the light and throws an image of the sky onto the surface, so it looks like a puddle that vanishes as you approach."
+    }
+  },
+  {
+    "title": {
+      "zh": "游泳池看起来为什么比实际浅",
+      "en": "Why Does a Pool Look Shallower Than It Is?"
+    },
+    "content": {
+      "zh": "光从水里出来时会偏折，池底看着被抬高了。所以下水前一定要看标示，别用眼睛估。",
+      "en": "Light bends as it leaves the water so the bottom seems lifted, and you should always check the depth sign rather than trusting your eyes."
+    }
+  },
+  {
+    "title": {
+      "zh": "电为什么会电到人",
+      "en": "Why Does Electricity Shock You?"
+    },
+    "content": {
+      "zh": "人体能导电，电流流过身体会刺激肌肉和神经，还会发热。所以绝对不能碰裸露的电线。",
+      "en": "The body conducts electricity, and a current passing through stirs muscles and nerves and heats tissue, so never touch a bare wire."
+    }
+  },
+  {
+    "title": {
+      "zh": "棱镜为什么能分出七色光",
+      "en": "Why Does a Prism Split Light into Colours?"
+    },
+    "content": {
+      "zh": "白光里藏着各种颜色，穿过棱镜时每种颜色的弯折程度不同，就被分成了彩虹般的色带。",
+      "en": "White light holds many colours, and a prism bends each one by a different amount, fanning them out into a rainbow band."
+    }
+  },
+  {
+    "title": {
+      "zh": "车轮为什么要打气",
+      "en": "Why Do Tyres Need Air?"
+    },
+    "content": {
+      "zh": "充足气的轮胎又硬又有弹性，能撑住车身、缓冲颠簸。气不足，轮胎发软，骑起来又重又费劲。",
+      "en": "A pumped tyre is firm and springy, holding up the weight and soaking up bumps, while too little air makes it sag and every push harder work."
+    }
+  },
+  {
+    "title": {
+      "zh": "降落伞为什么能让人慢慢下降",
+      "en": "Why Does a Parachute Slow the Fall?"
+    },
+    "content": {
+      "zh": "伞张开后面积很大，空气往上顶的阻力跟着变大，降落速度就被压到安全范围内。",
+      "en": "An open canopy has a huge area, so the air pushes back hard and the fall slows to a safe speed."
+    }
+  },
+  {
+    "title": {
+      "zh": "飞机机翼为什么做成那种形状",
+      "en": "Why Are Wings Shaped Like That?"
+    },
+    "content": {
+      "zh": "机翼上面鼓、下面平，空气在上面跑得快、压力小，下面压力就把机翼托起来，这就是升力。",
+      "en": "The top of a wing is curved and the bottom flat, so air moves faster above and the pressure drops, and the higher pressure below lifts the wing up."
+    }
+  },
+  {
+    "title": {
+      "zh": "船锚为什么能停住大船",
+      "en": "Why Can an Anchor Hold a Ship?"
+    },
+    "content": {
+      "zh": "锚很重，还会用爪子抓住海底的泥沙；加上长长的锚链拖在海底，船就不容易被水推走。",
+      "en": "The anchor is heavy and its flukes dig into the seabed, and the long chain lying on the bottom adds more grip so the water cannot push the ship off."
+    }
+  },
+  {
+    "title": {
+      "zh": "潜水艇为什么能上浮下潜",
+      "en": "How Does a Submarine Dive and Rise?"
+    },
+    "content": {
+      "zh": "艇里有水舱，灌满水变重就下潜，用压缩空气把水挤出去变轻就上浮，跟鱼鳔一个道理。",
+      "en": "Tanks inside the boat fill with water to make it heavy and dive, and compressed air pushes the water out to make it light and rise, just like a fish's swim bladder."
+    }
+  },
+  {
+    "title": {
+      "zh": "钟摆为什么总是走得那么准",
+      "en": "Why Is a Pendulum So Regular?"
+    },
+    "content": {
+      "zh": "只要摆长不变，摆一次用的时间就不变，跟摆的幅度关系不大。所以老钟表靠它计时。",
+      "en": "Keep the length the same and each swing takes the same time, almost regardless of how far it swings, and that is why old clocks used it to keep time."
+    }
+  },
+  {
+    "title": {
+      "zh": "走钢丝为什么要拿一根长杆",
+      "en": "Why Do Tightrope Walkers Carry a Long Pole?"
+    },
+    "content": {
+      "zh": "长杆让身体转动起来更慢、更容易控制，还能左右调整重心，站稳的机会就大多了。",
+      "en": "A long pole makes the body turn more slowly and gives finer control, and shifting it adjusts the balance point so staying upright is much easier."
+    }
+  },
+  {
+    "title": {
+      "zh": "肥皂泡为什么都是圆的",
+      "en": "Why Are Soap Bubbles Always Round?"
+    },
+    "content": {
+      "zh": "肥皂膜总想把自己收得最小，同样多的空气装进表面积最小的形状，那就是球形。",
+      "en": "A soap film always tries to shrink, and the shape holding air with the least surface is a sphere, so bubbles are round."
+    }
+  },
+  {
+    "title": {
+      "zh": "镜子是怎么做出来的",
+      "en": "How Is a Mirror Made?"
+    },
+    "content": {
+      "zh": "把玻璃擦得极干净，在背面镀一层薄薄的银或铝，再刷上保护漆。这层金属负责把光反射回来。",
+      "en": "Glass is cleaned perfectly, then a thin layer of silver or aluminium is laid on the back and painted over, and that metal layer reflects the light."
+    }
+  },
+  {
+    "title": {
+      "zh": "气球在头上摩擦为什么能吸住头发",
+      "en": "Why Does a Rubbing Balloon Stick to Hair?"
+    },
+    "content": {
+      "zh": "摩擦让气球带上静电，轻的头发被它吸起来，一根根立着跟过来。这就是静电引力。",
+      "en": "Rubbing gives the balloon a static charge, and light hairs are pulled toward it, standing up and following, which is static attraction."
+    }
+  },
+  {
+    "title": {
+      "zh": "雷声为什么响那么久",
+      "en": "Why Does Thunder Rumble On?"
+    },
+    "content": {
+      "zh": "闪电很长，各处传来的声音有先有后；再加上云和山把声音来回反射，就轰隆隆响个不停。",
+      "en": "A lightning bolt is long so sound from its far and near parts arrives at different times, and clouds and hills reflect it too, making a long rumble."
+    }
+  },
+  {
+    "title": {
+      "zh": "电影院墙壁为什么是软的",
+      "en": "Why Are Cinema Walls Soft?"
+    },
+    "content": {
+      "zh": "软材料和凹凸的表面能把声音吸掉，不让它在厅里来回反射。这样对白才清楚，没有嗡嗡的回声。",
+      "en": "Soft, uneven surfaces soak up sound instead of bouncing it around the hall, so dialogue stays clear with no booming echo."
+    }
+  },
+  {
+    "title": {
+      "zh": "回旋镖为什么会飞回来",
+      "en": "Why Does a Boomerang Come Back?"
+    },
+    "content": {
+      "zh": "两翼的形状让空气推力不平衡，飞行方向不停偏转，划出一个圈，最后又转回投掷的人手里。",
+      "en": "Its two blades make the air push unevenly, so the flight keeps turning and traces a circle, bringing it back to the thrower."
+    }
   }
 ]

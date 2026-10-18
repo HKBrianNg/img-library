@@ -118,5 +118,485 @@
       "zh": "胸口和肚子之间有块肌肉叫横膈膜，它负责帮我们呼吸。它突然抽一下，空气被猛地吸进去，被声带一挡，就\"嗝\"了一声。",
       "en": "A muscle called the diaphragm helps us breathe. If it suddenly jerks, air rushes in and is stopped by the vocal cords, making a hiccup."
     }
+  },
+  {
+    "title": {
+      "zh": "人为什么会出汗",
+      "en": "Why Do We Sweat?"
+    },
+    "content": {
+      "zh": "天热或运动时身体会发热，汗腺就排出汗水。汗水蒸发时会把热量带走，身体就凉快下来了。",
+      "en": "When you are hot or exercising, your body makes heat and sweat glands release water. As the sweat dries it carries heat away, and you cool down."
+    }
+  },
+  {
+    "title": {
+      "zh": "受伤为什么会疼",
+      "en": "Why Does an Injury Hurt?"
+    },
+    "content": {
+      "zh": "皮肤里布满神经末梢，受伤时它们立刻向大脑报警。疼是一种提醒，让你赶紧躲开危险、好好养伤。",
+      "en": "Tiny nerve endings in the skin send an alarm to the brain the moment you are hurt. Pain is a warning that makes you pull away and rest."
+    }
+  },
+  {
+    "title": {
+      "zh": "人为什么要眨眼睛",
+      "en": "Why Do We Blink?"
+    },
+    "content": {
+      "zh": "眨眼能把泪水均匀涂在眼球上，让它保持湿润，还能把灰尘冲走。我们一天要眨上万次，自己都察觉不到。",
+      "en": "Blinking spreads tears over the eye to keep it wet and washes dust away. We blink thousands of times a day without noticing."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会起鸡皮疙瘩",
+      "en": "Why Do We Get Goose Bumps?"
+    },
+    "content": {
+      "zh": "冷的时候皮肤上的小肌肉一收缩，汗毛就竖起来，毛孔四周鼓起小包。这是身体想留住一层暖空气。",
+      "en": "In the cold, tiny muscles pull body hairs upright and the skin around them bumps up. It is the body's way of trapping a layer of warm air."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会打呼噜",
+      "en": "Why Do People Snore?"
+    },
+    "content": {
+      "zh": "睡着后喉咙里的肌肉放松，气道变窄。气流挤过窄缝时带动软肉振动，就发出了呼噜声。",
+      "en": "While you sleep the muscles in your throat relax and the airway narrows. Air squeezing through makes the soft tissue vibrate, and that is the snore."
+    }
+  },
+  {
+    "title": {
+      "zh": "指甲为什么会长长",
+      "en": "Why Do Nails Keep Growing?"
+    },
+    "content": {
+      "zh": "指甲根部的皮肤下面，细胞一直在分裂出新细胞，把旧的一点点往前推，指甲就慢慢长长了。",
+      "en": "Under the skin at the base of a nail, cells keep dividing and pushing older cells forward, so the nail slowly grows longer."
+    }
+  },
+  {
+    "title": {
+      "zh": "皮肤晒太阳为什么会变黑",
+      "en": "Why Does Skin Darken in the Sun?"
+    },
+    "content": {
+      "zh": "阳光里的紫外线会伤皮肤，皮肤就多造黑色素来挡住它。这些色素让皮肤变黑，其实是身体在保护自己。",
+      "en": "Ultraviolet light can damage skin, so skin makes more melanin to block it. The pigment darkens the skin, and that is the body protecting itself."
+    }
+  },
+  {
+    "title": {
+      "zh": "人为什么要排尿",
+      "en": "Why Do We Urinate?"
+    },
+    "content": {
+      "zh": "身体用不完的水和废物由肾脏过滤出来，变成尿存进膀胱。存到一定量，大脑就会提醒你该上厕所了。",
+      "en": "The kidneys filter out water and waste the body does not need. It collects in the bladder, and when it is full the brain tells you it is time to go."
+    }
+  },
+  {
+    "title": {
+      "zh": "人为什么会笑",
+      "en": "Why Do People Laugh?"
+    },
+    "content": {
+      "zh": "笑是身体表达开心的方式。笑的时候会笑肌一拉、呼吸一变，还能让大脑分泌让人舒服的物质。",
+      "en": "Laughing is how the body shows joy. It pulls the mouth muscles, changes your breathing, and makes the brain release feel-good chemicals."
+    }
+  },
+  {
+    "title": {
+      "zh": "头发为什么会变白",
+      "en": "Why Does Hair Turn Grey?"
+    },
+    "content": {
+      "zh": "头发靠毛囊里的色素细胞上色。年纪大了这些细胞慢慢歇下来，新长出的头发没有颜色，就成了白发。",
+      "en": "Hair gets its colour from pigment cells in the root. As people age these cells slow down, and new hair grows out without colour."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会觉得痒",
+      "en": "Why Do We Feel Itchy?"
+    },
+    "content": {
+      "zh": "皮肤碰到小虫、灰尘或被叮咬时，神经会把“有东西在动”的信号传给大脑，大脑就让你去挠一挠。",
+      "en": "When something touches the skin, nerves tell the brain something is there. The brain answers with an itch, so you scratch the thing away."
+    }
+  },
+  {
+    "title": {
+      "zh": "小孩子为什么会换牙",
+      "en": "Why Do Children Lose Their Teeth?"
+    },
+    "content": {
+      "zh": "小时候的乳牙只有 20 颗，个头小。长大后嘴巴变大、要嚼更硬的东西，乳牙就一颗颗掉下来，换成更结实的恒牙。",
+      "en": "Baby teeth are only 20 small ones. As the jaw grows and food gets tougher, they fall out one by one and stronger adult teeth take their place."
+    }
+  },
+  {
+    "title": {
+      "zh": "冷的时候为什么会发抖",
+      "en": "Why Do We Shiver When Cold?"
+    },
+    "content": {
+      "zh": "肌肉快速抖动会生热，这是身体自己生火的办法。抖一阵身上就暖和一点，也在提醒你该加衣服了。",
+      "en": "Shaking muscles make heat, which is the body's way of lighting a fire inside, and it warms you a little while telling you to put a coat on."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么能摸到脉搏",
+      "en": "Why Can You Feel a Pulse?"
+    },
+    "content": {
+      "zh": "心脏每次收缩都把血挤进血管，血管跟着一鼓一鼓。手腕和脖子上的血管浅，最容易摸到。",
+      "en": "Every heartbeat pushes blood into the arteries and they bulge in time, and the vessels at wrist and neck are shallow enough to feel."
+    }
+  },
+  {
+    "title": {
+      "zh": "心脏为什么会一直跳",
+      "en": "Why Does the Heart Keep Beating?"
+    },
+    "content": {
+      "zh": "心脏里有自己的发电点，会定时发出电信号，指挥肌肉一收一放。这个节拍器一辈子都不停。",
+      "en": "The heart has its own pacemaker that sends out electrical signals on time, telling the muscle to squeeze and relax, and it never stops in a lifetime."
+    }
+  },
+  {
+    "title": {
+      "zh": "人为什么会变老",
+      "en": "Why Do People Grow Old?"
+    },
+    "content": {
+      "zh": "细胞一次次分裂，复制时会出小差错，修补能力也慢慢变差。这些损伤攒起来，人就老了。",
+      "en": "Cells divide again and again, picking up small errors and slowly losing the power to repair them, and the damage adds up over the years."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要吃不同种类的食物",
+      "en": "Why Should We Eat Different Foods?"
+    },
+    "content": {
+      "zh": "没有一种食物含全所有养分。谷、肉、菜、果换着吃，身体才能凑齐蛋白质、维生素和矿物质。",
+      "en": "No single food holds every nutrient, so mixing grains, meat, vegetables and fruit lets the body collect the protein, vitamins and minerals it needs."
+    }
+  },
+  {
+    "title": {
+      "zh": "运动后肌肉为什么会酸痛",
+      "en": "Why Do Muscles Ache After Exercise?"
+    },
+    "content": {
+      "zh": "猛地加大运动量，肌纤维会出现微小损伤，身体修复时会有炎症反应，一两天后就酸起来了。",
+      "en": "A sudden increase in exercise causes tiny tears in muscle fibres, and the repair work brings inflammation, so the ache shows up a day or two later."
+    }
+  },
+  {
+    "title": {
+      "zh": "骨头是怎么长出来的",
+      "en": "How Do Bones Grow?"
+    },
+    "content": {
+      "zh": "骨头两端有生长区，那里的软骨不断增生再变成硬骨，骨头就一点点变长。成年后生长区闭合就不再长了。",
+      "en": "Growth plates at the ends make new cartilage that turns to bone, so the bone lengthens, and once the plates close in adulthood growth stops."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么人的血型不一样",
+      "en": "Why Do People Have Different Blood Types?"
+    },
+    "content": {
+      "zh": "红细胞表面带着不同的标记，组合起来分成 A、B、AB 和 O 型。血型由父母遗传，一生不变。",
+      "en": "Red cells carry different markers on their surface, giving groups A, B, AB and O, and the type is inherited from your parents and never changes."
+    }
+  },
+  {
+    "title": {
+      "zh": "人的皮肤为什么颜色不同",
+      "en": "Why Do People Have Different Skin Colours?"
+    },
+    "content": {
+      "zh": "皮肤里的黑色素多少不同。阳光强的地方黑色素多，能挡住紫外线；阳光弱的地方少一些，好吸收维生素 D。",
+      "en": "It comes down to how much melanin the skin makes, with sunny regions favouring more to block ultraviolet light and dim regions less, to absorb vitamin D."
+    }
+  },
+  {
+    "title": {
+      "zh": "头发为什么有的直有的卷",
+      "en": "Why Is Hair Straight or Curly?"
+    },
+    "content": {
+      "zh": "毛囊的形状决定发丝的断面：圆断面长出直发，扁断面长出卷发。这主要由遗传决定。",
+      "en": "The shape of the follicle decides the strand's cross-section, with round giving straight hair and flat giving curly hair, and it is mostly inherited."
+    }
+  },
+  {
+    "title": {
+      "zh": "人为什么会流眼泪",
+      "en": "Why Do We Cry?"
+    },
+    "content": {
+      "zh": "眼泪能冲洗灰尘、杀灭细菌，保护眼睛。难过时大脑也会启动这条通道，把情绪一起排出来。",
+      "en": "Tears wash out dust and kill germs to protect the eye, and when you are sad the brain uses the same channel to let feelings out."
+    }
+  },
+  {
+    "title": {
+      "zh": "胎记是怎么来的",
+      "en": "Where Do Birthmarks Come From?"
+    },
+    "content": {
+      "zh": "有的胎记是皮肤里的色素细胞聚在一起，有的是血管长得比别处密。多数无害，也不用处理。",
+      "en": "Some are clusters of pigment cells under the skin and others a denser patch of blood vessels, and most are harmless and need no treatment."
+    }
+  },
+  {
+    "title": {
+      "zh": "伤口快好时为什么会痒",
+      "en": "Why Does a Healing Wound Itch?"
+    },
+    "content": {
+      "zh": "新皮肤生长时，新生的神经末梢很敏感，加上结痂拉紧皮肤，就让人忍不住想挠。",
+      "en": "As new skin grows the fresh nerve endings are very sensitive, and the tightening scab adds to it, so the itch is hard to ignore."
+    }
+  },
+  {
+    "title": {
+      "zh": "撞一下为什么会青一块",
+      "en": "Why Does a Bump Leave a Bruise?"
+    },
+    "content": {
+      "zh": "皮下的小血管被撞破，血渗进周围组织。血慢慢被分解，青块会由紫变黄再消失。",
+      "en": "Small vessels under the skin break and blood seeps into the tissue, and as the body clears it the mark turns from purple to yellow and fades."
+    }
+  },
+  {
+    "title": {
+      "zh": "身上为什么会长痣",
+      "en": "Why Do We Have Moles?"
+    },
+    "content": {
+      "zh": "痣是色素细胞聚成的小团。多数是天生的，晒太阳多了也会多长几颗，一般不用管它。",
+      "en": "A mole is a small cluster of pigment cells, mostly there from birth, and sun exposure can add more, though they usually need no attention."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有人喝牛奶会拉肚子",
+      "en": "Why Does Milk Upset Some People?"
+    },
+    "content": {
+      "zh": "有些人缺少分解乳糖的酶，乳糖到了肠道里发酵产气，就肚子胀、拉肚子。这叫乳糖不耐受。",
+      "en": "Some people lack the enzyme that digests lactose, so it ferments in the gut and causes bloating and diarrhoea, which is called lactose intolerance."
+    }
+  },
+  {
+    "title": {
+      "zh": "人最长能活多久",
+      "en": "How Long Can People Live?"
+    },
+    "content": {
+      "zh": "目前有记录的最长寿者活到 122 岁。科学家估计人的天然寿命大约在 120 岁上下。",
+      "en": "The oldest person on record reached 122, and scientists think the natural human lifespan is somewhere around 120 years."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么小孩子长得特别快",
+      "en": "Why Do Children Grow So Fast?"
+    },
+    "content": {
+      "zh": "婴儿期和青春期是两段生长高峰，生长激素分泌得多，骨头末端也还没闭合，所以一年能长好几厘米。",
+      "en": "Babyhood and the teen years are growth spurts, with plenty of growth hormone and growth plates still open, so a child can gain several centimetres a year."
+    }
+  },
+  {
+    "title": {
+      "zh": "长大后身体为什么会变化",
+      "en": "Why Does the Body Change as We Grow Up?"
+    },
+    "content": {
+      "zh": "青春期时激素大量分泌，身高、肌肉、声音和体形都会变。这是身体在长成能生育的成年人。",
+      "en": "At puberty hormones surge and height, muscle, voice and shape all change, as the body matures into an adult able to have children."
+    }
+  },
+  {
+    "title": {
+      "zh": "人的体温为什么是 37 度",
+      "en": "Why Is Body Temperature 37°C?"
+    },
+    "content": {
+      "zh": "37 度最合适体内的酶干活。体温太高酶会失效，太低反应又太慢，所以身体一直把它守住。",
+      "en": "37°C suits the enzymes that run the body, since hotter and they stop working and cooler and reactions crawl, so the body defends it closely."
+    }
+  },
+  {
+    "title": {
+      "zh": "肌肉为什么会有力气",
+      "en": "Why Do Muscles Have Strength?"
+    },
+    "content": {
+      "zh": "肌肉由一束束纤维组成，收到信号就一起缩短，拉动骨头。练得越多纤维越粗，力气也越大。",
+      "en": "Muscles are bundles of fibres that shorten together when signalled, pulling on bone, and the more you train the thicker the fibres and the greater the strength."
+    }
+  },
+  {
+    "title": {
+      "zh": "骨头断了为什么能长回去",
+      "en": "Why Can a Broken Bone Heal?"
+    },
+    "content": {
+      "zh": "断处先长出软骨把两头接住，再慢慢换成硬骨。打石膏就是为了让骨头安安静静地长好。",
+      "en": "First cartilage bridges the gap and then it is slowly replaced by hard bone, and a cast keeps everything still while the repair goes on."
+    }
+  },
+  {
+    "title": {
+      "zh": "什么是免疫力",
+      "en": "What Is Immunity?"
+    },
+    "content": {
+      "zh": "免疫力是身体认出并清除病菌的本事。打过预防针或得过一次病后，免疫系统会记住对方，下次反应更快。",
+      "en": "Immunity is the body's ability to recognise and clear germs, and after a vaccine or an illness the immune system remembers and responds faster next time."
+    }
+  },
+  {
+    "title": {
+      "zh": "细胞是什么",
+      "en": "What Is a Cell?"
+    },
+    "content": {
+      "zh": "细胞是身体的小房间，外面有膜，里面有细胞核和各种零件。无数细胞分工合作，才凑成了人。",
+      "en": "A cell is a tiny room of the body, wrapped in a membrane and holding a nucleus and other parts, and countless cells working together make a person."
+    }
+  },
+  {
+    "title": {
+      "zh": "基因是干什么用的",
+      "en": "What Do Genes Do?"
+    },
+    "content": {
+      "zh": "基因是一份说明书，写着怎么造蛋白质。它决定你的发色、血型，也影响身高和容易得什么病。",
+      "en": "Genes are instructions for building proteins, deciding your hair colour and blood type, and influencing height and which illnesses you are prone to."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么小孩长得像爸爸妈妈",
+      "en": "Why Do Children Look Like Their Parents?"
+    },
+    "content": {
+      "zh": "孩子的基因一半来自母亲、一半来自父亲，两家的特征混在一起，所以既像爸又像妈。",
+      "en": "A child gets half its genes from each parent, so features from both sides mix and the result looks a little like each."
+    }
+  },
+  {
+    "title": {
+      "zh": "皮肤为什么能感觉到冷热",
+      "en": "Why Can Skin Feel Hot and Cold?"
+    },
+    "content": {
+      "zh": "皮肤里有许多感受器，有的管冷、有的管热、有的管压和痛，各自把信号送到大脑。",
+      "en": "The skin holds many receptors, some for cold, some for heat, others for pressure or pain, and each sends its own signal to the brain."
+    }
+  },
+  {
+    "title": {
+      "zh": "舌头是怎么尝出味道的",
+      "en": "How Does the Tongue Taste?"
+    },
+    "content": {
+      "zh": "舌面上布满味蕾，能认出甜、酸、苦、咸、鲜。味蕾和鼻子配合，才吃得出食物真正的味道。",
+      "en": "Taste buds across the tongue detect sweet, sour, bitter, salty and savoury, and together with the nose they build the full flavour of food."
+    }
+  },
+  {
+    "title": {
+      "zh": "鼻子是怎么闻味道的",
+      "en": "How Does the Nose Smell?"
+    },
+    "content": {
+      "zh": "气味分子飘进鼻腔，跟嗅觉细胞结合发出信号。我们能分辨几千种气味，而且气味直通记忆。",
+      "en": "Scent molecules drift into the nose and bind to smell cells that send signals, and we can tell thousands apart, with smells wired straight into memory."
+    }
+  },
+  {
+    "title": {
+      "zh": "眼睛是怎么看见东西的",
+      "en": "How Do Eyes See?"
+    },
+    "content": {
+      "zh": "光线穿过角膜和晶状体，在视网膜上成像，感光细胞把光变成电信号，由神经送进大脑。",
+      "en": "Light passes through the cornea and lens and forms an image on the retina, where light-sensitive cells turn it into signals the nerve carries to the brain."
+    }
+  },
+  {
+    "title": {
+      "zh": "耳朵是怎么听见声音的",
+      "en": "How Do Ears Hear?"
+    },
+    "content": {
+      "zh": "声波让鼓膜振动，三块小骨头把它放大传进耳蜗，耳蜗里的毛细胞再把振动变成电信号。",
+      "en": "Sound waves make the eardrum vibrate, three tiny bones pass it on, and hair cells in the cochlea turn the movement into electrical signals."
+    }
+  },
+  {
+    "title": {
+      "zh": "耳朵为什么还管平衡",
+      "en": "Why Do Ears Also Control Balance?"
+    },
+    "content": {
+      "zh": "内耳里有三个半规管，里面是液体和细毛。头一动液体就晃，细毛跟着弯，大脑就知道身体的姿势。",
+      "en": "The inner ear holds three fluid-filled loops lined with fine hairs, and when the head moves the fluid sways, bending the hairs so the brain knows your position."
+    }
+  },
+  {
+    "title": {
+      "zh": "唾液有什么用",
+      "en": "What Is Saliva For?"
+    },
+    "content": {
+      "zh": "唾液能湿润食物、帮助吞咽，里面的酶还开始消化淀粉。它还能冲洗牙齿上的食物残渣。",
+      "en": "Saliva moistens food to make swallowing easy, its enzymes start digesting starch, and it washes food bits off your teeth."
+    }
+  },
+  {
+    "title": {
+      "zh": "肝脏是干什么用的",
+      "en": "What Does the Liver Do?"
+    },
+    "content": {
+      "zh": "肝脏像一座化工厂：解毒、储存养分、制造胆汁帮消化。它是身体里唯一能再生的器官。",
+      "en": "The liver is a chemical works, breaking down poisons, storing nutrients and making bile to help digest fat, and it is the only organ that can regrow."
+    }
+  },
+  {
+    "title": {
+      "zh": "肺是怎么工作的",
+      "en": "How Do the Lungs Work?"
+    },
+    "content": {
+      "zh": "吸气时肺里几亿个肺泡张开，氧气透过薄壁进血、二氧化碳出来。呼气时再把废气排走。",
+      "en": "On breathing in, hundreds of millions of air sacs open and oxygen passes through their thin walls into the blood while carbon dioxide comes out, and breathing out pushes the waste away."
+    }
+  },
+  {
+    "title": {
+      "zh": "肾脏是干什么用的",
+      "en": "What Do the Kidneys Do?"
+    },
+    "content": {
+      "zh": "肾脏一天到晚过滤血液，把多余的水和废物做成尿，还负责调节血压和体内的盐分。",
+      "en": "The kidneys filter blood around the clock, turning spare water and waste into urine, and they also help control blood pressure and the body's salt."
+    }
   }
 ]

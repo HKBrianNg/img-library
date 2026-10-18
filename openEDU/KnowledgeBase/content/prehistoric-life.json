@@ -118,5 +118,485 @@
       "zh": "鹦鹉螺在 5 亿年前就有了，模样几乎没怎么变，一直活到今天。看着它，就像看见远古海洋里的老居民。",
       "en": "Nautiluses appeared 500 million years ago and have hardly changed since. Seeing one is like meeting an ancient resident of the old seas."
     }
+  },
+  {
+    "title": {
+      "zh": "恐龙在地球上生活了多久",
+      "en": "How Long Did Dinosaurs Live on Earth?"
+    },
+    "content": {
+      "zh": "恐龙在地球上待了大约 1 亿 6 千万年，而人类到现在才几百万年。要是把地球历史压缩成一天，恐龙占了差不多一个小时。",
+      "en": "Dinosaurs ruled for about 160 million years, while humans have been here only a few million. Squeeze Earth's story into one day and dinosaurs fill nearly an hour."
+    }
+  },
+  {
+    "title": {
+      "zh": "最小的恐龙有多小",
+      "en": "How Small Was the Smallest Dinosaur?"
+    },
+    "content": {
+      "zh": "最小的恐龙只有鸽子那么大，尾巴和骨头都是空心的，轻得很。有些还长着羽毛，在树枝间跳来跳去。",
+      "en": "The smallest dinosaurs were only pigeon-sized, with hollow bones that kept them light. Some had feathers and hopped about among the branches."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙会不会游泳",
+      "en": "Could Dinosaurs Swim?"
+    },
+    "content": {
+      "zh": "多数恐龙会游泳，像现在的牛、马一样划水过河。化石里还留下过一串恐龙脚印，那是它踩着河底走过去的。",
+      "en": "Most dinosaurs could swim, paddling across rivers the way cattle do today. One fossil even keeps a line of footprints made by a dinosaur walking along a riverbed."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙的名字是谁起的",
+      "en": "Who Named the Dinosaurs?"
+    },
+    "content": {
+      "zh": "1842 年英国科学家欧文造了“恐龙”这个词，原意是“可怕的蜥蜴”。后来发现的恐龙越来越多，名字也就越起越多。",
+      "en": "In 1842 the British scientist Richard Owen coined the name dinosaur, meaning “terrible lizard”. As more fossils turned up, more names followed."
+    }
+  },
+  {
+    "title": {
+      "zh": "始祖鸟是鸟还是恐龙",
+      "en": "Was Archaeopteryx a Bird or a Dinosaur?"
+    },
+    "content": {
+      "zh": "它两边都像：有羽毛和翅膀，也有牙齿、长尾巴和爪子。科学家把它看作恐龙向鸟过渡的那一步。",
+      "en": "It looks like both: it had feathers and wings, but also teeth, a long tail and claws. Scientists see it as a step between dinosaurs and birds."
+    }
+  },
+  {
+    "title": {
+      "zh": "地球上最早的生命是什么样的",
+      "en": "What Did the Earliest Life Look Like?"
+    },
+    "content": {
+      "zh": "最早的生命出现在约 35 亿年前，是肉眼看不见的单细胞生物，住在海里。它们花了几十亿年，才演化出后来的动植物。",
+      "en": "The first life appeared about 3.5 billion years ago: single cells too small to see, living in the sea. They took billions of years to give rise to plants and animals."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙吃什么",
+      "en": "What Did Dinosaurs Eat?"
+    },
+    "content": {
+      "zh": "有的恐龙吃植物，靠宽牙和石头磨碎树叶；有的吃肉，长着尖牙利爪。还有什么都吃的，像现在的熊。",
+      "en": "Some ate plants, grinding leaves with broad teeth and swallowed stones. Others ate meat, with sharp teeth and claws. A few, like bears today, ate both."
+    }
+  },
+  {
+    "title": {
+      "zh": "科学家怎么知道恐龙的颜色",
+      "en": "How Do Scientists Know What Colour Dinosaurs Were?"
+    },
+    "content": {
+      "zh": "化石里有时留下极小的黑色素颗粒，用显微镜看它们的形状和排列，就能推算出羽毛是黑、是红还是带光泽。",
+      "en": "Some fossils keep tiny grains of pigment. Under a microscope their shape and pattern tell whether feathers were black, red or glossy."
+    }
+  },
+  {
+    "title": {
+      "zh": "剑龙背上的板有什么用",
+      "en": "What Were the Plates on a Stegosaurus For?"
+    },
+    "content": {
+      "zh": "那些骨板可能用来吓唬敌人、跟同伴打招呼，还能像散热片一样把多余的热散掉，一举三得。",
+      "en": "The bony plates may have scared enemies, shown off to other stegosaurs, and shed extra heat like cooling fins — three jobs at once."
+    }
+  },
+  {
+    "title": {
+      "zh": "三角龙头上的角有什么用",
+      "en": "What Were a Triceratops's Horns For?"
+    },
+    "content": {
+      "zh": "角是它的武器，能顶退霸王龙一类的捕食者；也可能用来和同伴比力气，决定谁说了算。",
+      "en": "The horns were weapons for driving off hunters like T. rex. They may also have been used in shoving contests with rivals to decide who was boss."
+    }
+  },
+  {
+    "title": {
+      "zh": "琥珀里的虫子是怎么进去的",
+      "en": "How Did Insects Get Inside Amber?"
+    },
+    "content": {
+      "zh": "几千万年前，小虫被树上流下的黏树脂粘住，树脂一层层把它包住。树脂变硬成了琥珀，虫子就留在里面了。",
+      "en": "Millions of years ago a small insect got stuck in sticky tree resin. Layer by layer the resin covered it, then hardened into amber with the insect inside."
+    }
+  },
+  {
+    "title": {
+      "zh": "剑齿虎的牙齿为什么那么长",
+      "en": "Why Did Saber-Toothed Cats Have Such Long Teeth?"
+    },
+    "content": {
+      "zh": "那对长牙像两把匕首，用来咬住大型猎物的喉咙。猎物变小后，这么长的牙反而不方便，剑齿虎就灭绝了。",
+      "en": "The long teeth worked like daggers for gripping the throat of big prey. When large prey died out, teeth that long became a drawback, and the cats vanished."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙脚印能告诉我们什么",
+      "en": "What Do Dinosaur Footprints Tell Us?"
+    },
+    "content": {
+      "zh": "脚印能看出恐龙有多大、走得多快、是独行还是成群，甚至能看出它跑起来还是慢慢走。",
+      "en": "Footprints show how big a dinosaur was, how fast it moved, whether it travelled alone or in a herd, and whether it walked or ran."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙会照顾小恐龙吗",
+      "en": "Did Dinosaurs Care for Their Young?"
+    },
+    "content": {
+      "zh": "有些会。化石里发现过恐龙守着巢穴，小恐龙孵出后还留在窝里一段时间，由父母喂食和保护。",
+      "en": "Some did. Fossils show dinosaurs guarding nests, with hatchlings staying in the nest a while, fed and guarded by parents."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙是独居还是成群的",
+      "en": "Were Dinosaurs Solitary or Social?"
+    },
+    "content": {
+      "zh": "两种都有。鸭嘴龙留下过成群的脚印和巢穴，说明它们结伴生活；大型食肉恐龙多半独自狩猎。",
+      "en": "Both. Hadrosaurs left group footprints and nesting grounds showing they lived together, while big meat-eaters mostly hunted alone."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙聪明吗",
+      "en": "Were Dinosaurs Intelligent?"
+    },
+    "content": {
+      "zh": "多数恐龙的脑子和现在的爬行动物差不多。小型肉食恐龙如伤齿龙相对机灵，但远不如今天的鸟和哺乳动物。",
+      "en": "Most had brains much like living reptiles, though small hunters such as troodons were relatively sharp, still far behind today's birds and mammals."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙跑得有多快",
+      "en": "How Fast Could Dinosaurs Run?"
+    },
+    "content": {
+      "zh": "从脚印和腿骨推算，似鸡龙一类的两足恐龙大约能跑到每小时 40 公里，跟马差不多快。",
+      "en": "From footprints and leg bones, two-legged dinosaurs like Gallimimus may have reached 40 km/h, about as fast as a horse."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙时代的天气怎么样",
+      "en": "What Was the Weather Like in Dinosaur Times?"
+    },
+    "content": {
+      "zh": "那时全球都很暖，两极没有冰盖，海平面也高。空气里的二氧化碳比现在多，所以到处是温暖湿润的森林。",
+      "en": "The world was warm all over, with no ice at the poles and a higher sea level, and more carbon dioxide meant warm, damp forests spread widely."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙时代有花草吗",
+      "en": "Were There Flowers in Dinosaur Times?"
+    },
+    "content": {
+      "zh": "早期的恐龙没见过花，开花植物是大约 1.3 亿年前才出现的。后来的恐龙才吃上了花、果实和草。",
+      "en": "The earliest dinosaurs never saw a flower, since flowering plants appeared about 130 million years ago, and only later dinosaurs ate flowers, fruit and grass."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙也会生病吗",
+      "en": "Did Dinosaurs Get Sick?"
+    },
+    "content": {
+      "zh": "会。化石上留下过骨折、关节炎和感染的痕迹，还有被寄生虫困扰的证据，说明它们也会受伤生病。",
+      "en": "Yes. Fossils keep marks of broken bones, arthritis and infection, and even signs of parasites, showing they suffered injury and illness too."
+    }
+  },
+  {
+    "title": {
+      "zh": "最大的食肉恐龙是什么",
+      "en": "What Was the Biggest Meat-Eating Dinosaur?"
+    },
+    "content": {
+      "zh": "棘龙比霸王龙还长，能到 15 米，而且多半半水生、爱吃鱼。陆地上的霸主仍然是霸王龙。",
+      "en": "Spinosaurus was longer than T. rex at up to 15 metres and lived mostly in water eating fish, while T. rex remained the king on land."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙的尾巴有什么用",
+      "en": "What Was a Dinosaur's Tail For?"
+    },
+    "content": {
+      "zh": "尾巴是平衡杆：两足恐龙靠它配平头部和身体的重量，跑动和转弯时全靠它稳住。有的还能当武器。",
+      "en": "The tail was a balance beam, letting two-legged dinosaurs counterweight the head and body and steady themselves when running and turning, and some used it as a weapon."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙能听见声音吗",
+      "en": "Could Dinosaurs Hear?"
+    },
+    "content": {
+      "zh": "能。化石里的耳部结构显示它们听得到低沉的声音，有些还能发出低鸣，跟同伴隔很远打招呼。",
+      "en": "Yes. Ear structures in fossils show they heard low sounds, and some could boom at a low pitch to call others far away."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙的皮肤长什么样",
+      "en": "What Did Dinosaur Skin Look Like?"
+    },
+    "content": {
+      "zh": "皮肤化石显示，恐龙身上覆盖着鳞片或结节，像今天的鳄鱼和蜥蜴。不少小型恐龙还长着羽毛。",
+      "en": "Skin fossils show scales and bumps like those of crocodiles and lizards today, and many smaller dinosaurs also grew feathers."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙蛋有多大",
+      "en": "How Big Were Dinosaur Eggs?"
+    },
+    "content": {
+      "zh": "多数恐龙蛋跟足球差不多，最大的有篮球大小，壳硬得像瓷器。蛋再大，孵出的宝宝也比父母小得多。",
+      "en": "Most were about the size of a football, the largest like a basketball, with shells as hard as china, yet even so the hatchlings were far smaller than the parents."
+    }
+  },
+  {
+    "title": {
+      "zh": "哪里最容易挖到恐龙化石",
+      "en": "Where Are Dinosaur Fossils Most Often Found?"
+    },
+    "content": {
+      "zh": "干旱少植被的地方最容易，因为岩石裸露、骨头不会被草盖住。中国的戈壁、美国的荒原都出过大量恐龙。",
+      "en": "Dry, bare places are best because rock is exposed and bones are not hidden by plants, which is why the Gobi and American badlands have yielded so many."
+    }
+  },
+  {
+    "title": {
+      "zh": "除了骨头还能变成化石吗",
+      "en": "Can Things Other Than Bones Fossilise?"
+    },
+    "content": {
+      "zh": "能。脚印、蛋、粪便、皮肤印痕，甚至羽毛和昆虫都能变成化石，各自讲着不同的故事。",
+      "en": "Yes. Footprints, eggs, droppings, skin impressions and even feathers and insects become fossils, each telling a different story."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙时代的海里有什么",
+      "en": "What Lived in the Seas of Dinosaur Times?"
+    },
+    "content": {
+      "zh": "海里游着鱼龙、蛇颈龙和沧龙，还有菊石和鲨鱼。它们不是恐龙，却和恐龙生活在同一个时代。",
+      "en": "The seas held ichthyosaurs, plesiosaurs and mosasaurs along with ammonites and sharks, and though not dinosaurs they lived in the same age."
+    }
+  },
+  {
+    "title": {
+      "zh": "翼龙有多大",
+      "en": "How Big Were Pterosaurs?"
+    },
+    "content": {
+      "zh": "小的像麻雀，大的如风神翼龙，翅膀展开能有 10 米，跟一架小飞机差不多，是史上最大的飞行动物。",
+      "en": "The smallest were sparrow-sized, while Quetzalcoatlus spread wings of 10 metres, about the size of a small plane, making it the largest flying animal ever."
+    }
+  },
+  {
+    "title": {
+      "zh": "鱼龙是什么动物",
+      "en": "What Was an Ichthyosaur?"
+    },
+    "content": {
+      "zh": "鱼龙是一种海洋爬行动物，样子像海豚，用肺呼吸、生小宝宝。它不是恐龙，只是和恐龙同时代。",
+      "en": "Ichthyosaurs were sea reptiles shaped like dolphins that breathed air and gave birth to live young, and they were not dinosaurs, just contemporaries."
+    }
+  },
+  {
+    "title": {
+      "zh": "蛇颈龙的脖子为什么那么长",
+      "en": "Why Did Plesiosaurs Have Such Long Necks?"
+    },
+    "content": {
+      "zh": "长脖子能悄悄伸进鱼群里而不惊动它们，脖子一摆就能逮住鱼。有的种类脖子占了身长的一半。",
+      "en": "A long neck could slip into a shoal without startling it, then dart out to catch fish, and in some species the neck was half the body length."
+    }
+  },
+  {
+    "title": {
+      "zh": "猛犸象长什么样",
+      "en": "What Did a Mammoth Look Like?"
+    },
+    "content": {
+      "zh": "猛犸象跟大象是亲戚，浑身披着长毛，还有一层厚脂肪御寒。它的长牙又弯又长，能到四米。",
+      "en": "Mammoths were elephant relatives covered in long hair over a thick layer of fat, with long curved tusks reaching four metres."
+    }
+  },
+  {
+    "title": {
+      "zh": "大地懒有多大",
+      "en": "How Big Was the Giant Ground Sloth?"
+    },
+    "content": {
+      "zh": "大地懒站起来能有六米高，比两层楼还高，体重好几吨。它用后腿站立，伸长了舌头够高处的树叶。",
+      "en": "The giant ground sloth stood up to six metres tall, taller than two storeys and weighing several tonnes, rearing on hind legs to strip leaves with its long tongue."
+    }
+  },
+  {
+    "title": {
+      "zh": "渡渡鸟是怎么灭绝的",
+      "en": "How Did the Dodo Die Out?"
+    },
+    "content": {
+      "zh": "渡渡鸟不会飞，也不怕人。水手登岛后捕杀它们，带来的猪和老鼠又吃掉了蛋，不到一百年就绝了种。",
+      "en": "The dodo could not fly and feared nothing, so sailors hunted it while pigs and rats they brought ate the eggs, and within a century it was gone."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙时代有哺乳动物吗",
+      "en": "Were There Mammals in Dinosaur Times?"
+    },
+    "content": {
+      "zh": "有，不过个头都很小，多是像老鼠一样的夜行动物。它们躲在恐龙的阴影里，等恐龙灭绝才壮大起来。",
+      "en": "Yes, but they were small, mostly mouse-like night animals living in the dinosaurs' shadow, and they grew large only after the dinosaurs died out."
+    }
+  },
+  {
+    "title": {
+      "zh": "人类是什么时候出现的",
+      "en": "When Did Humans Appear?"
+    },
+    "content": {
+      "zh": "最早的古猿在约 700 万年前出现，而我们这种智人大约 30 万年前才走上舞台，比恐龙晚了六千多万年。",
+      "en": "The first apes appeared about 7 million years ago, but our own species, Homo sapiens, arrived only around 300,000 years ago, over 60 million years after the dinosaurs."
+    }
+  },
+  {
+    "title": {
+      "zh": "我们的祖先是什么样子的",
+      "en": "What Did Our Ancestors Look Like?"
+    },
+    "content": {
+      "zh": "早期人类个子不高、浑身有毛，已经能直立行走，会打制石器、使用火。样子和现代人相差不小。",
+      "en": "Early humans were short and hairy but already walked upright and made stone tools and used fire, looking quite different from people today."
+    }
+  },
+  {
+    "title": {
+      "zh": "三叶虫为什么消失了",
+      "en": "Why Did Trilobites Disappear?"
+    },
+    "content": {
+      "zh": "三叶虫在海里活了将近三亿年，最后在二叠纪末的大灭绝中消失。那次灾难让海里九成的物种都没能熬过。",
+      "en": "Trilobites lived in the sea for nearly 300 million years and vanished in the mass extinction at the end of the Permian, when nine in ten sea species died."
+    }
+  },
+  {
+    "title": {
+      "zh": "菊石和鹦鹉螺是一家吗",
+      "en": "Are Ammonites and Nautiluses Related?"
+    },
+    "content": {
+      "zh": "是近亲，都属于头足类。菊石早已灭绝，只留下螺旋的壳化石；鹦鹉螺还活着，所以被叫作活化石。",
+      "en": "They are close relatives among the cephalopods, but ammonites died out leaving only spiral shell fossils, while the nautilus survives and is called a living fossil."
+    }
+  },
+  {
+    "title": {
+      "zh": "腔棘鱼为什么叫活化石",
+      "en": "Why Is the Coelacanth a Living Fossil?"
+    },
+    "content": {
+      "zh": "人们以为腔棘鱼早在六千多万年前就绝了，1938 年却在海里抓到了活鱼。几亿年样子几乎没变。",
+      "en": "Scientists thought the coelacanth died out over 60 million years ago until a live one was caught in 1938, and it has changed little in hundreds of millions of years."
+    }
+  },
+  {
+    "title": {
+      "zh": "恐龙灭绝后发生了什么",
+      "en": "What Happened After the Dinosaurs Died Out?"
+    },
+    "content": {
+      "zh": "天空和地面空了出来，哺乳动物抓住机会迅速壮大，几千万年里长出了马、象、鲸，最后还有我们人类。",
+      "en": "With the sky and ground free, mammals seized the chance and grew rapidly, producing horses, elephants, whales and eventually us within tens of millions of years."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么哺乳动物能活下来",
+      "en": "Why Did Mammals Survive?"
+    },
+    "content": {
+      "zh": "它们个头小、吃得杂，还能钻洞躲开严寒和烈火。加上身披毛发、能自己保持体温，就熬过了最难的时期。",
+      "en": "They were small, ate almost anything and could burrow to escape cold and fire, and with fur and their own body heat they got through the worst."
+    }
+  },
+  {
+    "title": {
+      "zh": "鸟类是恐龙的后代吗",
+      "en": "Are Birds the Descendants of Dinosaurs?"
+    },
+    "content": {
+      "zh": "是的。今天科学家认为，鸟类是从小型带羽毛的兽脚类恐龙演化来的，鸟就是存活到现在的恐龙。",
+      "en": "Yes. Scientists now hold that birds evolved from small feathered theropods, which means birds are dinosaurs that survived to the present."
+    }
+  },
+  {
+    "title": {
+      "zh": "化石能告诉我们什么",
+      "en": "What Do Fossils Tell Us?"
+    },
+    "content": {
+      "zh": "化石能说出生物长什么样、吃什么、住在哪，还能反映当时的气候和环境，是地球留下的日记。",
+      "en": "Fossils tell what a creature looked like, what it ate and where it lived, and they reveal the climate and surroundings of the time, a diary kept by Earth."
+    }
+  },
+  {
+    "title": {
+      "zh": "冰里挖出的猛犸象为什么还完好",
+      "en": "Why Are Frozen Mammoths So Well Preserved?"
+    },
+    "content": {
+      "zh": "它们死在冻土里，低温让细菌几乎无法活动，尸体就被冻住保存下来。有的连胃里最后一顿饭都还在。",
+      "en": "They died in frozen ground where cold stopped bacteria almost completely, freezing the body in place, and some still hold their last meal in the stomach."
+    }
+  },
+  {
+    "title": {
+      "zh": "科学家是怎么挖化石的",
+      "en": "How Do Scientists Dig Up Fossils?"
+    },
+    "content": {
+      "zh": "先用刷子和凿子一点点清掉周围的岩石，再给骨头刷上加固液、包上石膏固定，最后整块运回实验室。",
+      "en": "They clear the rock around it bit by bit with brushes and chisels, then harden the bone, wrap it in plaster to hold it still, and carry the whole block to a lab."
+    }
+  },
+  {
+    "title": {
+      "zh": "怎么知道化石有多少岁",
+      "en": "How Do We Know How Old a Fossil Is?"
+    },
+    "content": {
+      "zh": "多半靠测它所在岩层里的放射性元素衰变了多少。再配合上下地层和别的化石，就能定出大致年代。",
+      "en": "Mostly by measuring how much radioactive material in the surrounding rock has decayed, and by comparing layers above and below plus other fossils."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么化石常常不完整",
+      "en": "Why Are Fossils Often Incomplete?"
+    },
+    "content": {
+      "zh": "生物死后多半被水流冲散、被动物啃食、被风化。只有极少数碰巧被泥沙迅速掩埋，才留下完整骨架。",
+      "en": "After death a body is usually scattered by water, eaten by animals and worn by weather, and only a few are buried quickly enough to leave a whole skeleton."
+    }
   }
 ]

@@ -118,5 +118,485 @@
       "zh": "向日葵幼苗朝着太阳那面长得慢、背阴面长得快，茎就慢慢朝太阳弯过去。花盘长大后一般固定朝东，不再转了。",
       "en": "In young sunflowers the shaded side of the stem grows faster than the sunny side, bending the head towards the sun. Mature heads usually face east and stop turning."
     }
+  },
+  {
+    "title": {
+      "zh": "树叶为什么是绿色的",
+      "en": "Why Are Leaves Green?"
+    },
+    "content": {
+      "zh": "叶子里有叶绿素，它专门吸收红光和蓝光来做饭，把绿光反射出来，所以我们看到的叶子是绿的。",
+      "en": "Leaves hold chlorophyll, which takes in red and blue light to make food and reflects the green light. That green reaches our eyes."
+    }
+  },
+  {
+    "title": {
+      "zh": "秋天树为什么要落叶",
+      "en": "Why Do Trees Drop Their Leaves in Autumn?"
+    },
+    "content": {
+      "zh": "天冷了日照少，叶子干活也费水。树就把叶子丢掉、关上水阀过冬，等春天再长新的。",
+      "en": "Cold and short days make leaves costly to keep, so the tree drops them and shuts down for winter, growing new ones in spring."
+    }
+  },
+  {
+    "title": {
+      "zh": "大树底下为什么特别凉快",
+      "en": "Why Is It Cool Under a Big Tree?"
+    },
+    "content": {
+      "zh": "浓密的树叶挡住了太阳，叶子蒸腾水分时还会带走热气。树下既晒不到，又有水汽降温，所以最凉快。",
+      "en": "Thick leaves block the sun, and water leaving the leaves carries heat away. Under a tree you are shaded and cooled at the same time."
+    }
+  },
+  {
+    "title": {
+      "zh": "种子是怎么发芽的",
+      "en": "How Does a Seed Sprout?"
+    },
+    "content": {
+      "zh": "种子喝饱水就醒过来，先伸出一条小根抓住土，再顶出嫩芽去晒太阳。种子里存着它头几天的口粮。",
+      "en": "A seed wakes when it drinks water. It sends out a tiny root to grip the soil, then pushes up a shoot toward the light, living on food stored inside."
+    }
+  },
+  {
+    "title": {
+      "zh": "香蕉为什么长成弯的",
+      "en": "Why Are Bananas Curved?"
+    },
+    "content": {
+      "zh": "香蕉小时候是朝下长的，长大后为了朝着阳光，果实就一点点往上翘，长成了弯弯的样子。",
+      "en": "Young bananas hang downward, but as they grow they turn toward the sunlight. That slow upward reach gives them their curve."
+    }
+  },
+  {
+    "title": {
+      "zh": "冬天树干为什么要刷成白色",
+      "en": "Why Are Tree Trunks Painted White in Winter?"
+    },
+    "content": {
+      "zh": "白涂料能反射阳光，白天不吸热、夜里不散热，树干就不会被温差冻裂，还能顺带杀死藏在树皮里的虫。",
+      "en": "White paint reflects sunlight, so the trunk stays cool by day and loses less heat at night. That stops frost cracks and also kills pests in the bark."
+    }
+  },
+  {
+    "title": {
+      "zh": "藕为什么有那么多孔",
+      "en": "Why Does Lotus Root Have Holes?"
+    },
+    "content": {
+      "zh": "藕长在池塘的淤泥里，那里缺少空气。这些孔是它的“通气管”，把上面的空气送到底下的根。",
+      "en": "Lotus root grows in muddy ponds where air is scarce. The holes work like air pipes, carrying air from above down to the buried parts."
+    }
+  },
+  {
+    "title": {
+      "zh": "树林里为什么空气特别好",
+      "en": "Why Is the Air So Fresh in a Forest?"
+    },
+    "content": {
+      "zh": "树叶吸进二氧化碳、吐出氧气，还能粘住灰尘。树多的地方氧气足、灰尘少，闻起来就特别清爽。",
+      "en": "Leaves take in carbon dioxide and give out oxygen, and they trap dust as well. More trees mean more oxygen and less dust, so the air feels fresh."
+    }
+  },
+  {
+    "title": {
+      "zh": "松树为什么冬天不落叶",
+      "en": "Why Don't Pines Drop Their Needles in Winter?"
+    },
+    "content": {
+      "zh": "松叶又细又硬，还裹着一层蜡，水分跑不掉，所以冬天不用落叶。它的叶子是轮流换的，看着常绿。",
+      "en": "Pine needles are thin, tough and wax-coated, so they lose little water and can stay on all winter. They are replaced a few at a time, so the tree always looks green."
+    }
+  },
+  {
+    "title": {
+      "zh": "水果成熟后为什么会变甜",
+      "en": "Why Does Fruit Get Sweeter as It Ripens?"
+    },
+    "content": {
+      "zh": "没熟的果实里存着淀粉，几乎不甜。成熟时淀粉被分解成糖，果实变软变香，好让动物来吃、帮它传播种子。",
+      "en": "Unripe fruit stores starch, which tastes flat. As it ripens the starch turns into sugar, and the fruit softens and smells sweet so animals will eat it and spread the seeds."
+    }
+  },
+  {
+    "title": {
+      "zh": "土豆是根还是茎",
+      "en": "Is a Potato a Root or a Stem?"
+    },
+    "content": {
+      "zh": "土豆是茎，不是根。它是埋在土里的地下茎，专门用来存养分；上面那些小坑就是能发芽长新株的芽眼。",
+      "en": "A potato is a stem, not a root. It is an underground stem used for storing food, and the little dents on it are the buds that can sprout."
+    }
+  },
+  {
+    "title": {
+      "zh": "玫瑰为什么长刺",
+      "en": "Why Do Roses Have Thorns?"
+    },
+    "content": {
+      "zh": "刺是玫瑰的防身武器，让动物不敢随便啃它的枝和花。这些刺其实是茎的表皮长出来的尖尖。",
+      "en": "Thorns are the rose's defence, stopping animals from chewing its stems and flowers. They are sharp outgrowths of the stem's outer layer."
+    }
+  },
+  {
+    "title": {
+      "zh": "植物为什么离不开阳光",
+      "en": "Why Do Plants Need Sunlight?"
+    },
+    "content": {
+      "zh": "植物用阳光把水和二氧化碳做成糖，这叫光合作用。没有光，叶子就没法做饭，植物就会饿死。",
+      "en": "Plants use sunlight to turn water and carbon dioxide into sugar in photosynthesis, and without light their leaves cannot make food."
+    }
+  },
+  {
+    "title": {
+      "zh": "植物是怎么喝水的",
+      "en": "How Do Plants Drink?"
+    },
+    "content": {
+      "zh": "根毛从土里吸水，水顺着茎里细细的管子往上爬，一直送到叶子。叶子蒸发水分时，还会把下面的水拉上来。",
+      "en": "Root hairs take water from the soil, it climbs up thin tubes in the stem to the leaves, and as leaves lose water they pull more up behind."
+    }
+  },
+  {
+    "title": {
+      "zh": "叶子上的纹路有什么用",
+      "en": "What Are the Veins on a Leaf For?"
+    },
+    "content": {
+      "zh": "叶脉是叶子的骨架，既撑住叶面，又是运输管道：送水进来，把叶子做出的糖运走。",
+      "en": "Veins are the leaf's skeleton, holding it flat and acting as pipes that bring water in and carry the sugar the leaf makes away."
+    }
+  },
+  {
+    "title": {
+      "zh": "叶子为什么又薄又宽",
+      "en": "Why Are Leaves Thin and Broad?"
+    },
+    "content": {
+      "zh": "薄能让光很快透进去、气体容易进出；宽能接到更多阳光。两者合起来，做饭的效率最高。",
+      "en": "Thin means light gets in fast and gases move easily, while broad catches more sunlight, and together they make food most efficiently."
+    }
+  },
+  {
+    "title": {
+      "zh": "花为什么长得不一样",
+      "en": "Why Do Flowers Look So Different?"
+    },
+    "content": {
+      "zh": "花的形状是给传粉者量身做的：管状的适合蜂鸟，平台状的方便蜜蜂落脚。形状决定了谁能来帮忙。",
+      "en": "A flower's shape is made for its pollinator, with tubes suiting hummingbirds and flat platforms giving bees a landing place, which decides who helps."
+    }
+  },
+  {
+    "title": {
+      "zh": "花为什么要结果实",
+      "en": "Why Do Flowers Turn into Fruit?"
+    },
+    "content": {
+      "zh": "花开过、授粉以后，子房就膨大成果实，把种子包在里面。果实保护种子，还想办法让动物带它们远行。",
+      "en": "After pollination the ovary swells into a fruit holding the seeds, protecting them and finding ways to get animals to carry them off."
+    }
+  },
+  {
+    "title": {
+      "zh": "种子是怎么旅行的",
+      "en": "How Do Seeds Travel?"
+    },
+    "content": {
+      "zh": "有的长翅膀随风飘，有的长钩挂在动物毛上，有的被吃掉再随粪便排出，还有的随水漂流。",
+      "en": "Some grow wings and ride the wind, some hook onto fur, some are eaten and passed elsewhere, and others float away on water."
+    }
+  },
+  {
+    "title": {
+      "zh": "种子为什么能睡很多年",
+      "en": "Why Can Seeds Sleep for Years?"
+    },
+    "content": {
+      "zh": "种子脱水后几乎停止活动，外面还有硬壳保护。等到有水有温度才醒过来，有的能睡上千年。",
+      "en": "Dried out, a seed almost stops living, protected by a hard coat, and it wakes only with water and warmth, some after a thousand years."
+    }
+  },
+  {
+    "title": {
+      "zh": "苔藓为什么长在阴湿的地方",
+      "en": "Why Does Moss Grow in Damp Shade?"
+    },
+    "content": {
+      "zh": "苔藓没有真正的根和输水管道，全靠叶子直接吸水，还有靠水才能游动的精子。所以只能待在阴湿处。",
+      "en": "Moss has no true roots or water pipes, soaking up water through its leaves, and its sperm need water to swim, so damp shade suits it."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么雨后蘑菇特别多",
+      "en": "Why Do Mushrooms Appear After Rain?"
+    },
+    "content": {
+      "zh": "蘑菇是真菌的果实，平时菌丝藏在土里，雨后湿度够了才大批冒出来，好把孢子散出去。",
+      "en": "Mushrooms are the fruit of a fungus whose threads live hidden in the soil, and after rain there is enough moisture for them to rise and spread spores."
+    }
+  },
+  {
+    "title": {
+      "zh": "竹子为什么长得特别快",
+      "en": "Why Does Bamboo Grow So Fast?"
+    },
+    "content": {
+      "zh": "竹子的每一节同时伸长，不是只长顶端。养分又靠地下茎互相输送，所以一天能长几十厘米。",
+      "en": "Every section of a bamboo stem lengthens at once rather than only the tip, and nutrients pass along underground stems, so it can grow tens of centimetres a day."
+    }
+  },
+  {
+    "title": {
+      "zh": "藤蔓植物为什么要缠着东西",
+      "en": "Why Do Vines Twine Around Things?"
+    },
+    "content": {
+      "zh": "藤蔓自己站不直，借别人的身体往上爬，能少花力气就够到阳光。它们还会长出卷须牢牢抓住支撑物。",
+      "en": "A vine cannot stand alone, so it borrows support to reach the light without building a thick trunk, gripping on with tendrils."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的植物会吃虫子",
+      "en": "Why Do Some Plants Eat Insects?"
+    },
+    "content": {
+      "zh": "它们长在贫瘠的酸沼里，土里缺氮，只好用叶子做陷阱抓虫补充养分，捕蝇草就是这么活的。",
+      "en": "They grow in poor, acidic bogs where the soil lacks nitrogen, so they trap insects in leafy traps to top up their food, as the Venus flytrap does."
+    }
+  },
+  {
+    "title": {
+      "zh": "仙人掌的刺是叶子吗",
+      "en": "Are Cactus Spines Leaves?"
+    },
+    "content": {
+      "zh": "是的。为了减少水分蒸发，仙人掌的叶子退化成刺，改由绿色的茎来做饭和存水。",
+      "en": "They are. To cut water loss the leaves became spines, and the green stem took over both making food and storing water."
+    }
+  },
+  {
+    "title": {
+      "zh": "多肉植物为什么厚厚的",
+      "en": "Why Are Succulents So Plump?"
+    },
+    "content": {
+      "zh": "它们的叶和茎里有许多储水细胞，雨季喝饱存起来，旱季慢慢用，所以摸上去肉嘟嘟的。",
+      "en": "Their leaves and stems hold special water-storage cells that fill in the wet season and are drawn on through drought, making them feel plump."
+    }
+  },
+  {
+    "title": {
+      "zh": "水里的植物为什么不会烂",
+      "en": "Why Don't Water Plants Rot?"
+    },
+    "content": {
+      "zh": "它们体内有通气管道，能把空气送到根部；表面还有防水层。泡在水里照样能呼吸。",
+      "en": "They carry air channels that pipe oxygen down to the roots and have a waterproof surface, so they can breathe while submerged."
+    }
+  },
+  {
+    "title": {
+      "zh": "红树林为什么能长在海边",
+      "en": "How Do Mangroves Grow by the Sea?"
+    },
+    "content": {
+      "zh": "红树有的用气根伸出水面呼吸，有的能把多余的盐排掉，种子还在树上发芽再掉下去扎根。",
+      "en": "Some mangroves push air roots above water to breathe, some push out extra salt, and their seeds sprout on the tree before dropping to root."
+    }
+  },
+  {
+    "title": {
+      "zh": "世界上最高的树有多高",
+      "en": "How Tall Is the Tallest Tree?"
+    },
+    "content": {
+      "zh": "最高的树是北美的红杉，能长到 115 米以上，比三十层楼还高。它靠树干里的细管把水送上去。",
+      "en": "The tallest are North American redwoods, reaching over 115 metres, taller than a thirty-storey building, lifting water up through narrow tubes."
+    }
+  },
+  {
+    "title": {
+      "zh": "果实为什么五颜六色",
+      "en": "Why Is Fruit So Colourful?"
+    },
+    "content": {
+      "zh": "鲜艳的颜色是在招手：我熟了，快来吃。动物吃下果实，把种子带到别处，颜色就是广告牌。",
+      "en": "Bright colours advertise that the fruit is ripe, and when animals eat it they carry the seeds elsewhere, so colour works as a signboard."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的植物有毒",
+      "en": "Why Are Some Plants Poisonous?"
+    },
+    "content": {
+      "zh": "毒是防身武器，让动物不敢啃。蓖麻、夹竹桃这些植物的毒素，是长期演化出来的护身符。",
+      "en": "Poison is a defence that stops animals from nibbling, and toxins in plants like castor bean and oleander evolved over ages as protection."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的花很臭",
+      "en": "Why Do Some Flowers Smell Bad?"
+    },
+    "content": {
+      "zh": "大王花散发腐肉的气味，是为了招引爱在腐肉上产卵的苍蝇。闻着臭，对它们来说正是香。",
+      "en": "The corpse flower smells of rotting meat to attract flies that lay eggs on carrion, so what stinks to us smells right to them."
+    }
+  },
+  {
+    "title": {
+      "zh": "落叶都去哪儿了",
+      "en": "Where Do Fallen Leaves Go?"
+    },
+    "content": {
+      "zh": "落叶被蚯蚓、真菌和细菌一点点分解，变成腐殖质回到土里，又成了新叶子的养分。",
+      "en": "Fallen leaves are broken down by worms, fungi and bacteria into humus that returns to the soil and feeds next year's leaves."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要给果树嫁接",
+      "en": "Why Are Fruit Trees Grafted?"
+    },
+    "content": {
+      "zh": "好吃的果树用种子种出来会走样，把它的枝条接到结实的根上，就能原样复制出同样的果子。",
+      "en": "A good tree grown from seed will not come true, so a cutting joined to hardy roots copies the parent's fruit exactly."
+    }
+  },
+  {
+    "title": {
+      "zh": "植物为什么需要肥料",
+      "en": "Why Do Plants Need Fertiliser?"
+    },
+    "content": {
+      "zh": "植物要氮、磷、钾等元素才能长叶、开花、结果。土里不够就得补，这就是施肥。",
+      "en": "Plants need nitrogen, phosphorus, potassium and more to make leaves, flowers and fruit, and when soil runs short these must be added."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要给树剪枝",
+      "en": "Why Are Trees Pruned?"
+    },
+    "content": {
+      "zh": "剪掉过密、生病和交叉的枝条，能让阳光和空气进到树冠里，剩下的枝条长得更壮，果子也更好。",
+      "en": "Cutting crowded, diseased or crossing branches lets light and air into the crown, so the rest grow stronger and bear better."
+    }
+  },
+  {
+    "title": {
+      "zh": "大棚为什么能长出反季节的菜",
+      "en": "How Do Greenhouses Grow Out-of-season Vegetables?"
+    },
+    "content": {
+      "zh": "大棚把阳光的热量留住，里面暖和又挡风，还能控制水和二氧化碳，冬天也能种出夏天的菜。",
+      "en": "A greenhouse traps the sun's warmth, keeps out the wind and controls water and carbon dioxide, so summer crops grow in winter."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的树能活几千年",
+      "en": "Why Do Some Trees Live Thousands of Years?"
+    },
+    "content": {
+      "zh": "它们长得慢、木质结实，还含有防虫防腐的树脂，加上长在没人打扰的地方，就活成了老寿星。",
+      "en": "They grow slowly with dense, resin-rich wood that resists insects and rot, and often stand where nobody disturbs them, so they grow ancient."
+    }
+  },
+  {
+    "title": {
+      "zh": "最大的花有多大",
+      "en": "How Big Is the Biggest Flower?"
+    },
+    "content": {
+      "zh": "大王花直径能到一米，重十几公斤，没有叶子和茎，是寄生在藤蔓上的花，还散发着腐肉味。",
+      "en": "The corpse flower reaches a metre across and weighs several kilos, with no leaf or stem, living as a parasite on a vine and smelling of rot."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的树先开花后长叶",
+      "en": "Why Do Some Trees Flower Before Leafing?"
+    },
+    "content": {
+      "zh": "玉兰这类树的花芽更耐寒，春天一到先开花抢着授粉，等天气稳了再慢慢长叶子。",
+      "en": "Trees like magnolia have hardier flower buds, so they bloom first to get pollinated early and grow leaves once the weather settles."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么割过的草还会长",
+      "en": "Why Does Cut Grass Grow Back?"
+    },
+    "content": {
+      "zh": "草的生长点在靠近地面的地方，割草只割掉了上面的叶片。根还在，很快就从基部冒出新叶。",
+      "en": "Grass grows from points near the ground, so mowing removes only the blades, and the roots send up new leaves at once."
+    }
+  },
+  {
+    "title": {
+      "zh": "植物为什么朝着光长",
+      "en": "Why Do Plants Grow Toward the Light?"
+    },
+    "content": {
+      "zh": "背光一侧的生长素更多，那边的细胞长得快，茎就朝光源弯过去。这样叶子能接到更多阳光。",
+      "en": "The shaded side holds more growth hormone so its cells lengthen faster, bending the stem toward the light so leaves catch more sun."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的果子会炸开",
+      "en": "Why Do Some Fruits Burst Open?"
+    },
+    "content": {
+      "zh": "凤仙花等植物的果荚干了会突然卷曲，把种子弹出去好几米，这是它们自己播种的办法。",
+      "en": "Pods of plants like the balsam dry and curl suddenly, flinging seeds several metres, which is how they sow themselves."
+    }
+  },
+  {
+    "title": {
+      "zh": "植物晚上在做什么",
+      "en": "What Do Plants Do at Night?"
+    },
+    "content": {
+      "zh": "夜里没有光，植物停止光合作用，但呼吸还在继续，同时把白天做的糖运到各处，慢慢长大。",
+      "en": "With no light at night photosynthesis stops, but respiration goes on and the sugar made by day is moved around while the plant grows."
+    }
+  },
+  {
+    "title": {
+      "zh": "冬天植物去哪儿了",
+      "en": "Where Do Plants Go in Winter?"
+    },
+    "content": {
+      "zh": "一年生的枯死只留种子，多年生的地上部分枯萎、靠根和地下茎过冬，树则落叶休眠等春天。",
+      "en": "Annuals die and leave seeds, perennials die back and survive by root and underground stem, and trees drop leaves and rest till spring."
+    }
+  },
+  {
+    "title": {
+      "zh": "树皮有什么用",
+      "en": "What Is Bark For?"
+    },
+    "content": {
+      "zh": "树皮像盔甲，挡住虫子和病菌，也防止水分跑掉。里面那层还能把叶子做的养分送到根部。",
+      "en": "Bark is armour against insects and disease and stops water escaping, while its inner layer carries food from the leaves down to the roots."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有些植物可以入药",
+      "en": "Why Can Some Plants Be Used as Medicine?"
+    },
+    "content": {
+      "zh": "植物为了防虫防菌会造出各种化合物，其中一些正好能对人起作用，就成了药材。",
+      "en": "Plants make all sorts of chemicals to fight pests and germs, and some of those compounds happen to act on the human body as medicine."
+    }
   }
 ]

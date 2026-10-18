@@ -118,5 +118,485 @@
       "zh": "地球是斜着身子绕太阳转的。转到某一边朝向太阳时，白天长、阳光直，就是夏天；转到另一边斜着晒，就是冬天。",
       "en": "Earth leans over as it goes around the sun. When one side leans towards the sun, days are long and the light is direct — summer. Leaning away gives winter."
     }
+  },
+  {
+    "title": {
+      "zh": "月亮为什么会有阴晴圆缺",
+      "en": "Why Does the Moon Change Shape?"
+    },
+    "content": {
+      "zh": "月亮自己不发光，靠太阳照亮。它绕着地球转，我们看到被照亮的那半边时多时少，就有了圆缺变化。",
+      "en": "The moon does not shine by itself; the sun lights it. As it circles Earth we see more or less of the lit half, so its shape seems to change."
+    }
+  },
+  {
+    "title": {
+      "zh": "日食和月食是怎么来的",
+      "en": "What Causes Solar and Lunar Eclipses?"
+    },
+    "content": {
+      "zh": "月亮挡在太阳和地球中间，挡住了太阳，这是日食；地球的影子落到月亮上，月亮变暗，这是月食。",
+      "en": "When the moon slips between the sun and Earth it blocks the sun, which is a solar eclipse. When Earth's shadow falls on the moon, that is a lunar eclipse."
+    }
+  },
+  {
+    "title": {
+      "zh": "太阳到底有多大",
+      "en": "How Big Is the Sun Really?"
+    },
+    "content": {
+      "zh": "太阳的直径是地球的 109 倍，里面能装下 130 万个地球。它离我们 1.5 亿公里，所以看着只有一个盘子大。",
+      "en": "The sun is 109 times wider than Earth and could hold 1.3 million Earths. It only looks plate-sized because it sits 150 million km away."
+    }
+  },
+  {
+    "title": {
+      "zh": "太阳为什么从东边升起",
+      "en": "Why Does the Sun Rise in the East?"
+    },
+    "content": {
+      "zh": "地球是自西向东转的，住在地球上的人就看见太阳从东边慢慢升起来，傍晚又从西边落下。",
+      "en": "Earth spins from west to east. Standing on it, we see the sun climb in the east and sink in the west, though it is Earth that is turning."
+    }
+  },
+  {
+    "title": {
+      "zh": "月亮上能住人吗",
+      "en": "Could People Live on the Moon?"
+    },
+    "content": {
+      "zh": "月亮上没有空气也没有水，白天 127 度、夜里零下 173 度。人要到那儿住，得自己带上空气和水。",
+      "en": "The moon has no air and no water, with days at 127°C and nights at -173°C. Anyone living there would have to bring air and water along."
+    }
+  },
+  {
+    "title": {
+      "zh": "星座是怎么划分的",
+      "en": "How Were the Constellations Divided?"
+    },
+    "content": {
+      "zh": "古人把亮星连成图案，编成故事，再给天空分区。1930 年天文学家统一划成 88 个星座，全世界通用。",
+      "en": "Ancient people joined bright stars into pictures and told stories about them. In 1930 astronomers agreed on 88 constellations covering the whole sky."
+    }
+  },
+  {
+    "title": {
+      "zh": "冥王星为什么被“开除”了",
+      "en": "Why Was Pluto Dropped as a Planet?"
+    },
+    "content": {
+      "zh": "2006 年天文学家给行星定了新标准：要能清干净自己轨道附近。冥王星做不到，就改成了矮行星。",
+      "en": "In 2006 scientists redefined a planet as one that clears its own path. Pluto could not manage that, so it became a dwarf planet."
+    }
+  },
+  {
+    "title": {
+      "zh": "木星的大红斑是什么",
+      "en": "What Is Jupiter's Great Red Spot?"
+    },
+    "content": {
+      "zh": "那是木星上一场刮了几百年的大风暴，比整个地球还大。风把云卷成旋涡，颜色发红，所以叫大红斑。",
+      "en": "It is a storm on Jupiter that has been blowing for centuries and is bigger than Earth. The winds spin the clouds into a reddish swirl."
+    }
+  },
+  {
+    "title": {
+      "zh": "光年到底是时间还是距离",
+      "en": "Is a Light-Year Time or Distance?"
+    },
+    "content": {
+      "zh": "光年是距离，不是时间。它是光走一年能跑多远，大约 9.5 万亿公里，专门用来量星星之间的远近。",
+      "en": "A light-year is a distance, not a time. It is how far light travels in one year, about 9.5 trillion km, used to measure the gaps between stars."
+    }
+  },
+  {
+    "title": {
+      "zh": "月亮为什么跟着人走",
+      "en": "Why Does the Moon Seem to Follow You?"
+    },
+    "content": {
+      "zh": "月亮太远了，你走几百米，看你和月亮的角度几乎没变。近处的树都退到后面，月亮就像一直跟着。",
+      "en": "The moon is so far that walking a few hundred metres barely changes your angle to it. Nearby trees slide past, so the moon seems to tag along."
+    }
+  },
+  {
+    "title": {
+      "zh": "太阳系有几颗行星",
+      "en": "How Many Planets Are in the Solar System?"
+    },
+    "content": {
+      "zh": "太阳系有八颗行星：水星、金星、地球、火星在内圈，木星、土星、天王星、海王星在外圈。冥王星 2006 年起算矮行星。",
+      "en": "There are eight planets: Mercury, Venus, Earth and Mars inside, then Jupiter, Saturn, Uranus and Neptune. Pluto has been a dwarf planet since 2006."
+    }
+  },
+  {
+    "title": {
+      "zh": "土星为什么能浮在水面上",
+      "en": "Why Would Saturn Float on Water?"
+    },
+    "content": {
+      "zh": "土星主要由气体组成，平均密度比水还小。要是有个足够大的浴缸，它真能浮起来，只是它比地球大得多。",
+      "en": "Saturn is mostly gas and is lighter than water overall. Drop it in a big enough bath and it would float, though it is far larger than Earth."
+    }
+  },
+  {
+    "title": {
+      "zh": "星星为什么有不同的颜色",
+      "en": "Why Are Stars Different Colours?"
+    },
+    "content": {
+      "zh": "星星的颜色看表面温度：蓝白色的最热，红色的最凉。我们的太阳是黄色的，温度居中。",
+      "en": "A star's colour shows its surface temperature, with blue-white stars hottest and red ones coolest, and our yellow sun in between."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的星星特别亮",
+      "en": "Why Are Some Stars Much Brighter?"
+    },
+    "content": {
+      "zh": "亮度取决于星星本身有多大、多热，还有离我们多远。又大又近的星星，看着就最亮。",
+      "en": "Brightness depends on the star's size and temperature and on how far away it is, so big, near stars look brightest of all."
+    }
+  },
+  {
+    "title": {
+      "zh": "北极星为什么总在北边",
+      "en": "Why Does the Pole Star Stay in the North?"
+    },
+    "content": {
+      "zh": "北极星几乎正对着地球自转轴的延长线，地球转时它看着不动，所以能用来辨方向。",
+      "en": "The pole star sits almost directly above Earth's axis, so as Earth spins it hardly moves, making it a reliable guide."
+    }
+  },
+  {
+    "title": {
+      "zh": "北斗七星怎么帮人找方向",
+      "en": "How Does the Big Dipper Show the Way?"
+    },
+    "content": {
+      "zh": "把勺口最后两颗星的连线延长约五倍，就找到了北极星，它所在的方向就是正北。",
+      "en": "Extend the line between the two stars at the bowl's edge about five times and you reach the pole star, which marks north."
+    }
+  },
+  {
+    "title": {
+      "zh": "银河系有多大",
+      "en": "How Big Is the Milky Way?"
+    },
+    "content": {
+      "zh": "银河系里有一两千亿颗恒星，直径约十万光年。太阳只是其中一条旋臂上的一颗。",
+      "en": "The Milky Way holds one or two hundred billion stars and spans about 100,000 light-years, and our sun is one star on one arm."
+    }
+  },
+  {
+    "title": {
+      "zh": "宇宙有多大",
+      "en": "How Big Is the Universe?"
+    },
+    "content": {
+      "zh": "我们能看到的宇宙直径约 930 亿光年，之外还有多少没人知道，可能根本看不到边。",
+      "en": "The visible universe is about 93 billion light-years across, and what lies beyond nobody knows, since it may have no edge."
+    }
+  },
+  {
+    "title": {
+      "zh": "宇宙是怎么来的",
+      "en": "How Did the Universe Begin?"
+    },
+    "content": {
+      "zh": "大多数科学家认为宇宙诞生于约 138 亿年前的一次大爆炸，从那时起一直在膨胀。",
+      "en": "Most scientists think the universe began about 13.8 billion years ago in a Big Bang and has been expanding ever since."
+    }
+  },
+  {
+    "title": {
+      "zh": "月亮上为什么有那么多坑",
+      "en": "Why Is the Moon Covered in Craters?"
+    },
+    "content": {
+      "zh": "月亮没有大气层保护，陨石直接砸下来留下坑。地球有大气，多数陨石在半空就烧掉了。",
+      "en": "With no atmosphere to protect it, meteorites strike the moon and leave craters, while Earth's air burns most of them up first."
+    }
+  },
+  {
+    "title": {
+      "zh": "月亮是怎么形成的",
+      "en": "How Was the Moon Formed?"
+    },
+    "content": {
+      "zh": "科学家认为，一颗大天体撞上早期的地球，溅出的碎片聚在一起，慢慢变成了月亮。",
+      "en": "Scientists think a large body smashed into the young Earth and the debris thrown out gathered together to form the moon."
+    }
+  },
+  {
+    "title": {
+      "zh": "太阳为什么会发光发热",
+      "en": "Why Does the Sun Shine?"
+    },
+    "content": {
+      "zh": "太阳中心极热极压，氢原子核聚变成氦，同时放出巨大的能量，这就是它的光和热。",
+      "en": "At the sun's core the heat and pressure fuse hydrogen into helium, releasing huge amounts of energy as light and heat."
+    }
+  },
+  {
+    "title": {
+      "zh": "太阳还能烧多少年",
+      "en": "How Long Will the Sun Keep Shining?"
+    },
+    "content": {
+      "zh": "太阳已经烧了约 46 亿年，还能再烧大约 50 亿年。之后它会膨胀，最后变成一颗白矮星。",
+      "en": "The sun has shone for about 4.6 billion years and has roughly 5 billion left, after which it will swell and end as a white dwarf."
+    }
+  },
+  {
+    "title": {
+      "zh": "太阳黑子是什么",
+      "en": "What Are Sunspots?"
+    },
+    "content": {
+      "zh": "黑子是太阳表面磁场很强的地方，那里的温度比周围低一些，所以看着发暗。",
+      "en": "Sunspots are places where the sun's magnetic field is very strong, and being slightly cooler than their surroundings they look dark."
+    }
+  },
+  {
+    "title": {
+      "zh": "极光是怎么来的",
+      "en": "What Causes the Aurora?"
+    },
+    "content": {
+      "zh": "太阳刮来的带电粒子撞进地球大气，把气体分子点亮，就在南北极上空拉出彩色的光幕。",
+      "en": "Charged particles from the sun hit our atmosphere and light up gas molecules, drawing curtains of colour over the poles."
+    }
+  },
+  {
+    "title": {
+      "zh": "陨石是从哪里来的",
+      "en": "Where Do Meteorites Come From?"
+    },
+    "content": {
+      "zh": "多数陨石来自小行星带的碎片，偶尔也有火星或月亮的石块被撞出来，落到地球上。",
+      "en": "Most come from fragments of the asteroid belt, though now and then a piece of Mars or the moon is knocked loose and lands here."
+    }
+  },
+  {
+    "title": {
+      "zh": "彗星为什么还会回来",
+      "en": "Why Do Comets Come Back?"
+    },
+    "content": {
+      "zh": "彗星也绕着太阳转，只是轨道又扁又长。哈雷彗星大约每 76 年回到我们眼前一次。",
+      "en": "Comets orbit the sun too but on long, flattened paths, and Halley's comet returns to our skies about every 76 years."
+    }
+  },
+  {
+    "title": {
+      "zh": "小行星带是什么",
+      "en": "What Is the Asteroid Belt?"
+    },
+    "content": {
+      "zh": "火星和木星之间有一大圈碎石，大的几百公里，小的像石子，它们是没长成行星的废料。",
+      "en": "Between Mars and Jupiter lies a broad ring of rocks, some hundreds of kilometres wide, left over from a planet that never formed."
+    }
+  },
+  {
+    "title": {
+      "zh": "金星为什么最热",
+      "en": "Why Is Venus the Hottest Planet?"
+    },
+    "content": {
+      "zh": "金星的大气几乎全是二氧化碳，温室效应极强，把热牢牢锁住，表面能到 460 多度。",
+      "en": "Venus has an atmosphere of almost pure carbon dioxide, and a runaway greenhouse effect traps heat, pushing the surface past 460°C."
+    }
+  },
+  {
+    "title": {
+      "zh": "水星上的一年有多长",
+      "en": "How Long Is a Year on Mercury?"
+    },
+    "content": {
+      "zh": "水星离太阳最近，跑得也最快，绕太阳一圈只要 88 天，比地球的一年短得多。",
+      "en": "Mercury is closest to the sun and moves fastest, so one trip round takes just 88 days, far shorter than our year."
+    }
+  },
+  {
+    "title": {
+      "zh": "天王星为什么躺着转",
+      "en": "Why Does Uranus Spin on Its Side?"
+    },
+    "content": {
+      "zh": "天王星的自转轴几乎躺平了，科学家猜测它早年曾被一个大天体撞歪，从此就侧着滚。",
+      "en": "Uranus's axis is tipped almost flat, and scientists think a large body knocked it over long ago, leaving it rolling on its side."
+    }
+  },
+  {
+    "title": {
+      "zh": "海王星为什么是蓝色的",
+      "en": "Why Is Neptune Blue?"
+    },
+    "content": {
+      "zh": "它的大气里有甲烷，甲烷吸收红光、反射蓝光，所以整颗行星看着是深蓝色的。",
+      "en": "Its atmosphere contains methane, which absorbs red light and reflects blue, so the whole planet looks deep blue."
+    }
+  },
+  {
+    "title": {
+      "zh": "木卫二上有海吗",
+      "en": "Is There an Ocean on Europa?"
+    },
+    "content": {
+      "zh": "木星的卫星木卫二冰壳下面很可能藏着一片液态水的海洋，水量也许比地球还多。",
+      "en": "Beneath the icy crust of Europa, a moon of Jupiter, lies a likely ocean of liquid water, perhaps holding more water than Earth."
+    }
+  },
+  {
+    "title": {
+      "zh": "宇宙里有别的生命吗",
+      "en": "Is There Life Elsewhere in the Universe?"
+    },
+    "content": {
+      "zh": "银河系就有几千亿颗恒星，很多带着行星。还没找到确凿证据，但科学家一直在找。",
+      "en": "The Milky Way alone has hundreds of billions of stars, many with planets, and though there is no proof yet the search goes on."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要把望远镜送上天",
+      "en": "Why Put Telescopes in Space?"
+    },
+    "content": {
+      "zh": "大气会晃动星光、挡住不少光线。太空里没有这层干扰，望远镜能看得更远更清楚。",
+      "en": "Our atmosphere blurs starlight and blocks much of it, so in space with no such interference telescopes see further and sharper."
+    }
+  },
+  {
+    "title": {
+      "zh": "星星为什么会在天上移动",
+      "en": "Why Do Stars Move Across the Sky?"
+    },
+    "content": {
+      "zh": "其实是地球在自转，星星看起来才从东往西慢慢移动。夜里拍长时间曝光，能拍出它们的轨迹。",
+      "en": "It is Earth that turns, so stars appear to drift from east to west, and a long night photograph shows their trails as arcs."
+    }
+  },
+  {
+    "title": {
+      "zh": "恒星老了会变成什么",
+      "en": "What Happens to a Star When It Grows Old?"
+    },
+    "content": {
+      "zh": "小恒星慢慢变成白矮星，大恒星炸成超新星，中心可能塌成中子星甚至黑洞。",
+      "en": "Small stars fade into white dwarfs, while big ones explode as supernovae and their cores may collapse into neutron stars or black holes."
+    }
+  },
+  {
+    "title": {
+      "zh": "超新星是什么",
+      "en": "What Is a Supernova?"
+    },
+    "content": {
+      "zh": "大恒星走到尽头时会剧烈爆炸，短时间内亮得能盖过整个星系，爆炸还把新元素撒向宇宙。",
+      "en": "A massive star ends in a violent explosion that briefly outshines a whole galaxy, scattering new elements into space."
+    }
+  },
+  {
+    "title": {
+      "zh": "星光走了多久才到我们眼里",
+      "en": "How Long Has Starlight Travelled to Reach Us?"
+    },
+    "content": {
+      "zh": "太阳光要 8 分多钟，最近的恒星要 4 年多。看到的星光越远，就越是古老的样子。",
+      "en": "Sunlight takes over eight minutes and light from the nearest star over four years, so the further you look the older the light."
+    }
+  },
+  {
+    "title": {
+      "zh": "太阳系在银河系的什么地方",
+      "en": "Where Is the Solar System in the Milky Way?"
+    },
+    "content": {
+      "zh": "我们住在银河系的一条旋臂上，离中心大约两万六千光年，绕银河一圈要两亿多年。",
+      "en": "We sit on one spiral arm about 26,000 light-years from the centre, and one lap of the galaxy takes over 200 million years."
+    }
+  },
+  {
+    "title": {
+      "zh": "月亮正在离我们远去吗",
+      "en": "Is the Moon Moving Away?"
+    },
+    "content": {
+      "zh": "是的，月球每年大约远离地球 3.8 厘米。同时地球自转也在变慢，一天会越来越长。",
+      "en": "Yes, the moon drifts about 3.8 cm further away each year, and Earth's spin slows too, so days slowly get longer."
+    }
+  },
+  {
+    "title": {
+      "zh": "行星为什么自己不发光",
+      "en": "Why Don't Planets Shine by Themselves?"
+    },
+    "content": {
+      "zh": "行星不够大，中心热不到能点燃核聚变的程度。它们只是把太阳的光反射过来。",
+      "en": "Planets are too small for their cores to reach the temperature that starts fusion, so they merely reflect the sun's light."
+    }
+  },
+  {
+    "title": {
+      "zh": "白天为什么有时能看到月亮",
+      "en": "Why Can You Sometimes See the Moon in Daylight?"
+    },
+    "content": {
+      "zh": "月亮在被太阳照亮、又刚好在我们这半边天空时，白天也能看到，只是太阳太亮显得它淡。",
+      "en": "When the moon is lit by the sun and on our side of the sky it shows in daylight, though the bright sun makes it look pale."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么月亮和太阳看起来一样大",
+      "en": "Why Do the Moon and Sun Look the Same Size?"
+    },
+    "content": {
+      "zh": "太阳比月亮大 400 倍，但也远 400 倍，两个巧合抵消，看起来就差不多大，所以有日全食。",
+      "en": "The sun is 400 times wider than the moon but also 400 times further away, so they look the same size and total eclipses happen."
+    }
+  },
+  {
+    "title": {
+      "zh": "月亮有多大",
+      "en": "How Big Is the Moon?"
+    },
+    "content": {
+      "zh": "月亮直径约 3474 公里，只有地球的四分之一多一点。要是地球是个篮球，月亮就是个网球。",
+      "en": "The moon is about 3,474 km across, a little over a quarter of Earth, so if Earth were a basketball the moon would be a tennis ball."
+    }
+  },
+  {
+    "title": {
+      "zh": "火星上也有四季吗",
+      "en": "Does Mars Have Seasons?"
+    },
+    "content": {
+      "zh": "有。火星的自转轴也是歪的，一年比地球长，所以每个季节差不多是地球的两倍长。",
+      "en": "Yes, because Mars is tilted like Earth and its year is longer, so each season lasts nearly twice as long as ours."
+    }
+  },
+  {
+    "title": {
+      "zh": "土星的光环会消失吗",
+      "en": "Will Saturn's Rings Disappear?"
+    },
+    "content": {
+      "zh": "光环是冰块和碎石组成的，正一点点被土星吸走。科学家估计再过几亿年，它们就淡得快看不见了。",
+      "en": "The rings are made of ice and rock and are slowly falling into Saturn, so scientists think they will fade within a few hundred million years."
+    }
+  },
+  {
+    "title": {
+      "zh": "彗星为什么像脏雪球",
+      "en": "Why Is a Comet Like a Dirty Snowball?"
+    },
+    "content": {
+      "zh": "彗星的核心是冰混着尘埃和石块。靠近太阳时冰蒸发，拖出长长的彗尾，所以叫它脏雪球。",
+      "en": "A comet's core is ice mixed with dust and rock, and near the sun the ice boils off and streams into a long tail, hence the nickname."
+    }
   }
 ]

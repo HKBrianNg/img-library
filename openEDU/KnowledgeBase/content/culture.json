@@ -118,5 +118,485 @@
       "zh": "传说动物们赛跑过河，名次就是子鼠、丑牛、寅虎……猪跑得慢排在最后。每个人的属相，就看出生那年的动物。",
       "en": "Legend says the animals raced across a river, and their finishing order became rat, ox, tiger and so on, with the pig last. Your sign is the animal of your birth year."
     }
+  },
+  {
+    "title": {
+      "zh": "过年为什么要放鞭炮",
+      "en": "Why Are Firecrackers Set Off at New Year?"
+    },
+    "content": {
+      "zh": "传说鞭炮声能吓跑叫“年”的怪兽，后来就成了辞旧迎新的热闹劲儿。声音越大，大家觉得来年越红火。",
+      "en": "Legend says the noise drove off a monster called Nian, and it became a way to see the old year out. The louder the crackers, the luckier the year ahead is thought to be."
+    }
+  },
+  {
+    "title": {
+      "zh": "过年为什么要发红包",
+      "en": "Why Are Red Envelopes Given at New Year?"
+    },
+    "content": {
+      "zh": "红包里的压岁钱，原意是压住邪气、保孩子平安。红色吉利，长辈把祝福和好运一起装在红包里。",
+      "en": "The money inside was meant to hold off bad luck and keep children safe. Red means good fortune, so elders pack their wishes into the envelope too."
+    }
+  },
+  {
+    "title": {
+      "zh": "元宵节为什么要吃汤圆",
+      "en": "Why Do We Eat Sweet Dumplings at Lantern Festival?"
+    },
+    "content": {
+      "zh": "汤圆圆滚滚，象征着一家人团团圆圆。正月十五是新年第一个月圆夜，吃汤圆正应景。",
+      "en": "Round dumplings stand for a family gathered whole. The fifteenth is the first full moon of the year, so the round shape fits the night perfectly."
+    }
+  },
+  {
+    "title": {
+      "zh": "清明节为什么要扫墓",
+      "en": "Why Do We Visit Graves at Qingming?"
+    },
+    "content": {
+      "zh": "清明是春天里祭扫的日子，人们给先人除草、添土、献花，一边纪念，一边借着踏青迎接春天。",
+      "en": "Qingming is the spring day for tending graves: clearing weeds, adding earth and leaving flowers, both to remember the dead and to welcome the season."
+    }
+  },
+  {
+    "title": {
+      "zh": "重阳节为什么要登高",
+      "en": "Why Do People Climb Hills at Chongyang?"
+    },
+    "content": {
+      "zh": "九月初九是两个阳数相叠，古人登高避灾、插茱萸、赏菊花。如今成了敬老、陪伴老人的日子。",
+      "en": "The ninth day of the ninth month doubles the yang number, and people climbed high to avoid harm, wore zhuyu and admired chrysanthemums. Today it is a day to honour older people."
+    }
+  },
+  {
+    "title": {
+      "zh": "中国人为什么喜欢喝茶",
+      "en": "Why Do Chinese People Like Drinking Tea?"
+    },
+    "content": {
+      "zh": "茶最早是药，后来成了待客的第一杯。它提神解腻，泡一壶慢慢喝，也成了朋友聊天的好由头。",
+      "en": "Tea began as medicine and became the first cup offered to a guest. It refreshes and cuts grease, and brewing a pot gives friends a reason to sit and talk."
+    }
+  },
+  {
+    "title": {
+      "zh": "汉字书法为什么能成为艺术",
+      "en": "Why Is Chinese Calligraphy an Art?"
+    },
+    "content": {
+      "zh": "汉字的笔画有轻重缓急，毛笔写出来的线条有粗有细、有枯有润。写字的人把心情放进去，字就成了画。",
+      "en": "Each stroke has its own speed and pressure, and a brush makes lines both thick and thin, dry and wet. The writer puts feeling into them, and writing becomes painting."
+    }
+  },
+  {
+    "title": {
+      "zh": "过节为什么要舞龙舞狮",
+      "en": "Why Are Dragons and Lions Danced at Festivals?"
+    },
+    "content": {
+      "zh": "龙管雨水、狮能驱邪，古人舞它们求风调雨顺。锣鼓一响，龙狮翻腾，年的热闹就到了顶点。",
+      "en": "The dragon rules rain and the lion drives off evil, so people danced them to ask for good weather. With drums beating, the dance brings the festival to its liveliest moment."
+    }
+  },
+  {
+    "title": {
+      "zh": "门口为什么要摆石狮子",
+      "en": "Why Are Stone Lions Placed at Gates?"
+    },
+    "content": {
+      "zh": "古人相信狮子能镇宅辟邪，门口摆一对，左雄右雌，看着威风，也算给院子守门。",
+      "en": "People believed lions guarded a home against harm. A pair at the gate, male on the left and female on the right, looks grand and stands watch over the courtyard."
+    }
+  },
+  {
+    "title": {
+      "zh": "二十四节气是怎么来的",
+      "en": "Where Did the 24 Solar Terms Come From?"
+    },
+    "content": {
+      "zh": "古人看太阳在天空中的位置，把一年分成 24 段，用来定播种和收割的日子。它比公历还准地反映了季节变化。",
+      "en": "Ancient observers tracked the sun's position and split the year into 24 parts to time sowing and harvest. It reflects the seasons even more closely than our calendar."
+    }
+  },
+  {
+    "title": {
+      "zh": "中国人吃饭为什么爱用圆桌",
+      "en": "Why Do Chinese People Prefer Round Tables?"
+    },
+    "content": {
+      "zh": "圆桌没有主位之分，大家够菜的距离一样，转一转转盘谁都能吃到。团团圆圆，也方便夹菜。",
+      "en": "A round table has no head, so everyone reaches the dishes equally and a lazy Susan lets all share. It feels like a family circle and passing food is easy."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么中国人都说自己是龙的传人",
+      "en": "Why Do Chinese People Call Themselves Descendants of the Dragon?"
+    },
+    "content": {
+      "zh": "龙是古人把多种动物拼出的图腾，象征力量与吉祥。几千年来它成了共同的文化符号，所以大家都认它。",
+      "en": "The dragon is a totem ancient people built from many animals, standing for strength and good fortune. Over thousands of years it became a shared symbol everyone claims."
+    }
+  },
+  {
+    "title": {
+      "zh": "中国结有什么寓意",
+      "en": "What Does a Chinese Knot Mean?"
+    },
+    "content": {
+      "zh": "中国结用一根线编成，没有头尾，象征团圆和不断的情意。红色的结挂起来，图的是吉祥和平安。",
+      "en": "A Chinese knot is made from one unbroken thread with no beginning or end, standing for reunion and lasting bonds, and hung in red it wishes good fortune and peace."
+    }
+  },
+  {
+    "title": {
+      "zh": "过年为什么要拜年",
+      "en": "Why Do We Pay New Year Visits?"
+    },
+    "content": {
+      "zh": "拜年是给长辈和亲友送上祝福，也把过去一年的人情补上。一句新年好，就把关系重新系紧了。",
+      "en": "New Year visits carry good wishes to elders and friends and catch up on the year's ties, and a simple greeting draws people close again."
+    }
+  },
+  {
+    "title": {
+      "zh": "福字为什么要倒着贴",
+      "en": "Why Is the Character for Fortune Pasted Upside Down?"
+    },
+    "content": {
+      "zh": "倒和到同音，把福倒着贴，取其谐音就是福到了。这是汉字里独有的文字游戏。",
+      "en": "The word for upside down sounds the same as arrive, so pasting fortune upside down means fortune has arrived, a pun only Chinese characters allow."
+    }
+  },
+  {
+    "title": {
+      "zh": "过年为什么要穿新衣服",
+      "en": "Why Wear New Clothes at New Year?"
+    },
+    "content": {
+      "zh": "新年要有个新开头，穿上新衣表示辞旧迎新。对孩子来说，这身衣服也是一年里最盼的礼物。",
+      "en": "A new year deserves a new start, and new clothes mark leaving the old behind, while for children the outfit is the gift they look forward to most."
+    }
+  },
+  {
+    "title": {
+      "zh": "门上为什么要贴门神",
+      "en": "Why Are Door Gods Pasted on Gates?"
+    },
+    "content": {
+      "zh": "古人相信门神能守住家门、挡住邪祟。两员武将一左一右，也成了过年最有气势的一张画。",
+      "en": "People believed door gods guarded the home and kept harm out, and a pair of warriors on either side makes the boldest picture of the festival."
+    }
+  },
+  {
+    "title": {
+      "zh": "腊月二十三为什么要祭灶",
+      "en": "Why Is the Kitchen God Honoured on the 23rd of La Yue?"
+    },
+    "content": {
+      "zh": "传说灶王爷这天要上天汇报一家人的表现，人们就供上糖瓜，盼他多说好话、带回好运。",
+      "en": "Legend says the kitchen god goes up to report on the household, so people offer sticky sweets and hope he speaks well of them and brings luck."
+    }
+  },
+  {
+    "title": {
+      "zh": "腊八节为什么要喝腊八粥",
+      "en": "Why Do We Eat Laba Porridge?"
+    },
+    "content": {
+      "zh": "腊八粥把米、豆、果干一锅煮，既是庆丰收，也提醒年关将近。喝完这碗粥，就该准备过年了。",
+      "en": "Laba porridge boils rice, beans and dried fruit together to celebrate the harvest and mark the approach of the new year, and once it is eaten preparations begin."
+    }
+  },
+  {
+    "title": {
+      "zh": "七夕节是怎么来的",
+      "en": "Where Did the Qixi Festival Come From?"
+    },
+    "content": {
+      "zh": "传说牛郎织女被天河分开，每年七月初七由喜鹊搭桥相会。后来这天就成了祈求巧手和美好姻缘的节日。",
+      "en": "The legend tells of a herdsman and a weaver parted by the heavenly river who meet once a year on a bridge of magpies, and the day became one for skill and love."
+    }
+  },
+  {
+    "title": {
+      "zh": "过生日为什么要吃长寿面",
+      "en": "Why Eat Long Noodles on a Birthday?"
+    },
+    "content": {
+      "zh": "面条又长又不断，象征着长命百岁。吃的时候不能咬断，越完整地吸下去，寓意越好。",
+      "en": "The long unbroken noodle stands for a long life, and you should not bite it in half, so slurping it whole brings the best luck."
+    }
+  },
+  {
+    "title": {
+      "zh": "结婚为什么要贴喜字",
+      "en": "Why Is the Double Happiness Character Pasted at Weddings?"
+    },
+    "content": {
+      "zh": "喜字由两个喜并在一起，成双成对，寓意好事成双、夫妻和美。它是婚礼上最显眼的标志。",
+      "en": "The character joins two happiness signs into one, standing for paired joy and a harmonious couple, and it is the clearest mark of a wedding."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么不能送钟做礼物",
+      "en": "Why Not Give a Clock as a Gift?"
+    },
+    "content": {
+      "zh": "送钟和送终读音相近，听着不吉利。送礼要图个好兆头，所以宁可选别的。",
+      "en": "Giving a clock sounds like attending a funeral in Chinese, which is unlucky, so people choose something else since gifts should carry good omens."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么中国人喜欢数字 8",
+      "en": "Why Do Chinese People Like the Number 8?"
+    },
+    "content": {
+      "zh": "八和发读音相近，寓意发财发达。所以开业选带八的日子，车牌手机号也爱挑八。",
+      "en": "Eight sounds like the word for prospering, so opening days, plates and phone numbers favour it for the promise of wealth."
+    }
+  },
+  {
+    "title": {
+      "zh": "中国人为什么喜欢红色",
+      "en": "Why Do Chinese People Love Red?"
+    },
+    "content": {
+      "zh": "红色代表喜庆、热烈和好运，过年、结婚、开业都少不了它。红包、红灯笼、红对联，都是这个意思。",
+      "en": "Red stands for joy, warmth and good fortune, appearing at new year, weddings and openings, and red envelopes, lanterns and couplets all carry that meaning."
+    }
+  },
+  {
+    "title": {
+      "zh": "过年为什么要说吉利话",
+      "en": "Why Say Lucky Phrases at New Year?"
+    },
+    "content": {
+      "zh": "人们相信年初说的话会给一年定调，所以只说好话、不说忌讳话，讨个好彩头。",
+      "en": "People believe what is said at the year's start sets its tone, so only good words are spoken and unlucky ones avoided, in hope of a fine beginning."
+    }
+  },
+  {
+    "title": {
+      "zh": "家谱是干什么用的",
+      "en": "What Is a Family Tree For?"
+    },
+    "content": {
+      "zh": "家谱记着一代代祖先的名字和事迹，让人知道自己从哪里来、属于哪一支，也把家风传下去。",
+      "en": "A family record keeps the names and deeds of ancestors so people know where they come from and which branch they belong to, passing family values along."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要祭祀祖先",
+      "en": "Why Do We Honour Our Ancestors?"
+    },
+    "content": {
+      "zh": "祭祖是表达对先人的感激和想念，也提醒一家人同根同源。清明、除夕和中元都有这个仪式。",
+      "en": "Honouring ancestors shows gratitude and remembrance and reminds a family of shared roots, and it is done at Qingming, New Year's Eve and the mid-year festival."
+    }
+  },
+  {
+    "title": {
+      "zh": "孔子是谁",
+      "en": "Who Was Confucius?"
+    },
+    "content": {
+      "zh": "孔子是两千多年前的思想家和教育家，主张仁爱、守礼、好好学习。他的话影响了中国和东亚两千多年。",
+      "en": "Confucius was a thinker and teacher of over two thousand years ago who urged kindness, good conduct and serious study, and his words shaped China and East Asia for millennia."
+    }
+  },
+  {
+    "title": {
+      "zh": "中国人为什么特别重视读书",
+      "en": "Why Do Chinese People Value Education So Highly?"
+    },
+    "content": {
+      "zh": "科举时代读书能改变命运，加上儒家尊师重教的传统，读书一直被看作头等大事，这个观念延续至今。",
+      "en": "In imperial times study could change a life, and with a Confucian respect for teachers, learning has long been seen as the first priority and still is today."
+    }
+  },
+  {
+    "title": {
+      "zh": "四大发明是什么",
+      "en": "What Are the Four Great Inventions?"
+    },
+    "content": {
+      "zh": "造纸术、印刷术、火药和指南针。它们改变了记录、传播、战争和航行，对全世界影响深远。",
+      "en": "Papermaking, printing, gunpowder and the compass, which transformed recording, spreading ideas, warfare and navigation, with effects felt worldwide."
+    }
+  },
+  {
+    "title": {
+      "zh": "纸是怎么发明的",
+      "en": "How Was Paper Invented?"
+    },
+    "content": {
+      "zh": "东汉的蔡伦用树皮、麻头、破布和渔网捣成浆，铺在帘子上晾干，造出了轻便好写的纸。",
+      "en": "In the Eastern Han, Cai Lun beat tree bark, hemp, rags and fishing nets into pulp, spread it on a screen and dried it, making light paper that was easy to write on."
+    }
+  },
+  {
+    "title": {
+      "zh": "活字印刷是怎么做的",
+      "en": "How Did Movable Type Printing Work?"
+    },
+    "content": {
+      "zh": "北宋毕昇把每个字刻成单个的胶泥活字，排版印刷后再拆开重复使用，比整版雕刻快得多。",
+      "en": "In the Northern Song, Bi Sheng carved each character as a separate piece of clay, set them for printing and took them apart to reuse, far faster than carving a whole page."
+    }
+  },
+  {
+    "title": {
+      "zh": "火药是怎么发明的",
+      "en": "How Was Gunpowder Invented?"
+    },
+    "content": {
+      "zh": "古代炼丹的人把硝石、硫磺和木炭混在一起加热，意外发现它会猛烈燃烧甚至爆炸，火药就这么来了。",
+      "en": "Alchemists heating saltpetre, sulphur and charcoal together found by accident that the mixture flared violently or exploded, and gunpowder was born."
+    }
+  },
+  {
+    "title": {
+      "zh": "丝绸是怎么做出来的",
+      "en": "How Is Silk Made?"
+    },
+    "content": {
+      "zh": "蚕吐丝结茧，人们把茧泡在热水里抽出细丝，再织成布。一根蚕丝能抽上千米，织出的绸又轻又亮。",
+      "en": "Silkworms spin cocoons, which are soaked in hot water so the fine thread can be unwound and woven, and one cocoon yields a thread up to a kilometre long."
+    }
+  },
+  {
+    "title": {
+      "zh": "丝绸之路是什么",
+      "en": "What Was the Silk Road?"
+    },
+    "content": {
+      "zh": "它是古代连接中国与中亚、西亚和欧洲的商路。丝绸、瓷器、纸张走出去，香料、音乐和宗教走进来。",
+      "en": "It was the ancient trade route linking China with Central Asia, West Asia and Europe, carrying silk, porcelain and paper out and spices, music and faiths in."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么瓷器成了中国的名字",
+      "en": "Why Did Porcelain Give China Its Name?"
+    },
+    "content": {
+      "zh": "中国瓷器精美绝伦，大量外销后，外国人用瓷器来称呼这个国家，China 由此而来。",
+      "en": "Chinese porcelain was so fine and so widely exported that foreigners named the country after it, and from that comes the name China."
+    }
+  },
+  {
+    "title": {
+      "zh": "中医为什么要把脉",
+      "en": "Why Does Chinese Medicine Feel the Pulse?"
+    },
+    "content": {
+      "zh": "脉象能反映气血和脏腑的状态。医生用三根手指按在手腕上，从快慢、强弱里读出身体的情况。",
+      "en": "The pulse reflects the state of the body's energy and organs, and a doctor presses three fingers on the wrist, reading speed and strength to understand what is wrong."
+    }
+  },
+  {
+    "title": {
+      "zh": "针灸是怎么回事",
+      "en": "What Is Acupuncture?"
+    },
+    "content": {
+      "zh": "针灸把极细的针扎在特定的穴位上，调动身体自身的调节能力来止痛治病，已有两千多年历史。",
+      "en": "Acupuncture places very fine needles at set points to stir the body's own powers of regulation, easing pain and treating illness, and it has been used for over two thousand years."
+    }
+  },
+  {
+    "title": {
+      "zh": "太极拳是怎么回事",
+      "en": "What Is Tai Chi?"
+    },
+    "content": {
+      "zh": "太极拳把缓慢柔和的动作和呼吸配合起来，既练身体也练心性。老年人常打，因为不伤关节又强筋骨。",
+      "en": "Tai Chi joins slow, gentle movements with breathing to train body and mind, and older people favour it since it spares the joints while strengthening the frame."
+    }
+  },
+  {
+    "title": {
+      "zh": "皮影戏是怎么演的",
+      "en": "How Is Shadow Puppetry Performed?"
+    },
+    "content": {
+      "zh": "艺人用兽皮或纸板刻成人物，举在灯和布幕之间操纵，影子落在幕上就成了戏。一门手艺能演一整出故事。",
+      "en": "Performers cut figures from hide or card, hold them between a lamp and a screen and move them so the shadows act out the play, one craft telling a whole story."
+    }
+  },
+  {
+    "title": {
+      "zh": "风筝是谁发明的",
+      "en": "Who Invented the Kite?"
+    },
+    "content": {
+      "zh": "中国人在两千多年前用木片和丝绸做出风筝，最早还用于传递信息和测量，后来才成了玩具。",
+      "en": "Over two thousand years ago in China kites were made of wood and silk, first used to send messages and take measurements, and only later as playthings."
+    }
+  },
+  {
+    "title": {
+      "zh": "中国象棋是怎么来的",
+      "en": "Where Did Chinese Chess Come From?"
+    },
+    "content": {
+      "zh": "象棋从古代战争推演而来，棋盘中间那条河界就是楚河汉界。红黑两军对垒，比的是排兵布阵。",
+      "en": "The game grew from ancient war games, with the river down the middle standing for the Chu-Han border, and the two armies meet in a contest of formation and tactics."
+    }
+  },
+  {
+    "title": {
+      "zh": "围棋为什么只有黑白两色",
+      "en": "Why Does Go Use Only Black and White?"
+    },
+    "content": {
+      "zh": "黑白代表阴阳两方，简单却变化无穷。棋盘上 361 个交叉点，能走出的变化比宇宙里的原子还多。",
+      "en": "Black and white stand for the two sides of yin and yang, simple yet endlessly varied, and with 361 points the possible games outnumber the atoms in the universe."
+    }
+  },
+  {
+    "title": {
+      "zh": "文房四宝是哪四样",
+      "en": "What Are the Four Treasures of the Study?"
+    },
+    "content": {
+      "zh": "笔、墨、纸、砚。这四样是古人写字作画的全部家当，最好的出在湖笔、徽墨、宣纸和端砚。",
+      "en": "Brush, ink stick, paper and ink stone, the whole kit of an ancient scholar, with the finest coming from Huzhou, Huizhou, Xuanzhou and Duanzhou."
+    }
+  },
+  {
+    "title": {
+      "zh": "中国为什么有那么多方言",
+      "en": "Why Are There So Many Dialects in China?"
+    },
+    "content": {
+      "zh": "中国地域辽阔、山河阻隔，各地人群长期分开生活，口音就各自演变。同一个意思，说法能有几十种。",
+      "en": "China is vast and cut by mountains and rivers, so communities lived apart and accents drifted, and one meaning may be said dozens of ways."
+    }
+  },
+  {
+    "title": {
+      "zh": "中国有多少个民族",
+      "en": "How Many Ethnic Groups Are There in China?"
+    },
+    "content": {
+      "zh": "中国有 56 个民族，汉族人数最多，其余 55 个分布在各地，各自有语言、服饰和节日，共同组成中华民族。",
+      "en": "China counts 56 ethnic groups, with the Han the largest and 55 others spread across the land, each with its own language, dress and festivals, together forming the Chinese nation."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么过年一定要回家团圆",
+      "en": "Why Must We Go Home for New Year?"
+    },
+    "content": {
+      "zh": "春节的核心是团圆。再远的路也要赶回去，跟家人吃一顿年夜饭，这一年才算真的过完。",
+      "en": "Reunion is the heart of the festival, and however far the road people hurry home for one meal together, since without it the year is not properly closed."
+    }
   }
 ]

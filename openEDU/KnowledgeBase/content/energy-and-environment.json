@@ -118,5 +118,485 @@
       "zh": "电池里含着一些有毒的金属，随便扔会渗进土里和水里，害了庄稼也害了我们。回收能把它们拿出来重新使用。",
       "en": "Batteries contain toxic metals. Thrown away, they leak into soil and water, harming crops and people. Recycling recovers them for reuse."
     }
+  },
+  {
+    "title": {
+      "zh": "电器不拔插头为什么也费电",
+      "en": "Why Do Plugged-in Devices Still Use Power?"
+    },
+    "content": {
+      "zh": "关掉开关只是让电器“睡着”，里面的小零件还在等着被唤醒，一直在偷偷用电。彻底关掉或拔掉插头才不费。",
+      "en": "Switching off only puts a device to sleep. Parts inside stay ready to wake and keep drawing a trickle of power. Only switching off at the socket truly stops it."
+    }
+  },
+  {
+    "title": {
+      "zh": "空调为什么建议开 26 度",
+      "en": "Why Is 26°C Recommended for Air Conditioning?"
+    },
+    "content": {
+      "zh": "26 度既凉快又不会让室内外温差太大，人不容易感冒，空调也不用拼命运转。每调低一度，耗电就多不少。",
+      "en": "26°C is cool without a big gap from outdoors, so you stay comfortable and catch fewer colds. Each degree lower makes the unit work much harder."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要节约用纸",
+      "en": "Why Should We Save Paper?"
+    },
+    "content": {
+      "zh": "纸是木头做的，造一吨纸要砍十几棵树，还要用掉大量水和电。两面写、回收旧纸，都能少砍树。",
+      "en": "Paper is made from wood: a tonne of it costs a dozen or more trees, plus lots of water and power. Using both sides and recycling saves trees."
+    }
+  },
+  {
+    "title": {
+      "zh": "玻璃瓶为什么要回收",
+      "en": "Why Should Glass Bottles Be Recycled?"
+    },
+    "content": {
+      "zh": "玻璃可以熔化再做成新瓶子，能反复用很多次，而造新玻璃要烧很高温的炉子，很费能源。回收能省下不少电。",
+      "en": "Glass can be melted and remade again and again, while making new glass needs very hot furnaces and lots of energy. Recycling saves a great deal of power."
+    }
+  },
+  {
+    "title": {
+      "zh": "城市里为什么比郊区热",
+      "en": "Why Are Cities Hotter Than the Countryside?"
+    },
+    "content": {
+      "zh": "水泥和柏油白天吸饱了热，晚上慢慢放出来；再加上汽车、空调一起排热，城市就像盖了层棉被，这叫热岛效应。",
+      "en": "Concrete and asphalt soak up heat by day and release it at night, while cars and air conditioners add more. The city sits under a warm blanket, called the heat island effect."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要建自然保护区",
+      "en": "Why Do We Set Up Nature Reserves?"
+    },
+    "content": {
+      "zh": "保护区给动植物留下一块不被打扰的家，稀有物种才能活下来。这里还像一本活的教科书，让我们看到大自然本来的样子。",
+      "en": "Reserves keep a patch of home where wildlife is left alone, so rare species survive. They are also living classrooms showing what nature looked like before."
+    }
+  },
+  {
+    "title": {
+      "zh": "地球上的水很多，为什么还要节约用水",
+      "en": "If Earth Has So Much Water, Why Save It?"
+    },
+    "content": {
+      "zh": "地球上的水绝大部分是咸海水，能喝的淡水只占很小一部分，而且分布不均。用起来不心疼，缺水的地方就会更多。",
+      "en": "Almost all of Earth's water is salty sea, and only a tiny share is fresh to drink, spread very unevenly. Waste it and more places run short."
+    }
+  },
+  {
+    "title": {
+      "zh": "潮汐也能发电吗",
+      "en": "Can Tides Generate Electricity?"
+    },
+    "content": {
+      "zh": "能。涨潮退潮时海水推着涡轮机转，就能发电。潮汐天天都有、可以预测，是一种很稳定的能源。",
+      "en": "Yes. Moving water at high and low tide spins turbines to make power. Tides come every day and can be predicted, which makes them a steady source."
+    }
+  },
+  {
+    "title": {
+      "zh": "地下的热也能用来发电吗",
+      "en": "Can Underground Heat Generate Power?"
+    },
+    "content": {
+      "zh": "能。往地下打深井，把热水或蒸汽引上来推动汽轮机发电，这叫地热能。有些地方温泉多，正是地热在冒头。",
+      "en": "Yes. Deep wells bring hot water or steam up to spin turbines, which is geothermal power. Where hot springs bubble up, that heat is close to the surface."
+    }
+  },
+  {
+    "title": {
+      "zh": "核电站是怎么发电的",
+      "en": "How Does a Nuclear Power Plant Work?"
+    },
+    "content": {
+      "zh": "核电站用铀裂变放出大量的热把水烧成蒸汽，蒸汽推动汽轮机发电。它发电时不冒烟，但核废料要好好处理。",
+      "en": "A plant uses the heat of splitting uranium to boil water into steam, and the steam spins a turbine. It makes no smoke, but the waste must be handled with great care."
+    }
+  },
+  {
+    "title": {
+      "zh": "电动汽车为什么更环保",
+      "en": "Why Are Electric Cars Greener?"
+    },
+    "content": {
+      "zh": "电动车自己不排尾气，跑起来更安静。要是电来自太阳能、风能这些干净电源，它比燃油车干净得多。",
+      "en": "An electric car gives off no exhaust and runs quietly. When its power comes from sun or wind, it is far cleaner than a petrol car."
+    }
+  },
+  {
+    "title": {
+      "zh": "防护林有什么用",
+      "en": "What Is a Shelter Forest For?"
+    },
+    "content": {
+      "zh": "成排的树能把风挡住、把沙固定住，减少沙尘暴，还能保住土壤里的水。沙漠边缘种上防护林，田地就安全多了。",
+      "en": "Rows of trees break the wind, hold sand in place and keep moisture in the soil. Planted along desert edges, they shield farmland from blowing sand."
+    }
+  },
+  {
+    "title": {
+      "zh": "节能灯为什么省电",
+      "en": "Why Do Energy-Saving Bulbs Use Less Power?"
+    },
+    "content": {
+      "zh": "节能灯把大部分电变成了光，只有一点点变成热；老式灯泡却大半白白烧成热。所以同样亮，用的电少得多。",
+      "en": "A saving bulb turns most of its electricity into light and only a little into heat, while an old bulb wastes most as heat, so the same brightness costs far less."
+    }
+  },
+  {
+    "title": {
+      "zh": "爬楼梯为什么更环保",
+      "en": "Why Is Taking the Stairs Greener?"
+    },
+    "content": {
+      "zh": "电梯要用电，爬楼用的是自己的力气。几层楼的距离走上去，既省电又锻炼身体，一举两得。",
+      "en": "A lift runs on electricity while stairs run on you, so walking a few floors saves power and gives you exercise at the same time."
+    }
+  },
+  {
+    "title": {
+      "zh": "少吃肉对环境有帮助吗",
+      "en": "Does Eating Less Meat Help the Environment?"
+    },
+    "content": {
+      "zh": "养牛养羊要占大量土地和水，还会排出温室气体。少吃一点肉，就等于给地球省下不少资源。",
+      "en": "Raising cattle and sheep takes huge amounts of land and water and gives off greenhouse gases, so eating a little less meat saves a lot of resources."
+    }
+  },
+  {
+    "title": {
+      "zh": "本地食物为什么更环保",
+      "en": "Why Is Local Food Greener?"
+    },
+    "content": {
+      "zh": "本地的菜不用长途运输和长期冷藏，省下大量燃油。买当季本地的，既新鲜又低碳。",
+      "en": "Local produce needs no long haul or long cold storage, saving a great deal of fuel, so buying seasonal food nearby is fresher and lower in carbon."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么东西坏了要先修",
+      "en": "Why Should We Repair Things First?"
+    },
+    "content": {
+      "zh": "造一件新东西要采矿、运输、加工，很费资源。能修就修，少买一件，地球的负担就轻一分。",
+      "en": "Making anything new means mining, shipping and processing, all costly in resources, so repairing and buying less takes a load off the planet."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要交换和捐赠旧物",
+      "en": "Why Swap and Donate Old Things?"
+    },
+    "content": {
+      "zh": "你不要的东西别人正需要。交换和捐赠让物品继续被使用，既省下新资源，也少了一堆垃圾。",
+      "en": "What you no longer want someone else needs, and swapping or donating keeps goods in use, saving new resources and cutting waste."
+    }
+  },
+  {
+    "title": {
+      "zh": "骑自行车有什么好处",
+      "en": "Why Is Cycling Good?"
+    },
+    "content": {
+      "zh": "自行车不烧油、不排气，还能锻炼身体、不堵路。短途出行骑上它，又快又干净。",
+      "en": "A bike burns no fuel and makes no exhaust, it keeps you fit and takes no space in traffic, so for short trips it is both quick and clean."
+    }
+  },
+  {
+    "title": {
+      "zh": "坐公交为什么比开车环保",
+      "en": "Why Is the Bus Greener Than Driving?"
+    },
+    "content": {
+      "zh": "一辆公交能载几十人，人均消耗的燃料比一人开一辆车少得多，路上占用的空间也小。",
+      "en": "One bus carries dozens, using far less fuel per person than a car each and taking much less room on the road."
+    }
+  },
+  {
+    "title": {
+      "zh": "高铁为什么比飞机更环保",
+      "en": "Why Are High-Speed Trains Greener Than Planes?"
+    },
+    "content": {
+      "zh": "高铁用电、一次能载上千人，人均碳排放比飞机低得多。中短途坐高铁，又快又干净。",
+      "en": "Trains run on electricity and carry over a thousand people, so per person they emit far less carbon than planes, and for medium trips they are fast and clean."
+    }
+  },
+  {
+    "title": {
+      "zh": "什么是绿色建筑",
+      "en": "What Is a Green Building?"
+    },
+    "content": {
+      "zh": "绿色建筑从设计到拆除都尽量省能源、省水、少产生垃圾，还会用太阳能和回收材料，住着也更舒服。",
+      "en": "A green building saves energy and water and makes little waste from design to demolition, uses solar power and recycled materials, and is nicer to live in."
+    }
+  },
+  {
+    "title": {
+      "zh": "屋顶种草有什么用",
+      "en": "Why Grow Plants on a Roof?"
+    },
+    "content": {
+      "zh": "屋顶的草能隔热，夏天楼里更凉、冬天更暖；还能吸住雨水、净化空气，给城市添一点绿。",
+      "en": "Plants on a roof insulate the building, cooling it in summer and warming it in winter, and they hold rainwater, clean the air and add green to the city."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要保护蜜蜂",
+      "en": "Why Should We Protect Bees?"
+    },
+    "content": {
+      "zh": "蜜蜂给大部分农作物和野花传粉。没有它们，很多果树和蔬菜会结不出果实，我们的餐桌会空一大半。",
+      "en": "Bees pollinate most crops and wild flowers, and without them many fruit trees and vegetables would set no food, emptying much of our plate."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要保护鲨鱼",
+      "en": "Why Should We Protect Sharks?"
+    },
+    "content": {
+      "zh": "鲨鱼是海里的顶级捕食者，把病弱的和多余的猎物清理掉，才能维持鱼群健康。它们少了，整个海洋都会失衡。",
+      "en": "Sharks are top predators that remove the sick and weak and keep fish stocks healthy, and when they decline the whole sea falls out of balance."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么物种消失很危险",
+      "en": "Why Is Losing Species Dangerous?"
+    },
+    "content": {
+      "zh": "每种生物都在食物网里占一个位置，少了哪一种，依赖它的都得跟着遭殃。网破得越多，大自然越脆弱。",
+      "en": "Every species holds a place in the food web, and lose one and all that depend on it suffer, so the more holes in the web the more fragile nature becomes."
+    }
+  },
+  {
+    "title": {
+      "zh": "什么是碳中和",
+      "en": "What Does Carbon Neutral Mean?"
+    },
+    "content": {
+      "zh": "把排出的二氧化碳和吸收掉的量抵消掉，净排放为零，就叫碳中和。种树、用清洁能源都能帮忙达到。",
+      "en": "When the carbon dioxide released is balanced by the amount absorbed, net emissions are zero and that is carbon neutrality, helped by tree planting and clean energy."
+    }
+  },
+  {
+    "title": {
+      "zh": "什么是碳足迹",
+      "en": "What Is a Carbon Footprint?"
+    },
+    "content": {
+      "zh": "碳足迹是你一天的生活产生的温室气体总量：坐车、用电、吃饭都算在内。知道它，才能想办法减少。",
+      "en": "A carbon footprint is the total greenhouse gas your daily life produces, from travel, electricity and food, and knowing it is the first step to cutting it."
+    }
+  },
+  {
+    "title": {
+      "zh": "温室气体是怎么让地球变暖的",
+      "en": "How Do Greenhouse Gases Warm the Earth?"
+    },
+    "content": {
+      "zh": "它们像一层玻璃罩，让阳光进来，却把地球向外散的热挡住一部分。罩子越厚，地球就越热。",
+      "en": "They act like a pane of glass, letting sunlight in while trapping some of the heat Earth sends back out, and the thicker the pane the warmer the planet."
+    }
+  },
+  {
+    "title": {
+      "zh": "臭氧层空洞是怎么回事",
+      "en": "What Is the Ozone Hole?"
+    },
+    "content": {
+      "zh": "高空有一层臭氧能挡住紫外线。某些制冷剂会破坏它，出现空洞。各国停用后，这个洞正在慢慢愈合。",
+      "en": "A layer of ozone high up blocks ultraviolet light, and certain coolants damaged it, opening a hole that is slowly healing since countries banned those chemicals."
+    }
+  },
+  {
+    "title": {
+      "zh": "雾霾是怎么来的",
+      "en": "Where Does Haze Come From?"
+    },
+    "content": {
+      "zh": "工厂、汽车和燃煤排出的细颗粒飘在空气中，遇到静稳天气散不掉，就聚成灰蒙蒙的雾霾。",
+      "en": "Fine particles from factories, cars and coal burning hang in the air, and in still weather they cannot disperse and gather into grey haze."
+    }
+  },
+  {
+    "title": {
+      "zh": "空气污染从哪里来",
+      "en": "Where Does Air Pollution Come From?"
+    },
+    "content": {
+      "zh": "主要来自烧煤和石油、汽车尾气、工厂排放，还有扬尘和秸秆焚烧。这些混在一起，就成了脏空气。",
+      "en": "It comes mainly from burning coal and oil, vehicle exhaust, factory emissions, plus dust and burning straw, and together they foul the air."
+    }
+  },
+  {
+    "title": {
+      "zh": "噪音也是一种污染吗",
+      "en": "Is Noise a Kind of Pollution?"
+    },
+    "content": {
+      "zh": "是。长期处在噪音里会让人睡不好、心烦、注意力下降，还会影响听力。安静也是一种需要保护的资源。",
+      "en": "Yes. Living with noise harms sleep, raises stress and lowers concentration, and damages hearing, so quiet is a resource worth protecting too."
+    }
+  },
+  {
+    "title": {
+      "zh": "什么是光污染",
+      "en": "What Is Light Pollution?"
+    },
+    "content": {
+      "zh": "夜里过亮的灯光会盖住星空，打乱人和动物的作息，还白白浪费电。把灯罩好、照向地面就能减轻。",
+      "en": "Over-bright lights at night wash out the stars, upset the rhythms of people and animals and waste power, and shielding lamps and pointing them down helps."
+    }
+  },
+  {
+    "title": {
+      "zh": "污水是怎么变干净的",
+      "en": "How Is Dirty Water Cleaned?"
+    },
+    "content": {
+      "zh": "污水先过滤掉大颗粒，再让微生物吃掉里面的有机物，最后消毒杀菌。处理干净的水才能排回河里。",
+      "en": "Waste water is screened for solids, then microbes eat the organic matter and finally it is disinfected, and only clean water goes back to the river."
+    }
+  },
+  {
+    "title": {
+      "zh": "土壤被破坏了会怎样",
+      "en": "What Happens When Soil Is Damaged?"
+    },
+    "content": {
+      "zh": "被污染或流失的土壤长不出庄稼，也存不住水，沙尘更容易扬起。恢复一厘米厚的土要几百上千年。",
+      "en": "Polluted or washed-away soil grows no crops and holds no water, dust blows more easily, and rebuilding one centimetre of soil takes centuries."
+    }
+  },
+  {
+    "title": {
+      "zh": "砍树为什么会加剧变暖",
+      "en": "Why Does Cutting Trees Make Warming Worse?"
+    },
+    "content": {
+      "zh": "树活着时吸二氧化碳，砍掉烧掉又把碳放了回去。少了树吸收、多了碳排放，两头一起推着地球变热。",
+      "en": "Living trees absorb carbon dioxide, and felling or burning them releases it again, so less absorption plus more emission pushes the planet warmer both ways."
+    }
+  },
+  {
+    "title": {
+      "zh": "什么是可持续发展",
+      "en": "What Is Sustainable Development?"
+    },
+    "content": {
+      "zh": "就是满足今天的需要，又不把明天的资源用光。用可再生资源、少浪费，让后代也过得上好日子。",
+      "en": "It means meeting today's needs without using up tomorrow's resources, relying on renewable sources and wasting less so later generations live well too."
+    }
+  },
+  {
+    "title": {
+      "zh": "小朋友能为地球做些什么",
+      "en": "What Can Children Do for the Planet?"
+    },
+    "content": {
+      "zh": "随手关灯、节约用水、垃圾分类、少用一次性用品，还可以种一棵树、提醒家人。小事攒起来很可观。",
+      "en": "Switch off lights, save water, sort rubbish, avoid disposables, plant a tree and remind your family, because small acts add up to a lot."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要发展可再生能源",
+      "en": "Why Develop Renewable Energy?"
+    },
+    "content": {
+      "zh": "煤和石油烧完就没了，还会污染。太阳能、风能、水能取之不尽，也不冒烟，是长久的能源。",
+      "en": "Coal and oil run out and pollute, while sun, wind and water never run short and give off no smoke, making them energy for the long run."
+    }
+  },
+  {
+    "title": {
+      "zh": "太阳能板为什么要朝向太阳",
+      "en": "Why Should Solar Panels Face the Sun?"
+    },
+    "content": {
+      "zh": "正对着太阳时接收到的光最多，发电也最多。所以北半球的太阳能板通常朝南、还要倾斜一个角度。",
+      "en": "Facing the sun squarely catches the most light and makes the most power, so in the northern hemisphere panels usually face south at a tilt."
+    }
+  },
+  {
+    "title": {
+      "zh": "风力发电机为什么有三个叶片",
+      "en": "Why Do Wind Turbines Have Three Blades?"
+    },
+    "content": {
+      "zh": "三个叶片转动平稳、受力均匀，噪音也小，材料和效率刚好平衡。多了更贵更重，少了转得不够稳。",
+      "en": "Three blades turn smoothly with balanced forces and little noise, striking the best balance of material and efficiency, since more cost extra and fewer run less steadily."
+    }
+  },
+  {
+    "title": {
+      "zh": "水坝对鱼有什么影响",
+      "en": "How Do Dams Affect Fish?"
+    },
+    "content": {
+      "zh": "大坝挡住了洄游鱼类的去路，让它们回不到产卵地。现在许多大坝会专门修鱼道，帮鱼绕过去。",
+      "en": "A dam blocks migrating fish from reaching spawning grounds, and many dams now build fish passes to help them get around."
+    }
+  },
+  {
+    "title": {
+      "zh": "氢气也能当燃料吗",
+      "en": "Can Hydrogen Be Used as Fuel?"
+    },
+    "content": {
+      "zh": "能。氢气燃烧只生成水，一点不脏。难处是制取和储存成本高，所以还在推广当中。",
+      "en": "Yes, since burning hydrogen gives only water and nothing dirty, though making and storing it is still costly, so it is only slowly spreading."
+    }
+  },
+  {
+    "title": {
+      "zh": "垃圾都去哪儿了",
+      "en": "Where Does Our Rubbish Go?"
+    },
+    "content": {
+      "zh": "分好类的垃圾各有去处：能回收的再造成新东西，厨余堆肥，剩下的才焚烧发电或填埋。",
+      "en": "Sorted rubbish goes its own way: recyclables become new goods, food waste becomes compost, and only the rest is burnt for energy or buried."
+    }
+  },
+  {
+    "title": {
+      "zh": "厨余垃圾怎么变成肥料",
+      "en": "How Does Food Waste Become Compost?"
+    },
+    "content": {
+      "zh": "菜叶果皮在通气湿润的环境里被微生物分解，几个月就变成黑褐色的腐殖土，正好用来种花种菜。",
+      "en": "Peelings and leaves are broken down by microbes where air and moisture reach them, becoming dark humus in months, ideal for flowers and vegetables."
+    }
+  },
+  {
+    "title": {
+      "zh": "旧衣服也能回收吗",
+      "en": "Can Old Clothes Be Recycled?"
+    },
+    "content": {
+      "zh": "能。完好干净的可以捐给别人，破的可以剪成抹布，或者打碎重新纺成纤维，做成新布料和保温材料。",
+      "en": "Yes. Clean, whole clothes can be donated, torn ones cut into cloths, and others shredded back into fibre for new fabric or insulation."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要拒绝过度包装",
+      "en": "Why Refuse Excess Packaging?"
+    },
+    "content": {
+      "zh": "包装只用一次就扔，造它却要耗材料、耗能源，还多半成了垃圾。简装和自带购物袋最实在。",
+      "en": "Packaging is thrown away after one use yet costs materials and energy to make and mostly becomes waste, so simple wraps and your own bag are best."
+    }
   }
 ]

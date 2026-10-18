@@ -118,5 +118,485 @@
       "zh": "洋葱被切破时会放出一种刺鼻的气体，它碰到眼睛里的水就变成微微的酸，眼睛受不了，就赶紧流泪把它冲走。",
       "en": "Cutting an onion releases a sharp gas. It mixes with the water in your eyes and makes a mild acid, so your eyes water to wash it away."
     }
+  },
+  {
+    "title": {
+      "zh": "气球放久了为什么会瘪",
+      "en": "Why Does a Balloon Go Limp?"
+    },
+    "content": {
+      "zh": "气球皮上有许多看不见的小孔，里面的空气一点点钻出去。几天后气跑得差不多了，气球就瘪了。",
+      "en": "A balloon skin has tiny holes you cannot see. Air slips out through them little by little, and after a few days the balloon goes soft."
+    }
+  },
+  {
+    "title": {
+      "zh": "干冰为什么会冒白烟",
+      "en": "Why Does Dry Ice Make White Smoke?"
+    },
+    "content": {
+      "zh": "干冰是冻住的二氧化碳，它不化成水，直接变成气体。周围的水汽被冻成小水滴，就成了白雾。",
+      "en": "Dry ice is frozen carbon dioxide. It turns straight into gas without melting, and the cold freezes water vapour in the air into a white fog."
+    }
+  },
+  {
+    "title": {
+      "zh": "活性炭为什么能除掉异味",
+      "en": "Why Does Activated Charcoal Remove Smells?"
+    },
+    "content": {
+      "zh": "活性炭身上全是小孔，表面积特别大。气味分子飘过来就被这些小孔牢牢抓住，空气就干净了。",
+      "en": "Activated charcoal is full of tiny holes, giving it a huge surface. Smell molecules drifting past get caught in those holes and the air clears."
+    }
+  },
+  {
+    "title": {
+      "zh": "铜为什么会变绿",
+      "en": "Why Does Copper Turn Green?"
+    },
+    "content": {
+      "zh": "铜长期碰着空气和水，表面会慢慢长出一层绿色的铜绿。这层铜绿反而能护住里面的铜，不让它继续锈。",
+      "en": "Copper left in air and water slowly grows a green coating called patina. The coating actually shields the metal underneath from rusting further."
+    }
+  },
+  {
+    "title": {
+      "zh": "焰火为什么有那么多颜色",
+      "en": "Why Do Fireworks Have So Many Colours?"
+    },
+    "content": {
+      "zh": "焰火里掺了不同的金属：锶出红、钡出绿、铜出蓝。一点着，各种金属就发出自己那种颜色的光。",
+      "en": "Fireworks hold different metals: strontium glows red, barium green, copper blue. Once lit, each metal gives off its own colour of light."
+    }
+  },
+  {
+    "title": {
+      "zh": "面包放久了为什么会长霉",
+      "en": "Why Does Bread Grow Mould?"
+    },
+    "content": {
+      "zh": "空气里飘着看不见的霉菌孢子，落在面包上就安了家。又暖又湿的时候长得最快，所以面包放冰箱更久。",
+      "en": "Invisible mould spores float in the air and settle on bread. Warm, damp places help them grow fastest, which is why bread keeps longer in the fridge."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么消毒要用 75% 的酒精",
+      "en": "Why Is 75% Alcohol Used for Cleaning?"
+    },
+    "content": {
+      "zh": "酒精太浓会在细菌表面结一层膜，反而杀不进去；兑到 75% 左右，刚好能慢慢渗进去把细菌杀死。",
+      "en": "Pure alcohol seals a germ's surface and cannot get in. Mixed to about 75%, it soaks in slowly and kills the germ properly."
+    }
+  },
+  {
+    "title": {
+      "zh": "纸巾为什么能吸水",
+      "en": "Why Does a Paper Towel Soak Up Water?"
+    },
+    "content": {
+      "zh": "纸巾的纤维之间有很细的缝隙，水会顺着这些细缝往上爬，这叫毛细现象，所以一沾水就被吸走了。",
+      "en": "Paper fibres leave thin gaps between them. Water climbs up these tiny channels, called capillary action, so a wipe drinks up spills at once."
+    }
+  },
+  {
+    "title": {
+      "zh": "不锈钢为什么不生锈",
+      "en": "Why Doesn't Stainless Steel Rust?"
+    },
+    "content": {
+      "zh": "钢里加了铬，表面会自动长出一层极薄的保护膜，把空气和水挡在外面。膜破了还能自己长回来。",
+      "en": "Chromium is mixed into the steel. It forms a very thin skin that blocks air and water, and the skin can repair itself if scratched."
+    }
+  },
+  {
+    "title": {
+      "zh": "水壶里为什么会有水垢",
+      "en": "Why Does a Kettle Get Scale Inside?"
+    },
+    "content": {
+      "zh": "水里有看不见的钙和镁，烧水时它们会沉淀出来，一层层贴在壶壁上，就成了白白硬硬的水垢。",
+      "en": "Water holds invisible calcium and magnesium. When it boils they settle out and build up layer by layer as hard white scale."
+    }
+  },
+  {
+    "title": {
+      "zh": "胶水为什么能粘住东西",
+      "en": "Why Does Glue Stick Things Together?"
+    },
+    "content": {
+      "zh": "胶水涂上去时是液体，能钻进表面的小坑里；等它变干变硬，就把两边牢牢咬在一起了。",
+      "en": "Glue is liquid at first, so it flows into tiny dips in a surface. As it dries hard it grips both sides and holds them fast."
+    }
+  },
+  {
+    "title": {
+      "zh": "铅笔为什么能写出字",
+      "en": "Why Can a Pencil Write?"
+    },
+    "content": {
+      "zh": "铅笔芯是石墨做的，石墨一层层很滑。在纸上划过就掉下细细的粉末，留在纸的纤维缝里，字就出来了。",
+      "en": "Pencil lead is graphite, made of slippery layers. Drag it across paper and it leaves fine flakes in the fibres, and that is your writing."
+    }
+  },
+  {
+    "title": {
+      "zh": "水为什么能灭火",
+      "en": "Why Does Water Put Out Fire?"
+    },
+    "content": {
+      "zh": "水浇上去会吸走大量的热，让温度降下来；水蒸气还能把空气隔开。没了热和氧气，火就灭了。",
+      "en": "Water soaks up a great deal of heat and cools things down, and the steam keeps air away, so without heat and oxygen the fire goes out."
+    }
+  },
+  {
+    "title": {
+      "zh": "油锅起火为什么不能用水浇",
+      "en": "Why Not Throw Water on a Burning Pan?"
+    },
+    "content": {
+      "zh": "水比油重，一下沉到锅底就猛地变成蒸汽，把着火的油溅得到处都是。应该盖上锅盖断掉空气。",
+      "en": "Water is heavier than oil, so it sinks, flashes into steam and throws burning oil everywhere, and you should cover the pan to cut off the air."
+    }
+  },
+  {
+    "title": {
+      "zh": "火为什么烧得起来",
+      "en": "What Does a Fire Need?"
+    },
+    "content": {
+      "zh": "火要有三样东西：可燃的东西、氧气和足够的热。缺一样就烧不起来，灭掉一样火就灭了。",
+      "en": "Fire needs three things: fuel, oxygen and enough heat, so miss one and it will not start and remove one and it goes out."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么摸铁比摸木头凉",
+      "en": "Why Does Metal Feel Colder Than Wood?"
+    },
+    "content": {
+      "zh": "铁和木头其实一样凉，但铁传热快，一下子把你手上的热带走了，所以摸着更冷。",
+      "en": "Metal and wood are the same temperature, but metal carries heat away from your hand far faster, so it feels colder."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么用热水泡茶更快",
+      "en": "Why Does Hot Water Brew Tea Faster?"
+    },
+    "content": {
+      "zh": "水温越高，分子动得越急，茶叶里的味道溶得就越快。冷水泡茶要等很久才出味。",
+      "en": "The hotter the water the faster its molecules move, so the flavour leaves the leaves sooner, while cold tea takes ages to brew."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要在雪上撒盐",
+      "en": "Why Is Salt Put on Snow?"
+    },
+    "content": {
+      "zh": "盐溶进水里会降低水的冰点，雪就不容易冻硬，化得也快，路就不那么滑了。",
+      "en": "Salt lowers the freezing point of water, so the snow stays slushy instead of turning to hard ice and the path is less slippery."
+    }
+  },
+  {
+    "title": {
+      "zh": "冷饮杯外面为什么有水珠",
+      "en": "Why Do Cold Glasses Get Wet Outside?"
+    },
+    "content": {
+      "zh": "空气里的水蒸气碰到冰凉的杯壁，被冷得凝成小水珠挂在杯子上，跟杯子漏不漏没关系。",
+      "en": "Water vapour in the air meets the cold glass, cools and condenses into drops on the outside, whether the cup leaks or not."
+    }
+  },
+  {
+    "title": {
+      "zh": "洗衣粉为什么能洗干净衣服",
+      "en": "Why Does Washing Powder Clean Clothes?"
+    },
+    "content": {
+      "zh": "洗衣粉里的分子一头抓住油污、一头抓住水，把油污拉进水里冲走，衣服就干净了。",
+      "en": "Its molecules grab grease with one end and water with the other, dragging the grease into the water and rinsing it away."
+    }
+  },
+  {
+    "title": {
+      "zh": "醋为什么能除掉水垢",
+      "en": "Why Does Vinegar Remove Limescale?"
+    },
+    "content": {
+      "zh": "水垢是碱性的钙镁沉淀，醋是酸，两者一中和，硬硬的水垢就化开溶在水里了。",
+      "en": "Scale is alkaline calcium and magnesium and vinegar is an acid, so they neutralise each other and the hard crust dissolves."
+    }
+  },
+  {
+    "title": {
+      "zh": "小苏打为什么能让馒头变大",
+      "en": "Why Does Baking Soda Make Dough Rise?"
+    },
+    "content": {
+      "zh": "小苏打遇热或遇酸会放出二氧化碳，一个个小气泡把面团撑起来，馒头就又松又软。",
+      "en": "Baking soda gives off carbon dioxide when heated or mixed with acid, and the bubbles puff up the dough to make it light."
+    }
+  },
+  {
+    "title": {
+      "zh": "冰箱为什么能保鲜",
+      "en": "Why Does a Fridge Keep Food Fresh?"
+    },
+    "content": {
+      "zh": "低温让细菌和霉菌长得慢，食物变坏的速度就慢下来。所以它只是拖慢时间，不是永远保鲜。",
+      "en": "Cold slows down bacteria and mould so food spoils more slowly, which means a fridge buys time rather than keeping food forever."
+    }
+  },
+  {
+    "title": {
+      "zh": "罐头为什么不容易坏",
+      "en": "Why Does Canned Food Last So Long?"
+    },
+    "content": {
+      "zh": "罐头先密封再高温杀菌，外面的细菌进不去，里面的被杀光，食物就能放很久。",
+      "en": "Cans are sealed then heated to kill germs, so nothing can get in and nothing alive is left inside, and the food keeps for years."
+    }
+  },
+  {
+    "title": {
+      "zh": "热牛奶为什么会结一层皮",
+      "en": "Why Does Hot Milk Form a Skin?"
+    },
+    "content": {
+      "zh": "加热时牛奶表面的水蒸发，蛋白质和脂肪被留下来，干了就结成一层薄薄的奶皮。",
+      "en": "As milk heats, water evaporates from the surface and leaves protein and fat behind, which dry into a thin skin."
+    }
+  },
+  {
+    "title": {
+      "zh": "打蛋清为什么会变成泡沫",
+      "en": "Why Does Beating Egg White Make Foam?"
+    },
+    "content": {
+      "zh": "搅打把空气打进蛋清，蛋白质张开把气泡一个个包住，越打越多，就成了白白的泡沫。",
+      "en": "Beating folds air into the white and the proteins wrap around each bubble, so more beating makes more foam."
+    }
+  },
+  {
+    "title": {
+      "zh": "巧克力为什么在手里会化",
+      "en": "Why Does Chocolate Melt in Your Hand?"
+    },
+    "content": {
+      "zh": "巧克力的熔点比体温还低，握在手里就被捂化了。所以它要放在凉快的地方保存。",
+      "en": "Chocolate melts below body temperature, so a warm hand is enough to melt it, which is why it is stored somewhere cool."
+    }
+  },
+  {
+    "title": {
+      "zh": "白糖加热为什么会变成焦糖",
+      "en": "Why Does Sugar Turn into Caramel?"
+    },
+    "content": {
+      "zh": "糖受热会分解并重新组合，先化成糖浆，再慢慢变成褐色，还散发出特别的焦香。",
+      "en": "Heat breaks sugar apart and rebuilds it, first melting to syrup and then browning slowly, giving off that caramel smell."
+    }
+  },
+  {
+    "title": {
+      "zh": "面包烤过为什么那么香",
+      "en": "Why Does Toasted Bread Smell So Good?"
+    },
+    "content": {
+      "zh": "面包里的糖和蛋白质在加热时发生变化，生成几百种香味物质，这就是烤面包的香气。",
+      "en": "Sugars and proteins in the bread react when heated, making hundreds of smelly compounds, and that is the toast smell."
+    }
+  },
+  {
+    "title": {
+      "zh": "金属为什么能导电",
+      "en": "Why Do Metals Conduct Electricity?"
+    },
+    "content": {
+      "zh": "金属里有许多能自由跑动的电子，一加上电压它们就一起往一个方向跑，电流就通了。",
+      "en": "Metals hold electrons that are free to move, and a voltage sends them all the same way, which is an electric current."
+    }
+  },
+  {
+    "title": {
+      "zh": "塑料为什么不导电",
+      "en": "Why Doesn't Plastic Conduct Electricity?"
+    },
+    "content": {
+      "zh": "塑料里的电子被牢牢绑住，跑不动，电流过不去。所以它成了电线外面那层护皮。",
+      "en": "In plastic the electrons are tightly held and cannot move, so no current flows, which is why it makes a safe wire covering."
+    }
+  },
+  {
+    "title": {
+      "zh": "钻石和铅笔芯为什么是同一种东西",
+      "en": "Why Are Diamond and Pencil Lead the Same Stuff?"
+    },
+    "content": {
+      "zh": "两者都是碳，只是原子排列不同：钻石排得又紧又硬又亮，石墨排得松软又滑。",
+      "en": "Both are carbon and only the arrangement differs, with diamond packed tight and hard while graphite is loose and slippery."
+    }
+  },
+  {
+    "title": {
+      "zh": "空气是由什么组成的",
+      "en": "What Is Air Made Of?"
+    },
+    "content": {
+      "zh": "空气里大约 78% 是氮气、21% 是氧气，剩下的是二氧化碳、水蒸气和稀有气体。",
+      "en": "Air is roughly 78 percent nitrogen and 21 percent oxygen, with carbon dioxide, water vapour and rare gases making up the rest."
+    }
+  },
+  {
+    "title": {
+      "zh": "氧气为什么能让火烧得更旺",
+      "en": "Why Does Oxygen Make Fire Fiercer?"
+    },
+    "content": {
+      "zh": "燃烧就是东西和氧气结合。氧气越多，结合得越快越猛，火自然烧得更旺。",
+      "en": "Burning is a substance joining with oxygen, so more oxygen means faster, fiercer burning and the flame grows."
+    }
+  },
+  {
+    "title": {
+      "zh": "二氧化碳为什么能灭火",
+      "en": "Why Does Carbon Dioxide Put Out Fires?"
+    },
+    "content": {
+      "zh": "二氧化碳比空气重，会沉下来把火盖住，断了氧气，火就灭了，还不会留下水渍。",
+      "en": "Carbon dioxide is heavier than air, so it sinks over the flame and cuts off the oxygen, and the fire dies with nothing getting wet."
+    }
+  },
+  {
+    "title": {
+      "zh": "漂白水为什么能把衣服漂白",
+      "en": "Why Does Bleach Whiten Clothes?"
+    },
+    "content": {
+      "zh": "漂白剂能把让污渍显色的分子结构破坏掉，颜色就褪了。用多了也会把布料一起伤到。",
+      "en": "Bleach breaks up the molecules that give a stain its colour so the colour fades, though too much of it damages the fabric too."
+    }
+  },
+  {
+    "title": {
+      "zh": "防晒霜为什么能挡住太阳",
+      "en": "How Does Sunscreen Protect You?"
+    },
+    "content": {
+      "zh": "防晒霜里的成分要么把紫外线反射掉，要么把它吸收掉，不让它伤到皮肤。",
+      "en": "Sunscreen either reflects ultraviolet light or absorbs it, so it never reaches and damages your skin."
+    }
+  },
+  {
+    "title": {
+      "zh": "香水为什么越放越少",
+      "en": "Why Does Perfume Slowly Disappear?"
+    },
+    "content": {
+      "zh": "香水里的香料很容易挥发，分子不断飘到空气里。瓶子没盖好，几年就淡得闻不到了。",
+      "en": "The scent chemicals evaporate easily and drift into the air all the time, so a bottle left open fades within years."
+    }
+  },
+  {
+    "title": {
+      "zh": "生石灰遇水为什么会发烫",
+      "en": "Why Does Quicklime Get Hot in Water?"
+    },
+    "content": {
+      "zh": "生石灰和水反应生成熟石灰，同时放出大量的热，摸上去甚至能把水烧开。",
+      "en": "Quicklime reacts with water to make slaked lime and gives out a lot of heat, enough to boil the water it sits in."
+    }
+  },
+  {
+    "title": {
+      "zh": "电池为什么能供电",
+      "en": "Why Can a Battery Give Electricity?"
+    },
+    "content": {
+      "zh": "电池里装着两种化学物质，它们发生反应时会把电子推出来，电子流过电线就成了电。",
+      "en": "A battery holds two chemicals that react and push electrons out, and those electrons flowing along a wire are the current."
+    }
+  },
+  {
+    "title": {
+      "zh": "蜡烛的火苗为什么是黄色的",
+      "en": "Why Is a Candle Flame Yellow?"
+    },
+    "content": {
+      "zh": "火焰里的小碳粒被烧得又热又亮，发出黄光。氧气足时它们烧得干净，火苗就偏蓝。",
+      "en": "Tiny soot particles in the flame get hot and glow yellow, and with plenty of oxygen they burn away so the flame turns blue."
+    }
+  },
+  {
+    "title": {
+      "zh": "硬水和软水有什么不一样",
+      "en": "What Is the Difference Between Hard and Soft Water?"
+    },
+    "content": {
+      "zh": "含钙镁多的就是硬水，容易结水垢、肥皂也不爱起泡；含得少的是软水，洗东西更省皂。",
+      "en": "Water rich in calcium and magnesium is hard, leaving scale and making soap lather poorly, while soft water has little of either."
+    }
+  },
+  {
+    "title": {
+      "zh": "柠檬汁为什么能去掉鱼腥味",
+      "en": "Why Does Lemon Juice Remove Fishy Smells?"
+    },
+    "content": {
+      "zh": "鱼腥味来自碱性的胺类物质，柠檬里的酸跟它中和，腥味就淡了，还留下清香。",
+      "en": "Fishy smells come from alkaline amines and the acid in lemon neutralises them, leaving a fresh scent instead."
+    }
+  },
+  {
+    "title": {
+      "zh": "饭菜为什么会馊",
+      "en": "Why Does Leftover Food Go Off?"
+    },
+    "content": {
+      "zh": "空气里的细菌落到饭菜上大量繁殖，把养分分解成酸和臭味物质。天热时它们长得最快。",
+      "en": "Bacteria from the air land on food and multiply, breaking it down into sour, smelly compounds, and warm weather speeds them up."
+    }
+  },
+  {
+    "title": {
+      "zh": "橡胶为什么有弹性",
+      "en": "Why Is Rubber Stretchy?"
+    },
+    "content": {
+      "zh": "橡胶分子像一团乱绕的长链，一拉就伸直、一松就缩回原样，所以能弹回来。",
+      "en": "Rubber is made of long tangled chains that straighten when pulled and coil back when let go, so it springs back."
+    }
+  },
+  {
+    "title": {
+      "zh": "玻璃为什么是透明的",
+      "en": "Why Is Glass Transparent?"
+    },
+    "content": {
+      "zh": "玻璃里的电子不容易吸收可见光，光直接穿了过去，所以我们能透过它看到对面。",
+      "en": "The electrons in glass do not absorb visible light, so light passes straight through and you can see the other side."
+    }
+  },
+  {
+    "title": {
+      "zh": "金属为什么会发亮",
+      "en": "Why Do Metals Shine?"
+    },
+    "content": {
+      "zh": "金属表面有许多自由电子，能把照上去的光几乎全部反射回来，看着就亮闪闪的。",
+      "en": "Free electrons at a metal's surface reflect almost all the light that hits it, which is why metals look shiny."
+    }
+  },
+  {
+    "title": {
+      "zh": "塑料为什么几百年都不烂",
+      "en": "Why Doesn't Plastic Rot for Centuries?"
+    },
+    "content": {
+      "zh": "塑料的分子链又长又结实，细菌没有能咬开它们的酶。所以它要几百年才能慢慢分解。",
+      "en": "Plastic molecules are long and tough and bacteria have no enzyme to break them, so it takes centuries to fall apart."
+    }
   }
 ]

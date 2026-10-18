@@ -119,5 +119,485 @@
       "en": "A chameleon’s skin holds tiny crystals. By loosening or tightening the skin it changes how they line up, altering the light reflected. Colours also show fear or anger."
     },
     "imageUrl": "变色龙为什么会变色.jpg"
+  },
+  {
+    "title": {
+      "zh": "蝙蝠为什么倒挂着睡觉",
+      "en": "Why Do Bats Sleep Upside Down?"
+    },
+    "content": {
+      "zh": "蝙蝠的翅膀不适合助跑起飞，倒挂着松爪一落就能飞走。而且高处天敌少，睡着也安全。",
+      "en": "Bat wings cannot launch from the ground, so hanging lets them simply let go and fly. High places are also safer from predators."
+    }
+  },
+  {
+    "title": {
+      "zh": "大象的长鼻子有什么用",
+      "en": "What Is an Elephant's Trunk For?"
+    },
+    "content": {
+      "zh": "象鼻是鼻子和上唇长成的，既能呼吸、闻味，又能卷起草、吸水和洗澡，顶端的小指还能捏起一粒花生。",
+      "en": "A trunk is a long nose and upper lip. It breathes, smells, pulls up grass, sucks water for drinking and bathing, and its tip can pick up a single peanut."
+    }
+  },
+  {
+    "title": {
+      "zh": "长颈鹿的脖子为什么那么长",
+      "en": "Why Do Giraffes Have Such Long Necks?"
+    },
+    "content": {
+      "zh": "长脖子能吃到别的动物够不着的树叶，站得高还看得远，容易发现远处的狮子。脖子太长也给喝水带来麻烦。",
+      "en": "A long neck reaches leaves no other animal can get, and it gives a fine view to spot lions far away. The downside is that drinking is awkward."
+    }
+  },
+  {
+    "title": {
+      "zh": "袋鼠为什么有个口袋",
+      "en": "Why Do Kangaroos Have a Pouch?"
+    },
+    "content": {
+      "zh": "袋鼠宝宝出生时只有花生米那么大，得爬进妈妈的育儿袋里喝奶、长大，长结实了才出来活动。",
+      "en": "A newborn joey is only the size of a peanut. It crawls into the pouch to drink milk and grow, and comes out only when it is strong enough."
+    }
+  },
+  {
+    "title": {
+      "zh": "企鹅为什么不怕冷",
+      "en": "Why Don't Penguins Feel the Cold?"
+    },
+    "content": {
+      "zh": "企鹅有厚厚的脂肪，羽毛又密又油还能防水；它们还会挤成一团互相取暖，外面冷，里面暖和。",
+      "en": "Penguins carry thick fat and dense oily feathers that shed water. They also huddle together, so the outside of the group is cold while the middle stays warm."
+    }
+  },
+  {
+    "title": {
+      "zh": "狗摇尾巴是什么意思",
+      "en": "What Does a Wagging Tail Mean?"
+    },
+    "content": {
+      "zh": "狗用尾巴说话：摇得又快又松是开心，尾巴夹起来是害怕，竖着慢慢摆是在警惕。要看摇法才知道。",
+      "en": "Dogs talk with their tails: a fast loose wag means happy, a tucked tail means scared, and a slow stiff one means watch out. How it moves tells you the mood."
+    }
+  },
+  {
+    "title": {
+      "zh": "蜜蜂跳舞是在说什么",
+      "en": "What Is the Bee Dance Saying?"
+    },
+    "content": {
+      "zh": "找到花的蜜蜂回巢会跳“8”字舞，跳舞的方向和时长告诉大家花在哪个方向、有多远。",
+      "en": "A bee that finds flowers dances a figure of eight back home. The angle and length of the dance tell the others which way to fly and how far."
+    }
+  },
+  {
+    "title": {
+      "zh": "蚂蚁为什么会排着队走",
+      "en": "Why Do Ants Walk in a Line?"
+    },
+    "content": {
+      "zh": "走过路的蚂蚁会留下气味，后面的同伴闻着气味跟上，队伍就越排越长，像一条看不见的路标。",
+      "en": "Ants leave a scent trail as they walk. Others follow the smell, and soon a long line forms along an invisible path."
+    }
+  },
+  {
+    "title": {
+      "zh": "蜘蛛为什么不会被自己的网粘住",
+      "en": "Why Doesn't a Spider Stick to Its Own Web?"
+    },
+    "content": {
+      "zh": "蛛网只有一部分丝是黏的，蜘蛛专挑干丝走；它脚上还有油和细毛，踩到黏丝也能轻松抬起来。",
+      "en": "Only some threads of a web are sticky, and spiders step on the dry ones. Oily hairs on their feet also help them lift off cleanly."
+    }
+  },
+  {
+    "title": {
+      "zh": "蛇为什么要蜕皮",
+      "en": "Why Do Snakes Shed Their Skin?"
+    },
+    "content": {
+      "zh": "蛇的皮肤不会跟着身体长大，长到一定程度就得换掉。旧皮从嘴边开始裂开，蛇一点点把它蹭下来。",
+      "en": "Snake skin cannot grow with the body, so it must be replaced. The old skin splits at the mouth and the snake rubs it off bit by bit."
+    }
+  },
+  {
+    "title": {
+      "zh": "乌贼为什么要喷墨汁",
+      "en": "Why Does a Squid Squirt Ink?"
+    },
+    "content": {
+      "zh": "遇到危险时乌贼喷出一团黑墨，把水搅浑。趁敌人看不清，它自己早就溜走了。",
+      "en": "In danger a squid releases a cloud of black ink that clouds the water. While the enemy cannot see, the squid slips away."
+    }
+  },
+  {
+    "title": {
+      "zh": "鱼睡觉为什么不闭眼",
+      "en": "Why Do Fish Sleep with Eyes Open?"
+    },
+    "content": {
+      "zh": "大多数鱼没有眼皮，想闭也闭不上。它们睡觉时只是躲在水草或石头后一动不动，慢慢休息。",
+      "en": "Most fish have no eyelids, so they cannot shut them. When resting they simply hide among plants or rocks and stay very still."
+    }
+  },
+  {
+    "title": {
+      "zh": "猫头鹰为什么晚上才出来",
+      "en": "Why Do Owls Come Out at Night?"
+    },
+    "content": {
+      "zh": "猫头鹰的眼睛在暗处特别灵敏，耳朵还能听出最轻的响动，翅膀又软又静。夜里老鼠多，正好开饭。",
+      "en": "Owls see well in the dark, hear the faintest rustle and fly on silent wings, and night is when the mice are about."
+    }
+  },
+  {
+    "title": {
+      "zh": "啄木鸟为什么不停地啄树",
+      "en": "Why Does a Woodpecker Peck All Day?"
+    },
+    "content": {
+      "zh": "它在树皮下面找虫子，也用啄声告诉同伴这是自己的地盘，有时还啄出洞来筑巢。",
+      "en": "It is hunting grubs under the bark, telling rivals the tree is taken, and sometimes carving out a nest hole."
+    }
+  },
+  {
+    "title": {
+      "zh": "鹦鹉为什么会说话",
+      "en": "Why Can Parrots Talk?"
+    },
+    "content": {
+      "zh": "鹦鹉的舌头又厚又灵活，大脑里还有专门学声音的区域。它们模仿听到的声音，并不是真的懂意思。",
+      "en": "A parrot has a thick, nimble tongue and a brain area for learning sounds, so it copies what it hears without knowing the meaning."
+    }
+  },
+  {
+    "title": {
+      "zh": "燕子为什么要飞到南方",
+      "en": "Why Do Swallows Fly South?"
+    },
+    "content": {
+      "zh": "冬天北方虫子躲起来了，燕子没东西吃，只好飞到暖和的南方。等春天虫子多了，它们再飞回来。",
+      "en": "In winter the insects up north disappear, so swallows fly to warmer places, returning in spring when food is plentiful again."
+    }
+  },
+  {
+    "title": {
+      "zh": "鹤为什么一只脚站着",
+      "en": "Why Do Cranes Stand on One Leg?"
+    },
+    "content": {
+      "zh": "把一只脚收进羽毛里能少散掉不少热，站着也更省力。它们还会左右换脚，轮流休息。",
+      "en": "Tucking one leg into the feathers saves a lot of body heat and takes less effort, and they swap legs to give each a rest."
+    }
+  },
+  {
+    "title": {
+      "zh": "鸵鸟为什么不会飞",
+      "en": "Why Can't Ostriches Fly?"
+    },
+    "content": {
+      "zh": "鸵鸟太重了，翅膀撑不起来，胸骨上也没有飞鸟那块挂肌肉的龙骨。但它跑起来能到 70 公里。",
+      "en": "Ostriches are far too heavy for their wings, and their breastbone lacks the ridge flying birds use, but they can run at 70 km/h."
+    }
+  },
+  {
+    "title": {
+      "zh": "鸭子为什么会游泳",
+      "en": "Why Do Ducks Swim So Well?"
+    },
+    "content": {
+      "zh": "鸭子的脚上有蹼，一划能推很多水；羽毛上还有油，水进不去，身子又轻又暖。",
+      "en": "Webbed feet push a lot of water with each stroke, and oily feathers keep water out, leaving the bird light and warm."
+    }
+  },
+  {
+    "title": {
+      "zh": "青蛙为什么要冬眠",
+      "en": "Why Do Frogs Hibernate?"
+    },
+    "content": {
+      "zh": "天冷时虫子没了，青蛙体温跟着降，就钻进泥底睡觉，靠皮肤呼吸熬过冬天，春天再出来。",
+      "en": "With no insects about in the cold, a frog slows down and buries itself in mud, breathing through its skin until spring."
+    }
+  },
+  {
+    "title": {
+      "zh": "毛毛虫是怎么变成蝴蝶的",
+      "en": "How Does a Caterpillar Become a Butterfly?"
+    },
+    "content": {
+      "zh": "毛毛虫吃够叶子后结成蛹，在蛹里身体几乎化成液体，再重新长成有翅膀的蝴蝶，这叫完全变态。",
+      "en": "After eating its fill the caterpillar forms a chrysalis, where the body almost liquefies and rebuilds into a winged butterfly, a change called metamorphosis."
+    }
+  },
+  {
+    "title": {
+      "zh": "蝉为什么要脱壳",
+      "en": "Why Do Cicadas Shed Their Skin?"
+    },
+    "content": {
+      "zh": "蝉的外壳不会长大，身体长大就得换掉。它从背上裂开爬出来，留下一个完整的空壳挂在树上。",
+      "en": "A cicada's shell cannot grow, so it must be replaced, and the insect splits the back and climbs out, leaving an empty case on the tree."
+    }
+  },
+  {
+    "title": {
+      "zh": "瓢虫的斑点有什么用",
+      "en": "What Are a Ladybird's Spots For?"
+    },
+    "content": {
+      "zh": "鲜艳的红色和黑点是在警告：我不好吃。鸟啄过一次记住了，下次就不敢再碰它。",
+      "en": "The bright red and black warn that it tastes foul, and a bird that tries once remembers and leaves them alone afterwards."
+    }
+  },
+  {
+    "title": {
+      "zh": "蜈蚣到底有多少条腿",
+      "en": "How Many Legs Does a Centipede Have?"
+    },
+    "content": {
+      "zh": "名字叫百足，其实腿从十几对到一百多对不等，而且总是奇数对。腿数随种类不同，没有固定答案。",
+      "en": "Despite the name the legs range from a dozen pairs to over a hundred, always an odd number of pairs, and it varies by species."
+    }
+  },
+  {
+    "title": {
+      "zh": "蜗牛为什么要背着壳",
+      "en": "Why Does a Snail Carry a Shell?"
+    },
+    "content": {
+      "zh": "壳是它随身的家：柔软的身体缩进去就安全了，还能挡住干燥。壳跟着身体一起长大。",
+      "en": "The shell is a house it carries, a safe place to pull its soft body into and a shield against drying out, and it grows along with the snail."
+    }
+  },
+  {
+    "title": {
+      "zh": "蚯蚓为什么在土里钻",
+      "en": "Why Do Earthworms Burrow?"
+    },
+    "content": {
+      "zh": "它们在土里吃腐烂的叶子，一路钻出通道，让空气和水进到土里，顺手把土翻松，是田地的好帮手。",
+      "en": "They eat rotting leaves underground, and their tunnels let air and water in while loosening the soil, making them a farmer's helper."
+    }
+  },
+  {
+    "title": {
+      "zh": "蚂蚁为什么不会迷路",
+      "en": "Why Don't Ants Get Lost?"
+    },
+    "content": {
+      "zh": "蚂蚁一路留下气味，回来照着走；有的还靠太阳的角度和步数定位，几种办法一起用。",
+      "en": "Ants leave a scent trail to follow home, and some also use the sun's angle and count their steps, combining several methods."
+    }
+  },
+  {
+    "title": {
+      "zh": "狮子为什么爱吼叫",
+      "en": "Why Do Lions Roar?"
+    },
+    "content": {
+      "zh": "吼声能传出几公里，用来告诉别的狮群这是我的地盘，也方便同伴在黑暗里找到彼此。",
+      "en": "A roar carries for kilometres, telling other prides this territory is taken and helping the pride find one another in the dark."
+    }
+  },
+  {
+    "title": {
+      "zh": "老虎身上的条纹有什么用",
+      "en": "What Are a Tiger's Stripes For?"
+    },
+    "content": {
+      "zh": "条纹能把老虎的轮廓打碎，混在草丛和树影里不容易被看出。每只老虎的花纹都不一样，像指纹。",
+      "en": "Stripes break up the tiger's outline so it melts into grass and shadow, and no two tigers share the same pattern, much like fingerprints."
+    }
+  },
+  {
+    "title": {
+      "zh": "斑马为什么有条纹",
+      "en": "Why Do Zebras Have Stripes?"
+    },
+    "content": {
+      "zh": "科学家认为条纹能赶走爱叮它们的苍蝇，也能让狮子在奔跑的群体里看不清单只斑马。",
+      "en": "Scientists think the stripes put off biting flies and make it hard for a lion to pick out one zebra from a running herd."
+    }
+  },
+  {
+    "title": {
+      "zh": "犀牛的角是干什么用的",
+      "en": "What Is a Rhino's Horn For?"
+    },
+    "content": {
+      "zh": "角用来在打斗中自卫、在泥地里刨食，也能拨开挡路的树枝。它不是骨头，是压紧的角质。",
+      "en": "The horn serves in fights, for digging in mud and pushing aside branches, and it is not bone but tightly packed keratin."
+    }
+  },
+  {
+    "title": {
+      "zh": "河马为什么老待在水里",
+      "en": "Why Do Hippos Stay in Water?"
+    },
+    "content": {
+      "zh": "河马皮肤很薄，离水久了会干裂。泡在水里既防晒又凉快，晚上才上岸找吃的。",
+      "en": "Their thin skin cracks if it dries out, so water keeps them cool and protected from the sun, and they graze on land only at night."
+    }
+  },
+  {
+    "title": {
+      "zh": "猴子为什么互相整理毛",
+      "en": "Why Do Monkeys Groom Each Other?"
+    },
+    "content": {
+      "zh": "互相捉虱子是清洁，更是交朋友：花时间给对方理毛，关系就亲近，吵架后也用它和解。",
+      "en": "Grooming cleans the fur but mostly builds friendships, since time spent on someone strengthens the bond and helps make up after a fight."
+    }
+  },
+  {
+    "title": {
+      "zh": "熊冬天为什么要睡觉",
+      "en": "Why Do Bears Sleep Through Winter?"
+    },
+    "content": {
+      "zh": "冬天食物稀少，熊就躲进洞里，靠秋天攒下的脂肪过活，心跳和体温都降下来，这叫冬眠。",
+      "en": "With little food in winter a bear dens up and lives on fat stored in autumn, slowing its heart and cooling its body in hibernation."
+    }
+  },
+  {
+    "title": {
+      "zh": "松鼠为什么把果子埋起来",
+      "en": "Why Do Squirrels Bury Nuts?"
+    },
+    "content": {
+      "zh": "松鼠把吃不完的坚果藏在各处，冬天再挖出来。有些被忘掉的就发了芽，等于帮树播了种。",
+      "en": "Squirrels hide nuts they cannot eat at once and dig them up in winter, and the ones they forget sprout, planting new trees."
+    }
+  },
+  {
+    "title": {
+      "zh": "刺猬为什么浑身是刺",
+      "en": "Why Is a Hedgehog Covered in Spines?"
+    },
+    "content": {
+      "zh": "刺是改装过的毛。遇到危险它缩成一团，把刺全部竖起来，狐狸和狗就无从下嘴。",
+      "en": "The spines are modified hairs, and when danger comes it rolls into a ball with every spine raised, leaving a fox no way to bite."
+    }
+  },
+  {
+    "title": {
+      "zh": "猫为什么喜欢抓东西",
+      "en": "Why Do Cats Like to Scratch?"
+    },
+    "content": {
+      "zh": "抓挠能把旧爪鞘磨掉、让爪子保持锋利，也是伸懒腰。抓痕和气味还在告诉别的猫这是我的地盘。",
+      "en": "Scratching sheds the old claw sheath and keeps claws sharp, it stretches the body, and the marks and scent claim the place as theirs."
+    }
+  },
+  {
+    "title": {
+      "zh": "狗为什么到处闻",
+      "en": "Why Do Dogs Sniff Everywhere?"
+    },
+    "content": {
+      "zh": "狗的嗅觉比人强几万倍。闻一闻就知道谁来过、心情怎么样，这是它们读新闻的方式。",
+      "en": "A dog's nose is tens of thousands of times better than ours, and sniffing tells who passed by and how they felt, which is how dogs read the news."
+    }
+  },
+  {
+    "title": {
+      "zh": "兔子的耳朵为什么那么长",
+      "en": "Why Do Rabbits Have Such Long Ears?"
+    },
+    "content": {
+      "zh": "长耳朵能收集很远的细微声音，早早发现危险；耳朵上血管多，天热时还能帮忙散热。",
+      "en": "Long ears pick up faint sounds from far away to spot danger early, and their many blood vessels help shed heat when it is warm."
+    }
+  },
+  {
+    "title": {
+      "zh": "老鼠为什么总啃东西",
+      "en": "Why Do Rodents Always Gnaw?"
+    },
+    "content": {
+      "zh": "老鼠的门牙一辈子都在长，不磨就会越长越长伤到自己，所以它们要不停啃硬东西。",
+      "en": "Their front teeth grow all their lives, and without constant gnawing they would grow too long and cause harm, so they chew hard things."
+    }
+  },
+  {
+    "title": {
+      "zh": "鸟为什么能飞起来",
+      "en": "How Do Birds Fly?"
+    },
+    "content": {
+      "zh": "鸟的骨头是空心的，很轻；翅膀上面鼓下面平，扇动时产生升力；羽毛还能减少阻力。",
+      "en": "Bird bones are hollow and light, the curved wing makes lift as it flaps, and feathers smooth the air flowing past."
+    }
+  },
+  {
+    "title": {
+      "zh": "小鸟站在电线上为什么不会触电",
+      "en": "Why Don't Birds on a Wire Get Shocked?"
+    },
+    "content": {
+      "zh": "它两只脚都站在同一根电线上，身体里没有高低电压差，电流就不流过它。碰到另一根线才会出事。",
+      "en": "Both feet rest on the same wire, so there is no voltage difference across its body and no current flows, and only touching another wire would be fatal."
+    }
+  },
+  {
+    "title": {
+      "zh": "鸡为什么飞不高",
+      "en": "Why Can't Chickens Fly High?"
+    },
+    "content": {
+      "zh": "家鸡被人类养了几千年，翅膀退化、身体变重，只能扑腾几下飞过矮墙，飞不了远路。",
+      "en": "Kept by people for thousands of years, domestic chickens have weak wings and heavy bodies, managing only a short flutter over a low wall."
+    }
+  },
+  {
+    "title": {
+      "zh": "企鹅走路为什么摇摇摆摆",
+      "en": "Why Do Penguins Waddle?"
+    },
+    "content": {
+      "zh": "企鹅的腿又短又靠后，身子又圆又重。左右摇摆能省力气，比迈大步更稳当，冰面也不容易滑倒。",
+      "en": "With short legs set far back and a round heavy body, they rock from side to side, which saves effort and keeps them steady on ice."
+    }
+  },
+  {
+    "title": {
+      "zh": "动物的尾巴有什么用",
+      "en": "What Are Animal Tails For?"
+    },
+    "content": {
+      "zh": "尾巴用处多：猴子拿它当第五只手，鳄鱼用它游泳，牛拿它赶苍蝇，松鼠冬天把它当被子。",
+      "en": "Tails do many jobs: a monkey uses one as a fifth hand, a crocodile swims with it, cattle swat flies, and a squirrel wraps it up as a blanket."
+    }
+  },
+  {
+    "title": {
+      "zh": "动物为什么要成群生活",
+      "en": "Why Do Animals Live in Groups?"
+    },
+    "content": {
+      "zh": "一群里眼睛多，容易发现敌人；一起捕猎也更省力。虽然要分食物，但换来的是安全。",
+      "en": "Many eyes spot danger sooner and hunting together costs less effort, so sharing food is worth the safety a group brings."
+    }
+  },
+  {
+    "title": {
+      "zh": "动物是怎么过冬的",
+      "en": "How Do Animals Survive Winter?"
+    },
+    "content": {
+      "zh": "办法各不相同：有的冬眠，有的换上厚毛，有的迁徙到南方，还有的靠秋天存下的食物过活。",
+      "en": "Ways differ: some hibernate, some grow thick fur, some migrate south, and others live on food stored during autumn."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的动物会装死",
+      "en": "Why Do Some Animals Play Dead?"
+    },
+    "content": {
+      "zh": "不少捕食者只追活物，装死能让对方失去兴趣；有的还会放出臭味配合演出等敌人走开。",
+      "en": "Many hunters only chase live prey, so playing dead puts them off, and some even give off a bad smell to complete the act."
+    }
   }
 ]

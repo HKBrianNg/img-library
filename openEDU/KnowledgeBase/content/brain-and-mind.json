@@ -118,5 +118,485 @@
       "zh": "害怕时身体会放出一种让人警觉的东西，让心脏快快跳，把血液赶紧送到肌肉，好准备跑开或者面对危险。",
       "en": "Fear releases chemicals that make the heart beat faster, rushing blood to the muscles so the body is ready to run or to face the danger."
     }
+  },
+  {
+    "title": {
+      "zh": "为什么会有“似曾相识”的感觉",
+      "en": "Why Do We Feel “I've Seen This Before”?"
+    },
+    "content": {
+      "zh": "大脑整理记忆时偶尔会“贴错标签”，把眼前的画面当成已经存过的旧记忆，于是就冒出熟悉感。这是正常的。",
+      "en": "Now and then the brain files a moment under the wrong label, treating what is happening now as an old memory. The feeling of familiarity is quite normal."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么不能同时做好两件事",
+      "en": "Why Can't We Do Two Things at Once?"
+    },
+    "content": {
+      "zh": "大脑的注意力像一盏灯，照到这边就照不到那边。来回切换还要重新找状态，所以两件事都做得又慢又差。",
+      "en": "Attention is like a lamp: light one thing and the other goes dark. Switching back and forth also costs time, so both jobs end up slower and sloppier."
+    }
+  },
+  {
+    "title": {
+      "zh": "读出声为什么记得更牢",
+      "en": "Why Does Reading Aloud Help You Remember?"
+    },
+    "content": {
+      "zh": "读出声时眼睛、嘴巴、耳朵一起上，大脑收到三路信号，记忆的钩子更多，当然比光用眼睛看好记。",
+      "en": "Reading aloud uses eyes, mouth and ears at once. The brain gets three lots of signals, giving memory more hooks to hang on to."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会做噩梦",
+      "en": "Why Do We Have Nightmares?"
+    },
+    "content": {
+      "zh": "白天受了惊吓、睡前太兴奋或压力大，夜里大脑整理情绪时就把这些做成噩梦。偶尔做一次不用害怕。",
+      "en": "Being frightened during the day, excitement before bed or stress can all show up as bad dreams while the brain sorts feelings at night. An occasional one is nothing to fear."
+    }
+  },
+  {
+    "title": {
+      "zh": "睡眠不够为什么记不住东西",
+      "en": "Why Does Lack of Sleep Hurt Memory?"
+    },
+    "content": {
+      "zh": "白天学的东西要在深睡时从临时仓库搬进长期仓库。睡不够，搬运工就不上班，第二天自然想不起来。",
+      "en": "What you learn by day is moved into long-term storage during deep sleep. Sleep too little and the move never happens, so next day you cannot recall it."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的人会怕黑",
+      "en": "Why Are Some People Afraid of the Dark?"
+    },
+    "content": {
+      "zh": "黑夜里看不清，大脑就自动往坏处想，这是祖先留下的防身本能。长大、知道环境安全后，多数人就不怕了。",
+      "en": "In the dark the brain cannot check what is there and imagines the worst, a leftover instinct from our ancestors. Most people grow out of it once they know they are safe."
+    }
+  },
+  {
+    "title": {
+      "zh": "运动完为什么心情会变好",
+      "en": "Why Does Exercise Improve Your Mood?"
+    },
+    "content": {
+      "zh": "运动时大脑会分泌让人愉快和放松的物质，还能把紧张时攒下的能量用掉，所以跑完步会觉得轻松。",
+      "en": "Exercise makes the brain release chemicals that lift mood and ease tension. It also burns off energy built up while you were stressed, so you feel lighter afterwards."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么录音里的声音不像自己",
+      "en": "Why Does My Voice Sound Different on Recording?"
+    },
+    "content": {
+      "zh": "自己说话时声音经过骨头和空气两条路进耳朵，别人只听到空气那一路。录音只有空气那一路，所以听着陌生。",
+      "en": "When you speak, sound reaches your ears through bone and through air. Others hear only the air path, and so does a recording, which is why it sounds odd."
+    }
+  },
+  {
+    "title": {
+      "zh": "专心的时候为什么听不见别人说话",
+      "en": "Why Don't You Hear People When Concentrating?"
+    },
+    "content": {
+      "zh": "注意力有限，大脑会把不重要的声音先“关小”。等你回过神，才发现刚才有人叫你，其实耳朵一直都在听。",
+      "en": "Attention is limited, so the brain turns down sounds it judges unimportant. Your ears were working all along; you only notice the call once you look up."
+    }
+  },
+  {
+    "title": {
+      "zh": "小孩子为什么总爱问为什么",
+      "en": "Why Do Children Ask “Why” So Much?"
+    },
+    "content": {
+      "zh": "孩子的大脑在飞快地建模型，每问一次“为什么”就是在补一块拼图。这是好奇心最强的时期，也是学得最快的时候。",
+      "en": "A child's brain is busy building a model of the world, and every “why” fills in a piece. It is the most curious stage of life, and the fastest for learning."
+    }
+  },
+  {
+    "title": {
+      "zh": "颜色为什么会影响心情",
+      "en": "Why Do Colours Affect Our Mood?"
+    },
+    "content": {
+      "zh": "红色让人兴奋、蓝色让人平静，这跟日头、海水这些长久的生活经验有关。商家和医院都会拿颜色来调整气氛。",
+      "en": "Red excites and blue calms, ties going back to things like sunshine and the sea. Shops and hospitals both use colour to shape how people feel."
+    }
+  },
+  {
+    "title": {
+      "zh": "睡不着时数羊有用吗",
+      "en": "Does Counting Sheep Help You Sleep?"
+    },
+    "content": {
+      "zh": "数羊是给大脑一件无聊又不费力的事做，把胡思乱想挤走。但其实想任何重复、单调的画面都一样管用。",
+      "en": "Counting sheep gives the brain something dull and easy to do, pushing other thoughts aside. Any slow, repeated picture works just as well."
+    }
+  },
+  {
+    "title": {
+      "zh": "小孩的大脑是怎么长大的",
+      "en": "How Does a Child's Brain Grow?"
+    },
+    "content": {
+      "zh": "出生后大脑里的连接飞快增加，用得多的连接被留下，用得少的被剪掉。多玩多学，留下的就多。",
+      "en": "After birth the brain's connections multiply fast, and those used often are kept while unused ones are pruned, so more play and learning means more kept."
+    }
+  },
+  {
+    "title": {
+      "zh": "大脑有多大",
+      "en": "How Big Is the Brain?"
+    },
+    "content": {
+      "zh": "成年人的大脑约 1.4 公斤，摸上去像豆腐，却有一千亿个神经细胞，比银河系的恒星还多。",
+      "en": "An adult brain weighs about 1.4 kg and feels like soft tofu, yet holds a hundred billion nerve cells, more than the stars in the Milky Way."
+    }
+  },
+  {
+    "title": {
+      "zh": "大脑会累吗",
+      "en": "Does the Brain Get Tired?"
+    },
+    "content": {
+      "zh": "会。长时间集中注意力，能量消耗大、废物堆积，人就会反应变慢、容易出错。休息一会儿就能恢复。",
+      "en": "Yes. Long spells of concentration burn energy and let waste build up, so reactions slow and mistakes creep in, and a short rest sets things right."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的人记性特别好",
+      "en": "Why Do Some People Have Better Memories?"
+    },
+    "content": {
+      "zh": "一方面是天生，更重要的是方法：他们会把新知识和旧知识连起来，还经常复习。",
+      "en": "Part is inborn but method matters more: they link new knowledge to what they already know and review it often."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会走神",
+      "en": "Why Does the Mind Wander?"
+    },
+    "content": {
+      "zh": "大脑的注意力有限，任务太单调或太难时，它会自动跑到别处。走神其实也是大脑在整理想法。",
+      "en": "Attention is limited, and when a task is too dull or too hard the mind slips away, though wandering also lets the brain sort its thoughts."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的事永远忘不了",
+      "en": "Why Do We Never Forget Some Things?"
+    },
+    "content": {
+      "zh": "带有强烈情绪的事，大脑里的情绪中枢会帮忙加固记忆。所以第一次上台、一次惊喜，记得格外清楚。",
+      "en": "Events carrying strong feeling get extra reinforcement from the brain's emotion centre, so a first time on stage or a happy surprise stays vivid."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会紧张",
+      "en": "Why Do We Feel Nervous?"
+    },
+    "content": {
+      "zh": "面对陌生或重要的事，身体会进入戒备状态：心跳加快、肌肉绷紧。适度紧张反而让人更专注。",
+      "en": "Faced with something new or important the body goes on alert, heart racing and muscles tightening, and a little nervousness actually sharpens focus."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么紧张时脑子会一片空白",
+      "en": "Why Does the Mind Go Blank When Nervous?"
+    },
+    "content": {
+      "zh": "紧张时大脑里管情绪的部分占了上风，挤走了负责记忆提取的那部分，明明会的也想不起来。",
+      "en": "Under pressure the brain's emotion centre takes over and squeezes out the part that retrieves memories, so what you know will not come to mind."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么深呼吸能让人平静下来",
+      "en": "Why Does Deep Breathing Calm You Down?"
+    },
+    "content": {
+      "zh": "慢慢深呼吸会告诉身体危险已经过去，心跳随之放慢，肌肉放松，脑子也重新能好好思考。",
+      "en": "Slow deep breaths signal that the danger has passed, so the heart slows, muscles relax and the mind can think clearly again."
+    }
+  },
+  {
+    "title": {
+      "zh": "人为什么会生气",
+      "en": "Why Do People Get Angry?"
+    },
+    "content": {
+      "zh": "生气是大脑发现被冒犯或不公平时的警报，让人准备好反抗。它本身有用，怎么表达才见高低。",
+      "en": "Anger is the brain's alarm at being wronged or treated unfairly, readying you to push back, and while it has a purpose, how you show it is what matters."
+    }
+  },
+  {
+    "title": {
+      "zh": "生气时为什么会脸红心跳",
+      "en": "Why Do We Blush and Our Heart Race When Angry?"
+    },
+    "content": {
+      "zh": "生气时身体准备行动，血液涌向皮肤和肌肉，脸就红了；心脏也加快泵血，好随时应对。",
+      "en": "The body prepares for action, sending blood to skin and muscle so the face reddens, and the heart pumps faster to be ready for anything."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么音乐会让人起鸡皮疙瘩",
+      "en": "Why Does Music Give You Goose Bumps?"
+    },
+    "content": {
+      "zh": "出乎意料的旋律和强弱变化会激活大脑的奖赏系统，让人又惊又喜，皮肤就起了反应。",
+      "en": "Unexpected turns of melody and sudden changes in loudness stir the brain's reward system, giving a shiver of delight that shows on the skin."
+    }
+  },
+  {
+    "title": {
+      "zh": "笑为什么会传染",
+      "en": "Why Is Laughter Contagious?"
+    },
+    "content": {
+      "zh": "听到别人笑，大脑里管发声和表情的区域会自动跟着准备，听的人就也笑了。这是人类联络感情的办法。",
+      "en": "Hearing laughter readies the brain's areas for voice and expression, so the listener laughs too, and this is how people bond with one another."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有人是夜猫子",
+      "en": "Why Are Some People Night Owls?"
+    },
+    "content": {
+      "zh": "每个人的生物钟长短不同，有的人天生偏晚睡晚起。青少年普遍偏晚，年纪大了又会提早。",
+      "en": "Body clocks differ in length, so some are naturally late to bed and late to rise, teenagers tend towards lateness and older people shift earlier."
+    }
+  },
+  {
+    "title": {
+      "zh": "什么是生物钟",
+      "en": "What Is the Body Clock?"
+    },
+    "content": {
+      "zh": "大脑里有一组细胞按大约 24 小时运行，控制睡意、体温和饥饿。天亮的光线每天都把它重新校准。",
+      "en": "A group of brain cells runs on roughly a 24-hour cycle, governing sleepiness, temperature and hunger, and morning light resets it each day."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会说梦话",
+      "en": "Why Do People Talk in Their Sleep?"
+    },
+    "content": {
+      "zh": "睡眠有深有浅，浅睡时大脑还没完全安静，就可能把梦里的念头说出来。多半无害，累了更容易发生。",
+      "en": "Sleep has deep and light stages, and in light sleep the brain is not fully quiet, so thoughts from a dream may slip out, mostly harmless and more likely when tired."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会睡不着觉",
+      "en": "Why Can't We Fall Asleep?"
+    },
+    "content": {
+      "zh": "压力大、睡前看屏幕、白天睡太多或作息乱，都会让大脑关不掉。放松、规律作息比数羊更管用。",
+      "en": "Stress, screens before bed, long daytime naps or an irregular schedule keep the brain switched on, and relaxing with a steady routine beats counting sheep."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么运动让脑子更灵光",
+      "en": "Why Does Exercise Sharpen the Mind?"
+    },
+    "content": {
+      "zh": "运动让更多血和氧进到大脑，还会促使身体分泌帮助神经生长的物质，学东西、记东西都更顺。",
+      "en": "Exercise sends more blood and oxygen to the brain and prompts the body to release substances that help nerve cells grow, making learning and memory easier."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么做喜欢的事会忘记时间",
+      "en": "Why Does Time Fly When You Enjoy Yourself?"
+    },
+    "content": {
+      "zh": "投入时注意力全被占住，大脑不再留意时间流逝。这份专注让人越做越想做，也最有收获。",
+      "en": "When you are absorbed, attention is entirely taken and the brain stops tracking the passing time, and this focus makes the activity both enjoyable and rewarding."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么学新东西特别费脑子",
+      "en": "Why Does Learning Something New Feel Hard?"
+    },
+    "content": {
+      "zh": "新东西没有现成的神经通路，大脑要现场搭建、反复试错。练熟以后走老路，就轻松多了。",
+      "en": "New material has no ready-made pathway, so the brain must build one by trial and error, and once practice lays down the route it becomes easy."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么小宝宝要睡那么久",
+      "en": "Why Do Babies Sleep So Much?"
+    },
+    "content": {
+      "zh": "睡觉时生长激素大量分泌，大脑也在整理白天学的东西，连接长得飞快，所以宝宝一天要睡十几小时。",
+      "en": "During sleep growth hormone flows and the brain sorts what was learned by day while connections form fast, so a baby needs more than a dozen hours."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的人分不清颜色",
+      "en": "Why Are Some People Colour Blind?"
+    },
+    "content": {
+      "zh": "眼睛里负责分辨颜色的细胞有几种，缺了某种或不好用，就会把某些颜色看成一样。多数是先天遗传的。",
+      "en": "The eye has several types of colour cells, and if one is missing or weak some colours look alike, which is usually inherited from birth."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么眼睛也会被欺骗",
+      "en": "Why Can Our Eyes Be Fooled?"
+    },
+    "content": {
+      "zh": "大脑看东西时会凭经验补全和猜测，有时候猜错了，就出现错觉。这说明我们看到的是大脑拼出来的画面。",
+      "en": "The brain fills in and guesses from experience when we look, and now and then it guesses wrong, which shows what we see is a picture the brain builds."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么能一眼认出熟人的脸",
+      "en": "Why Can We Recognise a Familiar Face Instantly?"
+    },
+    "content": {
+      "zh": "大脑有专门认脸的区域，练了一辈子，辨认又快又准。所以人群里扫一眼，就能认出朋友。",
+      "en": "A special brain area for faces, trained all our lives, recognises them quickly and accurately, so one glance across a crowd picks out a friend."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么第一印象那么重要",
+      "en": "Why Are First Impressions So Important?"
+    },
+    "content": {
+      "zh": "大脑喜欢走捷径，第一次得到的信息会搭起一个框架，后来的事都会被拿来跟它比较，很难推翻。",
+      "en": "The brain likes shortcuts, building a frame from the first information it gets, and everything after is measured against it, which is hard to overturn."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会跟着大家一起做",
+      "en": "Why Do We Follow the Crowd?"
+    },
+    "content": {
+      "zh": "跟着大多数人做，出错的风险小，也容易被接纳。这本能帮我们融入群体，但有时也会带偏判断。",
+      "en": "Doing what most people do lowers the risk of being wrong and helps you belong, and while this instinct aids group life it can also mislead."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么越想越害怕",
+      "en": "Why Does Thinking Make Fear Grow?"
+    },
+    "content": {
+      "zh": "反复想象可怕的画面，大脑会当成真的在发生，警报一直响。转移注意力、去实地看看，能把它打断。",
+      "en": "Replaying frightening pictures makes the brain treat them as real and keeps the alarm ringing, so shifting attention or checking in person can break the loop."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么选择太多反而更难决定",
+      "en": "Why Do Too Many Choices Make Decisions Harder?"
+    },
+    "content": {
+      "zh": "每多一个选项，大脑就要多比较一次，精力很快耗光。限定几个选项，反而更容易做出满意的决定。",
+      "en": "Each extra option means another comparison and energy runs out fast, so limiting yourself to a few makes a satisfying choice more likely."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么坏习惯那么难改掉",
+      "en": "Why Are Bad Habits Hard to Break?"
+    },
+    "content": {
+      "zh": "习惯是在大脑里踩出的熟路，一触发就自动走上去。改掉它要在旁边踩一条新路，还得天天走。",
+      "en": "A habit is a well-worn path in the brain that is taken automatically, and breaking it means wearing a new path alongside and walking it daily."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有奖励会更有动力",
+      "en": "Why Do Rewards Motivate Us?"
+    },
+    "content": {
+      "zh": "期待奖励时大脑会释放让人愉快的物质，做事就有了盼头。不过真正的喜欢，比外在奖励更持久。",
+      "en": "Anticipating a reward makes the brain release pleasant chemicals, giving something to look forward to, though genuine interest lasts longer than any prize."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么把大任务拆开会更容易",
+      "en": "Why Does Breaking a Task into Steps Help?"
+    },
+    "content": {
+      "zh": "大任务看着吓人，拆成一小块一小块，每完成一块大脑就给一次小小的满足，人就愿意继续做下去。",
+      "en": "A big task looks daunting, but split into small pieces each finished piece gives the brain a little satisfaction and keeps you going."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么安静的地方更容易专心",
+      "en": "Why Is It Easier to Concentrate in Quiet Places?"
+    },
+    "content": {
+      "zh": "噪音会不断抢走注意力，大脑每次都要重新拉回来，很快疲劳。安静时这些打断少了，思路能连起来。",
+      "en": "Noise keeps stealing attention and the brain must haul it back each time, tiring quickly, while quiet removes those interruptions so thoughts can join up."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么教别人会记得更牢",
+      "en": "Why Do We Remember Better by Teaching?"
+    },
+    "content": {
+      "zh": "教别人要先把知识重新组织、讲明白，这等于又复习了一遍，还想出了例子，记忆自然更深。",
+      "en": "Teaching forces you to reorganise and explain the material, which is another round of review plus inventing examples, so the memory goes deeper."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的人天生乐观",
+      "en": "Why Are Some People Naturally Optimistic?"
+    },
+    "content": {
+      "zh": "乐观一部分来自遗传，一部分来自成长环境。经常被鼓励、看过困难被解决的孩子，更容易往好处想。",
+      "en": "Optimism comes partly from genes and partly from upbringing, and children who are encouraged and have seen difficulties solved tend to look on the bright side."
+    }
+  },
+  {
+    "title": {
+      "zh": "大人为什么也会忘事",
+      "en": "Why Do Adults Also Forget Things?"
+    },
+    "content": {
+      "zh": "成年后大脑不再快速扩建，加上事情多、注意力被分摊，记东西的效率就降了。写下来、多复习就能补上。",
+      "en": "In adulthood the brain stops expanding quickly, and with more on their plate attention is divided so recall drops, though writing things down and reviewing helps."
+    }
+  },
+  {
+    "title": {
+      "zh": "大脑越用越聪明吗",
+      "en": "Does Using the Brain Make It Smarter?"
+    },
+    "content": {
+      "zh": "会。学习新东西会让神经连接变多变密，就像走的人多了路就宽。不过它也需要休息和睡眠来巩固。",
+      "en": "Yes. Learning thickens and multiplies neural connections, as a path widens with more walkers, though rest and sleep are needed to make them stick."
+    }
   }
 ]

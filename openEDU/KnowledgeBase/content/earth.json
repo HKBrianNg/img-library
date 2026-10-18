@@ -118,5 +118,485 @@
       "zh": "沙漠里水少、云也少。白天太阳直晒，地面一下子就烫；晚上没有云盖着，热气全跑回天空，温度降得很快。",
       "en": "Deserts have little water and few clouds. By day the sun beats straight down and the ground heats fast. By night no clouds hold the heat in, so it cools quickly."
     }
+  },
+  {
+    "title": {
+      "zh": "早晨草叶上为什么有露珠",
+      "en": "Why Is There Dew on Grass in the Morning?"
+    },
+    "content": {
+      "zh": "夜里地面凉下来，空气里的水蒸气碰到凉草叶就凝成小水珠，这就是露水。太阳一晒，它们又蒸发回空气里。",
+      "en": "At night the ground cools and water vapour in the air settles on cold blades as tiny drops. That is dew, and the morning sun soon turns it back into vapour."
+    }
+  },
+  {
+    "title": {
+      "zh": "雾和云是一回事吗",
+      "en": "Are Fog and Clouds the Same Thing?"
+    },
+    "content": {
+      "zh": "其实是一回事，都是小水滴聚在一起。贴着地面的是雾，飘在高空的就是云，区别只在离地多高。",
+      "en": "They are the same thing: tiny water drops hanging in air. Near the ground we call it fog; high above it is called a cloud. Only the height differs."
+    }
+  },
+  {
+    "title": {
+      "zh": "冰雹是怎么来的",
+      "en": "How Does Hail Form?"
+    },
+    "content": {
+      "zh": "云里的小冰粒被上升气流一次次托上去、又掉下来，每转一圈就裹上一层冰。等它重得托不住了，就砸到地上。",
+      "en": "Updraughts toss a small ice ball up and down inside a cloud. Each trip coats it with another layer until it is too heavy to hold, and then it falls."
+    }
+  },
+  {
+    "title": {
+      "zh": "泥土是怎么形成的",
+      "en": "How Is Soil Formed?"
+    },
+    "content": {
+      "zh": "岩石被风吹日晒、被雨水冲刷，慢慢碎成小颗粒；再加上枯枝落叶腐烂后的养分，就成了能种东西的泥土。",
+      "en": "Wind, sun and rain slowly break rock into grains. Add the goodness of rotting leaves and twigs, and you get soil that plants can grow in."
+    }
+  },
+  {
+    "title": {
+      "zh": "石油是怎么形成的",
+      "en": "How Was Oil Formed?"
+    },
+    "content": {
+      "zh": "亿万年前的小生物沉到海底，被泥沙一层层埋住。在又热又压的地下过了千万年，它们慢慢变成了石油。",
+      "en": "Tiny sea creatures died millions of years ago and were buried under mud. Heat and pressure over ages turned them slowly into oil."
+    }
+  },
+  {
+    "title": {
+      "zh": "温泉的水为什么是热的",
+      "en": "Why Is Hot Spring Water Hot?"
+    },
+    "content": {
+      "zh": "温泉的水流过地下深处，被那里滚烫的岩石加热，再沿着裂缝涌上地面，所以一年四季都是热的。",
+      "en": "Hot spring water flows deep underground, where hot rocks warm it, then rises through cracks to the surface. That is why it stays warm all year."
+    }
+  },
+  {
+    "title": {
+      "zh": "山顶为什么比山下冷",
+      "en": "Why Is It Colder on a Mountaintop?"
+    },
+    "content": {
+      "zh": "越高的地方空气越稀薄，存不住多少热；而且地面才是真正给空气加热的“暖气片”，离地面越远就越冷。",
+      "en": "Air high up is thin and cannot hold much heat. The ground is what really warms the air, so the further you climb from it, the colder it gets."
+    }
+  },
+  {
+    "title": {
+      "zh": "白天和黑夜是怎么来的",
+      "en": "What Causes Day and Night?"
+    },
+    "content": {
+      "zh": "地球像个陀螺一样自转，朝着太阳的那一半是白天，背着的那一半就是黑夜。转一圈正好一天。",
+      "en": "Earth spins like a top. The half facing the sun has day, the half turned away has night, and one full spin makes one day."
+    }
+  },
+  {
+    "title": {
+      "zh": "指南针为什么总指着南北",
+      "en": "Why Does a Compass Always Point North?"
+    },
+    "content": {
+      "zh": "地球本身像一块大磁铁，有南北两个磁极。指南针的小磁针被它吸着，所以总是一头指南、一头指北。",
+      "en": "Earth acts like a giant magnet with a north and south pole. The little needle is pulled by them, so it always lines up north to south."
+    }
+  },
+  {
+    "title": {
+      "zh": "地下水是从哪里来的",
+      "en": "Where Does Groundwater Come From?"
+    },
+    "content": {
+      "zh": "下雨时一部分水渗进土里，穿过沙石的缝隙一直往下，积在不透水的岩层上面，就成了地下水。",
+      "en": "When it rains, some water soaks into the ground and slips down through gaps in sand and rock until it meets a solid layer and collects there."
+    }
+  },
+  {
+    "title": {
+      "zh": "瀑布是怎么形成的",
+      "en": "How Is a Waterfall Formed?"
+    },
+    "content": {
+      "zh": "河水遇到硬岩和软岩叠在一起的地方，软的那层被冲得快，硬的那层慢慢凸出来，水就从高处摔下去成了瀑布。",
+      "en": "A river meets a hard layer of rock on top of a soft one. The soft layer wears away faster, leaving a step, and the water plunges over it."
+    }
+  },
+  {
+    "title": {
+      "zh": "泥石流是怎么发生的",
+      "en": "What Causes a Mudflow?"
+    },
+    "content": {
+      "zh": "大雨把山上的泥沙泡透，又重又滑的泥浆顺着山坡往下冲，一路上卷走石头和树，就成了泥石流。",
+      "en": "Heavy rain soaks the soil on a hillside until it turns to heavy, slippery mud. The mud rushes down, carrying rocks and trees with it."
+    }
+  },
+  {
+    "title": {
+      "zh": "我们怎么知道地球是圆的",
+      "en": "How Do We Know Earth Is Round?"
+    },
+    "content": {
+      "zh": "船开远时会一点点沉进海平面，月食时地球的影子总是圆的。这些都在告诉我们地球是个球。",
+      "en": "Ships sink below the horizon as they sail away, and Earth's shadow on the moon is always round, both showing the planet is a ball."
+    }
+  },
+  {
+    "title": {
+      "zh": "地球里面是什么",
+      "en": "What Is Inside the Earth?"
+    },
+    "content": {
+      "zh": "从外往里是地壳、地幔和地核。越往里越热，地核主要是铁和镍，外面一层还是液态的。",
+      "en": "Outside in there is the crust, the mantle and the core. It gets hotter as you go down, and the core is mostly iron and nickel, part of it molten."
+    }
+  },
+  {
+    "title": {
+      "zh": "地球为什么会自转",
+      "en": "Why Does Earth Spin?"
+    },
+    "content": {
+      "zh": "地球是从一团旋转的星云里聚起来的，转的动力一直留到今天。太空中几乎没有阻力，它就一直转下去。",
+      "en": "Earth formed from a spinning cloud, and that spin has never stopped, so with almost nothing in space to slow it down it keeps turning."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么我们感觉不到地球在转",
+      "en": "Why Can't We Feel Earth Turning?"
+    },
+    "content": {
+      "zh": "地球转得又稳又匀速，我们也跟着一起转，相对没动。就像坐在平稳的火车上，不看外面就察觉不到。",
+      "en": "Earth turns smoothly and steadily and we turn with it, so nothing seems to move, just as you cannot tell a smooth train is moving with the curtains closed."
+    }
+  },
+  {
+    "title": {
+      "zh": "大陆会不会移动",
+      "en": "Do Continents Move?"
+    },
+    "content": {
+      "zh": "会。地球外层分成好几块板块，它们每年挪动几厘米，跟指甲生长差不多快，几亿年就换了样子。",
+      "en": "Yes. Earth's outer shell is split into plates that drift a few centimetres a year, about as fast as nails grow, reshaping the world over ages."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的地方老地震",
+      "en": "Why Do Some Places Have Many Earthquakes?"
+    },
+    "content": {
+      "zh": "板块交界处岩石互相挤压，攒够了力就突然错动。日本、智利这些地方正好压在交界上，地震就多。",
+      "en": "At plate boundaries rocks press against each other and suddenly slip when the strain is too much, and places like Japan and Chile sit right on these edges."
+    }
+  },
+  {
+    "title": {
+      "zh": "煤是怎么形成的",
+      "en": "How Was Coal Formed?"
+    },
+    "content": {
+      "zh": "几亿年前的植物死后埋在沼泽里，被泥沙压住，在缺氧和高压下慢慢变成了煤，所以煤是古老的太阳能。",
+      "en": "Plants that died hundreds of millions of years ago were buried in swamps, squeezed under mud and slowly turned into coal, which is ancient sunlight."
+    }
+  },
+  {
+    "title": {
+      "zh": "水晶是怎么长出来的",
+      "en": "How Do Crystals Grow?"
+    },
+    "content": {
+      "zh": "矿物分子在水溶液或岩浆里慢慢排队，一颗颗按同样的规律叠上去，日子久了就长成有棱有角的水晶。",
+      "en": "Mineral molecules line up in a solution or in cooling magma, stacking in the same pattern over ages until a crystal with flat faces appears."
+    }
+  },
+  {
+    "title": {
+      "zh": "石头为什么有各种颜色",
+      "en": "Why Are Stones Different Colours?"
+    },
+    "content": {
+      "zh": "石头里含的矿物质不同：含铁发红发黄，含铜发绿发蓝，含锰发黑。颜色就是它们的成分说明书。",
+      "en": "Different minerals give different colours, with iron making red and yellow, copper green and blue, and manganese black, so colour is the recipe showing through."
+    }
+  },
+  {
+    "title": {
+      "zh": "沙子是从哪里来的",
+      "en": "Where Does Sand Come From?"
+    },
+    "content": {
+      "zh": "岩石被风吹雨打、被水冲磨，碎成一颗颗小粒。海边的沙多是石英，因为它又硬又不容易化掉。",
+      "en": "Rock is cracked by weather and ground by water until it falls into grains, and beach sand is mostly quartz, which is hard and does not dissolve."
+    }
+  },
+  {
+    "title": {
+      "zh": "溶洞里的石笋是怎么长出来的",
+      "en": "How Do Stalagmites Grow?"
+    },
+    "content": {
+      "zh": "含石灰的水一滴一滴落下，水分蒸发后留下一点点石灰，几万年堆起来，就从地上长出石笋。",
+      "en": "Water carrying lime drips down and as each drop dries it leaves a trace of lime behind, so after tens of thousands of years a pillar grows up."
+    }
+  },
+  {
+    "title": {
+      "zh": "河流为什么弯弯曲曲",
+      "en": "Why Are Rivers Winding?"
+    },
+    "content": {
+      "zh": "水在弯处外侧冲得快、把岸冲走，内侧慢、泥沙沉下来。弯处就越弯越大，河就这么扭来扭去。",
+      "en": "On the outside of a bend water flows fast and eats the bank while on the inside it slows and drops silt, so each bend grows more curly."
+    }
+  },
+  {
+    "title": {
+      "zh": "河流入海口为什么有三角洲",
+      "en": "Why Is There a Delta at a River's Mouth?"
+    },
+    "content": {
+      "zh": "河水流进大海变慢，一路带来的泥沙就沉下来，越堆越多，慢慢铺成一片扇形的新陆地。",
+      "en": "Where a river meets the sea it slows down and drops the silt it carried, piling up over time into a fan of new land."
+    }
+  },
+  {
+    "title": {
+      "zh": "湖泊是怎么形成的",
+      "en": "How Is a Lake Formed?"
+    },
+    "content": {
+      "zh": "洼地积了水就是湖：有的由冰川挖出，有的由地壳陷落或火山口积水而成，还有的是河道改道留下的。",
+      "en": "A lake is water collecting in a hollow, dug by a glacier, dropped by the crust, filled in a crater, or left behind when a river changed course."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的湖是咸的",
+      "en": "Why Are Some Lakes Salty?"
+    },
+    "content": {
+      "zh": "水流进湖里只能靠蒸发离开，盐却留了下来。年头一长，盐越攒越多，湖水就变成咸的了。",
+      "en": "Water leaves such a lake only by evaporating and the salt stays behind, so over thousands of years the lake grows salty."
+    }
+  },
+  {
+    "title": {
+      "zh": "冰川是怎么形成的",
+      "en": "How Is a Glacier Formed?"
+    },
+    "content": {
+      "zh": "高寒地方的雪一年年堆积，下面的雪被压成冰，越积越厚，最后顺着山坡慢慢往下挪，就是冰川。",
+      "en": "In cold places snow piles up year after year until the lower layers are squeezed into ice, and thick enough it starts to creep downhill as a glacier."
+    }
+  },
+  {
+    "title": {
+      "zh": "沙漠是怎么来的",
+      "en": "How Is a Desert Formed?"
+    },
+    "content": {
+      "zh": "有的地方常年被高压气流压着，雨下不下来；再加上周围有山挡住水汽，日子久了就成了沙漠。",
+      "en": "Some places sit under sinking air that brings no rain, and mountains nearby block moisture, so over time the land turns to desert."
+    }
+  },
+  {
+    "title": {
+      "zh": "沙漠里的绿洲是怎么来的",
+      "en": "How Does a Desert Oasis Form?"
+    },
+    "content": {
+      "zh": "地下水在地势低洼处冒出地面，或者被人工引出来，水草就在这儿扎了根，成了沙漠里的一块绿地。",
+      "en": "Groundwater reaches the surface in a low spot or is channelled there by people, and plants take root, making a green patch in the sand."
+    }
+  },
+  {
+    "title": {
+      "zh": "沙丘为什么会移动",
+      "en": "Why Do Sand Dunes Move?"
+    },
+    "content": {
+      "zh": "风把沙粒从迎风面吹到背风面，一颗颗搬过去，整座沙丘就慢慢往前挪，一年能走十几米。",
+      "en": "Wind lifts grains up the windward side and drops them on the far side, moving the whole dune forward, sometimes more than ten metres a year."
+    }
+  },
+  {
+    "title": {
+      "zh": "沙尘暴是怎么来的",
+      "en": "What Causes a Sandstorm?"
+    },
+    "content": {
+      "zh": "大风刮过干燥裸露的地面，把沙尘卷到空中。没有草根抓住土壤的地方，最容易起沙尘暴。",
+      "en": "Strong wind sweeps over dry, bare ground and lifts dust into the air, and places with no grass to hold the soil are worst hit."
+    }
+  },
+  {
+    "title": {
+      "zh": "台风是怎么形成的",
+      "en": "How Does a Typhoon Form?"
+    },
+    "content": {
+      "zh": "海面被晒到 26 度以上，大量水汽上升凝结放热，空气越转越快，就形成了中间平静、周围狂暴的台风。",
+      "en": "Warm seas above 26°C send up huge amounts of vapour, which condenses and gives out heat, spinning the air into a storm with a calm eye."
+    }
+  },
+  {
+    "title": {
+      "zh": "龙卷风是怎么来的",
+      "en": "How Does a Tornado Form?"
+    },
+    "content": {
+      "zh": "冷热空气剧烈交锋，上升气流被风切得转起来，一根漏斗云从云底伸到地面，这就是龙卷风。",
+      "en": "When cold and hot air clash hard, rising air is twisted by wind shear and a funnel cloud reaches down from the storm to the ground."
+    }
+  },
+  {
+    "title": {
+      "zh": "天气预报是怎么做出来的",
+      "en": "How Is the Weather Forecast?"
+    },
+    "content": {
+      "zh": "气象站、卫星和雷达收集各地的温度、湿度和风向，电脑按物理规律算出未来的天气。",
+      "en": "Stations, satellites and radar gather temperature, humidity and wind, and computers use the laws of physics to work out what comes next."
+    }
+  },
+  {
+    "title": {
+      "zh": "雨滴是什么形状的",
+      "en": "What Shape Is a Raindrop?"
+    },
+    "content": {
+      "zh": "小雨滴是圆的，大的在下落时被空气压扁，像个小面包。画里那个尖头水滴其实并不存在。",
+      "en": "Small drops are round and big ones are flattened by the air as they fall, like a small bun, so the teardrop shape in drawings does not exist."
+    }
+  },
+  {
+    "title": {
+      "zh": "下雨天为什么不能站在大树下",
+      "en": "Why Not Stand Under a Tree in a Storm?"
+    },
+    "content": {
+      "zh": "树又高又湿，容易引雷；就算不直接劈中，顺着树干下来的电流也能伤人。所以要进屋或进车里。",
+      "en": "A tall wet tree easily attracts lightning, and even a strike nearby can send current down the trunk, so shelter indoors or in a car instead."
+    }
+  },
+  {
+    "title": {
+      "zh": "日出日落为什么是红色的",
+      "en": "Why Are Sunrises and Sunsets Red?"
+    },
+    "content": {
+      "zh": "太阳低时阳光要斜穿过更厚的大气，蓝紫光被散射掉，只剩下红橙光能到达我们的眼睛。",
+      "en": "When the sun is low its light crosses much more air, and blue light is scattered away, leaving red and orange to reach our eyes."
+    }
+  },
+  {
+    "title": {
+      "zh": "南极和北极有什么不一样",
+      "en": "What Is Different About the Two Poles?"
+    },
+    "content": {
+      "zh": "南极是块被厚冰盖住的大陆，北极是一片浮在海上的冰。南极更冷，企鹅在南，北极熊在北。",
+      "en": "The south pole is a continent buried under thick ice while the north is floating ice on the sea, and the south is colder, with penguins there and polar bears in the north."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会有极昼和极夜",
+      "en": "Why Are There Polar Day and Night?"
+    },
+    "content": {
+      "zh": "地球自转轴是歪的，到了夏天极地整天朝着太阳，冬天整天背着太阳，就出现了极昼和极夜。",
+      "en": "Earth's axis is tilted, so in summer the poles face the sun all day long and in winter they turn away, giving polar day and polar night."
+    }
+  },
+  {
+    "title": {
+      "zh": "酸雨是怎么来的",
+      "en": "What Causes Acid Rain?"
+    },
+    "content": {
+      "zh": "烧煤和石油排出的硫、氮氧化物溶进雨水，生成酸。酸雨会伤树木、腐蚀建筑，还会让湖水变酸。",
+      "en": "Burning coal and oil sends sulphur and nitrogen oxides into the air, and they dissolve in rain to make acid, harming trees, stone and lakes."
+    }
+  },
+  {
+    "title": {
+      "zh": "湿地为什么那么重要",
+      "en": "Why Are Wetlands Important?"
+    },
+    "content": {
+      "zh": "湿地像一块大海绵，能吸水防洪、过滤脏水，还是无数鸟类和鱼类的家。所以叫它地球之肾。",
+      "en": "Wetlands act like a giant sponge, soaking up floods and filtering water, and they are home to countless birds and fish, which is why they are called Earth's kidneys."
+    }
+  },
+  {
+    "title": {
+      "zh": "地震能提前预报吗",
+      "en": "Can Earthquakes Be Predicted?"
+    },
+    "content": {
+      "zh": "现在还做不到精确预报。科学家只能算出哪些地方长期风险高，并靠预警系统在震动到达前抢出几秒。",
+      "en": "Not accurately yet. Scientists can map long-term risk and send warnings a few seconds ahead, but they cannot say exactly when a quake will strike."
+    }
+  },
+  {
+    "title": {
+      "zh": "间歇泉为什么会定时喷水",
+      "en": "Why Do Geysers Erupt on Schedule?"
+    },
+    "content": {
+      "zh": "地下水被岩浆加热，压强越攒越大，到了临界点就猛地喷出。喷完重新蓄水蓄热，所以有规律。",
+      "en": "Groundwater is heated by hot rock until the pressure builds too far and it blasts out, then the chamber refills and reheats, giving a rough rhythm."
+    }
+  },
+  {
+    "title": {
+      "zh": "岩石分哪几类",
+      "en": "What Are the Three Types of Rock?"
+    },
+    "content": {
+      "zh": "岩浆冷却成的叫火成岩，碎石压成的叫沉积岩，被高温高压改造过的叫变质岩。它们还能互相变来变去。",
+      "en": "Cooled magma makes igneous rock, pressed fragments make sedimentary rock, and heat and pressure change either into metamorphic rock, and they cycle round."
+    }
+  },
+  {
+    "title": {
+      "zh": "山上为什么能找到贝壳化石",
+      "en": "Why Are There Shell Fossils on Mountains?"
+    },
+    "content": {
+      "zh": "那里以前是海底，贝壳埋进泥沙变成化石；后来地壳抬升把整片海底顶成了高山。",
+      "en": "The land was once a sea floor where shells were buried and turned to stone, and later the crust lifted the whole seabed into a mountain."
+    }
+  },
+  {
+    "title": {
+      "zh": "海平面上升会带来什么问题",
+      "en": "What Problems Does Rising Sea Level Bring?"
+    },
+    "content": {
+      "zh": "低洼的岛屿和沿海城市会被淹，海水会倒灌进农田和地下水，风暴潮也会更凶。",
+      "en": "Low islands and coastal cities get flooded, saltwater pushes into fields and groundwater, and storm surges become far more damaging."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么各地气候不一样",
+      "en": "Why Is the Climate Different Around the World?"
+    },
+    "content": {
+      "zh": "纬度决定日照多少，海拔、离海远近和洋流也有影响。几样叠在一起，各地气候就千差万别。",
+      "en": "Latitude sets how much sun a place gets, and height, distance from the sea and ocean currents add to it, so climates differ widely."
+    }
   }
 ]

@@ -119,5 +119,485 @@
       "zh": "用手量、用脚量，每个人的手和脚都不一样大，量出来的数就对不上。大家约好一个一样长的\"1 厘米\"，量出来的数才能互相比较。",
       "en": "Hands and feet are different sizes, so they give different answers. People agreed on one fixed length, the centimetre, so measurements can be compared."
     }
+  },
+  {
+    "title": {
+      "zh": "钟表指针为什么顺时针转",
+      "en": "Why Do Clock Hands Turn Clockwise?"
+    },
+    "content": {
+      "zh": "最早的钟表是照着日晷做的：在北半球，太阳的影子一天里从左往右、顺着钟表的方向走，指针的方向就这么定了下来。",
+      "en": "Clocks copied the sundial. In the northern hemisphere a shadow sweeps the same way the hands move, so that direction became the standard."
+    }
+  },
+  {
+    "title": {
+      "zh": "超市价格为什么常以 9 结尾",
+      "en": "Why Do Prices Often End in 9?"
+    },
+    "content": {
+      "zh": "9.9 元看着比 10 元“少一个整数”，我们会觉得便宜不少，其实只差一毛钱。这是商家玩的数字小把戏。",
+      "en": "9.9 looks much cheaper than 10, even though it is only a tiny bit less. Shops use this trick because our eyes read the first digit first."
+    }
+  },
+  {
+    "title": {
+      "zh": "骰子相对的两面加起来为什么都是 7",
+      "en": "Why Do Opposite Dice Faces Add Up to 7?"
+    },
+    "content": {
+      "zh": "骰子上 1 对 6、2 对 5、3 对 4，相对的两面点数和都是 7。这样点数分布才均匀，掷起来才公平。",
+      "en": "On a die, 1 sits opposite 6, 2 opposite 5, and 3 opposite 4. Every pair adds up to 7, so the dots are spread evenly and the die stays fair."
+    }
+  },
+  {
+    "title": {
+      "zh": "扑克牌为什么有 54 张",
+      "en": "Why Does a Deck Have 54 Cards?"
+    },
+    "content": {
+      "zh": "52 张是一年 52 周的化身：四种花色代表春夏秋冬，每种 13 张是一季的周数。另外两张大小王是后来加进去的。",
+      "en": "The 52 cards stand for the 52 weeks of a year: four suits for the four seasons, 13 cards each for the weeks in a season. The two jokers were added later."
+    }
+  },
+  {
+    "title": {
+      "zh": "棋盘为什么是 64 个格",
+      "en": "Why Does a Chessboard Have 64 Squares?"
+    },
+    "content": {
+      "zh": "国际象棋棋盘是 8 乘 8，一共 64 格，黑白相间。64 是个平方数，横竖都对称，摆起棋子来很整齐。",
+      "en": "A chessboard is 8 by 8, so it has 64 squares in two colours. 64 is a square number, which makes the board neat and balanced in every direction."
+    }
+  },
+  {
+    "title": {
+      "zh": "量角器为什么是半圆的",
+      "en": "Why Is a Protractor Half a Circle?"
+    },
+    "content": {
+      "zh": "一个整圆是 360 度，半圆就是 180 度。平时要量的角大多不超过 180 度，做成半圆既够用又省材料。",
+      "en": "A full circle is 360 degrees, so half a circle is 180. Most angles we measure are smaller than that, and a half circle is cheaper to make."
+    }
+  },
+  {
+    "title": {
+      "zh": "圆周率为什么约等于 3.14",
+      "en": "Why Is Pi About 3.14?"
+    },
+    "content": {
+      "zh": "拿任何一个圆的周长除以它的直径，得到的数都一样，大约是 3.14。这个永远除不尽、也不循环的数就叫圆周率。",
+      "en": "Divide any circle's rim by its width and you always get the same number, about 3.14. This number never ends and never repeats, and it is called pi."
+    }
+  },
+  {
+    "title": {
+      "zh": "足球为什么用五边形和六边形拼成",
+      "en": "Why Is a Football Made of Pentagons and Hexagons?"
+    },
+    "content": {
+      "zh": "12 块黑五边形和 20 块白六边形拼在一起，正好围出一个接近圆球的形状，踢起来滚得又稳又远。",
+      "en": "12 black pentagons and 20 white hexagons fit together into a shape very close to a sphere, so the ball rolls straight and true."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么两点之间直线最短",
+      "en": "Why Is a Straight Line the Shortest Path?"
+    },
+    "content": {
+      "zh": "在平地上，从一点到另一点拉直那条线最短；绕弯的路可以看成许多小段拼起来的，总比直的那条长。",
+      "en": "On flat ground the straight path is shortest. Any curved path can be split into little straight pieces, and together they are always longer."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要背乘法表",
+      "en": "Why Do We Learn the Times Table?"
+    },
+    "content": {
+      "zh": "乘法是“几个几相加”的快办法。把九九表记熟，算 7 乘 8 就不用数七遍八，买东西、分东西都快得多。",
+      "en": "Multiplication is a shortcut for adding the same number many times. Knowing the table means you get 7 times 8 at once instead of counting eight seven times."
+    }
+  },
+  {
+    "title": {
+      "zh": "钟表为什么有三根指针",
+      "en": "Why Does a Clock Have Three Hands?"
+    },
+    "content": {
+      "zh": "时针走得最慢，管几点；分针快一些，管几分；秒针最快，管几秒。三根各管一样，时间才读得准。",
+      "en": "The short hour hand shows the hour, the long minute hand shows minutes, and the thin second hand shows seconds. Each hand does one job."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么一打是 12 个",
+      "en": "Why Is a Dozen Twelve?"
+    },
+    "content": {
+      "zh": "12 能被 2、3、4、6 整除，分起来最方便。古人常用它数鸡蛋、数月份，后来就成了“一打”。",
+      "en": "Twelve can be split evenly by 2, 3, 4 and 6, which makes sharing easy. People counted eggs and months this way, and a dozen was born."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么一小时是 60 分钟",
+      "en": "Why Is an Hour 60 Minutes?"
+    },
+    "content": {
+      "zh": "古巴比伦人喜欢用 60 来数数，因为它能被 2、3、4、5、6 整除，分起来最方便。这个习惯就一直用到今天。",
+      "en": "The Babylonians counted in 60s because 60 divides neatly by 2, 3, 4, 5 and 6, and the habit has stayed with us ever since."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么每四年要多出一天",
+      "en": "Why Do We Add a Day Every Four Years?"
+    },
+    "content": {
+      "zh": "地球绕太阳一圈其实是 365 天零 6 小时。攒四年就多出差不多一整天，补在 2 月 29 日，这一年叫闰年。",
+      "en": "Earth takes 365 days and about 6 hours to circle the sun. After four years that adds up to a whole day, added on 29 February in a leap year."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么一个月有时 30 天有时 31 天",
+      "en": "Why Are Some Months 30 Days and Some 31?"
+    },
+    "content": {
+      "zh": "古罗马的日历几经改动，留下的月份长短不齐。2 月最少，后来又把闰日加在它身上。",
+      "en": "The Roman calendar was changed several times, leaving months of different lengths. February ended up shortest, and the leap day goes to it."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么大数要每隔三位加个逗号",
+      "en": "Why Do Big Numbers Have Commas?"
+    },
+    "content": {
+      "zh": "从右往左每三位加一个逗号，正好对着千、百万、十亿，一眼就能看出这个数有多大。",
+      "en": "A comma every three digits lines up with thousands, millions and billions, so you can judge the size of a number at a glance."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么不能除以 0",
+      "en": "Why Can't You Divide by Zero?"
+    },
+    "content": {
+      "zh": "除法是看能分成几份。分成 0 份没有意义，而且怎么分都对不上原来的数，所以数学家规定不能除。",
+      "en": "Division asks how many equal groups you can make. Zero groups makes no sense and no answer works, so mathematicians forbid it."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要先算乘除后算加减",
+      "en": "Why Do We Multiply Before We Add?"
+    },
+    "content": {
+      "zh": "乘除是几个几的简写，比加减更紧密。大家统一先算乘除，同一道算式才只有一个答案。",
+      "en": "Multiplication is shorthand for repeated adding, so it binds more tightly. Agreeing to do it first means every sum has one answer."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要学负数",
+      "en": "Why Do We Learn Negative Numbers?"
+    },
+    "content": {
+      "zh": "负数表示比 0 还少：零下的温度、欠的钱、海平面以下的深度。没有它，这些就说不清楚。",
+      "en": "Negative numbers show less than zero: temperatures below freezing, money owed, or ground below sea level. Without them these are hard to describe."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要先估一估",
+      "en": "Why Should We Estimate First?"
+    },
+    "content": {
+      "zh": "算之前先估个大概，能立刻发现算错没有。买东西时估一估，也知道带的钱够不够。",
+      "en": "Estimating first lets you spot a wrong answer at once. It also tells you whether you have enough money before you reach the till."
+    }
+  },
+  {
+    "title": {
+      "zh": "平均数有什么用",
+      "en": "What Is an Average For?"
+    },
+    "content": {
+      "zh": "把一组数加起来再平分，得到一个代表大家的数。看平均分比盯着每一次成绩更容易看出整体水平。",
+      "en": "Add a set of numbers and share them out evenly and you get one number standing for the group, so the overall level shows at a glance."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要画统计图",
+      "en": "Why Do We Draw Charts?"
+    },
+    "content": {
+      "zh": "图能把一堆数字变成看得见的高低长短，谁多谁少、是升是降，一眼就看明白。",
+      "en": "A chart turns rows of numbers into bars and lines you can see, so which is biggest and which way things are moving is obvious."
+    }
+  },
+  {
+    "title": {
+      "zh": "百分数是什么意思",
+      "en": "What Does Percent Mean?"
+    },
+    "content": {
+      "zh": "百分数就是把总数分成 100 份来看。考了 85%，就是说 100 分里拿到了 85 分。",
+      "en": "Percent means out of every hundred. Score 85 percent and you got 85 out of 100."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么三角形三个角加起来是 180 度",
+      "en": "Why Do a Triangle's Angles Add Up to 180°?"
+    },
+    "content": {
+      "zh": "把三角形的三个角剪下来拼在一起，正好排成一条直线，也就是 180 度。",
+      "en": "Cut out the three corners of a triangle and put them together: they form a straight line, which is 180 degrees."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么平行线永远不会相交",
+      "en": "Why Do Parallel Lines Never Meet?"
+    },
+    "content": {
+      "zh": "平行线之间的距离处处相等，方向也一模一样，所以不管画多长都不会碰头。",
+      "en": "Parallel lines keep exactly the same gap and the same direction, so however far you draw them they never touch."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么周长一样面积可以不一样",
+      "en": "Why Can Shapes with the Same Perimeter Have Different Areas?"
+    },
+    "content": {
+      "zh": "同样长的绳子围成不同的形状，装下的地方不一样大。围得越圆，装下的面积越大。",
+      "en": "The same length of string can enclose different amounts of space, and the closer the shape is to a circle, the more it holds."
+    }
+  },
+  {
+    "title": {
+      "zh": "体积和容积有什么不一样",
+      "en": "What Is the Difference Between Volume and Capacity?"
+    },
+    "content": {
+      "zh": "体积是物体自己占了多大地方，容积是里面能装多少东西。同一个杯子，外面看和里面量不一样。",
+      "en": "Volume is the space an object takes up; capacity is how much it can hold. The same cup measures differently outside and in."
+    }
+  },
+  {
+    "title": {
+      "zh": "什么是对称",
+      "en": "What Is Symmetry?"
+    },
+    "content": {
+      "zh": "一个图形对折后两边完全重合，就是对称。蝴蝶的翅膀、人的脸，都藏着这条看不见的折痕。",
+      "en": "A shape is symmetrical if both halves match when it is folded, and butterfly wings and human faces both hide that invisible fold."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么一张纸对折几次就折不动了",
+      "en": "Why Can't You Fold Paper Many Times?"
+    },
+    "content": {
+      "zh": "每折一次厚度就翻一倍，折 7 次已经是 128 层，比一本书还厚，再折就折不动了。",
+      "en": "Each fold doubles the thickness, so after seven folds you have 128 layers, thicker than a book, and it will not bend any more."
+    }
+  },
+  {
+    "title": {
+      "zh": "什么是黄金比例",
+      "en": "What Is the Golden Ratio?"
+    },
+    "content": {
+      "zh": "把一个东西按大约 1 比 1.618 分开，看上去特别舒服。这个比例在贝壳、花瓣和名画里都能找到。",
+      "en": "Split something roughly 1 to 1.618 and it looks just right, and you find this ratio in shells, petals and famous paintings."
+    }
+  },
+  {
+    "title": {
+      "zh": "莫比乌斯带是什么",
+      "en": "What Is a Möbius Strip?"
+    },
+    "content": {
+      "zh": "把纸带扭半圈再把两头粘起来，就成了一个只有一面、一条边的圈。沿着中间画下去，能一直画回起点。",
+      "en": "Twist a paper strip half a turn and glue the ends together and you get a band with one side and one edge, so drawing along the middle brings you back to the start."
+    }
+  },
+  {
+    "title": {
+      "zh": "九宫格里的数字有什么秘密",
+      "en": "What Is the Secret of the Magic Square?"
+    },
+    "content": {
+      "zh": "把 1 到 9 填进九宫格，让横、竖、斜三格相加都等于 15，这就成了幻方。古人觉得它很神奇。",
+      "en": "Put 1 to 9 in a 3 by 3 grid so every row, column and diagonal adds to 15. That is a magic square, and people once thought it magical."
+    }
+  },
+  {
+    "title": {
+      "zh": "三件衣服能搭配出几种穿法",
+      "en": "How Many Outfits Do Three Clothes Make?"
+    },
+    "content": {
+      "zh": "3 件上衣配 2 条裤子就是 3 乘 2 等于 6 种。每多一样选择，搭配数就成倍增长。",
+      "en": "Three tops with two pairs of trousers give 3 times 2, or 6 outfits, and every extra choice multiplies the number of combinations."
+    }
+  },
+  {
+    "title": {
+      "zh": "抛硬币真是正反各一半吗",
+      "en": "Is a Coin Toss Really 50-50?"
+    },
+    "content": {
+      "zh": "理论上正反各一半，但抛的次数少时常常一边倒。抛得越多，两边才会越来越接近一半。",
+      "en": "In theory both sides come up equally, but over few tosses one side often leads, and the more you toss the closer it gets to half and half."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么排队时总觉得自己那队最慢",
+      "en": "Why Does Your Queue Always Seem Slowest?"
+    },
+    "content": {
+      "zh": "旁边的队伍往前动你会注意到，不动的时候你不看。记住的多是别人前进的画面，就觉得自己的慢。",
+      "en": "You notice other queues when they move and ignore them when they do not, so you remember the moving moments and yours feels slower."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么算盘能算得那么快",
+      "en": "Why Is an Abacus So Fast?"
+    },
+    "content": {
+      "zh": "算盘用珠子的位置表示数字，手指一拨就是一次加减。熟练的人拨珠比按计算器还快。",
+      "en": "An abacus shows numbers by the position of beads, and one flick of a finger is one sum, so a skilled user can beat a calculator."
+    }
+  },
+  {
+    "title": {
+      "zh": "阿拉伯数字是怎么传到全世界的",
+      "en": "How Did Arabic Numerals Spread?"
+    },
+    "content": {
+      "zh": "这套数字是印度人发明的，经阿拉伯商人带进欧洲，因为好写好算就传开了，所以叫阿拉伯数字。",
+      "en": "These numerals were invented in India and carried to Europe by Arab traders, and being easy to write and reckon with they spread everywhere."
+    }
+  },
+  {
+    "title": {
+      "zh": "一米到底有多长",
+      "en": "How Long Is a Metre Exactly?"
+    },
+    "content": {
+      "zh": "最早把地球从赤道到北极的一千万分之一定为 1 米。后来科学家改用光在真空中跑过的距离来定义。",
+      "en": "A metre was first set as one ten-millionth of the way from the equator to the pole, and today scientists define it by the distance light travels."
+    }
+  },
+  {
+    "title": {
+      "zh": "秤是怎么称出重量的",
+      "en": "How Does a Scale Weigh Things?"
+    },
+    "content": {
+      "zh": "东西压上去弹簧就被压短，压得越重缩得越多，指针就指到更大的数。电子秤则是把压力变成电信号。",
+      "en": "Weight presses a spring shorter, and the heavier the load the further the pointer moves, while electronic scales turn the push into an electrical signal."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么尺子上要分厘米和毫米",
+      "en": "Why Are Rulers Marked in Centimetres and Millimetres?"
+    },
+    "content": {
+      "zh": "大格数起来快，小格量得准。先读厘米再数毫米，又省事又精确。",
+      "en": "Big marks are quick to count and small marks are accurate, so read the centimetres first and then the millimetres."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要进位",
+      "en": "Why Do We Carry in Addition?"
+    },
+    "content": {
+      "zh": "一位上满了 10 就装不下，只好把 10 个一合成 1 个十送到前一位。这就是进位。",
+      "en": "When a column reaches ten it is full, so ten ones become one ten and move to the next column, and that is carrying."
+    }
+  },
+  {
+    "title": {
+      "zh": "条形码是怎么读出商品的",
+      "en": "How Does a Barcode Tell You the Product?"
+    },
+    "content": {
+      "zh": "粗细不同的黑白条纹代表不同的数字，扫码器读出这组数字，再从电脑里查出这件商品的名字和价格。",
+      "en": "Stripes of different widths stand for digits, and the scanner reads them and the computer looks up the name and price."
+    }
+  },
+  {
+    "title": {
+      "zh": "影子怎么能量出金字塔的高度",
+      "en": "How Can a Shadow Measure a Pyramid?"
+    },
+    "content": {
+      "zh": "同一时刻，物体的影长和身高成同样的比例。量出影子和自己的身高，就能算出金字塔有多高。",
+      "en": "At the same moment shadow length and height keep the same ratio, so measure your own height and shadow and you can work out the pyramid's height."
+    }
+  },
+  {
+    "title": {
+      "zh": "走迷宫有什么窍门",
+      "en": "Is There a Trick for Solving Mazes?"
+    },
+    "content": {
+      "zh": "一直贴着一边墙走，手不离墙，迟早能走到出口。这个办法叫贴墙法，不会在岔路里打转。",
+      "en": "Keep one hand on the same wall and keep walking and sooner or later you reach the exit, because this wall-follower rule keeps you from going in circles."
+    }
+  },
+  {
+    "title": {
+      "zh": "数独为什么不能重复",
+      "en": "Why Can't Numbers Repeat in Sudoku?"
+    },
+    "content": {
+      "zh": "数独要求每行、每列、每宫里 1 到 9 各出现一次。不能重复正是它唯一的规则，也是难点。",
+      "en": "Sudoku asks that 1 to 9 appear once in every row, column and block, and no repeats is the only rule and the whole challenge."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的除法永远除不完",
+      "en": "Why Do Some Divisions Never End?"
+    },
+    "content": {
+      "zh": "像 1 除以 3 得到 0.3333，小数部分会一直重复下去。这样的数叫循环小数，写也写不完。",
+      "en": "One divided by three gives 0.3333 with the threes going on forever, and such numbers are called recurring decimals and never finish."
+    }
+  },
+  {
+    "title": {
+      "zh": "地图上的比例尺有什么用",
+      "en": "What Is a Map's Scale For?"
+    },
+    "content": {
+      "zh": "比例尺告诉你图上 1 厘米代表实际多远。有了它，量一量地图就能算出两地的真实距离。",
+      "en": "The scale tells you how far one centimetre on paper stands for in real life, so you can measure the map and get the true distance."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么大包装不一定更便宜",
+      "en": "Why Isn't the Big Pack Always Cheaper?"
+    },
+    "content": {
+      "zh": "要看的是单价，也就是每 100 克多少钱。把总价除以重量比一比，才知道哪个真正划算。",
+      "en": "What matters is the unit price, the cost per 100 grams, so divide the price by the weight and compare before you buy."
+    }
   }
 ]

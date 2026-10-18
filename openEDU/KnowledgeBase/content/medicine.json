@@ -118,5 +118,485 @@
       "zh": "蔬菜里有身体需要的小养分，缺了它容易生病、牙龈出血、看东西不清楚。不同颜色的蔬菜各有所长，最好换着吃。",
       "en": "Vegetables hold small nutrients the body needs; without them you may fall ill, bleed at the gums, or see poorly. Different colours give different benefits."
     }
+  },
+  {
+    "title": {
+      "zh": "人为什么会近视",
+      "en": "Why Do People Become Short-Sighted?"
+    },
+    "content": {
+      "zh": "长时间近距离看书看屏幕，眼睛里的睫状肌一直绷着，眼球慢慢被拉长，远处的东西就聚焦不到视网膜上了。",
+      "en": "Long hours of close-up reading and screens keep the eye's focusing muscle tight. The eyeball slowly lengthens, and distant things no longer focus on the retina."
+    }
+  },
+  {
+    "title": {
+      "zh": "输血为什么要对血型",
+      "en": "Why Must Blood Types Be Matched?"
+    },
+    "content": {
+      "zh": "不同血型的红细胞带着不同的标记，输错了身体会把它当敌人攻击，非常危险，所以输血前一定要先配上型。",
+      "en": "Red cells carry different markers. Give the wrong type and the body attacks them, which is very dangerous, so blood is always matched first."
+    }
+  },
+  {
+    "title": {
+      "zh": "感冒时喉咙为什么会痛",
+      "en": "Why Does Your Throat Hurt with a Cold?"
+    },
+    "content": {
+      "zh": "病毒钻进喉咙的黏膜，身体的免疫细胞赶来作战，那里就红肿起来。吞咽时肌肉一压，就觉得疼。",
+      "en": "Viruses invade the lining of the throat and immune cells rush in to fight, leaving it red and swollen. Swallowing presses on the sore tissue and it hurts."
+    }
+  },
+  {
+    "title": {
+      "zh": "受伤后为什么要消毒",
+      "en": "Why Should a Wound Be Cleaned?"
+    },
+    "content": {
+      "zh": "伤口上藏着肉眼看不见的细菌，不消毒它们就会在里面繁殖，让伤口化脓。消毒就是把这些细菌先清掉。",
+      "en": "A wound hides bacteria you cannot see. Left alone they multiply and the cut turns septic. Cleaning kills them before they can take hold."
+    }
+  },
+  {
+    "title": {
+      "zh": "人为什么会过敏",
+      "en": "Why Do People Have Allergies?"
+    },
+    "content": {
+      "zh": "有些人的免疫系统太警觉，把花粉、花生这些无害的东西当成敌人，就打喷嚏、起疹子。这叫过敏反应。",
+      "en": "Some immune systems are over-careful and treat harmless things like pollen or peanuts as enemies, causing sneezing or a rash. That is an allergic reaction."
+    }
+  },
+  {
+    "title": {
+      "zh": "拍 X 光为什么能看到骨头",
+      "en": "How Do X-rays Show Bones?"
+    },
+    "content": {
+      "zh": "X 光是一种能穿过肌肉的光，但穿不过密实的骨头。底片上肌肉成了灰色、骨头留下白影，就能看出断没断。",
+      "en": "X-rays pass through muscle but not through dense bone. On the film muscle shows as grey and bone leaves a white shape, so breaks can be seen."
+    }
+  },
+  {
+    "title": {
+      "zh": "人为什么要体检",
+      "en": "Why Do We Have Health Check-ups?"
+    },
+    "content": {
+      "zh": "有些病在早期一点感觉都没有，等难受时已经晚了。体检能早早查出血压、血糖这些异常，早发现早处理。",
+      "en": "Some illnesses give no warning at first. Check-ups catch problems like high blood pressure or blood sugar early, when they are easiest to treat."
+    }
+  },
+  {
+    "title": {
+      "zh": "熬夜为什么伤身体",
+      "en": "Why Is Staying Up Late Bad for You?"
+    },
+    "content": {
+      "zh": "夜里身体要修补细胞、整理记忆，这些活儿只在深睡时做。老熬夜，免疫力下降、记性变差，个子也长不好。",
+      "en": "At night the body repairs cells and sorts memories, work done only in deep sleep. Miss it often and immunity drops, memory slips and growth suffers."
+    }
+  },
+  {
+    "title": {
+      "zh": "打预防针为什么要打好几次",
+      "en": "Why Do Some Vaccines Need Several Shots?"
+    },
+    "content": {
+      "zh": "打第一针只是让免疫系统认个脸，再打几针它才记得牢、抗体够多。所以有些疫苗要打好几次才管用。",
+      "en": "The first shot teaches the immune system to recognise a germ. Later shots make the memory stronger and the antibodies plentiful, so several doses are needed."
+    }
+  },
+  {
+    "title": {
+      "zh": "运动为什么让人健康",
+      "en": "Why Does Exercise Keep Us Healthy?"
+    },
+    "content": {
+      "zh": "运动时心脏跳得快、肺吸进更多氧，肌肉也变结实。还能帮助身体消耗多余的能量，睡得更香。",
+      "en": "Exercise makes the heart pump harder, brings in more oxygen, and strengthens muscle. It also uses up spare energy and helps you sleep better."
+    }
+  },
+  {
+    "title": {
+      "zh": "牙齿为什么会被虫蛀",
+      "en": "Why Do Teeth Get Cavities?"
+    },
+    "content": {
+      "zh": "嘴里不只有虫，还有细菌。细菌吃糖后产生酸，把牙齿表面一层层腐蚀出小洞，这就是蛀牙。",
+      "en": "There are no worms, only bacteria. They feed on sugar and make acid, which eats into the tooth surface and leaves a little hole — a cavity."
+    }
+  },
+  {
+    "title": {
+      "zh": "医生为什么要用听诊器",
+      "en": "Why Do Doctors Use a Stethoscope?"
+    },
+    "content": {
+      "zh": "心跳和呼吸的声音很轻，听诊器把它们聚拢放大，医生就能听出心跳快不快、肺里有没有杂音。",
+      "en": "Heart and breathing sounds are faint. A stethoscope gathers and amplifies them, so the doctor can tell whether the beat is steady and the lungs are clear."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要定期看牙医",
+      "en": "Why Should You Visit the Dentist Regularly?"
+    },
+    "content": {
+      "zh": "牙医能看出自己看不到的早期蛀牙和牙龈问题，还能做清洁和涂氟。早发现，就不用钻牙那么疼。",
+      "en": "A dentist spots early decay and gum trouble you cannot see, cleans the teeth and applies fluoride, so catching things early saves you from drilling later."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会流鼻血",
+      "en": "Why Do Nosebleeds Happen?"
+    },
+    "content": {
+      "zh": "鼻子里的血管又浅又细，干燥、抠鼻子或撞一下就容易破。捏住鼻翼、头略向前倾，多半几分钟就止住。",
+      "en": "The vessels in the nose are shallow and fine, so dryness, picking or a bump can break them, and pinching the soft part while leaning forward usually stops it in minutes."
+    }
+  },
+  {
+    "title": {
+      "zh": "撞到头为什么会鼓包",
+      "en": "Why Does a Bump Swell Up?"
+    },
+    "content": {
+      "zh": "撞击让皮下血管渗血、组织液聚起来，就成了包。先冷敷能收缩血管、少肿一点，别马上揉。",
+      "en": "The knock makes vessels leak and fluid collect under the skin, and a cold pack shrinks the vessels so it swells less, while rubbing only makes it worse."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会中暑",
+      "en": "What Causes Heatstroke?"
+    },
+    "content": {
+      "zh": "天热出汗太多，身体的水和盐跟不上，散热失灵，体温就猛升。要赶快到阴凉处、补水、降温。",
+      "en": "Heavy sweating drains water and salt until the body cannot cool itself and temperature shoots up, so get into shade, drink and cool down at once."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会生冻疮",
+      "en": "Why Do We Get Chilblains?"
+    },
+    "content": {
+      "zh": "天冷时手脚的小血管收缩，血流不畅，皮肤就容易红肿发痒。保暖、慢慢回暖，别一下用烫水泡。",
+      "en": "In the cold, small vessels in fingers and toes squeeze shut, blood flows poorly and the skin turns red, itchy and sore, so keep warm and rewarm gently rather than with hot water."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会抽筋",
+      "en": "What Causes a Cramp?"
+    },
+    "content": {
+      "zh": "肌肉突然收紧不放就叫抽筋。运动过量、出汗丢盐、受凉都可能引起。慢慢拉伸、轻轻按摩能缓解。",
+      "en": "A cramp is a muscle that tightens and will not let go, brought on by overuse, salt lost in sweat or cold, and gentle stretching and rubbing ease it."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会贫血",
+      "en": "What Causes Anaemia?"
+    },
+    "content": {
+      "zh": "血液里负责运氧的红细胞或血红蛋白不够，人就会乏力、脸色发白。常见原因是缺铁，要多吃含铁的食物。",
+      "en": "Too few red cells or too little haemoglobin means less oxygen carried, leaving you tired and pale, and a lack of iron is the usual cause, so eat iron-rich food."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的人会哮喘",
+      "en": "Why Do Some People Have Asthma?"
+    },
+    "content": {
+      "zh": "哮喘患者的气道特别敏感，遇到花粉、冷空气或运动就收缩发炎，喘不上气。要避开诱因、按医嘱用药。",
+      "en": "In asthma the airways are extra sensitive and swell and narrow when met with pollen, cold air or exercise, so avoiding triggers and using prescribed inhalers matters."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会咳嗽",
+      "en": "Why Do We Cough?"
+    },
+    "content": {
+      "zh": "咳嗽是气管的自卫：把痰、灰尘或异物赶出去。它是保护动作，不是病，关键要找出引起咳嗽的原因。",
+      "en": "Coughing is the airway's defence, driving out phlegm, dust or something caught, so it is a protection rather than an illness, and the cause is what needs finding."
+    }
+  },
+  {
+    "title": {
+      "zh": "感冒时为什么要多喝水",
+      "en": "Why Drink More When You Have a Cold?"
+    },
+    "content": {
+      "zh": "水能稀释痰液、保持喉咙湿润，还能帮身体把废物排掉。发烧出汗多的时候，补水就更要紧。",
+      "en": "Water thins phlegm, keeps the throat moist and helps the body flush waste, and it matters even more when fever makes you sweat."
+    }
+  },
+  {
+    "title": {
+      "zh": "发烧时为什么会发抖",
+      "en": "Why Do You Shiver with a Fever?"
+    },
+    "content": {
+      "zh": "身体把体温的设定值调高了，可现在还没到那个温度，于是先靠发抖产热。所以发烧初期会觉得冷。",
+      "en": "The body raises its temperature setting and, not being there yet, starts shivering to make heat, which is why the early stage of a fever feels cold."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要吃早饭",
+      "en": "Why Is Breakfast Important?"
+    },
+    "content": {
+      "zh": "一整夜没进食，血糖偏低，大脑正缺燃料。吃好早饭，上午才有精神，注意力也更集中。",
+      "en": "After a night without food, blood sugar is low and the brain lacks fuel, so a proper breakfast gives you energy and better concentration all morning."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么不能挑食",
+      "en": "Why Shouldn't You Be a Fussy Eater?"
+    },
+    "content": {
+      "zh": "每种食物带来的养分不同。长期挑食，身体会缺掉某些维生素和矿物质，长个子、长力气都受影响。",
+      "en": "Each food brings different nutrients, and eating only a few means missing vitamins and minerals, which affects growth and strength."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么糖吃多了不好",
+      "en": "Why Is Too Much Sugar Bad?"
+    },
+    "content": {
+      "zh": "糖会带来一堆热量却没什么养分，吃多了容易长胖、坏牙，还会让血糖忽高忽低，人一会儿兴奋一会儿没劲。",
+      "en": "Sugar brings plenty of calories with few nutrients, so too much means weight gain, decay and blood sugar swings that leave you wired then tired."
+    }
+  },
+  {
+    "title": {
+      "zh": "晒太阳对身体有什么好处",
+      "en": "Why Is Sunshine Good for You?"
+    },
+    "content": {
+      "zh": "皮肤在阳光里能合成维生素 D，帮助钙进到骨头里。每天晒十来分钟就够，要避开烈日。",
+      "en": "Skin makes vitamin D in sunlight, which helps calcium into the bones, and ten minutes or so a day is enough, though the fierce midday sun should be avoided."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要早睡早起",
+      "en": "Why Should We Sleep Early and Rise Early?"
+    },
+    "content": {
+      "zh": "生长激素在深睡时分泌最多，睡得早、睡得够，个子长得快、白天也更有精神。",
+      "en": "Growth hormone is released mostly in deep sleep, so an early, long enough night helps you grow and keeps you bright during the day."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要坐端正",
+      "en": "Why Should You Sit Up Straight?"
+    },
+    "content": {
+      "zh": "坐歪时脊柱被压得一边紧一边松，久了会变成驼背或脊柱侧弯，还会腰酸。端正坐姿就是护住脊柱。",
+      "en": "Slouching loads the spine unevenly, and over time it can curve the back and cause aches, so sitting straight protects the spine."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么不能在暗处看书",
+      "en": "Why Not Read in the Dark?"
+    },
+    "content": {
+      "zh": "光线不足时眼睛要使劲调节，睫状肌一直绷着，容易疲劳、近视加深。看书要开一盏合适的灯。",
+      "en": "In poor light the eye must strain and its focusing muscle stays tight, causing tiredness and worsening short sight, so read under a proper lamp."
+    }
+  },
+  {
+    "title": {
+      "zh": "看屏幕为什么要保持距离",
+      "en": "Why Keep a Distance from Screens?"
+    },
+    "content": {
+      "zh": "离得越近，眼睛越要使劲对焦，眨眼也不自觉变少，又干又累。保持一臂距离，看一会儿就远眺休息。",
+      "en": "The closer you sit the harder the eye must focus, and blinking slows so the eyes dry out, so sit an arm's length away and look into the distance often."
+    }
+  },
+  {
+    "title": {
+      "zh": "手指为什么会长倒刺",
+      "en": "Why Do We Get Hangnails?"
+    },
+    "content": {
+      "zh": "指甲边的皮肤干燥、缺少油脂，加上常碰水或啃指甲，角质层就翘起来。抹护手霜、别撕就能减少。",
+      "en": "Skin by the nail dries out and loses oil, and with frequent hand washing or nail biting the layer lifts, so hand cream and not tearing them helps."
+    }
+  },
+  {
+    "title": {
+      "zh": "冬天皮肤为什么会干裂",
+      "en": "Why Does Skin Crack in Winter?"
+    },
+    "content": {
+      "zh": "冷风和低湿度把皮肤表面的水分带走，皮脂分泌又变少，皮肤就干、痒、裂。洗完澡趁湿抹润肤霜最管用。",
+      "en": "Cold wind and dry air pull water from the skin while oil production drops, leaving it dry, itchy and cracked, so applying cream while still damp after a bath works best."
+    }
+  },
+  {
+    "title": {
+      "zh": "蚊子咬了为什么会痒",
+      "en": "Why Do Mosquito Bites Itch?"
+    },
+    "content": {
+      "zh": "蚊子吸血时会注入防止血液凝固的唾液，我们的免疫系统认出它并释放组胺，就又痒又肿。",
+      "en": "A mosquito injects saliva that stops blood clotting, and our immune system recognises it and releases histamine, causing the itch and swelling."
+    }
+  },
+  {
+    "title": {
+      "zh": "被蜜蜂蜇了为什么会肿",
+      "en": "Why Does a Bee Sting Swell?"
+    },
+    "content": {
+      "zh": "蜂毒里的成分会刺激组织，身体的免疫反应让局部红肿发热。拔出毒刺、冷敷，严重时一定要就医。",
+      "en": "Venom irritates the tissue and the immune response makes the area red, hot and swollen, so remove the sting, use a cold pack and see a doctor if it is serious."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么疫苗要放在冰箱里",
+      "en": "Why Are Vaccines Kept in the Fridge?"
+    },
+    "content": {
+      "zh": "疫苗多由蛋白质或 weakened 病毒做成，遇热会失效。全程冷链冷藏，打到身上才管用。",
+      "en": "Vaccines are made of proteins or weakened germs that break down in heat, so keeping them cold all the way means the dose still works when given."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么医生要戴口罩",
+      "en": "Why Do Doctors Wear Masks?"
+    },
+    "content": {
+      "zh": "口罩挡住飞沫，既保护病人不被医生带的病菌感染，也保护医生。做手术时它还能保持伤口洁净。",
+      "en": "A mask blocks droplets, protecting the patient from germs the doctor carries and the doctor too, and during surgery it keeps the wound clean."
+    }
+  },
+  {
+    "title": {
+      "zh": "生病为什么要待在家里",
+      "en": "Why Stay Home When You Are Ill?"
+    },
+    "content": {
+      "zh": "在家休息能让身体专心打仗，也免得把病菌传给同学和同事。等传染期过去再出门最稳妥。",
+      "en": "Resting at home lets the body fight while sparing classmates and colleagues your germs, and going back out once you are no longer infectious is safest."
+    }
+  },
+  {
+    "title": {
+      "zh": "细菌和病毒有什么不同",
+      "en": "What Is the Difference Between Bacteria and Viruses?"
+    },
+    "content": {
+      "zh": "细菌是完整的单细胞，能自己繁殖，有些还能用抗生素杀掉；病毒更小，必须钻进细胞里才能复制。",
+      "en": "Bacteria are complete single cells that reproduce on their own and some can be killed by antibiotics, while viruses are far smaller and must invade a cell to copy themselves."
+    }
+  },
+  {
+    "title": {
+      "zh": "抗生素是干什么用的",
+      "en": "What Are Antibiotics For?"
+    },
+    "content": {
+      "zh": "抗生素专门对付细菌，能杀死它们或让它们停止繁殖。它对病毒无效，所以感冒时吃了也没用。",
+      "en": "Antibiotics fight bacteria, killing them or stopping them multiplying, and they do nothing against viruses, which is why they will not cure a cold."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么不能随便吃药",
+      "en": "Why Not Take Medicine Casually?"
+    },
+    "content": {
+      "zh": "每种药都有剂量和适应症，吃错、吃多会伤肝肾，还会让细菌产生耐药性。吃药一定要遵医嘱。",
+      "en": "Every drug has its dose and purpose, and the wrong or too large a dose harms liver and kidney and breeds resistance, so always follow medical advice."
+    }
+  },
+  {
+    "title": {
+      "zh": "吃药为什么要按时按量",
+      "en": "Why Take Medicine on Time and in the Right Amount?"
+    },
+    "content": {
+      "zh": "药在血里要保持一定浓度才有效。漏服会掉到有效线以下，加量又会中毒，所以时间剂量都不能乱改。",
+      "en": "A drug needs a steady level in the blood to work, so a missed dose drops below the useful level and an extra one may poison, and neither time nor amount should be changed."
+    }
+  },
+  {
+    "title": {
+      "zh": "传染病是怎么传开的",
+      "en": "How Do Infectious Diseases Spread?"
+    },
+    "content": {
+      "zh": "病菌通过飞沫、接触、污染的水和食物，或者蚊虫叮咬进入人体。洗手、通风、打疫苗都能切断它们的路。",
+      "en": "Germs enter through droplets, touch, dirty water and food, or insect bites, and hand washing, fresh air and vaccines all block their route."
+    }
+  },
+  {
+    "title": {
+      "zh": "手术前为什么不能吃东西",
+      "en": "Why Must You Not Eat Before Surgery?"
+    },
+    "content": {
+      "zh": "麻醉时胃里的东西可能反流进气管，非常危险。所以手术前几小时要禁食，让胃空着最安全。",
+      "en": "Under anaesthetic, stomach contents can flow back into the airway, which is very dangerous, so fasting for some hours before surgery keeps the stomach empty."
+    }
+  },
+  {
+    "title": {
+      "zh": "做手术为什么不会疼",
+      "en": "Why Doesn't Surgery Hurt?"
+    },
+    "content": {
+      "zh": "麻醉药暂时阻断疼痛信号传到大脑，有的还让人睡着。等手术做完、药效过去，感觉才慢慢回来。",
+      "en": "Anaesthetics block pain signals reaching the brain, and some put you to sleep, so feeling returns only after the operation as the drug wears off."
+    }
+  },
+  {
+    "title": {
+      "zh": "医生为什么要量血压",
+      "en": "Why Do Doctors Measure Blood Pressure?"
+    },
+    "content": {
+      "zh": "血压能反映心脏和血管的状态。太高会悄悄伤到心和肾，自己却感觉不到，量一下就能早发现。",
+      "en": "Blood pressure shows how heart and vessels are doing, and a high reading quietly damages heart and kidney without you feeling it, so measuring catches it early."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要勤剪指甲",
+      "en": "Why Should Nails Be Trimmed?"
+    },
+    "content": {
+      "zh": "长指甲里最容易藏污纳垢，细菌和虫卵躲在下面。剪短再洗干净，就能少把病菌带进嘴里。",
+      "en": "Long nails are perfect hiding places for dirt, bacteria and worm eggs, so keeping them short and clean stops germs reaching your mouth."
+    }
+  },
+  {
+    "title": {
+      "zh": "受伤为什么会留疤",
+      "en": "Why Do Wounds Leave Scars?"
+    },
+    "content": {
+      "zh": "伤口深时身体急着用纤维蛋白把口子补上，补得又快又乱，新长出来的组织没有原来的纹路，就成了疤。",
+      "en": "When a wound is deep the body rushes to patch it with fibrous tissue, laid down quickly and unevenly, and the new patch lacks the original pattern, leaving a scar."
+    }
   }
 ]

@@ -118,5 +118,485 @@
       "zh": "最深的地方是马里亚纳海沟，大约 11000 米。把世界最高的珠穆朗玛峰放进去，山顶还差两千多米才露出水面。",
       "en": "The deepest spot, the Mariana Trench, is about 11,000 metres down. Put Mount Everest inside it and the peak would still be over two kilometres underwater."
     }
+  },
+  {
+    "title": {
+      "zh": "珊瑚礁是怎么形成的",
+      "en": "How Is a Coral Reef Formed?"
+    },
+    "content": {
+      "zh": "一代代珊瑚虫死后留下石灰质的硬骨，新的珊瑚在上面继续长。几百年叠下来，就堆成了礁石和小岛。",
+      "en": "When coral polyps die they leave hard limestone skeletons, and new coral grows on top. Layer on layer over centuries builds a reef, and sometimes an island."
+    }
+  },
+  {
+    "title": {
+      "zh": "洋流是怎么来的",
+      "en": "What Causes Ocean Currents?"
+    },
+    "content": {
+      "zh": "风吹着海水跑，加上地球自转和水温盐度的差别，就在海里推出了几条巨大的“河流”，常年不停地流。",
+      "en": "Wind pushes the surface, and Earth's spin plus differences in temperature and saltiness set great slow rivers flowing through the sea all year round."
+    }
+  },
+  {
+    "title": {
+      "zh": "深海里的鱼为什么会发光",
+      "en": "Why Do Deep-Sea Fish Glow?"
+    },
+    "content": {
+      "zh": "深海一片漆黑，鱼身上的发光细菌或发光器能造出光，用来引诱猎物、找同伴，或者吓跑敌人。",
+      "en": "The deep sea is pitch dark, so fish make light with glowing bacteria or special organs. They use it to lure prey, find mates or scare enemies off."
+    }
+  },
+  {
+    "title": {
+      "zh": "章鱼为什么有三颗心脏",
+      "en": "Why Does an Octopus Have Three Hearts?"
+    },
+    "content": {
+      "zh": "两颗专门把血送进鳃里吸氧，一颗把血送往全身。血里的含铜蛋白运氧不如我们的血红蛋白高效，得多几个帮手。",
+      "en": "Two hearts push blood through the gills to pick up oxygen, and one sends it round the body. Their copper-based blood carries oxygen less efficiently, so they need the extra help."
+    }
+  },
+  {
+    "title": {
+      "zh": "鲨鱼为什么不能停下来",
+      "en": "Why Can't Sharks Stop Swimming?"
+    },
+    "content": {
+      "zh": "多数鲨鱼靠游动把水挤过鳃来呼吸，停下就没有水流过鳃。它们游泳时其实一直在“换气”。",
+      "en": "Most sharks breathe by swimming, forcing water over their gills. Stop, and no water flows through, so swimming is how they keep breathing."
+    }
+  },
+  {
+    "title": {
+      "zh": "鲸鱼为什么会跳出水面",
+      "en": "Why Do Whales Leap Out of the Water?"
+    },
+    "content": {
+      "zh": "跃出水面能甩掉身上的寄生虫，也可能是给远处的同伴发信号，或者单纯玩得高兴。落下时那声响传得很远。",
+      "en": "Breaching can knock off parasites, send a signal to whales far away, or simply be play. The splash when they fall carries a long way."
+    }
+  },
+  {
+    "title": {
+      "zh": "海带是怎么长出来的",
+      "en": "How Does Kelp Grow?"
+    },
+    "content": {
+      "zh": "海带用根状的固着器抓住海底岩石，靠叶片吸收海水里的养分和阳光，一天能长几十厘米。",
+      "en": "Kelp grips rock with a root-like holdfast and takes nutrients and sunlight in through its blades. It can grow tens of centimetres in a single day."
+    }
+  },
+  {
+    "title": {
+      "zh": "海水为什么不容易结冰",
+      "en": "Why Doesn't Sea Water Freeze Easily?"
+    },
+    "content": {
+      "zh": "盐把水的冰点压到了大约零下 2 度，比淡水低得多。所以淡水湖结冰了，大海往往还在流动。",
+      "en": "Salt lowers the freezing point to about -2°C, far below fresh water. That is why a lake freezes while the sea often keeps flowing."
+    }
+  },
+  {
+    "title": {
+      "zh": "死海为什么能让人浮起来",
+      "en": "Why Do People Float in the Dead Sea?"
+    },
+    "content": {
+      "zh": "死海的含盐量是普通海水的近十倍，水又重又“托得住”，人躺在水面上能轻松浮着，想沉都沉不下去。",
+      "en": "The Dead Sea holds nearly ten times as much salt as ordinary sea water. The dense, heavy water holds you up, so you float without even trying."
+    }
+  },
+  {
+    "title": {
+      "zh": "珍珠是怎么来的",
+      "en": "How Are Pearls Made?"
+    },
+    "content": {
+      "zh": "沙子或小虫钻进贝壳里，贝类觉得硌得慌，就一层层分泌珍珠质把它包起来。包了好几年，就成了珍珠。",
+      "en": "When a grain of sand or a small creature gets inside a shell, the mollusc coats it layer upon layer with nacre. After years of coating, a pearl is formed."
+    }
+  },
+  {
+    "title": {
+      "zh": "水母为什么会蜇人",
+      "en": "Why Do Jellyfish Sting?"
+    },
+    "content": {
+      "zh": "水母的触手上布满刺细胞，一碰就像小弹簧射出细针，放出毒液。这是它捕食和防身的办法。",
+      "en": "A jellyfish's tentacles are covered with stinging cells that fire tiny harpoons and release venom on contact. It uses them both to hunt and to defend itself."
+    }
+  },
+  {
+    "title": {
+      "zh": "海底有火山吗",
+      "en": "Are There Volcanoes Under the Sea?"
+    },
+    "content": {
+      "zh": "有，而且比陆地上的多得多。海底火山喷出的岩浆遇冷结成岩石，堆高了就成了海岛，夏威夷就是这么来的。",
+      "en": "Yes, and there are many more than on land. Lava from underwater volcanoes cools into rock, and piled high enough it becomes an island, the way Hawaii was made."
+    }
+  },
+  {
+    "title": {
+      "zh": "海底也有森林吗",
+      "en": "Are There Forests Under the Sea?"
+    },
+    "content": {
+      "zh": "有。海带和巨藻能长到几十米高，成片立在海底，像水下的树林，给无数小鱼小蟹提供藏身之处。",
+      "en": "Yes. Kelp grows tens of metres tall in dense stands, like a forest underwater, giving shelter to countless small fish and crabs."
+    }
+  },
+  {
+    "title": {
+      "zh": "深海动物为什么长得很奇怪",
+      "en": "Why Do Deep-Sea Animals Look So Strange?"
+    },
+    "content": {
+      "zh": "深海又黑又冷、食物稀少，动物只能各出奇招：长巨大的嘴、发光的器官，或者干脆慢慢等着食物掉下来。",
+      "en": "The deep sea is dark, cold and short of food, so animals get by with huge mouths, glowing organs, or simply waiting for food to drift down."
+    }
+  },
+  {
+    "title": {
+      "zh": "深海的压力有多大",
+      "en": "How Great Is the Pressure in the Deep Sea?"
+    },
+    "content": {
+      "zh": "每下潜 10 米就多一个大气压。万米深处相当于把一辆小汽车压在你的指甲盖上，所以那里的生物都很特别。",
+      "en": "Every 10 metres down adds another atmosphere, and at ten kilometres the pressure is like a car resting on your fingernail, which is why life there is so unusual."
+    }
+  },
+  {
+    "title": {
+      "zh": "潜水员为什么不能一下子浮上来",
+      "en": "Why Can't Divers Surface Quickly?"
+    },
+    "content": {
+      "zh": "压力大时血液里溶进更多氮气，上浮太快氮气会变成气泡堵住血管，引起剧烈的减压病，必须慢慢上来。",
+      "en": "Under pressure more nitrogen dissolves in the blood, and rising too fast turns it into bubbles that block vessels, causing painful decompression sickness."
+    }
+  },
+  {
+    "title": {
+      "zh": "海底的热泉是什么",
+      "en": "What Is a Hydrothermal Vent?"
+    },
+    "content": {
+      "zh": "海底裂缝里喷出被岩浆烧热的水，温度能到几百度，周围还围着靠化学物质活着的管虫和盲虾。",
+      "en": "Hot water heated by magma pours from cracks on the sea floor at hundreds of degrees, ringed by tube worms and blind shrimp that live on chemicals."
+    }
+  },
+  {
+    "title": {
+      "zh": "海沟是怎么形成的",
+      "en": "How Is an Ocean Trench Formed?"
+    },
+    "content": {
+      "zh": "两块板块相撞时，重的那块俯冲到另一块下面，被压出一道深深的沟，这就是海沟，也是地球最深的地方。",
+      "en": "When two plates collide, the heavier one dives beneath the other and presses down a deep trench, and these trenches are the deepest places on Earth."
+    }
+  },
+  {
+    "title": {
+      "zh": "海洋为什么对我们很重要",
+      "en": "Why Is the Ocean Important to Us?"
+    },
+    "content": {
+      "zh": "海洋提供一半以上的氧气，吸收大量二氧化碳，还养活了几十亿人。它还是调节气候的大空调。",
+      "en": "The ocean supplies over half our oxygen, absorbs huge amounts of carbon dioxide and feeds billions of people, and it acts as a great air conditioner for the climate."
+    }
+  },
+  {
+    "title": {
+      "zh": "海龟为什么要回到出生的沙滩",
+      "en": "Why Do Sea Turtles Return to Their Birth Beach?"
+    },
+    "content": {
+      "zh": "海龟靠地磁场记着出生沙滩的位置，长大后游几千公里回去产卵。沙子的温度还决定小龟是雌是雄。",
+      "en": "Turtles remember their home beach by Earth's magnetic field and swim thousands of kilometres back to lay eggs, and the sand's temperature decides whether hatchlings are male or female."
+    }
+  },
+  {
+    "title": {
+      "zh": "海龟能活多久",
+      "en": "How Long Do Sea Turtles Live?"
+    },
+    "content": {
+      "zh": "海龟能活 50 到 100 年，比大多数动物都长寿。它们壳硬、天敌少，又慢慢吞吞地节省体力。",
+      "en": "Sea turtles live 50 to 100 years, longer than most animals, thanks to a hard shell, few enemies and a slow life that saves energy."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有的鱼会放电",
+      "en": "Why Can Some Fish Give Electric Shocks?"
+    },
+    "content": {
+      "zh": "电鳗和电鳐身上有专门的发电器官，能放出几百伏的电，用来击晕猎物、吓退敌人，也能在浑浊的水里找路。",
+      "en": "Electric eels and rays carry special organs that deliver hundreds of volts, used to stun prey, drive off enemies and find their way in murky water."
+    }
+  },
+  {
+    "title": {
+      "zh": "比目鱼的眼睛为什么长在一边",
+      "en": "Why Are a Flatfish's Eyes on One Side?"
+    },
+    "content": {
+      "zh": "比目鱼小时候眼睛生在两边，长大时一边慢慢挪到另一侧，好整条贴着海底躺着，只把眼睛露在外面。",
+      "en": "Young flatfish have an eye on each side, but as they grow one migrates across so the fish can lie flat on the seabed with both eyes looking up."
+    }
+  },
+  {
+    "title": {
+      "zh": "鱼为什么要长途洄游",
+      "en": "Why Do Fish Migrate Long Distances?"
+    },
+    "content": {
+      "zh": "洄游多半是为了产卵或找食物。到了合适的时候，成群的鱼会顺着洋流回到固定的水域，路再远也要去。",
+      "en": "Fish migrate mostly to spawn or to find food, and when the time is right shoals follow the currents back to fixed waters however far away."
+    }
+  },
+  {
+    "title": {
+      "zh": "鲑鱼为什么要游回上游",
+      "en": "Why Do Salmon Swim Back Upstream?"
+    },
+    "content": {
+      "zh": "鲑鱼在淡水河里出生，长成后去大海觅食，最后再逆流回到出生的河段产卵。它们靠气味认路。",
+      "en": "Salmon are born in fresh water, grow fat at sea and then fight their way back upstream to spawn where they began, guided by the smell of the water."
+    }
+  },
+  {
+    "title": {
+      "zh": "海马是鱼吗",
+      "en": "Is a Sea Horse a Fish?"
+    },
+    "content": {
+      "zh": "是鱼。它用鳃呼吸、有鳍，只是身子被骨板包着、游得慢，还用卷尾巴勾住海草，看着不像鱼。",
+      "en": "It is a fish, breathing through gills and having fins, though its body is armoured in bony plates, it swims slowly and curls its tail around sea grass."
+    }
+  },
+  {
+    "title": {
+      "zh": "海马宝宝为什么是爸爸生的",
+      "en": "Why Do Sea Horse Fathers Give Birth?"
+    },
+    "content": {
+      "zh": "雌海马把卵产进雄海马的育儿袋里，由爸爸受精、护养，几个星期后小海马从爸爸的袋子里喷出来。",
+      "en": "The female places her eggs in the male's brood pouch, where he fertilises and carries them, and weeks later the young are squeezed out of the father's pouch."
+    }
+  },
+  {
+    "title": {
+      "zh": "冰山是怎么来的",
+      "en": "How Are Icebergs Formed?"
+    },
+    "content": {
+      "zh": "冰川流到海边，前端断裂掉进海里就成了冰山。它大约九成沉在水下，所以看着小，实际很大。",
+      "en": "When a glacier reaching the sea breaks at its front, the pieces drop into the water as icebergs, and since nine tenths sit below the surface they are far bigger than they look."
+    }
+  },
+  {
+    "title": {
+      "zh": "海象的长牙有什么用",
+      "en": "What Are a Walrus's Tusks For?"
+    },
+    "content": {
+      "zh": "长牙能把海底的贝类刨出来，也用来在冰上攀爬、打架争位子。它们还靠它在厚厚的冰上凿出呼吸孔。",
+      "en": "Tusks dig shellfish from the seabed, help haul the body onto ice and settle disputes, and they are used to keep breathing holes open through thick ice."
+    }
+  },
+  {
+    "title": {
+      "zh": "海獭为什么用石头砸贝壳",
+      "en": "Why Do Sea Otters Use Stones?"
+    },
+    "content": {
+      "zh": "海獭仰面浮着，把石头放在胸口当砧板，砸开海胆和贝壳。它还会把常用的石头藏在腋下的皮囊里。",
+      "en": "Floating on its back, an otter rests a stone on its chest as an anvil and cracks urchins and shells on it, keeping a favourite stone tucked in a pocket of skin."
+    }
+  },
+  {
+    "title": {
+      "zh": "鲸鱼为什么要长途迁徙",
+      "en": "Why Do Whales Migrate So Far?"
+    },
+    "content": {
+      "zh": "它们夏天去寒冷海域大吃特吃，冬天回到温暖水域繁殖。小鲸鱼在暖水里更容易活下来。",
+      "en": "They spend summer gorging in cold waters and return to warm seas in winter to breed, since calves survive far better in warm water."
+    }
+  },
+  {
+    "title": {
+      "zh": "鲸鱼是怎么睡觉的",
+      "en": "How Do Whales Sleep?"
+    },
+    "content": {
+      "zh": "鲸鱼要自己上来换气，所以只半边大脑睡觉，另半边继续指挥呼吸和游动，两边轮流休息。",
+      "en": "Whales must surface to breathe, so only one half of the brain sleeps at a time while the other manages breathing and swimming, and the halves take turns."
+    }
+  },
+  {
+    "title": {
+      "zh": "鲸鱼为什么会唱歌",
+      "en": "Why Do Whales Sing?"
+    },
+    "content": {
+      "zh": "座头鲸的歌声能传几百公里，用来求偶、联络同伴，也可能在宣示地盘。每群鲸鱼唱的调子都不一样。",
+      "en": "Humpback song carries for hundreds of kilometres and is used to court, keep in touch and perhaps claim space, and each group sings its own tune."
+    }
+  },
+  {
+    "title": {
+      "zh": "海豚为什么喜欢跟着船游",
+      "en": "Why Do Dolphins Follow Ships?"
+    },
+    "content": {
+      "zh": "船头推起的水流让它们省力气，被搅动的鱼也更好抓。加上船边热闹，聪明的海豚就爱来凑一程。",
+      "en": "The bow wave gives them a free ride and stirs up fish that are easier to catch, and curious dolphins simply enjoy the company."
+    }
+  },
+  {
+    "title": {
+      "zh": "珊瑚为什么会变白",
+      "en": "Why Does Coral Turn White?"
+    },
+    "content": {
+      "zh": "海水变热时，珊瑚会把给它颜色和食物的藻类排出去，露出白色的骨骼。热得久了珊瑚就会死去。",
+      "en": "When the water warms, coral expels the algae that colour and feed it, leaving white skeleton showing, and if the heat lasts the coral dies."
+    }
+  },
+  {
+    "title": {
+      "zh": "小丑鱼为什么住在海葵里",
+      "en": "Why Do Clownfish Live in Anemones?"
+    },
+    "content": {
+      "zh": "海葵的毒刺能保护小丑鱼，小丑鱼则帮海葵清洁、赶走天敌。它身上还裹着黏液，所以不会被蜇。",
+      "en": "The anemone's stinging cells shield the clownfish, which in return cleans it and drives off enemies, and a coat of mucus keeps the fish from being stung."
+    }
+  },
+  {
+    "title": {
+      "zh": "海参为什么会丢掉内脏",
+      "en": "Why Does a Sea Cucumber Cast Out Its Insides?"
+    },
+    "content": {
+      "zh": "遇到危险时海参会把内脏喷射出去缠住敌人，自己趁机逃走。过些日子，它还能重新长出新的内脏。",
+      "en": "In danger a sea cucumber shoots its insides out to tangle the attacker and escapes, then grows a new set of organs over the following weeks."
+    }
+  },
+  {
+    "title": {
+      "zh": "贝壳为什么一圈一圈长大",
+      "en": "Why Do Shells Grow in Rings?"
+    },
+    "content": {
+      "zh": "贝壳由外套膜一点点分泌碳酸钙加长，季节和食物不同，生长快慢就不同，留下一圈圈像年轮的纹路。",
+      "en": "The mantle adds calcium carbonate bit by bit, and because seasons and food vary the growth rate changes, leaving rings much like those in a tree."
+    }
+  },
+  {
+    "title": {
+      "zh": "海里为什么会发光",
+      "en": "Why Does the Sea Sometimes Glow?"
+    },
+    "content": {
+      "zh": "海里的浮游生物受到搅动会发光，像水下的星星。这多半是它们受惊时的自卫反应。",
+      "en": "Tiny plankton light up when the water is disturbed, like stars beneath the surface, and this is mostly a defence triggered when they are startled."
+    }
+  },
+  {
+    "title": {
+      "zh": "赤潮是怎么回事",
+      "en": "What Is a Red Tide?"
+    },
+    "content": {
+      "zh": "海水里养分过多时，某些藻类疯长把水染红。它们会耗尽氧气、放出毒素，让鱼虾大批死亡。",
+      "en": "When the water carries too many nutrients certain algae bloom and redden it, stripping oxygen and releasing toxins that kill fish and shellfish in large numbers."
+    }
+  },
+  {
+    "title": {
+      "zh": "海洋里的塑料垃圾有多可怕",
+      "en": "How Harmful Is Plastic in the Ocean?"
+    },
+    "content": {
+      "zh": "塑料不会烂，会碎成小颗粒被鱼吃掉，毒素沿着食物链往上走。海龟和海鸟常被塑料袋缠住或噎住。",
+      "en": "Plastic never rots, breaking into pieces that fish swallow so toxins climb the food chain, while turtles and seabirds are often tangled or choked by bags."
+    }
+  },
+  {
+    "title": {
+      "zh": "我们可以怎么保护海洋",
+      "en": "How Can We Protect the Ocean?"
+    },
+    "content": {
+      "zh": "少用一次性塑料、做好垃圾分类、不把油污倒进下水道，吃海鲜时选可持续的，都是在帮海洋减负。",
+      "en": "Using less single-use plastic, sorting rubbish, never pouring oil down the drain and choosing sustainable seafood all take a load off the ocean."
+    }
+  },
+  {
+    "title": {
+      "zh": "人是怎么下到深海的",
+      "en": "How Do People Reach the Deep Sea?"
+    },
+    "content": {
+      "zh": "用特制的潜水器。它外壳能顶住巨大水压，带着灯、机械臂和观察窗，把人安全地送到万米海底。",
+      "en": "People go down in special submersibles whose hulls resist the crushing pressure, carrying lights, robot arms and viewports to reach the seabed ten kilometres down."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么海边夏天比较凉快",
+      "en": "Why Is the Seaside Cooler in Summer?"
+    },
+    "content": {
+      "zh": "海水升温慢，白天比陆地凉；海风又把这份凉意带上岸。加上水汽多，海边就成了天然的避暑地。",
+      "en": "Sea water warms slowly and stays cooler than land by day, sea breezes carry that coolness ashore, and with plenty of moisture the coast becomes a natural refuge."
+    }
+  },
+  {
+    "title": {
+      "zh": "海面为什么不是平的",
+      "en": "Why Isn't the Sea Surface Flat?"
+    },
+    "content": {
+      "zh": "月球和太阳的引力、海流、风和水温的差异，都会让海面微微起伏。卫星测出来，高低能差上百米。",
+      "en": "The pull of moon and sun, currents, wind and temperature all make the surface rise and fall, and satellites show differences of over a hundred metres."
+    }
+  },
+  {
+    "title": {
+      "zh": "海啸是怎么形成的",
+      "en": "How Is a Tsunami Formed?"
+    },
+    "content": {
+      "zh": "海底地震或火山把一大片海水猛地抬起，能量化成极长的波浪。到了浅海，浪会突然长高扑上岸。",
+      "en": "An undersea quake or volcano lifts a huge body of water, sending out very long waves that rear up suddenly when they reach shallow water and sweep ashore."
+    }
+  },
+  {
+    "title": {
+      "zh": "海里的船为什么容易锈",
+      "en": "Why Do Ships Rust So Easily?"
+    },
+    "content": {
+      "zh": "海水里的盐能导电，让钢铁的电化学反应加快，腐蚀就快得多。所以要刷防锈漆，还要装上牺牲的锌块。",
+      "en": "Salt makes sea water conduct electricity, speeding the chemical reaction that eats steel, so hulls are painted for protection and fitted with sacrificial zinc blocks."
+    }
+  },
+  {
+    "title": {
+      "zh": "灯塔是干什么用的",
+      "en": "What Is a Lighthouse For?"
+    },
+    "content": {
+      "zh": "灯塔立在礁石和海角上，用强光告诉船哪里有陆地、哪里有暗礁。雾天还能靠低沉的号角提醒。",
+      "en": "Set on rocks and headlands, a lighthouse beams out to tell ships where land and hidden reefs lie, and in fog a deep horn adds the warning."
+    }
   }
 ]

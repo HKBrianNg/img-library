@@ -118,5 +118,485 @@
       "zh": "有。中国建造了\"天宫\"空间站，2022 年基本建成，航天员常年在上面工作，做实验，也给地面的同学上课。",
       "en": "Yes. China built the Tiangong space station, largely completed in 2022. Astronauts work aboard for months, running experiments and even teaching classes on Earth."
     }
+  },
+  {
+    "title": {
+      "zh": "飞机尾巴上的竖板有什么用",
+      "en": "What Is the Fin on a Plane's Tail For?"
+    },
+    "content": {
+      "zh": "那块竖板叫垂直尾翼，像箭羽一样让机头始终朝着前方，飞机才不会左右乱摆，转弯也更稳。",
+      "en": "That fin is the vertical stabiliser. Like the feathers on an arrow it keeps the nose pointing forward, so the aircraft does not swing about and turns steadily."
+    }
+  },
+  {
+    "title": {
+      "zh": "飞机为什么顶着风起飞",
+      "en": "Why Do Planes Take Off Into the Wind?"
+    },
+    "content": {
+      "zh": "迎面吹来的风让流过机翼的空气更快，升力更大，飞机就能用更短的跑道升空，也更安全。",
+      "en": "Head-on wind makes air flow faster over the wings, giving more lift. The plane then rises after a shorter run, which is safer too."
+    }
+  },
+  {
+    "title": {
+      "zh": "飞机的“黑匣子”是什么",
+      "en": "What Is an Aeroplane's Black Box?"
+    },
+    "content": {
+      "zh": "它是记录飞行数据和驾驶舱声音的记录仪，其实是个亮橙色的盒子，方便找。出事以后靠它查原因。",
+      "en": "It records flight data and cockpit sound. It is actually bright orange so it can be found easily, and investigators use it to work out what happened."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么飞鸟会撞坏飞机",
+      "en": "Why Can a Bird Damage a Plane?"
+    },
+    "content": {
+      "zh": "飞机飞得极快，撞上鸟就像被炮弹打中。鸟虽小，撞击力却惊人，所以机场要想办法把鸟赶走。",
+      "en": "At flying speed, hitting a bird is like being struck by a cannonball. The bird is small but the force is huge, which is why airports work to keep birds away."
+    }
+  },
+  {
+    "title": {
+      "zh": "太空里的水为什么会变成圆球",
+      "en": "Why Does Water Form Balls in Space?"
+    },
+    "content": {
+      "zh": "在太空里水不受重力拉扯，表面张力就把水往里收，收成表面积最小的形状，也就是圆球。",
+      "en": "In space nothing pulls the water down, so surface tension draws it inward to the smallest possible shape, which is a sphere."
+    }
+  },
+  {
+    "title": {
+      "zh": "宇航员在太空为什么会变高",
+      "en": "Why Do Astronauts Grow Taller in Space?"
+    },
+    "content": {
+      "zh": "失重时脊椎不再被压着，椎骨之间的软骨舒展开，人能长高两三厘米。回到地球压一压，又变回原样。",
+      "en": "Without gravity pressing on the spine, the discs between the bones舒展 and astronauts gain two or three centimetres. Back on Earth, gravity squashes them down again."
+    }
+  },
+  {
+    "title": {
+      "zh": "空间站为什么不会掉到地上",
+      "en": "Why Doesn't a Space Station Fall to Earth?"
+    },
+    "content": {
+      "zh": "它其实一直在往下掉，只是飞得太快，掉的方向正好跟地球表面的弯曲对上，结果绕着地球一圈圈转。",
+      "en": "It is falling all the time, but so fast that its fall matches the curve of Earth. So it keeps missing the ground and circles round instead."
+    }
+  },
+  {
+    "title": {
+      "zh": "火箭为什么竖着起飞",
+      "en": "Why Do Rockets Launch Upright?"
+    },
+    "content": {
+      "zh": "火箭要先冲出最稠密的大气层，竖着走这条路最短；立起来也方便底下点火、把推力稳稳传上去。",
+      "en": "A rocket must clear the thickest air first, and straight up is the shortest way out. Standing upright also makes firing the engines and channelling thrust simpler."
+    }
+  },
+  {
+    "title": {
+      "zh": "月球车有什么用",
+      "en": "What Is a Lunar Rover For?"
+    },
+    "content": {
+      "zh": "月球车代替宇航员跑远路，挖土、拍照、做实验，把数据传回地球。它身上的太阳能板就是它的口粮。",
+      "en": "A rover travels where astronauts cannot, digging soil, taking pictures and running experiments, then sending the data home. Its solar panels are its food supply."
+    }
+  },
+  {
+    "title": {
+      "zh": "从太空看地球为什么是蓝色的",
+      "en": "Why Does Earth Look Blue from Space?"
+    },
+    "content": {
+      "zh": "海洋占了地球表面七成，海水散射蓝光；再加上大气把蓝光也散射回来，所以从远处看地球是颗蓝宝石。",
+      "en": "Oceans cover about seventy per cent of the surface and scatter blue light, while the air scatters more blue back. From far away Earth looks like a blue gem."
+    }
+  },
+  {
+    "title": {
+      "zh": "人类为什么要去火星",
+      "en": "Why Do Humans Want to Go to Mars?"
+    },
+    "content": {
+      "zh": "火星是离我们最像地球的行星，有水和大气的痕迹。去那里能找生命的线索，也练习怎么在别的星球生活。",
+      "en": "Mars is the planet most like Earth, with traces of water and air. Going there could reveal signs of life and teach us how to live on another world."
+    }
+  },
+  {
+    "title": {
+      "zh": "太空里也有垃圾吗",
+      "en": "Is There Rubbish in Space?"
+    },
+    "content": {
+      "zh": "有。废弃的卫星、火箭碎片都叫太空垃圾，它们飞得极快，撞上航天器会出大事，所以要盯着它们躲开。",
+      "en": "Yes. Dead satellites and rocket fragments are called space debris. They travel extremely fast and can badly damage spacecraft, so they are tracked and avoided."
+    }
+  },
+  {
+    "title": {
+      "zh": "飞机在空中是怎么转弯的",
+      "en": "How Does a Plane Turn in the Air?"
+    },
+    "content": {
+      "zh": "飞行员让机翼一侧的副翼抬起、另一侧压下，飞机就侧过身来；再配上尾翼的方向舵，机头就转过去了。",
+      "en": "The pilot raises an aileron on one wing and lowers the other so the aircraft banks, and the rudder on the tail swings the nose round."
+    }
+  },
+  {
+    "title": {
+      "zh": "飞机为什么要飞到一万米高",
+      "en": "Why Do Planes Fly at Ten Thousand Metres?"
+    },
+    "content": {
+      "zh": "高空空气稀薄，阻力小、更省油；那里天气平稳，也在大部分云层和鸟群之上，乘客更舒服。",
+      "en": "Up high the air is thin so there is less drag and better fuel use, the weather is steady and most clouds and birds are below, making the ride smoother."
+    }
+  },
+  {
+    "title": {
+      "zh": "飞机起飞为什么要跑那么长",
+      "en": "Why Does Take-Off Need Such a Long Run?"
+    },
+    "content": {
+      "zh": "几百吨的飞机要加速到每小时两三百公里，机翼才能产生足够的升力，这段加速少不了一条长长的跑道。",
+      "en": "An aircraft weighing hundreds of tonnes must reach 250 to 300 km/h before the wings make enough lift, and that needs a long runway."
+    }
+  },
+  {
+    "title": {
+      "zh": "坐飞机为什么会耳朵堵",
+      "en": "Why Do Your Ears Block on a Plane?"
+    },
+    "content": {
+      "zh": "飞机升降时外界气压变化快，耳膜两侧压力不一样就发闷。吞咽、打哈欠能让耳咽管打开，把压力调平。",
+      "en": "As the plane climbs or descends, outside pressure changes fast and the two sides of the eardrum differ, so swallowing or yawning opens the tube and evens it out."
+    }
+  },
+  {
+    "title": {
+      "zh": "坐飞机为什么要倒时差",
+      "en": "Why Do We Get Jet Lag?"
+    },
+    "content": {
+      "zh": "飞过几个时区后，身体里的生物钟还停在家乡的时间，白天困、夜里醒。晒太阳和按新作息吃饭，能帮它调过来。",
+      "en": "After crossing time zones the body clock still runs on home time, so you are sleepy by day and awake at night, and daylight and eating to local hours help reset it."
+    }
+  },
+  {
+    "title": {
+      "zh": "坐飞机为什么要系安全带",
+      "en": "Why Must You Wear a Seat Belt on a Plane?"
+    },
+    "content": {
+      "zh": "飞机会遇到颠簸，没系安全带的人可能被抛起来撞到舱顶。起飞降落和遇气流时尤其要系好。",
+      "en": "Turbulence can throw unbelted people against the ceiling, so keep the belt fastened, especially on take-off, landing and in rough air."
+    }
+  },
+  {
+    "title": {
+      "zh": "天上的飞机为什么不会相撞",
+      "en": "Why Don't Planes Collide in the Sky?"
+    },
+    "content": {
+      "zh": "天上也有看不见的航道：飞机按规定的高度和路线飞，地面雷达随时盯着，机上还有防碰撞系统互相提醒。",
+      "en": "There are invisible lanes in the sky, with set heights and routes, ground radar watching all the time and onboard systems warning of anything close."
+    }
+  },
+  {
+    "title": {
+      "zh": "冬天飞机为什么要除冰",
+      "en": "Why Are Planes De-iced in Winter?"
+    },
+    "content": {
+      "zh": "机翼上结一点冰，就会破坏气流、减少升力，非常危险。所以起飞前要喷除冰液，把冰和雪清干净。",
+      "en": "Even a little ice on a wing spoils the airflow and cuts lift, which is dangerous, so de-icing fluid is sprayed on before take-off to clear frost and snow."
+    }
+  },
+  {
+    "title": {
+      "zh": "直升机为什么能停在空中",
+      "en": "How Can a Helicopter Hover?"
+    },
+    "content": {
+      "zh": "头顶的旋翼像一把旋转的翅膀，一直把空气往下压，升力正好托住机身。调一调叶片角度，就能上、下、悬停。",
+      "en": "The rotor above acts as spinning wings, pushing air down continuously so lift balances the weight, and changing blade pitch lets it rise, sink or hover."
+    }
+  },
+  {
+    "title": {
+      "zh": "滑翔机没有发动机为什么能飞",
+      "en": "How Does a Glider Fly Without an Engine?"
+    },
+    "content": {
+      "zh": "它靠上升的暖气流托着，像老鹰一样盘旋爬高，再用高度换距离，慢慢滑翔，可以飞很久很远。",
+      "en": "It rides rising warm air, circling higher like an eagle, then trades height for distance and glides on, staying up for hours and covering great distances."
+    }
+  },
+  {
+    "title": {
+      "zh": "飞机后面为什么有一条白线",
+      "en": "Why Does a Plane Leave a White Trail?"
+    },
+    "content": {
+      "zh": "发动机排出的高温水汽碰到高空冷空气，立刻凝成小冰晶，拖出一条白色的云带，叫凝结尾迹。",
+      "en": "Hot water vapour from the engines meets freezing air and turns at once into ice crystals, drawing a white cloud behind called a contrail."
+    }
+  },
+  {
+    "title": {
+      "zh": "飞机能飞得比声音快吗",
+      "en": "Can Planes Fly Faster Than Sound?"
+    },
+    "content": {
+      "zh": "能，这叫超音速。飞过音障时会产生巨大的音爆。协和式客机就曾以两倍音速载客飞行。",
+      "en": "Yes, that is supersonic flight, and breaking the sound barrier causes a loud sonic boom, with Concorde once carrying passengers at twice the speed of sound."
+    }
+  },
+  {
+    "title": {
+      "zh": "火箭烧的是什么燃料",
+      "en": "What Fuel Does a Rocket Burn?"
+    },
+    "content": {
+      "zh": "火箭自带燃料和氧化剂，常用液氢液氧或煤油液氧。太空中没有氧气，所以它必须两样都带上。",
+      "en": "A rocket carries both fuel and oxidiser, often liquid hydrogen with liquid oxygen or kerosene with liquid oxygen, and since space has no air it must bring both."
+    }
+  },
+  {
+    "title": {
+      "zh": "火箭发射为什么要倒计时",
+      "en": "Why Is There a Countdown to Launch?"
+    },
+    "content": {
+      "zh": "倒计时把成千上万个检查步骤统一到一个时间轴上，谁在什么时刻做什么都清清楚楚，一步也不能错。",
+      "en": "A countdown puts thousands of checks on one timeline so everyone knows exactly what happens when, and not a single step may be missed."
+    }
+  },
+  {
+    "title": {
+      "zh": "火箭发射场为什么选在海边",
+      "en": "Why Are Launch Sites by the Sea?"
+    },
+    "content": {
+      "zh": "火箭残骸可以落在海上不伤人；低纬度的海边还能借地球自转的推力，同一个火箭能送更重的载荷。",
+      "en": "Spent stages can fall into the sea without harming anyone, and a low-latitude coast borrows a push from Earth's spin so the same rocket lifts a heavier load."
+    }
+  },
+  {
+    "title": {
+      "zh": "宇航员为什么要接受那么多训练",
+      "en": "Why Do Astronauts Train So Hard?"
+    },
+    "content": {
+      "zh": "太空中失重、辐射和突发状况都会考验人。训练能让人在眩晕、狭小和紧张里照样清醒操作、互相配合。",
+      "en": "Weightlessness, radiation and emergencies all test a person in space, and training keeps astronauts calm and coordinated while dizzy, cramped or under pressure."
+    }
+  },
+  {
+    "title": {
+      "zh": "宇航员在太空怎么洗澡",
+      "en": "How Do Astronauts Wash in Space?"
+    },
+    "content": {
+      "zh": "水在太空会飘成球，所以不能淋浴。他们用湿毛巾擦身，再用免冲洗的洗发液搓头，最后擦干。",
+      "en": "Water floats in blobs up there so showers are impossible, and instead they wipe with a wet towel, use rinse-free shampoo and then dry off."
+    }
+  },
+  {
+    "title": {
+      "zh": "宇航员在太空怎么上厕所",
+      "en": "How Do Astronauts Use the Toilet in Space?"
+    },
+    "content": {
+      "zh": "太空厕所靠气流把排泄物吸走，不让它飘出来。尿液会被收集起来，经过处理还能变成饮用水。",
+      "en": "The space toilet uses a stream of air to pull waste away so nothing drifts, and urine is collected and can even be purified back into drinking water."
+    }
+  },
+  {
+    "title": {
+      "zh": "宇航员在太空吃什么",
+      "en": "What Do Astronauts Eat in Space?"
+    },
+    "content": {
+      "zh": "食物多做成一口一个、不掉渣的形状，还特意加重口味，因为失重会让味觉变淡。面包换成薄饼，盐和酱要另加。",
+      "en": "Food is made in one-bite, crumb-free shapes and seasoned more strongly since weightlessness dulls taste, with tortillas instead of bread and salt and sauce added separately."
+    }
+  },
+  {
+    "title": {
+      "zh": "宇航员为什么要在太空锻炼",
+      "en": "Why Must Astronauts Exercise in Space?"
+    },
+    "content": {
+      "zh": "失重时身体不用对抗重力，肌肉和骨头会一点点流失。每天练两小时，回到地球才站得稳、走得动。",
+      "en": "Without gravity to work against, muscle and bone waste away, so two hours of exercise a day means they can still stand and walk back on Earth."
+    }
+  },
+  {
+    "title": {
+      "zh": "太空行走有多危险",
+      "en": "How Dangerous Is a Spacewalk?"
+    },
+    "content": {
+      "zh": "外面没有空气、温差极大，还有高速飞行的碎片。宇航员要靠宇航服和安全绳保护，一步都不能大意。",
+      "en": "Outside there is no air, wild swings of temperature and debris flying fast, so the suit and safety tethers protect the astronaut and not a step can be casual."
+    }
+  },
+  {
+    "title": {
+      "zh": "宇航服为什么是白色的",
+      "en": "Why Are Space Suits White?"
+    },
+    "content": {
+      "zh": "白色能反射强烈的阳光，免得宇航员在太阳下烤得过热；同时也最显眼，地面上的人容易看到他们。",
+      "en": "White reflects fierce sunlight so the astronaut does not overheat, and it is also the most visible colour for people watching from the ground."
+    }
+  },
+  {
+    "title": {
+      "zh": "月球上的脚印为什么不会消失",
+      "en": "Why Don't Footprints on the Moon Vanish?"
+    },
+    "content": {
+      "zh": "月亮上没有风也没有水，谁也擦不掉它们。只有微小的陨石慢慢砸，那些脚印大概能留上几百万年。",
+      "en": "There is no wind or rain on the moon to erase them, and only tiny meteorites slowly wear them away, so the prints may last millions of years."
+    }
+  },
+  {
+    "title": {
+      "zh": "在月球上能看到长城吗",
+      "en": "Can You See the Great Wall from the Moon?"
+    },
+    "content": {
+      "zh": "不能。长城虽然长，却只有几米宽，从那么远看细得像根线。连国际空间站上都要靠镜头才找得到。",
+      "en": "No. Long though it is, the wall is only a few metres wide and from that distance looks like a thread, and even from the space station you need a lens to spot it."
+    }
+  },
+  {
+    "title": {
+      "zh": "人类为什么先去月球",
+      "en": "Why Did Humans Go to the Moon First?"
+    },
+    "content": {
+      "zh": "月亮离我们最近，来回只几天，技术难度最低。先在月亮上练好本事，才好去更远的火星。",
+      "en": "The moon is nearest, only days away and the least demanding to reach, so mastering travel there prepares us for somewhere as far as Mars."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要用机器人去火星",
+      "en": "Why Send Robots to Mars?"
+    },
+    "content": {
+      "zh": "火星太远，来回要好几年，人上去风险极大。机器人不怕辐射和孤独，还能一直在那儿工作。",
+      "en": "Mars is so far that a round trip takes years and human risk is huge, while robots shrug off radiation and loneliness and keep working there."
+    }
+  },
+  {
+    "title": {
+      "zh": "探测器是怎么在火星着陆的",
+      "en": "How Does a Probe Land on Mars?"
+    },
+    "content": {
+      "zh": "它先靠大气减速，再开降落伞，最后用反推火箭或气囊缓冲。火星大气很薄，这一步格外难。",
+      "en": "It slows in the thin air, opens a parachute and finally uses retrorockets or airbags to cushion the landing, a step made hard by the thin atmosphere."
+    }
+  },
+  {
+    "title": {
+      "zh": "去火星为什么要飞那么久",
+      "en": "Why Does It Take So Long to Reach Mars?"
+    },
+    "content": {
+      "zh": "火星离我们有几亿公里，飞船要沿着省燃料的弧线慢慢走，最快也要七个多月才能到。",
+      "en": "Mars lies hundreds of millions of kilometres away and craft follow a fuel-saving curve, so even the quickest trip takes more than seven months."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么导航要用卫星",
+      "en": "Why Does Navigation Need Satellites?"
+    },
+    "content": {
+      "zh": "导航卫星不停发出时间和位置信号，手机收到几颗的信号，就能算出自己在哪儿、该往哪走。",
+      "en": "Navigation satellites send out constant time and position signals, and a phone picking up several can work out where you are and which way to go."
+    }
+  },
+  {
+    "title": {
+      "zh": "北斗卫星是干什么的",
+      "en": "What Is the BeiDou Satellite System For?"
+    },
+    "content": {
+      "zh": "北斗是中国自己的导航卫星网，能给车船手机定位、报时，还能发短报文。全世界都能用上它。",
+      "en": "BeiDou is China's own navigation network, giving position and time to ships, vehicles and phones and even carrying short messages, and it serves the whole world."
+    }
+  },
+  {
+    "title": {
+      "zh": "种子到太空会变吗",
+      "en": "Do Seeds Change in Space?"
+    },
+    "content": {
+      "zh": "太空里的辐射和失重会让种子的基因更容易发生变化。回来再选育，有的会长得更壮、产量更高。",
+      "en": "Radiation and weightlessness make seed genes change more readily, and after selection back home some grow stronger or yield better."
+    }
+  },
+  {
+    "title": {
+      "zh": "太空里能做哪些实验",
+      "en": "What Experiments Are Done in Space?"
+    },
+    "content": {
+      "zh": "失重下能做地面上做不了的实验：长出更纯的晶体、看清火焰怎么烧、研究细胞和植物在太空怎么长。",
+      "en": "Weightlessness allows work impossible on Earth, from purer crystals and watching how flames burn to studying how cells and plants grow in space."
+    }
+  },
+  {
+    "title": {
+      "zh": "普通人能去太空吗",
+      "en": "Can Ordinary People Go to Space?"
+    },
+    "content": {
+      "zh": "已经有游客花大价钱坐火箭上去待几天。票价还很贵，但随着技术进步，将来也许会更常见。",
+      "en": "A few tourists have paid large sums to ride up and stay a few days, and though tickets are still costly, better technology may make it common one day."
+    }
+  },
+  {
+    "title": {
+      "zh": "我们为什么要探索太空",
+      "en": "Why Do We Explore Space?"
+    },
+    "content": {
+      "zh": "探索太空能回答我们从哪里来，也带来卫星通信、天气预报这些实用技术，还推动材料、医疗和机器人进步。",
+      "en": "Exploring space answers where we come from, brings practical technology like satellites and weather forecasting, and drives progress in materials, medicine and robotics."
+    }
+  },
+  {
+    "title": {
+      "zh": "火箭发射时为什么要喷那么多水",
+      "en": "Why Is So Much Water Sprayed at Launch?"
+    },
+    "content": {
+      "zh": "发射时声音和震动极强，会把发射台震坏。喷大量水能吸收声波、降温，还能压住烟尘。",
+      "en": "The roar and shaking at launch can damage the pad, so huge amounts of water soak up the sound, cool everything down and hold the dust."
+    }
+  },
+  {
+    "title": {
+      "zh": "飞船返回时为什么会变成一个火球",
+      "en": "Why Does a Returning Capsule Become a Fireball?"
+    },
+    "content": {
+      "zh": "飞船以极高速度冲进大气层，前面的空气被压得又热又亮，温度到几千度。隔热层烧掉自己，护住里面的人。",
+      "en": "Rushing into the atmosphere at great speed, the air ahead is squeezed hot and glowing to thousands of degrees, and the heat shield burns away to protect those inside."
+    }
   }
 ]

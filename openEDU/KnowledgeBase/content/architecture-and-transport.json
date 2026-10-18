@@ -118,5 +118,485 @@
       "zh": "花纹能把雨天路面上的水排走，让橡胶直接碰到地面不打滑；还能增加摩擦，刹车和转弯时更稳当。",
       "en": "Tread channels water away on wet roads so the rubber grips the ground instead of sliding. It also adds friction, making braking and turning steadier."
     }
+  },
+  {
+    "title": {
+      "zh": "城市里为什么要修立交桥",
+      "en": "Why Do Cities Build Flyovers?"
+    },
+    "content": {
+      "zh": "路口的车太多，平交会让大家互相等。让一层走直行、一层拐弯，谁也不挡谁，路就通得快多了。",
+      "en": "Too many cars meet at one crossing and each has to wait. Send straight traffic on one level and turning traffic on another, and nobody blocks anybody."
+    }
+  },
+  {
+    "title": {
+      "zh": "铁轨下面为什么要铺石子",
+      "en": "Why Are There Stones Under Railway Tracks?"
+    },
+    "content": {
+      "zh": "那些碎石能把火车的重压摊开，不让路基下沉；还能排水、固定枕木，顺便把杂草压住。",
+      "en": "The crushed stone spreads a train's weight so the track bed does not sink. It also drains water, holds the sleepers in place and keeps weeds down."
+    }
+  },
+  {
+    "title": {
+      "zh": "火车为什么要在铁轨上跑",
+      "en": "Why Do Trains Run on Rails?"
+    },
+    "content": {
+      "zh": "钢轮压在钢轨上，摩擦力很小，拉几十节车厢也不费劲。铁轨还负责把车稳稳地引向前方。",
+      "en": "Steel wheels on steel rails meet with very little friction, so one engine can pull dozens of carriages. The rails also steer the train firmly forward."
+    }
+  },
+  {
+    "title": {
+      "zh": "船头为什么做成尖的",
+      "en": "Why Is the Bow of a Boat Pointed?"
+    },
+    "content": {
+      "zh": "尖头能把水分开、减少阻力，船跑起来又快又省油。圆头的船推着水走，费劲得多。",
+      "en": "A pointed bow splits the water and cuts drag, so the boat moves faster and uses less fuel. A blunt bow has to shove water aside, which is much harder work."
+    }
+  },
+  {
+    "title": {
+      "zh": "屋顶为什么要做成斜的",
+      "en": "Why Are Roofs Sloped?"
+    },
+    "content": {
+      "zh": "斜屋顶让雨水和雪顺着坡滑下去，不会积在顶上压坏房子，也不容易漏水。雨多的地方屋顶斜得更明显。",
+      "en": "A slope lets rain and snow slide off instead of piling up and leaking in. Where rain is heavy, you will notice the roofs are steeper."
+    }
+  },
+  {
+    "title": {
+      "zh": "北方的房子墙为什么特别厚",
+      "en": "Why Are Walls Thicker in the North?"
+    },
+    "content": {
+      "zh": "厚墙像一件棉袄，冬天挡住寒气、留住屋里的热；夏天又挡住外面的热。暖气费也能省下不少。",
+      "en": "A thick wall works like a coat: it keeps cold out and warmth in during winter, and keeps heat out in summer. It also cuts heating bills."
+    }
+  },
+  {
+    "title": {
+      "zh": "马路上为什么有一条凹凸的路",
+      "en": "Why Is There a Bumpy Strip on the Pavement?"
+    },
+    "content": {
+      "zh": "那是盲道，凸起的条纹和圆点用脚底就能感觉出来，指引视力不好的朋友往前走、在路口停下。",
+      "en": "It is a tactile path. Raised lines and dots can be felt through the soles, guiding people with poor sight forward and telling them to stop at crossings."
+    }
+  },
+  {
+    "title": {
+      "zh": "高楼为什么用玻璃做外墙",
+      "en": "Why Do Tall Buildings Have Glass Walls?"
+    },
+    "content": {
+      "zh": "玻璃幕墙很轻，能减轻楼的重量；采光明亮又省电，还能把天空映在楼上，看着漂亮。",
+      "en": "Glass walls are light, so they reduce the building's weight. They let in daylight, saving power, and mirror the sky, which looks striking."
+    }
+  },
+  {
+    "title": {
+      "zh": "有些大桥为什么拉着许多钢索",
+      "en": "Why Do Some Bridges Have Many Cables?"
+    },
+    "content": {
+      "zh": "斜拉桥用钢索把桥面吊在塔上，等于多了好几个支点，桥就能跨得更宽、用更少的桥墩。",
+      "en": "On a cable-stayed bridge, steel cables hang the deck from towers, adding many supports so the span can be longer with fewer piers."
+    }
+  },
+  {
+    "title": {
+      "zh": "坐车为什么要系安全带",
+      "en": "Why Must We Wear a Seat Belt?"
+    },
+    "content": {
+      "zh": "车急刹时人还会往前冲，安全带把你稳稳拉住，不让你撞上挡风玻璃。这一拉能救很多人的命。",
+      "en": "When a car stops suddenly your body keeps going. The belt holds you back so you do not hit the windscreen, and that simple strap saves many lives."
+    }
+  },
+  {
+    "title": {
+      "zh": "机场为什么建在城外",
+      "en": "Why Are Airports Built Outside the City?"
+    },
+    "content": {
+      "zh": "飞机起降要很长的跑道，还得留出安全的空地；再加上噪音大，放在城外对居民影响最小。",
+      "en": "Take-off and landing need long runways and clear space for safety. Add the noise, and siting them outside town troubles the fewest people."
+    }
+  },
+  {
+    "title": {
+      "zh": "拱形门为什么特别结实",
+      "en": "Why Is an Arch So Strong?"
+    },
+    "content": {
+      "zh": "拱把上面的重量沿着弯弯的线传到两边地基上，石头之间互相挤压、越压越紧，所以能撑很久。",
+      "en": "An arch carries weight down its curve into the ground at both sides. The stones press against each other and grip tighter under load, so arches last ages."
+    }
+  },
+  {
+    "title": {
+      "zh": "房子为什么要留窗户",
+      "en": "Why Do Houses Have Windows?"
+    },
+    "content": {
+      "zh": "窗户能采光通风，让屋里亮堂、空气新鲜。它还让人看得见外面，住着才不憋闷。",
+      "en": "Windows bring light and air so rooms are bright and fresh, and they let you see outside, which keeps a home from feeling shut in."
+    }
+  },
+  {
+    "title": {
+      "zh": "高楼为什么还要有楼梯",
+      "en": "Why Do Tall Buildings Still Have Stairs?"
+    },
+    "content": {
+      "zh": "起火时电梯不能用，楼梯是唯一安全的逃生路。平时它也让人能走走，不必都挤电梯。",
+      "en": "Lifts cannot be used in a fire, so stairs are the only safe way out, and day to day they let people walk instead of crowding into lifts."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要有消防通道",
+      "en": "Why Are There Fire Lanes?"
+    },
+    "content": {
+      "zh": "消防通道让消防车能开到楼下、云梯能架起来。被车堵住的通道，会耽误救火救命的几分钟。",
+      "en": "Fire lanes let engines reach the building and ladders be raised, and a lane blocked by parked cars costs precious minutes in an emergency."
+    }
+  },
+  {
+    "title": {
+      "zh": "高楼为什么要装避雷针",
+      "en": "Why Do Tall Buildings Have Lightning Rods?"
+    },
+    "content": {
+      "zh": "避雷针用金属把雷电引入地下，保护楼里的人和设备。它不是躲开雷，而是给雷修一条安全的路。",
+      "en": "A rod carries lightning safely into the ground through metal, protecting people and equipment, and rather than avoiding the strike it gives it a safe path."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么桥面要留缝",
+      "en": "Why Are There Gaps in a Bridge Deck?"
+    },
+    "content": {
+      "zh": "天热时桥面会伸长，天冷会缩短。留一道缝给它伸缩，不然桥面会被自己挤裂。",
+      "en": "The deck lengthens in heat and shortens in cold, so a gap lets it move freely, otherwise the bridge would crack under its own strain."
+    }
+  },
+  {
+    "title": {
+      "zh": "桥上为什么要有栏杆",
+      "en": "Why Do Bridges Have Railings?"
+    },
+    "content": {
+      "zh": "栏杆挡住人和车，不让他们掉下去；还能提醒司机桥的边缘在哪，夜里和雾天尤其重要。",
+      "en": "Railings stop people and vehicles going over the edge and show drivers where the edge is, which matters most at night or in fog."
+    }
+  },
+  {
+    "title": {
+      "zh": "隧道里为什么要有通风口",
+      "en": "Why Do Tunnels Need Vents?"
+    },
+    "content": {
+      "zh": "隧道里空气不流通，汽车尾气会越积越多。通风口把脏空气换掉，也让火灾时能排烟。",
+      "en": "Air cannot circulate in a tunnel so exhaust builds up, and vents swap in fresh air and carry smoke away in a fire."
+    }
+  },
+  {
+    "title": {
+      "zh": "高铁座位为什么没有安全带",
+      "en": "Why Don't High-Speed Train Seats Have Belts?"
+    },
+    "content": {
+      "zh": "列车减速平缓，很少急刹，坐在座位上就够安全。加上座椅能吸能挡，系安全带反而不方便逃生。",
+      "en": "Trains slow gently and rarely stop suddenly, so sitting is safe enough, and with energy-absorbing seats a belt would only hinder escape."
+    }
+  },
+  {
+    "title": {
+      "zh": "高铁车窗为什么打不开",
+      "en": "Why Can't Train Windows Be Opened?"
+    },
+    "content": {
+      "zh": "时速几百公里时，开窗会让车厢内气压猛变，噪音惊人，还可能把东西吸出去。所以全程密封。",
+      "en": "At hundreds of kilometres per hour an open window would swing the pressure, roar with noise and suck objects out, so the carriages stay sealed."
+    }
+  },
+  {
+    "title": {
+      "zh": "飞机窗户为什么是圆角的",
+      "en": "Why Are Aeroplane Windows Rounded?"
+    },
+    "content": {
+      "zh": "方角的窗会在角上集中应力，反复加压后容易裂开。圆角把力均匀分散，飞行就更安全。",
+      "en": "Square corners concentrate stress and crack under repeated pressurising, while rounded corners spread the force evenly and keep flying safe."
+    }
+  },
+  {
+    "title": {
+      "zh": "坐飞机为什么要调成飞行模式",
+      "en": "Why Use Flight Mode on a Plane?"
+    },
+    "content": {
+      "zh": "手机会不断搜索信号，可能干扰飞机的导航和通讯。调成飞行模式就断了这些信号，大家更安全。",
+      "en": "A phone keeps searching for signals, which may disturb the aircraft's navigation and communication, so flight mode stops those signals and keeps everyone safer."
+    }
+  },
+  {
+    "title": {
+      "zh": "飞机为什么要排队起飞",
+      "en": "Why Do Planes Queue to Take Off?"
+    },
+    "content": {
+      "zh": "跑道上一次只能有一架飞机，前一架起飞后还要等尾流散开。调度排队能保证间距，避免相撞。",
+      "en": "Only one aircraft can use a runway at a time and the wake behind it must settle, so controllers space the departures to keep them safely apart."
+    }
+  },
+  {
+    "title": {
+      "zh": "机场为什么要安检",
+      "en": "Why Is There Security at Airports?"
+    },
+    "content": {
+      "zh": "安检是为了查出危险物品，不让它们带上飞机。飞机在空中无处可躲，所以这一关格外严格。",
+      "en": "Security finds dangerous items before they get on board, and since an aircraft in flight has nowhere to turn, this check is especially strict."
+    }
+  },
+  {
+    "title": {
+      "zh": "汽车为什么要有后视镜",
+      "en": "Why Do Cars Have Mirrors?"
+    },
+    "content": {
+      "zh": "司机看不到正后方，后视镜帮他看清旁边和后面的车，变道和倒车全靠它，是重要的安全装置。",
+      "en": "A driver cannot see straight behind, so mirrors show the sides and rear, and changing lanes or reversing depends on them for safety."
+    }
+  },
+  {
+    "title": {
+      "zh": "安全气囊有什么用",
+      "en": "What Is an Airbag For?"
+    },
+    "content": {
+      "zh": "撞车时气囊在几十分之一秒内弹出，垫住头和胸，避免撞上方向盘。它是安全带的搭档，不是替代品。",
+      "en": "In a crash the bag inflates in a fraction of a second, cushioning head and chest from the wheel, and it works with the seat belt rather than instead of it."
+    }
+  },
+  {
+    "title": {
+      "zh": "马路上为什么要有斑马线",
+      "en": "Why Are There Zebra Crossings?"
+    },
+    "content": {
+      "zh": "斑马线的条纹非常醒目，提醒司机前面有人要过街，也告诉行人该从哪里走。",
+      "en": "The bright stripes warn drivers that people are crossing and show pedestrians where to walk, making both sides aware of each other."
+    }
+  },
+  {
+    "title": {
+      "zh": "马路为什么要限速",
+      "en": "Why Do Roads Have Speed Limits?"
+    },
+    "content": {
+      "zh": "速度越快，看得越窄、刹车距离越长，撞上时的力也越大。限速就是给所有人留出反应的余地。",
+      "en": "The faster you go the narrower your view, the longer the stopping distance and the harder the impact, so limits leave everyone room to react."
+    }
+  },
+  {
+    "title": {
+      "zh": "骑摩托车为什么要戴头盔",
+      "en": "Why Wear a Helmet on a Motorbike?"
+    },
+    "content": {
+      "zh": "骑车人没有车壳保护，摔倒时头部最容易受伤。头盔的外壳和内衬能吸收撞击，救下很多命。",
+      "en": "A rider has no shell around them and the head is most at risk in a fall, so a helmet's shell and lining absorb the blow and save many lives."
+    }
+  },
+  {
+    "title": {
+      "zh": "自行车为什么要有车铃",
+      "en": "Why Do Bicycles Have Bells?"
+    },
+    "content": {
+      "zh": "铃声能提醒行人和其他车辆注意，尤其在转角和窄路上。它是自行车上最简单的沟通工具。",
+      "en": "A bell warns pedestrians and other traffic, especially at corners and on narrow paths, and it is the simplest way a cyclist can communicate."
+    }
+  },
+  {
+    "title": {
+      "zh": "晚上骑车为什么要装反光板",
+      "en": "Why Fit Reflectors When Cycling at Night?"
+    },
+    "content": {
+      "zh": "反光板能把车灯的光原路反射回去，司机远远就能看见你。自己不发光，却最省电也最可靠。",
+      "en": "Reflectors send a car's headlight beam straight back, so drivers see you from far off, and though they make no light of their own they are reliable and need no power."
+    }
+  },
+  {
+    "title": {
+      "zh": "船身上为什么有刻度线",
+      "en": "Why Are There Marks on a Ship's Hull?"
+    },
+    "content": {
+      "zh": "那是吃水线，表示船装了多少货、吃水多深。装太满超过标记，船就有危险。",
+      "en": "They are load lines showing how deep the ship sits and how much it carries, and loading past the mark puts the ship in danger."
+    }
+  },
+  {
+    "title": {
+      "zh": "港口为什么建在弯进去的海湾",
+      "en": "Why Are Ports Built in Sheltered Bays?"
+    },
+    "content": {
+      "zh": "弯进去的海湾风浪小，船停靠装卸都安全。水深合适、背后有陆地挡风的地方最适合建港。",
+      "en": "A curving bay keeps waves down so ships can load and unload safely, and deep water with land to break the wind makes the best harbour."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要开凿运河",
+      "en": "Why Are Canals Dug?"
+    },
+    "content": {
+      "zh": "运河把两条水路连起来，船就不用绕远路。巴拿马运河让船少走几千公里，省时又省燃料。",
+      "en": "A canal joins two waterways so ships avoid long detours, and the Panama Canal saves thousands of kilometres, which saves both time and fuel."
+    }
+  },
+  {
+    "title": {
+      "zh": "环岛有什么用",
+      "en": "What Is a Roundabout For?"
+    },
+    "content": {
+      "zh": "车辆绕着中心单向行驶，不用等红绿灯，也不用横穿对向车流，事故更少、通行更顺。",
+      "en": "Traffic circles one way around a centre with no lights to wait for and no crossing of oncoming cars, so there are fewer crashes and smoother flow."
+    }
+  },
+  {
+    "title": {
+      "zh": "马路上为什么要装路灯",
+      "en": "Why Are There Street Lights?"
+    },
+    "content": {
+      "zh": "路灯让司机看清路面和行人，也让人晚上敢出门。亮堂的街道还能减少事故和犯罪。",
+      "en": "Lights let drivers see the road and people, make going out at night feel safe, and brighter streets mean fewer accidents and less crime."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要修人行道",
+      "en": "Why Are There Pavements?"
+    },
+    "content": {
+      "zh": "人行道把人和车分开，走路的人不必跟汽车抢路，安全得多。它也是轮椅和婴儿车的空间。",
+      "en": "A pavement keeps people apart from traffic so walkers do not compete with cars, and it also gives room for wheelchairs and prams."
+    }
+  },
+  {
+    "title": {
+      "zh": "屋檐为什么要伸出来",
+      "en": "Why Do Eaves Stick Out?"
+    },
+    "content": {
+      "zh": "伸出的屋檐把雨水甩离墙脚，免得淋湿墙面、泡坏地基。夏天还能给墙遮一片阴凉。",
+      "en": "Overhanging eaves throw rain clear of the wall so it does not soak the base, and in summer they shade the wall from the sun."
+    }
+  },
+  {
+    "title": {
+      "zh": "水上的房子是怎么盖的",
+      "en": "How Are Houses Built on Water?"
+    },
+    "content": {
+      "zh": "先把木桩或水泥柱打进水底，再在上面架平台盖房。威尼斯和侗族的水上民居都是这么建的。",
+      "en": "Piles of timber or concrete are driven into the bed, a platform is built on top and the house goes up, as in Venice and the stilt homes of southern China."
+    }
+  },
+  {
+    "title": {
+      "zh": "蒙古包为什么是圆形的",
+      "en": "Why Is a Yurt Round?"
+    },
+    "content": {
+      "zh": "圆形最抗风，风从哪边来都能顺着滑过去；同样材料围出的空间也最大，拆装搬运还方便。",
+      "en": "A round shape resists wind best, letting it slip past from any side, encloses the most space for the material used, and is easy to take down and carry."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有人住在窑洞里",
+      "en": "Why Do Some People Live in Cave Dwellings?"
+    },
+    "content": {
+      "zh": "黄土高原的土层又厚又结实，挖出的窑洞冬暖夏凉，还省建材。这是就地取材的老智慧。",
+      "en": "The thick loess soil is firm enough to dig into, and cave homes stay warm in winter and cool in summer while using little material, an old local wisdom."
+    }
+  },
+  {
+    "title": {
+      "zh": "房子为什么要朝南建",
+      "en": "Why Are Houses Built Facing South?"
+    },
+    "content": {
+      "zh": "在北半球，朝南的房子冬天能晒到太阳取暖，夏天阳光高、晒不进屋，一年都舒服。",
+      "en": "In the northern hemisphere a south-facing house catches winter sun for warmth while summer sun rides high and stays out, so it is comfortable all year."
+    }
+  },
+  {
+    "title": {
+      "zh": "地铁站为什么装屏蔽门",
+      "en": "Why Do Metro Stations Have Platform Doors?"
+    },
+    "content": {
+      "zh": "屏蔽门把人和轨道隔开，防止跌落和跳轨，还能挡住列车带来的风，让站台更凉快。",
+      "en": "Platform doors separate people from the track, stopping falls and keeping out the wind trains push ahead, which also cools the platform."
+    }
+  },
+  {
+    "title": {
+      "zh": "马路上为什么要立路牌",
+      "en": "Why Are There Road Signs?"
+    },
+    "content": {
+      "zh": "路牌提前告诉司机前面是什么路、有什么危险，让人有时间准备。认得路牌，出行才安全。",
+      "en": "Signs tell drivers in advance what is ahead and what dangers lie there, giving time to prepare, and knowing them keeps travel safe."
+    }
+  },
+  {
+    "title": {
+      "zh": "城市地下有什么",
+      "en": "What Is Under a City?"
+    },
+    "content": {
+      "zh": "地下埋着自来水管、下水道、电缆、燃气管和地铁，像一座看不见的城市。规划好了，地面才运转顺畅。",
+      "en": "Water mains, sewers, cables, gas pipes and the metro lie beneath, an invisible city, and planning it well keeps everything above running smoothly."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要修人行天桥",
+      "en": "Why Build Footbridges?"
+    },
+    "content": {
+      "zh": "天桥让行人从车流上方走过，不必横穿马路，既安全又不打断车流。车多的路口最适合建。",
+      "en": "Footbridges take people over traffic so they need not cross the road, which is safer and keeps cars moving, and they suit the busiest junctions."
+    }
+  },
+  {
+    "title": {
+      "zh": "路面上的标线有什么用",
+      "en": "What Are Road Markings For?"
+    },
+    "content": {
+      "zh": "白线和黄线把路分成车道，告诉车该走哪、能不能变道。夜里和雨天，它们比什么都管用。",
+      "en": "White and yellow lines divide the road into lanes and say where to drive and whether you may change lane, and at night or in rain nothing works better."
+    }
   }
 ]
