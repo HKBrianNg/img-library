@@ -21,7 +21,8 @@
                 {"name": "青花瓷", "en": "Blue and White Porcelain", "audio": "/audio/blue-and-white-porcelain.mp3", "lyric": "/lyric/blue-and-white-porcelain.lrc"},
                 {"name": "多远都要在一起", "en": "together-forever", "audio": "/audio/together-forever.m4a", "lyric": "/lyric/together-forever.lrc"},
                 {"name": "唯一", "en": "the-one", "audio": "/audio/the-one.m4a", "lyric": "/lyric/the-one.lrc"},
-                {"name": "演员", "en": "actor", "audio": "/audio/actor.m4a", "lyric": "/lyric/actor.lrc"}
+                {"name": "演员", "en": "actor", "audio": "/audio/actor.m4a", "lyric": "/lyric/actor.lrc"},
+                {"name": "认真的雪", "en": "Earnest Snow", "audio": "/audio/earnest-snow.mp3", "lyric": "/lyric/earnest-snow.lrc"}
             ]
 
         }
