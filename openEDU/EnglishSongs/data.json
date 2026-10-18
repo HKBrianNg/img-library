@@ -137,7 +137,8 @@
           "en": "Yesterday",
           "audio": "/audio/yesterday.mp3",
           "lyric": "/lyric/yesterday.lrc"
-        }
+        },
+        {"name": "在你身旁", "en": "Close To You", "audio": "/audio/close-to-you.aac", "lyric": "/lyric/close-to-you.lrc"}
       ]
     }
   ]
