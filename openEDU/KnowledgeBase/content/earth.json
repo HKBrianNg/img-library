@@ -1,0 +1,122 @@
+[
+  {
+    "title": {
+      "zh": "天空为什么是蓝色的",
+      "en": "Why Is the Sky Blue?"
+    },
+    "content": {
+      "zh": "阳光里藏着七种颜色。空气中的小分子最爱把蓝光弹来弹去，撒得满天空都是。所以我们抬头一看，天就是蓝的。",
+      "en": "Sunlight holds seven colours. Tiny bits in the air scatter blue light in every direction, so when we look up, the sky looks blue."
+    }
+  },
+  {
+    "title": {
+      "zh": "云是怎么形成的",
+      "en": "How Do Clouds Form?"
+    },
+    "content": {
+      "zh": "地上的水变成看不见的水蒸气升到高空，那里又冷，水蒸气变回小水珠，聚在一起就成了云。水珠越聚越大，就会落下来变成雨。",
+      "en": "Water rises as invisible vapour. High up it is cold, so the vapour turns back into tiny drops that gather into clouds. When drops grow big, they fall as rain."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会打雷和闪电",
+      "en": "Why Is There Thunder and Lightning?"
+    },
+    "content": {
+      "zh": "云里的冰粒和水珠互相摩擦，攒了很多电。电一下子放出来就是闪电，把周围的空气烤得猛地膨胀，发出巨大的声音，就是雷。",
+      "en": "Ice and water rub together inside a cloud and build up electricity. It discharges as lightning, which heats the air so fast that it bangs — thunder."
+    }
+  },
+  {
+    "title": {
+      "zh": "雪是从哪里来的",
+      "en": "Where Does Snow Come From?"
+    },
+    "content": {
+      "zh": "云里的温度很低时，水蒸气直接冻成小冰晶。冰晶一边落一边粘上更多水汽，长成六角形的雪花，飘飘悠悠落到地上。",
+      "en": "When a cloud is very cold, vapour freezes straight into ice crystals. As they fall they collect more moisture and grow into six-sided snowflakes."
+    }
+  },
+  {
+    "title": {
+      "zh": "风是怎么来的",
+      "en": "Where Does Wind Come From?"
+    },
+    "content": {
+      "zh": "太阳把有的地方晒得热、有的地方晒得凉。热空气轻往上跑，冷空气重跑过来补位，空气这样流动起来，就是我们感到的风。",
+      "en": "The sun warms some places more than others. Warm, light air rises and heavy cold air moves in to take its place. That moving air is wind."
+    }
+  },
+  {
+    "title": {
+      "zh": "地震是怎么发生的",
+      "en": "How Do Earthquakes Happen?"
+    },
+    "content": {
+      "zh": "地球表面是由几大块\"拼图\"拼起来的，它们一直在慢慢移动。两块挤在一起，卡住的地方突然错开，地面就震动起来。",
+      "en": "Earth’s outer shell is made of huge plates that move slowly. When two push against each other and a stuck edge gives way suddenly, the ground shakes."
+    }
+  },
+  {
+    "title": {
+      "zh": "火山为什么会喷发",
+      "en": "Why Do Volcanoes Erupt?"
+    },
+    "content": {
+      "zh": "地底下很热，岩石熔化成岩浆。岩浆里混着气体，越积越多、压力越来越大，就从地壳的裂缝里冲出来，把山顶炸开。",
+      "en": "Deep underground it is hot enough to melt rock into magma. Gas mixed in builds up pressure until the magma bursts through cracks in the crust."
+    }
+  },
+  {
+    "title": {
+      "zh": "河流是从哪里开始的",
+      "en": "Where Does a River Begin?"
+    },
+    "content": {
+      "zh": "高山上的雪水、雨水、泉水一点点往下流，汇成小溪，小溪再汇在一起，越流越大，就成了河，最后流进大海。",
+      "en": "Melted snow, rain and springs trickle downhill into small streams. Streams join up and grow wider until they become a river, which ends in the sea."
+    }
+  },
+  {
+    "title": {
+      "zh": "山是怎么长出来的",
+      "en": "How Are Mountains Made?"
+    },
+    "content": {
+      "zh": "地球的板块互相挤压，把地面顶得皱起来、拱上去，越拱越高就成了山。也有的山是火山喷出的岩浆堆起来的。",
+      "en": "When Earth’s plates push together, the ground wrinkles and is pushed up higher and higher into mountains. Some mountains are built from erupted lava."
+    }
+  },
+  {
+    "title": {
+      "zh": "彩虹是怎么出现的",
+      "en": "How Does a Rainbow Appear?"
+    },
+    "content": {
+      "zh": "雨后空气里挂满小水珠，阳光钻进水珠会拐个弯，还把七种颜色分开，红的在外、紫的在里，天空中就架起一道彩虹。",
+      "en": "After rain the air is full of tiny drops. Sunlight bends inside a drop and splits into seven colours, red outside and violet inside, forming a rainbow."
+    }
+  },
+  {
+    "title": {
+      "zh": "岩石为什么会慢慢变小",
+      "en": "Why Do Rocks Wear Away?"
+    },
+    "content": {
+      "zh": "风吹、日晒、雨淋，还有树根往缝里钻，都会一点一点把石头磨碎，这叫风化。碎下来的沙子和泥土，慢慢变成了土壤。",
+      "en": "Wind, sun, rain and tree roots all wear rock down bit by bit. This is called weathering. The broken pieces become sand and soil."
+    }
+  },
+  {
+    "title": {
+      "zh": "沙漠里为什么白天热晚上冷",
+      "en": "Why Are Deserts Hot by Day and Cold at Night?"
+    },
+    "content": {
+      "zh": "沙漠里水少、云也少。白天太阳直晒，地面一下子就烫；晚上没有云盖着，热气全跑回天空，温度降得很快。",
+      "en": "Deserts have little water and few clouds. By day the sun beats straight down and the ground heats fast. By night no clouds hold the heat in, so it cools quickly."
+    }
+  }
+]

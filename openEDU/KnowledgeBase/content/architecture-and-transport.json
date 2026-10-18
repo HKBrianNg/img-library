@@ -1,0 +1,122 @@
+[
+  {
+    "title": {
+      "zh": "房子为什么能立住不倒",
+      "en": "Why Don’t Buildings Fall Down?"
+    },
+    "content": {
+      "zh": "房子的重量顺着柱子、墙一直传到地基，再传到地上。柱子直、地基稳，重量就稳稳地被传下去，房子就立住了。",
+      "en": "A building’s weight passes down through columns and walls into the foundations and then the ground. Straight columns and firm ground keep it standing."
+    }
+  },
+  {
+    "title": {
+      "zh": "桥为什么能跨过河",
+      "en": "How Can a Bridge Cross a River?"
+    },
+    "content": {
+      "zh": "桥把自身的重量和车子的重量，沿着桥面传到两端的桥墩，再压进地里。拱形、斜拉、梁式，都是想办法把力传走。",
+      "en": "A bridge carries its own weight and the traffic along the deck to piers at each end, then into the ground. Arches, cables and beams all move the force along."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么高楼要打地基",
+      "en": "Why Do Tall Buildings Need Foundations?"
+    },
+    "content": {
+      "zh": "高楼很重，直接放在松土上会慢慢陷下去、歪掉。往地下打进深深的桩，才能把重量传到下面坚硬的土层或岩石上。",
+      "en": "A tall building is heavy; on soft soil it would sink and tilt. Deep piles are driven down to carry the weight to hard soil or rock below."
+    }
+  },
+  {
+    "title": {
+      "zh": "隧道是怎么挖出来的",
+      "en": "How Are Tunnels Dug?"
+    },
+    "content": {
+      "zh": "工人用巨大的盾构机往前推，前面的刀盘把土和石头切下来运走，后面立刻拼好一圈圈管片，撑住挖出来的洞壁。",
+      "en": "Workers push a huge tunnelling machine forward. Its cutting head slices soil and rock, which is carried away, and ring-shaped segments are fitted behind to hold the walls."
+    }
+  },
+  {
+    "title": {
+      "zh": "飞机为什么能飞上天",
+      "en": "Why Can Aeroplanes Fly?"
+    },
+    "content": {
+      "zh": "机翼上面鼓、下面平。空气从上面走得快、压力小，下面走得慢、压力大，上下一压一托，就把飞机托了起来。",
+      "en": "A wing is curved on top and flat beneath. Air moves faster over the top, lowering pressure there, while higher pressure below pushes the wing up."
+    }
+  },
+  {
+    "title": {
+      "zh": "高铁为什么跑得那么快",
+      "en": "Why Do High-Speed Trains Go So Fast?"
+    },
+    "content": {
+      "zh": "高铁车身做成流线型减少空气阻力，还用电力驱动，轮子沿着专用轨道跑，没有红绿灯和交叉路口，所以又快又稳。",
+      "en": "Its streamlined body cuts air resistance, electric motors drive it, and it runs on dedicated track with no lights or junctions, so it is both fast and steady."
+    }
+  },
+  {
+    "title": {
+      "zh": "地铁为什么在地下跑",
+      "en": "Why Do Subways Run Underground?"
+    },
+    "content": {
+      "zh": "城市地面又挤又堵，把铁路修到地下就不占马路，也不受天气影响。专门的车厢和隧道，让很多人能同时进城。",
+      "en": "City streets are crowded, so putting the railway underground saves road space and avoids weather. Dedicated tunnels and carriages carry many people at once."
+    }
+  },
+  {
+    "title": {
+      "zh": "自行车骑起来为什么不会倒",
+      "en": "Why Doesn’t a Bicycle Fall Over?"
+    },
+    "content": {
+      "zh": "车轮转起来时，转动的车轮想保持原来的方向，就像陀螺一样立着不倒。骑得越快，这股稳住的力量就越大。",
+      "en": "A spinning wheel tends to keep its direction, like a spinning top staying upright. The faster you ride, the stronger this steadying effect."
+    }
+  },
+  {
+    "title": {
+      "zh": "电梯为什么不会掉下来",
+      "en": "Why Don’t Lifts Fall?"
+    },
+    "content": {
+      "zh": "电梯有粗粗的钢丝绳拉着。就算绳子全断了，导轨上还有安全钳会死死咬住导轨，把轿厢夹住停住。",
+      "en": "Lifts hang from thick steel ropes. Even if they all broke, safety clamps on the guide rails would grip tightly and hold the car in place."
+    }
+  },
+  {
+    "title": {
+      "zh": "金字塔是怎么建起来的",
+      "en": "How Were the Pyramids Built?"
+    },
+    "content": {
+      "zh": "古埃及人用铜凿子凿出巨石，靠斜坡和木撬一点点往上拖，一层一层堆上去。几万个人工，干了几十年的活儿。",
+      "en": "Workers cut huge blocks with copper tools and dragged them up ramps on wooden sledges, layer by layer. Tens of thousands of people worked for decades."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么马路要有红绿灯",
+      "en": "Why Do Roads Have Traffic Lights?"
+    },
+    "content": {
+      "zh": "路口的车和人要从不同方向过，都一起走就会撞上。红绿灯给每个方向轮流一段时间，路口就有秩序又安全。",
+      "en": "Traffic and people cross from different directions at a junction, and going together causes crashes. Lights give each direction a turn, keeping it orderly and safe."
+    }
+  },
+  {
+    "title": {
+      "zh": "汽车轮胎上为什么有花纹",
+      "en": "Why Do Tyres Have Tread?"
+    },
+    "content": {
+      "zh": "花纹能把雨天路面上的水排走，让橡胶直接碰到地面不打滑；还能增加摩擦，刹车和转弯时更稳当。",
+      "en": "Tread channels water away on wet roads so the rubber grips the ground instead of sliding. It also adds friction, making braking and turning steadier."
+    }
+  }
+]

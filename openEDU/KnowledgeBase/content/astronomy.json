@@ -1,0 +1,122 @@
+[
+  {
+    "title": {
+      "zh": "星星为什么会一闪一闪",
+      "en": "Why Do Stars Twinkle?"
+    },
+    "content": {
+      "zh": "星星的光要穿过地球的空气才能到我们眼睛里。空气一直在流动，忽冷忽热，光被推得歪来歪去，看起来就像在眨眼睛。",
+      "en": "Starlight must pass through our air to reach us. The moving air bends the light this way and that, so the stars seem to twinkle."
+    }
+  },
+  {
+    "title": {
+      "zh": "太阳为什么总也烧不完",
+      "en": "Why Does the Sun Never Burn Out?"
+    },
+    "content": {
+      "zh": "太阳不是在\"烧东西\"，而是中心把氢变成氦，放出巨大的光和热。它还有够用几十亿年的氢，所以不会马上烧完。",
+      "en": "The sun is not burning fuel like a fire. Deep inside it turns hydrogen into helium, releasing light and heat. It has hydrogen for billions of years yet."
+    }
+  },
+  {
+    "title": {
+      "zh": "流星是怎么回事",
+      "en": "What Is a Shooting Star?"
+    },
+    "content": {
+      "zh": "太空里有许多小石块，飞进地球空气时和空气猛烈摩擦，变得又烫又亮，划出一道光。大多数还没落地就烧没了。",
+      "en": "Small rocks in space rub hard against our air when they fall in. They get so hot that they glow and streak across the sky. Most burn up before landing."
+    }
+  },
+  {
+    "title": {
+      "zh": "黑洞到底是什么",
+      "en": "What Is a Black Hole?"
+    },
+    "content": {
+      "zh": "黑洞是引力特别特别大的地方，连跑得最快的光都逃不出来，所以它看起来黑黑的。它并不是一个真的洞。",
+      "en": "A black hole is a place with gravity so strong that even light cannot escape, so it looks black. It is not a hole you could fall through."
+    }
+  },
+  {
+    "title": {
+      "zh": "地球为什么不会掉下去",
+      "en": "Why Does Earth Not Fall Down?"
+    },
+    "content": {
+      "zh": "太空中没有\"上\"和\"下\"，也没有地面可以掉下去。地球一直绕着太阳转，太阳的引力拉住它，它就稳稳地跑在轨道上。",
+      "en": "In space there is no up or down, and no floor to fall to. Earth keeps moving around the sun, and the sun’s gravity holds it in its path."
+    }
+  },
+  {
+    "title": {
+      "zh": "我们为什么只看到月亮的一面",
+      "en": "Why Do We Only See One Side of the Moon?"
+    },
+    "content": {
+      "zh": "月亮自己转一圈的时间和绕地球转一圈的时间刚好一样长，所以它总是用同一面朝着我们，背面我们在地球上永远看不到。",
+      "en": "The moon takes exactly as long to spin once as to circle the Earth. So it always keeps the same face towards us, and we never see the far side."
+    }
+  },
+  {
+    "title": {
+      "zh": "土星为什么有一圈光环",
+      "en": "Why Does Saturn Have Rings?"
+    },
+    "content": {
+      "zh": "土星周围围着无数冰块和石头，大的像房子，小的像沙粒。它们绕着土星转，从远处看连成一圈亮亮的光环。",
+      "en": "Countless chunks of ice and rock orbit Saturn, some house-sized and some like grains of sand. From far away they look like one bright ring."
+    }
+  },
+  {
+    "title": {
+      "zh": "彗星为什么拖着长尾巴",
+      "en": "Why Do Comets Have Long Tails?"
+    },
+    "content": {
+      "zh": "彗星是个\"脏雪球\"，飞近太阳时受热，里面的冰变成气体往外喷，被太阳风吹向后方，就拖出一条长长的尾巴。",
+      "en": "A comet is a dirty snowball. Near the sun it warms up and its ice turns to gas, which the solar wind blows backwards into a long tail."
+    }
+  },
+  {
+    "title": {
+      "zh": "火星为什么是红色的",
+      "en": "Why Is Mars Red?"
+    },
+    "content": {
+      "zh": "火星的地面上全是含铁的尘土，铁生锈以后是红褐色的，整颗星球看上去就是红色的，像一颗生锈的大石头。",
+      "en": "Mars is covered in dust containing iron. When iron rusts it turns reddish-brown, so the whole planet looks red, like a rusty rock."
+    }
+  },
+  {
+    "title": {
+      "zh": "银河是一条河吗",
+      "en": "Is the Milky Way a River?"
+    },
+    "content": {
+      "zh": "银河不是河，而是无数颗星星挤在一起，密得连成一条亮带。我们住在银河系里面，所以它看上去像横过天空的一条河。",
+      "en": "The Milky Way is not a river. It is countless stars packed so tightly that they form a bright band. We live inside it, so it looks like a river across the sky."
+    }
+  },
+  {
+    "title": {
+      "zh": "白天星星到哪里去了",
+      "en": "Where Do Stars Go in the Daytime?"
+    },
+    "content": {
+      "zh": "星星一直挂在天上，白天也没走开。只是太阳把空气照得太亮，星星那点光比不过太阳光，我们的眼睛就看不见它们了。",
+      "en": "The stars are there all day too. Sunlight makes the air so bright that the faint starlight is lost in it, so our eyes cannot pick them out."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会有春夏秋冬",
+      "en": "Why Do We Have Four Seasons?"
+    },
+    "content": {
+      "zh": "地球是斜着身子绕太阳转的。转到某一边朝向太阳时，白天长、阳光直，就是夏天；转到另一边斜着晒，就是冬天。",
+      "en": "Earth leans over as it goes around the sun. When one side leans towards the sun, days are long and the light is direct — summer. Leaning away gives winter."
+    }
+  }
+]

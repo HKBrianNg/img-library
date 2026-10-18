@@ -1,0 +1,122 @@
+[
+  {
+    "title": {
+      "zh": "海水为什么是咸的",
+      "en": "Why Is Sea Water Salty?"
+    },
+    "content": {
+      "zh": "雨水冲过陆地时，会把岩石里的一点盐带进河里，河又流进海。水蒸发走了，盐留了下来，几亿年越攒越咸。",
+      "en": "Rain washes a little salt out of rocks into rivers and on to the sea. Water evaporates but salt stays, so over ages the sea grew salty."
+    }
+  },
+  {
+    "title": {
+      "zh": "潮水为什么会涨落",
+      "en": "Why Do Tides Rise and Fall?"
+    },
+    "content": {
+      "zh": "月亮和太阳拉着地球上的海水，朝着它们那一边的海水被拉得鼓起来，就是涨潮；转到别的方向，海水退回去，就是落潮。",
+      "en": "The moon and sun pull on the sea, making it bulge on the side facing them — high tide. As Earth turns, the water falls back — low tide."
+    }
+  },
+  {
+    "title": {
+      "zh": "海浪是怎么来的",
+      "en": "Where Do Waves Come From?"
+    },
+    "content": {
+      "zh": "风推着水面，把水推成一排排起伏的波。风越大、吹得越久、海面越宽，浪就越高。浪到了浅处会立起来拍向岸边。",
+      "en": "Wind pushes the surface into rolling waves. Stronger wind, longer blowing and wider sea make higher waves. In shallow water they rise and break on shore."
+    }
+  },
+  {
+    "title": {
+      "zh": "珊瑚是植物吗",
+      "en": "Is Coral a Plant?"
+    },
+    "content": {
+      "zh": "珊瑚不是植物，而是许多很小的小动物——珊瑚虫的家。它们分泌出硬硬的石灰质外壳，一代代堆成了珊瑚礁。",
+      "en": "Coral is not a plant but the home of tiny animals called polyps, which build hard limestone shells. Generation after generation these pile into reefs."
+    }
+  },
+  {
+    "title": {
+      "zh": "深海里为什么是黑的",
+      "en": "Why Is the Deep Sea Dark?"
+    },
+    "content": {
+      "zh": "阳光只能照到海水上面薄薄一层，往下越来越暗。到大约 1000 米以下就全黑了，那里的许多动物自己会发光。",
+      "en": "Sunlight reaches only the upper layer, and it gets darker below. Past about 1000 metres it is completely dark, and many animals there make their own light."
+    }
+  },
+  {
+    "title": {
+      "zh": "鲸鱼为什么会喷水",
+      "en": "Why Do Whales Spout Water?"
+    },
+    "content": {
+      "zh": "鲸鱼是用肺呼吸的，要浮上来换气。它呼出的热气碰到冷空气变成小水珠，被猛地喷出来，看上去像一道小喷泉。",
+      "en": "Whales breathe with lungs and must surface for air. Their warm breath meets cold air, condensing into droplets that shoot up like a little fountain."
+    }
+  },
+  {
+    "title": {
+      "zh": "海豚为什么那么聪明",
+      "en": "Why Are Dolphins So Smart?"
+    },
+    "content": {
+      "zh": "海豚的大脑很大、沟回很多。它们会用声音互相\"说话\"，还能听回声判断前面有什么，学新本领也很快。",
+      "en": "Dolphins have large, deeply folded brains. They talk with sound and read echoes to sense what lies ahead, and they learn new tricks quickly."
+    }
+  },
+  {
+    "title": {
+      "zh": "鱼为什么能在水里呼吸",
+      "en": "How Do Fish Breathe Underwater?"
+    },
+    "content": {
+      "zh": "鱼用鳃呼吸。水从嘴进去、从鳃流出来，鳃能把水里的氧气捞出来送给身体，所以鱼离开水就喘不上气。",
+      "en": "Fish breathe with gills. Water flows in at the mouth and out over the gills, which take oxygen from it. That is why a fish cannot breathe out of water."
+    }
+  },
+  {
+    "title": {
+      "zh": "海底有没有山",
+      "en": "Are There Mountains Under the Sea?"
+    },
+    "content": {
+      "zh": "有。海底也有高山、深谷和平原，有的海山比陆地上的山还高，只是顶部藏在水下，我们平时看不见。",
+      "en": "Yes. The sea floor has mountains, valleys and plains. Some seamounts are taller than mountains on land, but their tops stay hidden beneath the water."
+    }
+  },
+  {
+    "title": {
+      "zh": "海水为什么看起来是蓝的",
+      "en": "Why Does the Sea Look Blue?"
+    },
+    "content": {
+      "zh": "海水会先吸收红光、黄光，把蓝光留下来反射到我们眼睛里，所以大海看着蓝。近岸水浅、有沙子，就会偏绿。",
+      "en": "Water absorbs red and yellow light and leaves blue to be reflected, so the sea looks blue. Near shore, shallow water and sand make it greener."
+    }
+  },
+  {
+    "title": {
+      "zh": "海星断了手臂还能长出来吗",
+      "en": "Can a Starfish Regrow an Arm?"
+    },
+    "content": {
+      "zh": "能。海星有很强的再生本领，断掉的胳膊能慢慢重新长出来。有的海星甚至能从半截身体，再长成一整只。",
+      "en": "Yes. Starfish regenerate well, slowly growing a lost arm back. Some can even regrow a whole body from just part of one."
+    }
+  },
+  {
+    "title": {
+      "zh": "最深的海有多深",
+      "en": "How Deep Is the Deepest Sea?"
+    },
+    "content": {
+      "zh": "最深的地方是马里亚纳海沟，大约 11000 米。把世界最高的珠穆朗玛峰放进去，山顶还差两千多米才露出水面。",
+      "en": "The deepest spot, the Mariana Trench, is about 11,000 metres down. Put Mount Everest inside it and the peak would still be over two kilometres underwater."
+    }
+  }
+]

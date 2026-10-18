@@ -1,0 +1,122 @@
+[
+  {
+    "title": {
+      "zh": "电是从哪里来的",
+      "en": "Where Does Electricity Come From?"
+    },
+    "content": {
+      "zh": "发电厂里，烧煤、用水力、用风或者核能把机器带动起来，机器一转就能发出电。电沿着电线一路跑到家里的插座。",
+      "en": "In a power station, coal, water, wind or nuclear energy turns a machine, and the turning makes electricity. It travels along wires to the sockets at home."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要节约用电",
+      "en": "Why Should We Save Electricity?"
+    },
+    "content": {
+      "zh": "发电要烧煤、烧气，会产生让地球变暖的气体，资源也是用一点少一点。随手关灯、拔掉不用的插头，就是在节约。",
+      "en": "Making electricity burns coal or gas, which warms the planet and uses up resources. Switching off lights and unplugging things saves power."
+    }
+  },
+  {
+    "title": {
+      "zh": "太阳能是怎么发电的",
+      "en": "How Do Solar Panels Make Electricity?"
+    },
+    "content": {
+      "zh": "太阳能板里有一种特别的材料，太阳一照就能把光直接变成电。阴天和晚上发得少，所以要配着蓄电池一起用。",
+      "en": "Solar panels hold a special material that turns light straight into electricity. They make less on cloudy days and at night, so batteries are used too."
+    }
+  },
+  {
+    "title": {
+      "zh": "风车为什么能发电",
+      "en": "How Do Wind Turbines Make Power?"
+    },
+    "content": {
+      "zh": "风推着叶片转起来，转动的力带动里面的发电机，就能发出电。风越大、叶片越长，发出来的电就越多。",
+      "en": "Wind pushes the blades round, and the turning drives a generator that makes electricity. Stronger wind and longer blades mean more power."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要垃圾分类",
+      "en": "Why Should We Sort Our Rubbish?"
+    },
+    "content": {
+      "zh": "分好类的垃圾能变成新东西：纸再造成纸，玻璃熔了再做玻璃。混在一起就不好用了，只能埋掉或烧掉，白白浪费。",
+      "en": "Sorted waste becomes new things: paper into paper, glass into glass. Mixed together it is hard to use, so it is buried or burned and wasted."
+    }
+  },
+  {
+    "title": {
+      "zh": "塑料袋为什么不好",
+      "en": "Why Are Plastic Bags Bad?"
+    },
+    "content": {
+      "zh": "塑料袋几百年都不烂，埋在地里挡住水分，掉进海里会被动物误当成食物。用布袋或篮子，能反复用上很多次。",
+      "en": "Plastic bags last for centuries. Buried, they block water; in the sea, animals mistake them for food. Cloth bags and baskets can be used again and again."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么南极的冰在融化",
+      "en": "Why Is Antarctic Ice Melting?"
+    },
+    "content": {
+      "zh": "地球越来越暖，南极的冰化得比新雪积得还快。冰化成水流进海里，海平面就会慢慢升高，海边的地方会被淹。",
+      "en": "As Earth warms, Antarctic ice melts faster than new snow builds up. The meltwater raises sea levels, slowly flooding coastal places."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要种树",
+      "en": "Why Should We Plant Trees?"
+    },
+    "content": {
+      "zh": "树会吸走空气里让地球变暖的气体，放出氧气；树根还能抓住泥土，不让雨水冲走。树多了，空气好、水土也保得住。",
+      "en": "Trees absorb the gas that warms the planet and give out oxygen. Their roots hold soil so rain cannot wash it away. More trees mean cleaner air and safer ground."
+    }
+  },
+  {
+    "title": {
+      "zh": "汽车尾气为什么有害",
+      "en": "Why Is Car Exhaust Harmful?"
+    },
+    "content": {
+      "zh": "汽车烧油排出的尾气里有一氧化碳、氮氧化物这类有害的东西，会让人不舒服，也会让地球变暖、天空变灰。",
+      "en": "Exhaust from burning fuel contains harmful substances such as carbon monoxide and nitrogen oxides. They make people ill, warm the planet and grey the sky."
+    }
+  },
+  {
+    "title": {
+      "zh": "水坝是怎么发电的",
+      "en": "How Does a Dam Make Electricity?"
+    },
+    "content": {
+      "zh": "水坝把河水拦起来，水位变高。放水时水从高处冲下来，冲动水轮机，水轮机再带动发电机，就发出了电。",
+      "en": "A dam holds river water back so the level rises. When released, the falling water spins a turbine, which drives a generator and makes electricity."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么地球会变暖",
+      "en": "Why Is Earth Getting Warmer?"
+    },
+    "content": {
+      "zh": "烧煤、烧油会放出二氧化碳，它像一层被子盖住地球，把热量留在里面散不出去。被子越厚，地球就越暖。",
+      "en": "Burning coal and oil releases carbon dioxide, which acts like a blanket around Earth, keeping heat from escaping. The thicker the blanket, the warmer the planet."
+    }
+  },
+  {
+    "title": {
+      "zh": "电池为什么要回收",
+      "en": "Why Should Batteries Be Recycled?"
+    },
+    "content": {
+      "zh": "电池里含着一些有毒的金属，随便扔会渗进土里和水里，害了庄稼也害了我们。回收能把它们拿出来重新使用。",
+      "en": "Batteries contain toxic metals. Thrown away, they leak into soil and water, harming crops and people. Recycling recovers them for reuse."
+    }
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": {
+      "zh": "苹果切开后为什么会变色",
+      "en": "Why Do Apple Slices Turn Brown?"
+    },
+    "content": {
+      "zh": "苹果里的东西碰到空气，会和氧气发生反应，变成褐色的新物质。泡在盐水里挡住空气，苹果就不容易变色。",
+      "en": "Things inside the apple react with oxygen in the air and turn brown. Soaking the slices in salty water keeps air away and stops the browning."
+    }
+  },
+  {
+    "title": {
+      "zh": "铁为什么会生锈",
+      "en": "Why Does Iron Rust?"
+    },
+    "content": {
+      "zh": "铁遇到空气里的氧气和水，会慢慢变成一种红褐色的新东西，就是铁锈。刷上油漆把空气和水挡在外面，铁就不容易生锈。",
+      "en": "Iron meets oxygen and water and slowly turns into a reddish-brown substance called rust. Paint keeps air and water out, so the iron stays safe."
+    }
+  },
+  {
+    "title": {
+      "zh": "面包为什么会有小孔",
+      "en": "Why Does Bread Have Holes?"
+    },
+    "content": {
+      "zh": "面团里加了酵母菌，它吃点糖就会吐出许多小气泡。烤的时候气泡被固定住，面包里就留下了一个个小孔。",
+      "en": "Yeast is added to the dough. It eats sugar and gives off bubbles of gas. Baking sets the bubbles in place, leaving little holes in the bread."
+    }
+  },
+  {
+    "title": {
+      "zh": "牛奶为什么会变成酸奶",
+      "en": "How Does Milk Become Yoghurt?"
+    },
+    "content": {
+      "zh": "牛奶里加进一些有益的小细菌，它们把牛奶里的糖变成酸，牛奶就变稠、变酸，成了酸奶。放进冰箱，它们就慢下来。",
+      "en": "Helpful bacteria are added to milk. They turn the milk sugar into acid, so the milk becomes thick and sour — yoghurt. In the fridge they slow down."
+    }
+  },
+  {
+    "title": {
+      "zh": "肥皂为什么能洗掉油",
+      "en": "Why Does Soap Wash Away Grease?"
+    },
+    "content": {
+      "zh": "油和水合不来，光用水冲不掉。肥皂一头喜欢水、一头喜欢油，喜欢油的那一头抓住油，另一头被水带走，油就被冲走了。",
+      "en": "Oil and water do not mix. Soap has one end that likes water and one that likes oil. The oily end grabs the grease and the watery end lets water wash it away."
+    }
+  },
+  {
+    "title": {
+      "zh": "蜡烛烧着烧着去哪了",
+      "en": "Where Does a Burning Candle Go?"
+    },
+    "content": {
+      "zh": "蜡烛没有消失，它受热变成气体，和空气里的氧气合在一起，变成了看不见的水蒸气和二氧化碳，飘走了。",
+      "en": "The candle does not vanish. Heat turns the wax into a gas that joins with oxygen, becoming invisible water vapour and carbon dioxide that float away."
+    }
+  },
+  {
+    "title": {
+      "zh": "汽水里的气泡是什么",
+      "en": "What Are the Bubbles in Soda?"
+    },
+    "content": {
+      "zh": "工厂把二氧化碳气体压进汽水里，一拧开瓶盖，压力变小，气体就跑出来，变成一串串小气泡往上冒。",
+      "en": "Carbon dioxide is pressed into the drink at the factory. When you open the bottle the pressure drops, and the gas escapes as streams of bubbles."
+    }
+  },
+  {
+    "title": {
+      "zh": "糖放进水里为什么不见了",
+      "en": "Why Does Sugar Disappear in Water?"
+    },
+    "content": {
+      "zh": "糖并没有消失，它分成一颗颗小得看不见的颗粒，钻到水分子中间去了，这叫溶解。水还是甜的，只是看不见糖了。",
+      "en": "The sugar has not gone. It breaks into pieces too small to see and slips between the water particles. This is called dissolving. The water still tastes sweet."
+    }
+  },
+  {
+    "title": {
+      "zh": "米饭为什么要加水煮",
+      "en": "Why Do We Cook Rice with Water?"
+    },
+    "content": {
+      "zh": "干米粒又硬又干，煮的时候水钻进米粒里，把它泡得又软又松，就成了能吃的米饭。不加水，米粒会一直硬邦邦。",
+      "en": "Dry rice is hard. While it cooks, water seeps into each grain and makes it soft and fluffy, ready to eat. Without water the grains stay hard."
+    }
+  },
+  {
+    "title": {
+      "zh": "鸡蛋煮熟为什么会变硬",
+      "en": "Why Do Eggs Harden When Boiled?"
+    },
+    "content": {
+      "zh": "生鸡蛋里是流动的液体，加热后里面的蛋白质会互相拉住手，变成固体。再怎么煮，它也不会变回液体了。",
+      "en": "A raw egg is liquid. Heating makes the proteins inside link together and turn solid. No matter how long you cook it, it will not become liquid again."
+    }
+  },
+  {
+    "title": {
+      "zh": "薄荷糖放进可乐为什么会喷出来",
+      "en": "Why Does Cola Erupt with Mints?"
+    },
+    "content": {
+      "zh": "可乐里藏着很多二氧化碳，薄荷糖表面又粗糙，正好给气泡提供了无数个\"起跑点\"，气泡一下子全冒出来，就喷了。",
+      "en": "Cola holds lots of carbon dioxide. The rough surface of a mint gives the gas countless places to form bubbles, so they all rush out at once and it erupts."
+    }
+  },
+  {
+    "title": {
+      "zh": "切洋葱为什么会流泪",
+      "en": "Why Does Cutting Onions Make You Cry?"
+    },
+    "content": {
+      "zh": "洋葱被切破时会放出一种刺鼻的气体，它碰到眼睛里的水就变成微微的酸，眼睛受不了，就赶紧流泪把它冲走。",
+      "en": "Cutting an onion releases a sharp gas. It mixes with the water in your eyes and makes a mild acid, so your eyes water to wash it away."
+    }
+  }
+]

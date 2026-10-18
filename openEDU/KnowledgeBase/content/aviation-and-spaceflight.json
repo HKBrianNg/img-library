@@ -1,0 +1,122 @@
+[
+  {
+    "title": {
+      "zh": "火箭是怎么飞上天的",
+      "en": "How Do Rockets Lift Off?"
+    },
+    "content": {
+      "zh": "火箭往下喷出又猛又快的高温气体，气体反过来推着火箭往上走，这叫作用力与反作用力。燃料很足才冲得出地球。",
+      "en": "A rocket blasts hot gas downwards at great speed, and the gas pushes back, lifting it up — action and reaction. Plenty of fuel lets it escape Earth."
+    }
+  },
+  {
+    "title": {
+      "zh": "宇航员在太空怎么睡觉",
+      "en": "How Do Astronauts Sleep in Space?"
+    },
+    "content": {
+      "zh": "太空里会飘，宇航员钻进挂在墙上的睡袋，把自己固定住，免得睡着以后飘来飘去撞到仪器。",
+      "en": "Everything floats in space, so astronauts zip themselves into sleeping bags fixed to the wall, to avoid drifting about and hitting equipment."
+    }
+  },
+  {
+    "title": {
+      "zh": "宇航员在太空怎么喝水",
+      "en": "How Do Astronauts Drink in Space?"
+    },
+    "content": {
+      "zh": "水在失重下会变成飘浮的小球，所以宇航员用带吸管的袋子喝。空间站里还会把用过的水回收净化，再喝。",
+      "en": "In weightlessness water forms floating balls, so astronauts drink from pouches with straws. On the station, used water is recycled and purified for drinking."
+    }
+  },
+  {
+    "title": {
+      "zh": "太空里能听到声音吗",
+      "en": "Can You Hear Sound in Space?"
+    },
+    "content": {
+      "zh": "不能。太空几乎是空的，没有空气把振动传过来，声音就传不了。宇航员要靠无线电说话，才能互相听见。",
+      "en": "No. Space is almost empty, with no air to carry vibrations, so sound cannot travel. Astronauts talk by radio to hear one another."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么宇航员要穿宇航服",
+      "en": "Why Do Astronauts Wear Spacesuits?"
+    },
+    "content": {
+      "zh": "太空里没有空气，温度极冷极热，还有强烈的辐射。宇航服能供氧、保持压力和温度，像把一个小地球穿在身上。",
+      "en": "Space has no air, swings between fierce heat and cold, and carries strong radiation. A spacesuit supplies oxygen and keeps pressure and temperature steady."
+    }
+  },
+  {
+    "title": {
+      "zh": "空间站是什么",
+      "en": "What Is a Space Station?"
+    },
+    "content": {
+      "zh": "空间站是绕着地球飞的大房子，宇航员在里面住几个月，做实验、看地球。它由许多舱段一节一节在太空里拼起来。",
+      "en": "A space station is a large home orbiting Earth where astronauts live for months, running experiments and watching our planet. It is assembled module by module."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么在太空会飘起来",
+      "en": "Why Do Astronauts Float?"
+    },
+    "content": {
+      "zh": "不是因为没有引力，而是宇航员和飞船一起绕地球飞、一起往下掉，谁也落不到谁身上，看起来就像飘着。",
+      "en": "Not because gravity is gone. The astronauts and their craft fall around Earth together, so neither lands on the other and both seem to float."
+    }
+  },
+  {
+    "title": {
+      "zh": "人类第一次登上月球是什么时候",
+      "en": "When Did Humans First Land on the Moon?"
+    },
+    "content": {
+      "zh": "1969 年 7 月，美国的阿波罗 11 号把两位宇航员送上月球，阿姆斯特朗第一个踏上去，留下人类的第一个脚印。",
+      "en": "In July 1969 Apollo 11 carried two Americans to the moon. Armstrong stepped down first, leaving the first human footprint there."
+    }
+  },
+  {
+    "title": {
+      "zh": "卫星是干什么的",
+      "en": "What Do Satellites Do?"
+    },
+    "content": {
+      "zh": "卫星绕着地球转，帮我们打电话、看电视、导航定位，还能拍云图预报天气、观察森林和海洋。",
+      "en": "Satellites circle Earth, carrying phone calls and TV, guiding navigation, photographing clouds for weather forecasts, and watching forests and oceans."
+    }
+  },
+  {
+    "title": {
+      "zh": "火箭和航天飞机有什么不同",
+      "en": "What Is the Difference Between a Rocket and a Shuttle?"
+    },
+    "content": {
+      "zh": "火箭用完就扔，一次送一趟；航天飞机像一架带翅膀的飞船，能飞回来重复使用。现在更多用火箭加飞船的组合。",
+      "en": "A rocket is used once and discarded; a space shuttle has wings, returns and flies again. Today most use a rocket plus capsule combination."
+    }
+  },
+  {
+    "title": {
+      "zh": "火箭为什么一节一节掉下来",
+      "en": "Why Do Rockets Drop Their Stages?"
+    },
+    "content": {
+      "zh": "火箭很重，燃料烧完的空壳就是白带的重量。一节用完就抛掉，剩下的部分更轻，才能飞得更快、更远。",
+      "en": "A rocket is heavy, and an empty tank is dead weight. Dropping each spent stage leaves the rest lighter, so it can fly faster and farther."
+    }
+  },
+  {
+    "title": {
+      "zh": "中国有自己的空间站吗",
+      "en": "Does China Have Its Own Space Station?"
+    },
+    "content": {
+      "zh": "有。中国建造了\"天宫\"空间站，2022 年基本建成，航天员常年在上面工作，做实验，也给地面的同学上课。",
+      "en": "Yes. China built the Tiangong space station, largely completed in 2022. Astronauts work aboard for months, running experiments and even teaching classes on Earth."
+    }
+  }
+]

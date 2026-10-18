@@ -1,57 +1,122 @@
 [
   {
     "title": {
-      "zh": "画画写字的“文房四宝”",
-      "en": "The Four Treasures of the Study"
+      "zh": "春节为什么要贴春联",
+      "en": "Why Do We Put Up Spring Couplets?"
     },
     "content": {
-      "zh": "古代的小朋友学写字，桌上必须摆着四样宝贝：毛笔、墨汁、宣纸和砚台。这就叫“文房四宝”哦！",
-      "en": "Ancient kids needed four treasures on their desks to write: the brush, ink, paper, and inkstone. They are called the 'Four Treasures of the Study'!"
-    },
-    "imageUrl": "文房四宝.jpg"
+      "zh": "传说春联最早是用来赶走怪兽\"年\"的红色桃木板。现在人们用红纸写上吉利的话贴在门上，图个喜庆和平安。",
+      "en": "Legend says the first couplets were red peach-wood boards used to scare off the monster Nian. Today people write good wishes on red paper for luck and peace."
+    }
   },
   {
     "title": {
-      "zh": "十二生肖排排队",
-      "en": "The Chinese Zodiac"
+      "zh": "端午节为什么要吃粽子",
+      "en": "Why Do We Eat Zongzi at Dragon Boat Festival?"
     },
     "content": {
-      "zh": "我们每个人都有属于自己的小动物！它们是鼠、牛、虎、兔、龙、蛇、马、羊、猴、鸡、狗、猪。你属什么呢？",
-      "en": "Everyone has a special animal! They are Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, and Pig. Which one are you?"
-    },
-    "imageUrl": "十二生肖.jpg"
+      "zh": "端午节是为了纪念爱国诗人屈原。人们把米包进叶子里投进江中，免得鱼去咬他的身体，后来就成了粽子。",
+      "en": "The festival honours the poet Qu Yuan. People threw rice wrapped in leaves into the river so fish would not touch him, and this became zongzi."
+    }
   },
   {
     "title": {
-      "zh": "过年要放的“四大发明”",
-      "en": "The Four Great Inventions"
+      "zh": "中秋节为什么要吃月饼",
+      "en": "Why Do We Eat Mooncakes at Mid-Autumn?"
     },
     "content": {
-      "zh": "古代中国人超级聪明，发明了四样了不起的东西：造纸术、指南针、火药和印刷术！过年放的鞭炮，就是火药哦！",
-      "en": "Ancient Chinese people were super smart and invented four amazing things: papermaking, the compass, gunpowder, and printing! The firecrackers for New Year are made of gunpowder!"
-    },
-    "imageUrl": "四大发明.jpg"
+      "zh": "中秋的月亮最圆，全家要团圆。圆圆的月饼就像天上的圆月，表示一家人团团圆圆、和和美美。",
+      "en": "At mid-autumn the moon is fullest and families gather. The round mooncake mirrors the full moon, standing for a family whole and happy."
+    }
   },
   {
     "title": {
-      "zh": "冬天不怕冷的“岁寒三友”",
-      "en": "The Three Friends of Winter"
+      "zh": "筷子为什么一头方一头圆",
+      "en": "Why Are Chopsticks Square at One End?"
     },
     "content": {
-      "zh": "冬天大雪纷飞的时候，有三种植物依然绿油油的，它们是松树、竹子和梅花。古人夸它们勇敢，叫它们“岁寒三友”。",
-      "en": "When it snows in winter, three plants stay green: pine, bamboo, and plum blossoms. Ancient people called them the 'Three Friends of Winter' because they are brave!"
-    },
-    "imageUrl": "岁寒三友.jpg"
+      "zh": "圆的一头夹菜，方的一头握在手里不会滚。古人还说上方下圆代表天圆地方。拿着稳、用着顺，就这样传了下来。",
+      "en": "The round end picks up food; the square end sits steady in the hand without rolling. Some say square below and round above stand for earth and sky."
+    }
   },
   {
     "title": {
-      "zh": "好听的“五音”",
-      "en": "The Five Notes"
+      "zh": "长城是怎么建起来的",
+      "en": "How Was the Great Wall Built?"
     },
     "content": {
-      "zh": "我们唱歌有 Do Re Mi Fa Sol，古代中国人也有自己的五个音符哦，它们叫：宫、商、角、徵、羽！",
-      "en": "We sing Do Re Mi Fa Sol, but ancient Chinese people had their own five notes: Gong, Shang, Jue, Zhi, and Yu!"
+      "zh": "长城不是一次修成的，两千多年来许多朝代不断加修。工人把砖石背上山，一段一段连起来，成了万里长墙。",
+      "en": "The wall was not built at once; many dynasties added to it over two thousand years. Workers carried brick and stone up hills, joining section to section."
+    }
+  },
+  {
+    "title": {
+      "zh": "京剧脸谱的颜色有什么讲究",
+      "en": "What Do Peking Opera Mask Colours Mean?"
     },
-    "imageUrl": "五音.jpg"
+    "content": {
+      "zh": "红脸表示忠勇，黑脸表示刚直，白脸表示奸诈，金脸银脸多用来画神仙和妖怪。看颜色就大概知道这人什么性格。",
+      "en": "Red means loyalty and courage, black means honesty and firmness, white means cunning, and gold or silver are for gods and spirits. Colour tells you the character."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么说我们是炎黄子孙",
+      "en": "Why Do We Call Ourselves Descendants of Yan and Yellow Emperors?"
+    },
+    "content": {
+      "zh": "传说中炎帝和黄帝是远古的两位首领，被看作华夏民族的祖先。这样自称，是表示大家同根同源、是一家人。",
+      "en": "Legend says the Yan and Yellow Emperors were early leaders seen as ancestors of the Chinese people. The phrase means one shared origin, one family."
+    }
+  },
+  {
+    "title": {
+      "zh": "故宫里有多少间房",
+      "en": "How Many Rooms Are in the Forbidden City?"
+    },
+    "content": {
+      "zh": "传说有九千九百九十九间半，实际现存大约八千多间。它是明清两代皇帝住的地方，也是世界上最大的木结构宫殿。",
+      "en": "Legend says 9,999 and a half rooms; around 8,000 survive today. It was home to the emperors of the Ming and Qing, and is the world’s largest wooden palace."
+    }
+  },
+  {
+    "title": {
+      "zh": "冬至为什么要吃饺子",
+      "en": "Why Do We Eat Dumplings at Winter Solstice?"
+    },
+    "content": {
+      "zh": "传说一位名医冬天用面皮包上驱寒的药材送给穷人，样子像耳朵。后人照着做，就成了冬至吃饺子的习俗。",
+      "en": "A famous doctor once wrapped warming herbs in dough to help poor people through winter; the shape looked like an ear. People copied it, and the custom stayed."
+    }
+  },
+  {
+    "title": {
+      "zh": "剪纸为什么多是红色的",
+      "en": "Why Are Paper-Cuts Usually Red?"
+    },
+    "content": {
+      "zh": "红色在中国代表喜庆和吉利，人们认为它能赶走晦气。过年过节贴上红剪纸，屋里一下子就热闹起来、喜气洋洋。",
+      "en": "Red stands for joy and good fortune, and is thought to drive away bad luck. Red paper-cuts put up at festivals fill a room with celebration."
+    }
+  },
+  {
+    "title": {
+      "zh": "姓氏是怎么来的",
+      "en": "Where Do Surnames Come From?"
+    },
+    "content": {
+      "zh": "上古时候姓用来区分不同的家族，最初多跟母亲有关；后来又分出氏，表示封地或官职。慢慢地姓和氏合成了一个。",
+      "en": "Long ago surnames marked different clans and often came from the mother’s line. Later \"shi\" showed fief or office. Over time the two merged into one surname."
+    }
+  },
+  {
+    "title": {
+      "zh": "十二生肖是怎么排的",
+      "en": "How Was the Zodiac Order Decided?"
+    },
+    "content": {
+      "zh": "传说动物们赛跑过河，名次就是子鼠、丑牛、寅虎……猪跑得慢排在最后。每个人的属相，就看出生那年的动物。",
+      "en": "Legend says the animals raced across a river, and their finishing order became rat, ox, tiger and so on, with the pig last. Your sign is the animal of your birth year."
+    }
   }
 ]

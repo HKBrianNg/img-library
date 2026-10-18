@@ -1,0 +1,122 @@
+[
+  {
+    "title": {
+      "zh": "车轮为什么是圆的",
+      "en": "Why Are Wheels Round?"
+    },
+    "content": {
+      "zh": "圆形的轮子滚起来，中心到地面的距离一直不变，所以坐在车里很平稳。如果轮子是方的，每转一下车身就会\"咯噔\"一下颠起来。",
+      "en": "A round wheel stays the same height as it rolls, so the ride is smooth. A square wheel would bump up and down with every turn."
+    }
+  },
+  {
+    "title": {
+      "zh": "蜂巢为什么是六边形的",
+      "en": "Why Are Honeycombs Hexagonal?"
+    },
+    "content": {
+      "zh": "六边形能一个挨一个紧紧排在一起，中间不留缝，用的蜂蜡也最少。蜜蜂用最少的材料，做出了最结实又最大的家。",
+      "en": "Hexagons fit together with no gaps and need the least wax. Bees use the least material to build the strongest, roomiest home."
+    }
+  },
+  {
+    "title": {
+      "zh": "井盖为什么是圆的",
+      "en": "Why Are Manhole Covers Round?"
+    },
+    "content": {
+      "zh": "圆形的盖子不管怎么转，都不会从井口掉下去——圆的每个方向都一样宽。方的盖子斜着立起来，就能顺着对角线掉进井里。",
+      "en": "A round lid can never fall through, because a circle is the same width every way. A square lid could slip through its own diagonal."
+    }
+  },
+  {
+    "title": {
+      "zh": "数字 0 是怎么来的",
+      "en": "Where Did Zero Come From?"
+    },
+    "content": {
+      "zh": "古人在记账时发现，如果哪一位上一个东西也没有，就空着，容易看错。后来他们画一个圈表示\"这里什么都没有\"，这就是 0。",
+      "en": "Long ago people left an empty space when a column had nothing in it, which caused mistakes. They began drawing a circle to mean \"nothing here\" — that is zero."
+    }
+  },
+  {
+    "title": {
+      "zh": "我们为什么用十根手指头数数",
+      "en": "Why Do We Count in Tens?"
+    },
+    "content": {
+      "zh": "因为人有十根手指，数东西时最方便的工具就是自己的手。全世界大多数地方都用\"满十就进一位\"的办法，这叫十进制。",
+      "en": "We have ten fingers, and hands are the handiest counting tool. Most of the world counts in tens, which we call the decimal system."
+    }
+  },
+  {
+    "title": {
+      "zh": "时钟上为什么是 12 个数",
+      "en": "Why Do Clocks Have 12 Numbers?"
+    },
+    "content": {
+      "zh": "古埃及人喜欢用 12 来分东西，因为 12 能被 2、3、4、6 整除，分起来很方便。他们把白天和黑夜各分成 12 份，钟表也就跟着写 12 个数。",
+      "en": "The ancient Egyptians liked 12 because it divides evenly by 2, 3, 4 and 6. They split day and night into 12 parts each, and clocks kept the number."
+    }
+  },
+  {
+    "title": {
+      "zh": "金字塔为什么是三角形的",
+      "en": "Why Are Pyramids Triangular?"
+    },
+    "content": {
+      "zh": "三角形是最不容易变形的形状，三条边一固定，形状就再也改不了。金字塔做成三角形，几千年来一直稳稳地立着。",
+      "en": "A triangle is the shape that cannot be pushed out of form — once its three sides are set, it will not change. That is why pyramids still stand after thousands of years."
+    }
+  },
+  {
+    "title": {
+      "zh": "桥上为什么有那么多三角形",
+      "en": "Why Do Bridges Have So Many Triangles?"
+    },
+    "content": {
+      "zh": "桥要托住很重的东西，工程师就把许多铁条搭成一个个小三角形。三角形不会变形，桥就变得又轻又结实。",
+      "en": "Bridges must carry heavy loads, so engineers join bars into many small triangles. Triangles do not change shape, making the bridge light and strong."
+    }
+  },
+  {
+    "title": {
+      "zh": "一年为什么有 12 个月",
+      "en": "Why Does a Year Have 12 Months?"
+    },
+    "content": {
+      "zh": "月亮圆缺一回大约要 29 天半，这样的\"一个月\"过 12 回，正好差不多是一年。后来人们把每月的天数调成 30 或 31 天，凑成一整年。",
+      "en": "The moon takes about 29 and a half days to go from full to full. Twelve of those months make roughly one year, so people set months at 30 or 31 days."
+    }
+  },
+  {
+    "title": {
+      "zh": "切蛋糕为什么要先分成几等份",
+      "en": "Why Do We Cut a Cake into Equal Pieces?"
+    },
+    "content": {
+      "zh": "分成一样大的几份，每个人拿到的才一样多，这才公平。分成 2 份、4 份、8 份最好分，因为它们都能再对半切开。",
+      "en": "Cutting a cake into equal pieces means everyone gets the same amount, which is fair. Halves, quarters and eighths are easiest, since each can be halved again."
+    }
+  },
+  {
+    "title": {
+      "zh": "七巧板为什么能拼出那么多形状",
+      "en": "Why Can Tangram Make So Many Shapes?"
+    },
+    "content": {
+      "zh": "七巧板只有 7 块，但每块的边和角都能和别的块对上。换一换位置，同样的 7 块就能变成房子、小船、小猫。",
+      "en": "Tangram has only seven pieces, yet their edges and corners match each other. Move them around and the same seven pieces become a house, a boat, or a cat."
+    }
+  },
+  {
+    "title": {
+      "zh": "量东西为什么要用尺子",
+      "en": "Why Do We Measure with a Ruler?"
+    },
+    "content": {
+      "zh": "用手量、用脚量，每个人的手和脚都不一样大，量出来的数就对不上。大家约好一个一样长的\"1 厘米\"，量出来的数才能互相比较。",
+      "en": "Hands and feet are different sizes, so they give different answers. People agreed on one fixed length, the centimetre, so measurements can be compared."
+    }
+  }
+]

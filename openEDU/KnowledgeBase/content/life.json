@@ -1,0 +1,122 @@
+[
+  {
+    "title": {
+      "zh": "我们为什么要呼吸",
+      "en": "Why Do We Breathe?"
+    },
+    "content": {
+      "zh": "身体里的每个部分干活都需要氧气。我们吸气把氧气送进去，呼气把用剩下的废气排出来。几分钟不呼吸，人就受不了。",
+      "en": "Every part of the body needs oxygen to work. Breathing in brings oxygen; breathing out removes the waste gas. We cannot go many minutes without it."
+    }
+  },
+  {
+    "title": {
+      "zh": "人为什么要睡觉",
+      "en": "Why Do We Sleep?"
+    },
+    "content": {
+      "zh": "睡觉时身体在悄悄修补白天用坏的地方，长个子、养精神。睡够了第二天才有劲儿，脑子也记得更牢。",
+      "en": "While you sleep your body quietly repairs itself, grows and stores energy. After enough sleep you feel strong the next day and remember things better."
+    }
+  },
+  {
+    "title": {
+      "zh": "人为什么会长大",
+      "en": "Why Do People Grow?"
+    },
+    "content": {
+      "zh": "身体里的小单位——细胞，会不断分裂，一个变两个、两个变四个，数目越来越多，我们的身体就一点点长大了。",
+      "en": "The tiny units of the body, called cells, keep dividing — one becomes two, two become four. As their number grows, so do we."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么每个人的指纹都不一样",
+      "en": "Why Is Every Fingerprint Different?"
+    },
+    "content": {
+      "zh": "指纹在妈妈肚子里就长好了，由皮肤的生长方式决定，就算是双胞胎也不一样。所以它常被用来认人。",
+      "en": "Fingerprints form before birth and depend on how the skin grows. Even twins have different ones, which is why fingerprints are used to identify people."
+    }
+  },
+  {
+    "title": {
+      "zh": "头发为什么会一直长",
+      "en": "Why Does Hair Keep Growing?"
+    },
+    "content": {
+      "zh": "头发是从头皮里的小坑——毛囊里长出来的。只要毛囊健康，它就会不停地制造新头发，长长了剪掉，还会再长出来。",
+      "en": "Hair grows from tiny pits in the skin called follicles. As long as a follicle is healthy it keeps making new hair, so cut hair always grows back."
+    }
+  },
+  {
+    "title": {
+      "zh": "我们为什么会觉得饿",
+      "en": "Why Do We Feel Hungry?"
+    },
+    "content": {
+      "zh": "胃空了以后，身体会发信号给大脑说\"该补充能量啦\"，我们就觉得饿、想吃东西。吃饱了，信号停下，就不饿了。",
+      "en": "When the stomach empties, the body signals the brain that it needs more energy, and we feel hungry. Once we are full the signal stops."
+    }
+  },
+  {
+    "title": {
+      "zh": "血液为什么是红色的",
+      "en": "Why Is Blood Red?"
+    },
+    "content": {
+      "zh": "血液里有一种含铁的东西叫血红蛋白，它专门负责搬运氧气。含铁的东西遇到氧就变成红色，血也就成了红色。",
+      "en": "Blood contains an iron-rich substance called haemoglobin, which carries oxygen. Iron turns red when it meets oxygen, so blood is red."
+    }
+  },
+  {
+    "title": {
+      "zh": "我们的身体是由什么组成的",
+      "en": "What Is Our Body Made Of?"
+    },
+    "content": {
+      "zh": "身体由无数个小得看不见的细胞组成，像用积木搭成的房子。许多同样的细胞合在一起，就成了皮肤、肌肉、骨头。",
+      "en": "The body is made of countless cells too small to see, like a house built of blocks. Groups of the same cells form skin, muscle and bone."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么同卵双胞胎那么像",
+      "en": "Why Are Identical Twins So Alike?"
+    },
+    "content": {
+      "zh": "同卵双胞胎来自同一个受精卵，它分成两半后各长成一个宝宝，带着一模一样的\"说明书\"，所以长得几乎一样。",
+      "en": "Identical twins come from one egg that split in two and grew into two babies. They carry the same instructions, so they look almost the same."
+    }
+  },
+  {
+    "title": {
+      "zh": "人为什么会有肚脐",
+      "en": "Why Do We Have a Belly Button?"
+    },
+    "content": {
+      "zh": "宝宝在妈妈肚子里时靠一根带子输送营养，出生后带子被剪断，留下的小疤就是肚脐。它是我们每个人第一道疤。",
+      "en": "Before birth a baby is fed through a cord. After birth the cord is cut, and the small scar left behind is the navel — everyone’s first scar."
+    }
+  },
+  {
+    "title": {
+      "zh": "我们为什么要喝水",
+      "en": "Why Do We Need to Drink Water?"
+    },
+    "content": {
+      "zh": "身体一大半都是水，血液、汗、眼泪都得有水才行。出汗、上厕所都会带走水，所以要常常喝水把它补回来。",
+      "en": "The body is mostly water, and blood, sweat and tears all need it. We lose water by sweating and going to the toilet, so we must drink to replace it."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会打嗝",
+      "en": "Why Do We Hiccup?"
+    },
+    "content": {
+      "zh": "胸口和肚子之间有块肌肉叫横膈膜，它负责帮我们呼吸。它突然抽一下，空气被猛地吸进去，被声带一挡，就\"嗝\"了一声。",
+      "en": "A muscle called the diaphragm helps us breathe. If it suddenly jerks, air rushes in and is stopped by the vocal cords, making a hiccup."
+    }
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": {
+      "zh": "含羞草为什么会害羞",
+      "en": "Why Does the Mimosa Fold Up?"
+    },
+    "content": {
+      "zh": "含羞草叶子根部有个\"小水袋\"，一被碰到，水马上流走，叶柄就瘪下去合起来。过一会儿水流回来，叶子又张开了。",
+      "en": "At the base of each leaf is a tiny water sac. When touched, the water drains away, the stalk wilts and the leaf folds. Soon the water returns and it opens."
+    }
+  },
+  {
+    "title": {
+      "zh": "爬山虎为什么能爬墙",
+      "en": "How Does Ivy Climb Walls?"
+    },
+    "content": {
+      "zh": "爬山虎的茎上长出许多小\"脚\"，顶端会分泌黏黏的东西，紧紧粘在墙上。脚越抓越牢，它就能一路往上爬。",
+      "en": "Ivy grows small \"feet\" along its stem whose tips give off a sticky substance that grips the wall. The more they hold, the higher it climbs."
+    }
+  },
+  {
+    "title": {
+      "zh": "枫叶为什么会变红",
+      "en": "Why Do Maple Leaves Turn Red?"
+    },
+    "content": {
+      "zh": "秋天天气变冷，树叶不再制造叶绿素，绿色褪去，里面一直藏着的红色色素就露了出来，枫叶就成了红色。",
+      "en": "In autumn the cold stops leaves making chlorophyll. As the green fades, red pigments that were there all along show through, turning the maple red."
+    }
+  },
+  {
+    "title": {
+      "zh": "花儿的香味是从哪里来的",
+      "en": "Where Does a Flower’s Scent Come From?"
+    },
+    "content": {
+      "zh": "花瓣里有一些会挥发的小油滴，飘到空气里就成了香味。香味能把蜜蜂和蝴蝶引过来，帮花儿传播花粉。",
+      "en": "Petals contain tiny drops of scented oil that evaporate into the air. The smell lures bees and butterflies, which help carry pollen."
+    }
+  },
+  {
+    "title": {
+      "zh": "夜来香为什么晚上才香",
+      "en": "Why Is Tuberose Scented at Night?"
+    },
+    "content": {
+      "zh": "夜来香的小油滴怕热，白天太阳一晒，香味很快就散了；晚上凉快，油滴慢慢散发，香味就浓起来，好引来夜里飞的蛾子。",
+      "en": "Its scented oil does not like heat, so by day the smell soon fades. At night the cool air lets the oil release slowly, attracting moths."
+    }
+  },
+  {
+    "title": {
+      "zh": "椰树为什么多长在海边",
+      "en": "Why Do Coconut Palms Grow by the Sea?"
+    },
+    "content": {
+      "zh": "椰子外皮又厚又轻，能浮在水上，随海浪漂到别的沙滩上生根。海边又暖又湿，正好是椰树最喜欢的地方。",
+      "en": "A coconut’s thick, light husk lets it float on the sea to other beaches and take root. Warm, damp coasts are exactly what coconut palms like."
+    }
+  },
+  {
+    "title": {
+      "zh": "树的年轮是什么",
+      "en": "What Are Tree Rings?"
+    },
+    "content": {
+      "zh": "树干里每年长一圈新的木头，春天长得松、秋天长得密，一深一浅就是一年。数一数年轮，就知道这棵树几岁了。",
+      "en": "A tree adds one ring of wood each year — pale and loose in spring, dark and tight in autumn. Counting the rings tells the tree’s age."
+    }
+  },
+  {
+    "title": {
+      "zh": "荷叶为什么不沾水",
+      "en": "Why Doesn’t Water Stick to Lotus Leaves?"
+    },
+    "content": {
+      "zh": "荷叶上有无数小疙瘩，还盖着一层蜡。水珠站不稳，滚成一团就滑走了，顺便把叶面上的灰尘一起带走。",
+      "en": "The lotus leaf is covered in tiny bumps and a layer of wax. Water cannot grip it, so drops roll off, carrying dust with them."
+    }
+  },
+  {
+    "title": {
+      "zh": "蘑菇是植物吗",
+      "en": "Is a Mushroom a Plant?"
+    },
+    "content": {
+      "zh": "蘑菇不是植物。它没有叶子，也不晒太阳制造养分，而是靠分解枯枝落叶生活。在生物分类上，它和动物的关系更近。",
+      "en": "Mushrooms are not plants. They have no leaves and do not use sunlight to make food; they live by breaking down dead matter. They are closer to animals."
+    }
+  },
+  {
+    "title": {
+      "zh": "仙人掌为什么能在沙漠里活",
+      "en": "How Do Cacti Survive in the Desert?"
+    },
+    "content": {
+      "zh": "仙人掌的叶子变成了刺，水分不容易跑掉；胖胖的茎像个大水箱，下雨就存起来慢慢用，所以久久不浇水也行。",
+      "en": "Its leaves have become spines so water cannot escape, and its fat stem acts as a tank, storing rain to use slowly. It survives long dry spells."
+    }
+  },
+  {
+    "title": {
+      "zh": "蒲公英的种子为什么会飞",
+      "en": "Why Do Dandelion Seeds Fly?"
+    },
+    "content": {
+      "zh": "蒲公英的种子上顶着一团小绒毛，像一把小伞。风一吹，它就被托起来飘到远处，落地后在新的地方生根发芽。",
+      "en": "Each seed carries a tuft of fine hairs like a tiny parachute. The wind lifts it far away, and it takes root where it lands."
+    }
+  },
+  {
+    "title": {
+      "zh": "向日葵为什么跟着太阳转",
+      "en": "Why Do Sunflowers Follow the Sun?"
+    },
+    "content": {
+      "zh": "向日葵幼苗朝着太阳那面长得慢、背阴面长得快，茎就慢慢朝太阳弯过去。花盘长大后一般固定朝东，不再转了。",
+      "en": "In young sunflowers the shaded side of the stem grows faster than the sunny side, bending the head towards the sun. Mature heads usually face east and stop turning."
+    }
+  }
+]

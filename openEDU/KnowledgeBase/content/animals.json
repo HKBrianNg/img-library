@@ -1,68 +1,123 @@
 [
   {
     "title": {
-      "zh": "鱼睡觉闭眼睛吗",
-      "en": "Do fish close their eyes when they sleep?"
+      "zh": "小白兔的眼睛为什么是红的",
+      "en": "Why Are White Rabbits’ Eyes Red?"
     },
     "content": {
-      "zh": "不闭哦！因为鱼没有眼皮，没法闭眼。它们只是静静地停在水里，或者游得很慢很慢，就是在睡觉啦。",
-      "en": "No! Fish don't have eyelids, so they can't close their eyes. They just stay still in the water or swim very slowly — that's how they sleep."
-    },
-    "imageUrl": "鱼睡觉闭眼睛吗.jpg"
+      "zh": "小白兔身上的色素很少，眼睛里的血管就透了出来，看上去红红的。其实它的眼睛本来没有颜色，我们看到的是血的颜色。",
+      "en": "White rabbits have almost no pigment, so the blood vessels in their eyes show through and look red. Their eyes are colourless; we are seeing the colour of blood."
+    }
   },
   {
     "title": {
-      "zh": "蜗牛的牙齿在哪里",
-      "en": "Where are a snail's teeth?"
+      "zh": "北极熊为什么不怕冷",
+      "en": "Why Don’t Polar Bears Feel Cold?"
     },
     "content": {
-      "zh": "蜗牛的牙齿不在嘴里，而在舌头上！它的舌头像一把带刺的锉刀，有上万颗小牙齿，专门用来刮叶子吃。",
-      "en": "A snail's teeth aren't in its mouth — they're on its tongue! Its tongue is like a spiky file with tens of thousands of tiny teeth, used to scrape leaves for food."
-    },
-    "imageUrl": "蜗牛的牙齿在哪里.jpg"
+      "zh": "北极熊的毛是中空的，能存住空气保暖；皮肤是黑的，能吸住太阳的热；皮下还有厚厚一层脂肪，像穿了三件棉袄。",
+      "en": "A polar bear’s hollow hairs trap warm air, its black skin soaks up the sun’s heat, and a thick layer of fat lies underneath — like wearing three coats."
+    }
   },
   {
     "title": {
-      "zh": "企鹅的脚为什么不怕冷",
-      "en": "Why don't penguins' feet get cold?"
+      "zh": "猫为什么爱吃鱼和老鼠",
+      "en": "Why Do Cats Love Fish and Mice?"
     },
     "content": {
-      "zh": "企鹅的脚里有特殊的血管结构，能让血液在流到脚掌之前先降温，这样热量就不会流失太多。同时它们的脚掌上还有厚厚的脂肪和鳞片，就像穿了保暖靴一样。",
-      "en": "Penguins have a special blood vessel structure in their feet that cools the blood before it reaches the soles, so they don't lose much heat. Their feet also have thick fat and scales, like wearing warm boots."
-    },
-    "imageUrl": "企鹅的脚为什么不怕冷.jpg"
+      "zh": "猫的身体自己造不出一种叫牛磺酸的东西，而鱼和老鼠里正好有很多。不吃它，猫的眼睛和心脏就会出问题。",
+      "en": "Cats cannot make a substance called taurine, which fish and mice contain plenty of. Without it, a cat’s eyes and heart suffer."
+    }
   },
   {
     "title": {
-      "zh": "蛇为什么一直吐舌头",
-      "en": "Why do snakes stick out their tongues?"
+      "zh": "牛为什么总在嚼东西",
+      "en": "Why Do Cows Keep Chewing?"
     },
     "content": {
-      "zh": "蛇的舌头不是用来舔人的，而是它的“鼻子”！舌头在空气里沾一点气味分子，缩回去插进嘴里的一个小洞，就能“闻”到猎物在哪里啦。",
-      "en": "A snake's tongue isn't for licking, it's its nose! It collects tiny scent particles in the air, then puts its tongue back into a special hole in its mouth to 'smell' where its prey is."
-    },
-    "imageUrl": "蛇为什么一直吐舌头.jpg"
+      "zh": "牛吃草时先匆忙吞下去，休息时再把草吐回嘴里慢慢嚼碎，这叫反刍。它有四个胃，要把草嚼得很细才好消化。",
+      "en": "Cattle swallow grass in a hurry, then bring it back up to chew slowly while resting. This is chewing the cud. Their four stomachs need grass chewed very fine."
+    }
   },
   {
     "title": {
-      "zh": "火烈鸟为什么是粉红色的",
-      "en": "Why are flamingos pink?"
+      "zh": "马为什么站着睡觉",
+      "en": "Why Do Horses Sleep Standing Up?"
     },
     "content": {
-      "zh": "火烈鸟生下来其实是灰白色的！但它们爱吃一种小虾和藻类，里面有很多“虾青素”。吃多了，羽毛就被“染”成粉红色啦。",
-      "en": "Flamingos are actually born grayish-white! But they love eating tiny shrimp and algae that contain a lot of 'carotenoids'. Eating lots of them dyes their feathers pink."
-    },
-    "imageUrl": "火烈鸟为什么是粉红色的.jpg"
+      "zh": "马的祖先在草原上要随时防备野兽，站着能一有动静就跑。马腿上有个\"卡扣\"，站着不用花力气也能站稳睡着。",
+      "en": "Wild horses had to watch for predators, and standing let them run at once. A locking joint in their legs lets them doze upright without effort."
+    }
   },
   {
     "title": {
-      "zh": "章鱼有几个心脏",
-      "en": "How many hearts does an octopus have?"
+      "zh": "螃蟹为什么横着走",
+      "en": "Why Do Crabs Walk Sideways?"
     },
     "content": {
-      "zh": "章鱼有3个心脏！两个负责把血送到腮里吸氧气，一个负责把血送到全身。所以章鱼游泳特别累，它们更喜欢在海底爬着走。",
-      "en": "An octopus has 3 hearts! Two pump blood to the gills to get oxygen, and one pumps blood to the rest of the body. Because swimming is tiring, they prefer crawling on the ocean floor."
+      "zh": "螃蟹的腿关节只能上下弯，不能前后弯，所以只能横着迈。横着走还方便它扁平的身体贴着石头缝钻来钻去。",
+      "en": "A crab’s leg joints bend up and down, not forwards, so it can only walk sideways. Sideways walking also suits its flat body squeezing through rock gaps."
+    }
+  },
+  {
+    "title": {
+      "zh": "孔雀为什么要开屏",
+      "en": "Why Does a Peacock Spread Its Tail?"
     },
-    "imageUrl": "章鱼有几个心脏.jpg"
+    "content": {
+      "zh": "开屏的是公孔雀。它把尾羽张成一把大扇子，是在向母孔雀炫耀自己有多健康、多强壮，好让对方选中它。",
+      "en": "It is the male that fans his tail, showing off how healthy and strong he is so that a female will choose him."
+    }
+  },
+  {
+    "title": {
+      "zh": "大雁为什么要排队飞",
+      "en": "Why Do Geese Fly in a Line?"
+    },
+    "content": {
+      "zh": "前面的大雁扇翅膀会带起一股上升的气流，后面的借着这股气流飞，能省很多力气。排队还能互相照应不掉队。",
+      "en": "Each bird’s wings make an updraft that the one behind can ride, saving energy. Flying in a line also keeps the flock together."
+    }
+  },
+  {
+    "title": {
+      "zh": "萤火虫为什么会发光",
+      "en": "Why Do Fireflies Glow?"
+    },
+    "content": {
+      "zh": "萤火虫肚子末端有一种发光的东西，和空气里的氧一碰就亮起来，而且几乎不发热。它们用一闪一闪的光来找同伴。",
+      "en": "A light-producing substance at the tip of its abdomen glows when it meets oxygen, giving off almost no heat. Fireflies flash to find one another."
+    }
+  },
+  {
+    "title": {
+      "zh": "蜻蜓为什么要点水",
+      "en": "Why Do Dragonflies Touch the Water?"
+    },
+    "content": {
+      "zh": "蜻蜓点水是在产卵。它用尾巴轻轻碰一下水面，把卵产在水里。孵出来的小蜻蜓住在水中，要过很久才飞上天。",
+      "en": "Dragonflies touch the water to lay eggs, dipping the tip of the tail onto the surface. The young hatch and live underwater for a long time before flying."
+    }
+  },
+  {
+    "title": {
+      "zh": "骆驼的驼峰里装的是什么",
+      "en": "What Is Inside a Camel’s Hump?"
+    },
+    "content": {
+      "zh": "驼峰里装的不是水，是一大块脂肪。找不到食物时，骆驼就慢慢消耗这些脂肪顶饿，好几天不吃也能赶路。",
+      "en": "A camel’s hump holds fat, not water. When food is scarce the camel lives off this fat, and can travel for days without eating."
+    }
+  },
+  {
+    "title": {
+      "zh": "变色龙为什么会变色",
+      "en": "Why Do Chameleons Change Colour?"
+    },
+    "content": {
+      "zh": "变色龙的皮肤里有许多小晶体，它把皮肤一松一紧，晶体排列变了，反射的光就变了颜色。变色还能表达害怕或生气。",
+      "en": "A chameleon’s skin holds tiny crystals. By loosening or tightening the skin it changes how they line up, altering the light reflected. Colours also show fear or anger."
+    },
+    "imageUrl": "变色龙为什么会变色.jpg"
   }
 ]

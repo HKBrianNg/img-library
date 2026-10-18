@@ -1,0 +1,122 @@
+[
+  {
+    "title": {
+      "zh": "影子是怎么来的",
+      "en": "How Are Shadows Made?"
+    },
+    "content": {
+      "zh": "光是直着走的，遇到挡住它的东西就过不去，后面留下一块暗暗的地方，那就是影子。手电筒离得越近，影子就越大。",
+      "en": "Light travels straight. When something blocks it, the space behind stays dark — that is a shadow. The closer the torch, the bigger the shadow."
+    }
+  },
+  {
+    "title": {
+      "zh": "镜子里的我为什么是反的",
+      "en": "Why Am I Flipped in a Mirror?"
+    },
+    "content": {
+      "zh": "镜子把照到它的光原样弹回来，左边来的光弹到右边，右边来的光弹到左边，所以我们看到的自己左右调了个个儿。",
+      "en": "A mirror bounces light straight back, so light from the left returns on the right and the other way round. That is why we look left-right flipped."
+    }
+  },
+  {
+    "title": {
+      "zh": "船为什么能浮在水面上",
+      "en": "Why Do Ships Float?"
+    },
+    "content": {
+      "zh": "船虽然是铁做的，但它肚子里是空的，占的地方很大。它排开的水比船本身还重，水就把船托起来了。",
+      "en": "A steel ship is hollow inside and takes up a lot of space. It pushes aside water that weighs more than the ship itself, so the water holds it up."
+    }
+  },
+  {
+    "title": {
+      "zh": "热气球为什么会飞上天",
+      "en": "Why Do Hot Air Balloons Fly?"
+    },
+    "content": {
+      "zh": "气球里的空气被加热后会变轻，同样一大团热气比冷气轻得多。周围的冷空气把它往上挤，热气球就升起来了。",
+      "en": "Heating the air inside makes it lighter, because hot air is lighter than the same amount of cold air. The cold air around it pushes the balloon upward."
+    }
+  },
+  {
+    "title": {
+      "zh": "冬天窗户上为什么会结冰花",
+      "en": "Why Does Frost Form on Windows?"
+    },
+    "content": {
+      "zh": "屋里的空气又暖又湿，碰到冰冷的玻璃，水蒸气一下子变回小水珠，再冻成小冰晶。它们一片片贴在一起，就长成了冰花。",
+      "en": "Warm, damp indoor air touches the cold glass. The water vapour turns back into tiny drops and freezes into ice crystals, which join into frost patterns."
+    }
+  },
+  {
+    "title": {
+      "zh": "筷子放进水里为什么像折断了",
+      "en": "Why Does a Chopstick Look Broken in Water?"
+    },
+    "content": {
+      "zh": "光从水里走到空气里会拐个弯，我们的眼睛却以为光还是直着来的，就把水下的部分\"看\"高了，筷子看着像断了一样。",
+      "en": "Light bends when it leaves the water for the air, but our eyes assume it came straight. So the underwater part looks higher, and the chopstick seems broken."
+    }
+  },
+  {
+    "title": {
+      "zh": "水烧开时为什么会冒气泡",
+      "en": "Why Does Boiling Water Bubble?"
+    },
+    "content": {
+      "zh": "水受热后，里面躲着的小空气泡会跑出来；再热一点，水自己也会变成水蒸气，变成大泡泡往上冒，这就是水开了。",
+      "en": "As water heats, tiny air bubbles escape. When it gets hotter still, the water itself turns to steam and rises as big bubbles. That means it is boiling."
+    }
+  },
+  {
+    "title": {
+      "zh": "气球为什么能飘在天花板上",
+      "en": "Why Do Some Balloons Float Up?"
+    },
+    "content": {
+      "zh": "有的气球里装的是氦气，氦气比空气轻得多，所以气球会往上飘。普通气球吹的是我们的呼气，比空气重，就只能慢慢落下来。",
+      "en": "Some balloons are filled with helium, which is much lighter than air, so they float up. Balloons blown with our breath are heavier than air and sink slowly."
+    }
+  },
+  {
+    "title": {
+      "zh": "声音是怎么传到耳朵里的",
+      "en": "How Does Sound Reach Our Ears?"
+    },
+    "content": {
+      "zh": "东西振动时会把周围的空气也推得一抖一抖，像水波一样传到我们耳朵里，撞到耳膜，我们就听见了声音。",
+      "en": "A vibrating object pushes the air around it in ripples. The ripples travel to our ear and strike the eardrum, and that is how we hear."
+    }
+  },
+  {
+    "title": {
+      "zh": "磁铁为什么能吸住铁",
+      "en": "Why Do Magnets Stick to Iron?"
+    },
+    "content": {
+      "zh": "磁铁周围有一块看不见的\"力气圈\"，叫磁场。铁一走进这个圈，里面的小颗粒就排好队，被磁铁拉了过去。",
+      "en": "A magnet is surrounded by an invisible area of force called a magnetic field. When iron enters it, tiny parts inside line up and the iron is pulled over."
+    }
+  },
+  {
+    "title": {
+      "zh": "冬天脱毛衣为什么会有火花",
+      "en": "Why Do Jumpers Make Sparks in Winter?"
+    },
+    "content": {
+      "zh": "毛衣和身体摩擦时，会带走或带来一些小电粒，攒多了就一下子跳出来，发出噼啪声和小火花，这叫静电。",
+      "en": "Rubbing a jumper against your body moves tiny electric charges. When enough build up, they jump across with a crackle and a spark. That is static electricity."
+    }
+  },
+  {
+    "title": {
+      "zh": "下雪后为什么特别安静",
+      "en": "Why Is It So Quiet After Snow?"
+    },
+    "content": {
+      "zh": "刚下的雪又松又软，里面全是小空隙。声音钻进这些小洞里就出不来，被雪\"吃\"掉了，所以雪后的世界特别安静。",
+      "en": "Fresh snow is soft and full of tiny air gaps. Sound slips into these holes and cannot get back out, so the snow swallows noise and all is quiet."
+    }
+  }
+]

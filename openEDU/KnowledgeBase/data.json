@@ -3,41 +3,81 @@
     "titleEn": "Knowledge Base",
     "chapters": [
         {
-            "name": "人体",
-            "en": "Human Body",
-            "contentLink": "human-body.json"
+            "name": "数学",
+            "en": "Mathematics",
+            "contentLink": "math.json"
         },
-         {
+        {
+            "name": "物理",
+            "en": "Physics",
+            "contentLink": "physics.json"
+        },
+        {
+            "name": "化学",
+            "en": "Chemistry",
+            "contentLink": "chemistry.json"
+        },
+        {
+            "name": "天文",
+            "en": "Astronomy",
+            "contentLink": "astronomy.json"
+        },
+        {
+            "name": "地球",
+            "en": "Earth",
+            "contentLink": "earth.json"
+        },
+        {
+            "name": "生命",
+            "en": "Life",
+            "contentLink": "life.json"
+        },
+        {
             "name": "动物",
             "en": "Animals",
             "contentLink": "animals.json"
         },
-         {
-            "name": "地球与自然",
-            "en": "Earth and Nature",
-            "contentLink": "earth-and-nature.json"
+        {
+            "name": "植物",
+            "en": "Plants",
+            "contentLink": "plants.json"
         },
-         {
-            "name": "太空",
-            "en": "Space",
-            "contentLink": "space.json"
+        {
+            "name": "古生物",
+            "en": "Prehistoric Life",
+            "contentLink": "prehistoric-life.json"
         },
-         {
-            "name": "食物",
-            "en": "Food",
-            "contentLink": "food.json"
+        {
+            "name": "医学",
+            "en": "Medicine",
+            "contentLink": "medicine.json"
         },
-         {
-            "name": "植物与水",
-            "en": "Plants and Water",
-            "contentLink": "plants-and-water.json"
+        {
+            "name": "海洋",
+            "en": "Ocean",
+            "contentLink": "ocean.json"
         },
-         {
-            "name": "化学与物理",
-            "en": "Chemistry and Physics",
-            "contentLink": "chemistry-and-physics.json"
+        {
+            "name": "大脑与认知",
+            "en": "Brain and Mind",
+            "contentLink": "brain-and-mind.json"
         },
-           {
+        {
+            "name": "能源与环境",
+            "en": "Energy and Environment",
+            "contentLink": "energy-and-environment.json"
+        },
+        {
+            "name": "建筑与交通",
+            "en": "Architecture and Transport",
+            "contentLink": "architecture-and-transport.json"
+        },
+        {
+            "name": "航空与航天",
+            "en": "Aviation and Spaceflight",
+            "contentLink": "aviation-and-spaceflight.json"
+        },
+        {
             "name": "文化",
             "en": "Culture",
             "contentLink": "culture.json"

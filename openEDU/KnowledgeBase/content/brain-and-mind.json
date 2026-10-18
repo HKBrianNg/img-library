@@ -1,0 +1,122 @@
+[
+  {
+    "title": {
+      "zh": "为什么会做梦",
+      "en": "Why Do We Dream?"
+    },
+    "content": {
+      "zh": "睡觉时大脑没有完全休息，它把白天的事翻出来整理一遍，像在归档。这些零碎的画面拼在一起，就成了梦。",
+      "en": "While you sleep the brain does not fully rest; it sorts through the day’s events like filing papers. The mixed-up pictures become dreams."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么我们会忘记事情",
+      "en": "Why Do We Forget Things?"
+    },
+    "content": {
+      "zh": "大脑会把不常用的记忆慢慢清掉，好腾出地方记新东西。常常用、常常复习的事情，它才留得住。",
+      "en": "The brain clears away memories it rarely uses to make room for new ones. Things you use or review often are the ones it keeps."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么要复习才记得住",
+      "en": "Why Does Reviewing Help Us Remember?"
+    },
+    "content": {
+      "zh": "每复习一次，大脑里那条记忆的\"小路\"就被踩得更结实。只学一次，小路很快就被杂草盖住，也就忘了。",
+      "en": "Each review makes the memory path in the brain firmer. Studied only once, the path is soon overgrown and forgotten."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会打哈欠",
+      "en": "Why Do We Yawn?"
+    },
+    "content": {
+      "zh": "身体累了或脑子发闷时，打哈欠能吸进一大口氧气，还能给发热的脑袋吹点凉风，让人一下子清醒一些。",
+      "en": "When you are tired or the brain feels sluggish, a yawn takes in a big breath of oxygen and cools the head, helping you feel more awake."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么一听音乐就想动",
+      "en": "Why Do We Move When We Hear Music?"
+    },
+    "content": {
+      "zh": "管听和管动的两块脑区挨得很近，一听到有节奏的声音，管动的那一块也会被带动，身体就跟着晃起来。",
+      "en": "The hearing and movement areas of the brain sit close together. Hearing a rhythm stirs the movement area, so the body starts to sway."
+    }
+  },
+  {
+    "title": {
+      "zh": "大脑是怎么记住事情的",
+      "en": "How Does the Brain Store Memories?"
+    },
+    "content": {
+      "zh": "脑细胞之间会伸出小手互相拉住，记住一件事就是搭起一条新的小路。用得越多，这条小路越通畅，记得越牢。",
+      "en": "Brain cells reach out and link to one another; remembering means building a new path. The more a path is used, the smoother and stronger it becomes."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么有人是左撇子",
+      "en": "Why Are Some People Left-Handed?"
+    },
+    "content": {
+      "zh": "大多数人习惯用右手，因为大脑左半边管右边身体，而左半边通常更灵。少数人反过来，就成了左撇子。",
+      "en": "Most people favour the right hand, because the left half of the brain, which controls the right side, is usually dominant. In some it works the other way."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么会害羞",
+      "en": "Why Do We Feel Shy?"
+    },
+    "content": {
+      "zh": "害羞时身体会放出让人紧张的东西，心跳加快、脸也发红。这是身体在提醒我们：面对陌生的人和事要小心一点。",
+      "en": "When shy, the body releases chemicals that make the heart race and the face flush. It is a signal to be careful with unfamiliar people and places."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么看到好吃的会流口水",
+      "en": "Why Does Our Mouth Water at Good Food?"
+    },
+    "content": {
+      "zh": "眼睛或鼻子一闻到食物，大脑就提前通知唾液腺：准备吃饭啦。口水先流出来，帮忙润湿和消化食物。",
+      "en": "As soon as you see or smell food, the brain tells the salivary glands to get ready, so saliva flows to moisten and start digesting it."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么打哈欠会传染",
+      "en": "Why Are Yawns Contagious?"
+    },
+    "content": {
+      "zh": "看到别人打哈欠，大脑里管模仿的细胞会被带动，我们也跟着打。越亲近的人，这种\"传染\"越容易发生。",
+      "en": "Seeing someone yawn stirs the brain cells that copy others, so we yawn too. The closer you are to the person, the more easily it spreads."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么小孩学语言更快",
+      "en": "Why Do Children Learn Languages Faster?"
+    },
+    "content": {
+      "zh": "小孩大脑里管语言的部分正处在最好用的年纪，听得多就很快抓住规律。长大以后再学新语言，就要多花些力气。",
+      "en": "A child’s language areas are at their most flexible, so hearing lots of speech lets them pick up patterns fast. Later, learning a new language takes more effort."
+    }
+  },
+  {
+    "title": {
+      "zh": "为什么害怕时心跳会加快",
+      "en": "Why Does Our Heart Race When Scared?"
+    },
+    "content": {
+      "zh": "害怕时身体会放出一种让人警觉的东西，让心脏快快跳，把血液赶紧送到肌肉，好准备跑开或者面对危险。",
+      "en": "Fear releases chemicals that make the heart beat faster, rushing blood to the muscles so the body is ready to run or to face the danger."
+    }
+  }
+]
