@@ -22,7 +22,12 @@
                 {"name": "多远都要在一起", "en": "together-forever", "audio": "/audio/together-forever.m4a", "lyric": "/lyric/together-forever.lrc"},
                 {"name": "唯一", "en": "the-one", "audio": "/audio/the-one.m4a", "lyric": "/lyric/the-one.lrc"},
                 {"name": "演员", "en": "actor", "audio": "/audio/actor.m4a", "lyric": "/lyric/actor.lrc"},
-                {"name": "认真的雪", "en": "Earnest Snow", "audio": "/audio/earnest-snow.mp3", "lyric": "/lyric/earnest-snow.lrc"}
+                {"name": "认真的雪", "en": "Earnest Snow", "audio": "/audio/earnest-snow.mp3", "lyric": "/lyric/earnest-snow.lrc"},
+                {"name": "今夜你会不会来", "en": "will you come tonight", "audio": "/audio/will-you-come-tonight.mp3", "lyric": "/lyric/will-you-come-tonight.lrc"},
+                {"name": "两个人的烟火", "en": "fireworks for two", "audio": "/audio/fireworks-for-two.m4a", "lyric": "/lyric/fireworks-for-two.lrc"},
+                {"name": "夏日倾情", "en": "summer romance", "audio": "/audio/summer-romance.mp3", "lyric": "/lyric/summer-romance.lrc"},
+                {"name": "梦仍是一样", "en": "The Dream Remains the Same", "audio": "/audio/the-dream-remains-the-same.mp3", "lyric": "/lyric/the-dream-remains-the-same.lrc"},
+                {"name": "半梦半醒", "en": "Half Awake Half Asleep", "audio": "/audio/half-awake-half-asleep.mp3", "lyric": "/lyric/half-awake-half-asleep.lrc"}
             ]
 
         }
