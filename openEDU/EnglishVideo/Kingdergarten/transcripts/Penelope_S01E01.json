@@ -1,0 +1,17 @@
+{
+    "lines": [
+        { "index": 1, "start": 0.0, "en": "Good morning, Penelope.", "zh": "早上好，佩内洛普。" },
+        { "index": 2, "start": 5.5, "en": "Good morning, Mummy.", "zh": "早上好，妈妈。" },
+        { "index": 3, "start": 10.0, "en": "Penelope, it's time to get dressed.", "zh": "佩内洛普，该穿衣服了。" },
+        { "index": 4, "start": 15.5, "en": "OK, Mummy.", "zh": "好的，妈妈。" },
+        { "index": 5, "start": 20.0, "en": "What shall I wear today?", "zh": "我今天穿什么呢？" },
+        { "index": 6, "start": 26.0, "en": "My blue dress? No, it's in the wash.", "zh": "我的蓝色裙子？不行，它在洗。" },
+        { "index": 7, "start": 32.0, "en": "My red t-shirt and shorts?", "zh": "我的红色T恤和短裤？" },
+        { "index": 8, "start": 38.0, "en": "Yes, that's nice. And socks.", "zh": "对，不错。还有袜子。" },
+        { "index": 9, "start": 44.0, "en": "One sock, two socks. Where is the other one?", "zh": "一只袜子，两只袜子。另一只呢？" },
+        { "index": 10, "start": 49.5, "en": "Here it is! Under the bed.", "zh": "在这儿！在床底下。" },
+        { "index": 11, "start": 55.0, "en": "Now, shoes. Left shoe, right shoe.", "zh": "现在穿鞋。左脚鞋，右脚鞋。" },
+        { "index": 12, "start": 61.0, "en": "All done! I'm ready for breakfast.", "zh": "穿好了！我准备好吃早餐了。" },
+        { "index": 13, "start": 67.0, "en": "Good girl, Penelope.", "zh": "好孩子，佩内洛普。" }
+    ]
+}

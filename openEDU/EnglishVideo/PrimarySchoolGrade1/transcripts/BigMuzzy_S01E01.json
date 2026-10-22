@@ -1,0 +1,15 @@
+{
+    "lines": [
+        { "index": 1, "start": 0.0, "en": "Hello. My name is Muzzy.", "zh": "你好。我叫马齐。" },
+        { "index": 2, "start": 5.0, "en": "I am very big. I am very friendly.", "zh": "我很大。我很友好。" },
+        { "index": 3, "start": 11.0, "en": "This is Bob. Bob is the gardener.", "zh": "这是鲍勃。鲍勃是园丁。" },
+        { "index": 4, "start": 17.0, "en": "Hello, Bob.", "zh": "你好，鲍勃。" },
+        { "index": 5, "start": 20.0, "en": "Hello. What is your name?", "zh": "你好。你叫什么名字？" },
+        { "index": 6, "start": 25.0, "en": "My name is Muzzy.", "zh": "我叫马齐。" },
+        { "index": 7, "start": 29.0, "en": "Are you hungry, Muzzy?", "zh": "你饿了吗，马齐？" },
+        { "index": 8, "start": 34.0, "en": "Yes! I am very hungry!", "zh": "是的！我非常饿！" },
+        { "index": 9, "start": 38.5, "en": "I like clocks. Clocks are good.", "zh": "我喜欢钟。钟很好吃。" },
+        { "index": 10, "start": 44.0, "en": "No, Muzzy! Clocks are not food!", "zh": "不，马齐！钟不是食物！" },
+        { "index": 11, "start": 49.5, "en": "Muzzy eats everything!", "zh": "马齐什么都吃！" }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "英文短片",
+    "titleEn": "English Short Videos for Kids",
+    "chapters": [
+        {
+            "name": "幼稚园",
+            "en": "Kingdergarten",
+            "contentLink": "Kingdergarten.json"
+        },
+        {
+            "name": "小学一年级",
+            "en": "Primary School Grade 1",
+            "contentLink": "PrimarySchoolGrade1.json"
+        },
+        {
+            "name": "小学二年级",
+            "en": "Primary School Grade 2",
+            "contentLink": "PrimarySchoolGrade2.json"
+        },
+        {
+            "name": "小学三年级",
+            "en": "Primary School Grade 3",
+            "contentLink": "PrimarySchoolGrade3.json"
+        },
+        {
+            "name": "小学四年级",
+            "en": "Primary School Grade 4",
+            "contentLink": "PrimarySchoolGrade4.json"
+        },
+        {
+            "name": "小学五年级",
+            "en": "Primary School Grade 5",
+            "contentLink": "PrimarySchoolGrade5.json"
+        },
+        {
+            "name": "小学六年级",
+            "en": "Primary School Grade 6",
+            "contentLink": "PrimarySchoolGrade6.json"
+        },
+        {
+            "name": "中学一年级",
+            "en": "Secondary School Grade 1",
+            "contentLink": "SecondarySchoolGrade1.json"
+        }
+    ]
+}

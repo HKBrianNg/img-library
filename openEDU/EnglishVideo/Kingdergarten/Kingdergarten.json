@@ -1,0 +1,58 @@
+{
+    "title": "幼稚园",
+    "titleEn": "Kindergarten",
+    "description": "适合2-5岁零基础或刚接触英语的孩子，以单词认知、日常短句、情绪启蒙为主",
+    "descriptionEn": "For children aged 2-5 with zero or minimal English exposure. Focus on word recognition, daily short sentences, and emotional awareness.",
+    "categories": [
+        {
+            "name": "B站",
+            "en": "Bilibili",
+            "website": "https://www.bilibili.com",
+            "items": [
+                {
+                    "id": 1,
+                    "englishName": "Yakka Dee",
+                    "chineseName": "亚克迪",
+                    "durationPerEpisode": "5 min",
+                    "ageRange": "2-6 years",
+                    "producer": "BBC",
+                    "transcriptFile": "transcripts/YakkaDee_S01E01.json",
+                    "description": "每集只攻克一个核心单词，真人小朋友+动画混剪反复带读，公认的开口神器。",
+                    "descriptionEn": "Each episode focuses on one core word, mixing real kids and animation for repetitive reading. A well-known speaking booster.",
+                    "url": "https://www.bilibili.com/video/BV19JaozmEKr/"
+                },
+                {
+                    "id": 2,
+                    "englishName": "Penelope",
+                    "chineseName": "蓝色小考拉",
+                    "durationPerEpisode": "5 min",
+                    "ageRange": "2-5 years",
+                    "producer": "BBC",
+                    "transcriptFile": "transcripts/Penelope_S01E01.json",
+                    "description": "穿衣、吃饭、刷牙等宝宝日常，语速极慢，固定句式循环，英音启蒙首选。",
+                    "descriptionEn": "Daily routines like dressing, eating, and brushing teeth. Extremely slow speech, fixed sentence loops, top choice for British accent.",
+                    "url": "https://www.bilibili.com/video/BV1qg41187Wj/"
+                }
+            ]
+        },
+        {
+            "name": "CBeebies 官网",
+            "en": "CBeebies Official Website",
+            "website": "https://www.cbeebies.com/watch/",
+            "items": [
+                {
+                    "id": 1,
+                    "englishName": "In the Night Garden",
+                    "chineseName": "花园宝宝",
+                    "durationPerEpisode": "10 min",
+                    "ageRange": "1-4 years",
+                    "producer": "BBC",
+                    "transcriptFile": "",
+                    "description": "睡前安抚向，节奏缓慢、画面柔和，适合2岁以下宝宝作为第一部英文短片。",
+                    "descriptionEn": "Bedtime soothing, slow pace, soft pictures. Suitable as the first English short for babies under 2.",
+                    "url": "Search: In the Night Garden"
+                }
+            ]
+        }
+    ]
+}

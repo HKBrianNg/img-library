@@ -1,0 +1,166 @@
+{
+    "title": "小学一年级",
+    "titleEn": "Primary School Grade 1",
+    "description": "适合6-7岁有一定英语基础的孩子，开始接触自然拼读、简单对话和跨学科词汇",
+    "descriptionEn": "For children aged 6-7 with some English foundation. Starting phonics, simple conversations, and cross-subject vocabulary.",
+    "categories": [
+        {
+            "name": "B站",
+            "en": "Bilibili",
+            "website": "https://www.bilibili.com",
+            "items": [
+                {
+                    "id": 1,
+                    "englishName": "Alphablocks",
+                    "chineseName": "字母积木",
+                    "durationPerEpisode": "5 min",
+                    "ageRange": "4-7 years",
+                    "producer": "BBC",
+                    "transcriptFile": "transcripts/Alphablocks.json",
+                    "description": "26个字母化身小人拼出单词，自然拼读规则可视化，学拼读必看。",
+                    "descriptionEn": "26 letters turn into little people spelling words. Phonics rules visualized, a must-see for learning phonics.",
+                    "url": "https://www.bilibili.com/video/BV1iC4y1h73s"
+                },
+                {
+                    "id": 2,
+                    "englishName": "Numberblocks",
+                    "chineseName": "数字积木",
+                    "durationPerEpisode": "5 min",
+                    "ageRange": "3-6 years",
+                    "producer": "BBC",
+                    "transcriptFile": "transcripts/Numberblocks.json",
+                    "description": "字母积木姊妹篇，数字叠加分解演示加减法，数学+英语双启蒙。",
+                    "descriptionEn": "Alphablocks sister series. Numbers combine and decompose to demonstrate addition and subtraction. Math and English dual enlightenment.",
+                    "url": "Search: 'Numberblocks 英文版'"
+                },
+                {
+                    "id": 3,
+                    "englishName": "Big Muzzy",
+                    "chineseName": "玛泽的故事",
+                    "durationPerEpisode": "14 min",
+                    "ageRange": "3-8 years",
+                    "producer": "BBC",
+                    "transcriptFile": "transcripts/BigMuzzy.json",
+                    "description": "牛津专家开发的教学向动画，词汇句式循环到极致，看完可掌握600+基础词。",
+                    "descriptionEn": "Teaching animation developed by Oxford experts. Vocabulary and sentence patterns repeat extensively. Master 600+ basic words after watching.",
+                    "url": "https://www.bilibili.com/video/BV1ns411h7Dr"
+                },
+                {
+                    "id": 4,
+                    "englishName": "Dinopaws",
+                    "chineseName": "小恐龙乐园",
+                    "durationPerEpisode": "11 min",
+                    "ageRange": "3-6 years",
+                    "producer": "BBC",
+                    "transcriptFile": "",
+                    "description": "三只圆润小恐龙的小探险，色彩明丽，单词句式反复出现，恐龙迷必入。",
+                    "descriptionEn": "Three round little dinosaurs' small adventures. Bright colors, repeated words and sentence patterns. A must for dinosaur fans.",
+                    "url": "Search: 'Dinopaws 英文版'"
+                },
+                {
+                    "id": 5,
+                    "englishName": "Go Jetters",
+                    "chineseName": "探险冲冲冲",
+                    "durationPerEpisode": "11 min",
+                    "ageRange": "4-7 years",
+                    "producer": "BBC",
+                    "transcriptFile": "",
+                    "description": "四名实习探险员环游世界，地理与文化知识融入冒险，指令类词汇多。",
+                    "descriptionEn": "Four trainee explorers travel the world. Geography and cultural knowledge integrated into adventures, lots of command vocabulary.",
+                    "url": "Search: 'Go Jetters 英文版'"
+                },
+                {
+                    "id": 6,
+                    "englishName": "Little Princess",
+                    "chineseName": "小公主",
+                    "durationPerEpisode": "11 min",
+                    "ageRange": "2-6 years",
+                    "producer": "BBC",
+                    "transcriptFile": "",
+                    "description": "改编自托尼·罗斯绘本，调皮小公主的成长日常，情绪管理与规则教育自然融入。",
+                    "descriptionEn": "Adapted from Tony Ross's picture books. The growing daily life of a naughty little princess, naturally integrating emotional management and rule education.",
+                    "url": "Search: 'Little Princess 英文版'"
+                }
+            ]
+        },
+        {
+            "name": "CBeebies 官网",
+            "en": "CBeebies Official Website",
+            "website": "https://www.cbeebies.com/watch/",
+            "items": [
+                {
+                    "id": 1,
+                    "englishName": "Bluey",
+                    "chineseName": "布鲁伊",
+                    "durationPerEpisode": "7 min",
+                    "ageRange": "3-8 years",
+                    "producer": "BBC",
+                    "transcriptFile": "",
+                    "description": "澳洲牧牛犬一家的温馨日常，游戏里藏着育儿智慧，全球口碑神作。",
+                    "descriptionEn": "Warm daily life of an Australian cattle dog family. Parenting wisdom hidden in games, a global word-of-mouth masterpiece.",
+                    "url": "Search: Bluey → The Magic Xylophone"
+                },
+                {
+                    "id": 2,
+                    "englishName": "Charlie and Lola",
+                    "chineseName": "查理和罗拉",
+                    "durationPerEpisode": "10 min",
+                    "ageRange": "4-8 years",
+                    "producer": "BBC",
+                    "transcriptFile": "",
+                    "description": "哥哥查理和妹妹罗拉的日常拌嘴，画风童趣，长句多，适合有基础的孩子。",
+                    "descriptionEn": "Brother Charlie and sister Lola's daily bickering. Childlike style, many long sentences, suitable for kids with foundation.",
+                    "url": "Search: Charlie and Lola"
+                },
+                {
+                    "id": 3,
+                    "englishName": "Supertato",
+                    "chineseName": "超级土豆",
+                    "durationPerEpisode": "7 min",
+                    "ageRange": "3-7 years",
+                    "producer": "BBC",
+                    "transcriptFile": "",
+                    "description": "超市里会飞的超级土豆大战邪恶豌豆，节奏明快，孩子一看就上瘾。",
+                    "descriptionEn": "Flying Super Potato in the supermarket fights evil peas. Fast pace, kids get addicted at first sight.",
+                    "url": "Search: Supertato"
+                },
+                {
+                    "id": 4,
+                    "englishName": "Dog Loves Books",
+                    "chineseName": "狗狗爱读书",
+                    "durationPerEpisode": "7 min",
+                    "ageRange": "3-7 years",
+                    "producer": "CBeebies",
+                    "transcriptFile": "",
+                    "description": "书店老板Dog和Pug掉进书里冒险，每集融入一个新故事，鼓励阅读。",
+                    "descriptionEn": "Bookstore owners Dog and Pug fall into books for adventures. Each episode integrates a new story, encouraging reading.",
+                    "url": "Search: Dog Loves Books"
+                },
+                {
+                    "id": 5,
+                    "englishName": "Vida the Vet",
+                    "chineseName": "兽医维达",
+                    "durationPerEpisode": "7 min",
+                    "ageRange": "3-7 years",
+                    "producer": "CBeebies",
+                    "transcriptFile": "",
+                    "description": "小女孩兽医帮助动物朋友，动物身体与照料词汇丰富，温柔有爱。",
+                    "descriptionEn": "Little girl vet helps animal friends. Rich vocabulary on animal bodies and care, gentle and loving.",
+                    "url": "Search: Vida the Vet"
+                },
+                {
+                    "id": 6,
+                    "englishName": "Andy's Adventures",
+                    "chineseName": "安迪的冒险",
+                    "durationPerEpisode": "10 min",
+                    "ageRange": "4-8 years",
+                    "producer": "BBC",
+                    "transcriptFile": "",
+                    "description": "真人主持人穿越恐龙时代与自然世界，科普词汇密集，孩子看得目不转睛。",
+                    "descriptionEn": "Live host travels through dinosaur age and natural world. Dense science vocabulary, children watch with fixed eyes.",
+                    "url": "Search: Andy's Adventures"
+                }
+            ]
+        }
+    ]
+}

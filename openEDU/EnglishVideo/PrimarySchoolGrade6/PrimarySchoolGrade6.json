@@ -1,0 +1,130 @@
+{
+    "title": "小学六年级",
+    "titleEn": "Primary School Grade 6",
+    "description": "适合11-12岁孩子，章节书流利阅读、纪录片深度观看、辩论与观点表达",
+    "descriptionEn": "For children aged 11-12. Fluent chapter book reading, deep documentary watching, debate and opinion expression.",
+    "categories": [
+        {
+            "name": "B站",
+            "en": "Bilibili",
+            "website": "https://www.bilibili.com",
+            "items": [
+                {
+                    "id": 1,
+                    "englishName": "Horrible Histories",
+                    "chineseName": "糟糕历史",
+                    "durationPerEpisode": "28 min",
+                    "ageRange": "8-13 years",
+                    "producer": "CBBC",
+                    "transcriptFile": "transcripts/HorribleHistories.json",
+                    "description": "用搞笑短剧讲真实历史，莎士比亚到二战全覆盖，英式幽默+历史词汇量爆炸。",
+                    "descriptionEn": "Funny sketches about real history, from Shakespeare to WWII. British humor plus explosive history vocabulary.",
+                    "url": "Search: 'Horrible Histories 英文版'"
+                },
+                {
+                    "id": 2,
+                    "englishName": "TED-Ed Animations",
+                    "chineseName": "TED教育动画",
+                    "durationPerEpisode": "3-5 min",
+                    "ageRange": "10-15 years",
+                    "producer": "TED",
+                    "transcriptFile": "transcripts/TedEdAnimations.json",
+                    "description": "动画短片讲解思维谜题、科学现象、历史故事，每集一个知识点，适合碎片化学习。",
+                    "descriptionEn": "Animated shorts explaining brain puzzles, science phenomena, history stories. One topic per episode, perfect for bite-sized learning.",
+                    "url": "Search: 'TED-Ed 英文版'"
+                },
+                {
+                    "id": 3,
+                    "englishName": "The Inbestigators",
+                    "chineseName": "小侦探",
+                    "durationPerEpisode": "24 min",
+                    "ageRange": "8-12 years",
+                    "producer": "Netflix",
+                    "transcriptFile": "transcripts/TheInbestigators.json",
+                    "description": "四个小学生组成侦探社解决邻里谜案，推理对话+日常口语，澳洲口音。",
+                    "descriptionEn": "Four primary students form a detective agency solving neighborhood mysteries. Deduction dialogue plus daily colloquial. Australian accent.",
+                    "url": "Search: 'The Inbestigators 英文版'"
+                },
+                {
+                    "id": 4,
+                    "englishName": "Hardball",
+                    "chineseName": "硬球",
+                    "durationPerEpisode": "24 min",
+                    "ageRange": "9-13 years",
+                    "producer": "ABC Australia",
+                    "transcriptFile": "transcripts/Hardball.json",
+                    "description": "三个孩子在新学校建立自己的体育联盟，澳洲校园生活+运动词汇+友谊主题。",
+                    "descriptionEn": "Three kids start their own sports league at a new school. Australian school life plus sports vocabulary plus friendship themes.",
+                    "url": "Search: 'Hardball 英文版'"
+                },
+                {
+                    "id": 5,
+                    "englishName": "Our Planet Kids",
+                    "chineseName": "我们的星球（少儿版）",
+                    "durationPerEpisode": "30 min",
+                    "ageRange": "9-14 years",
+                    "producer": "Netflix/BBC",
+                    "transcriptFile": "transcripts/OurPlanetKids.json",
+                    "description": "大卫·爱登堡解说自然纪录片，少儿版语速适中，环保议题+高级科普词汇。",
+                    "descriptionEn": "David Attenborough narrated nature documentary. Kids' version has moderate speed. Environmental topics plus advanced science vocabulary.",
+                    "url": "Search: 'Our Planet 少儿版'"
+                },
+                {
+                    "id": 6,
+                    "englishName": "Free Rein",
+                    "chineseName": "自由驰骋",
+                    "durationPerEpisode": "24 min",
+                    "ageRange": "10-14 years",
+                    "producer": "Netflix",
+                    "transcriptFile": "transcripts/FreeRein.json",
+                    "description": "美国女孩在英国海岛与马建立友谊的成长故事，青少年对话+情感表达。",
+                    "descriptionEn": "An American girl on a British island builds friendship with a horse. Teen dialogue plus emotional expression.",
+                    "url": "Search: 'Free Rein 英文版'"
+                }
+            ]
+        },
+        {
+            "name": "CBeebies 官网",
+            "en": "CBeebies Official Website",
+            "website": "https://www.cbeebies.com/watch/",
+            "items": [
+                {
+                    "id": 1,
+                    "englishName": "Blue Peter",
+                    "chineseName": "蓝色彼得",
+                    "durationPerEpisode": "28 min",
+                    "ageRange": "7-13 years",
+                    "producer": "BBC",
+                    "transcriptFile": "",
+                    "description": "BBC最长寿的儿童节目，手工制作、挑战任务、动物嘉宾应有尽有，地道英式英语。",
+                    "descriptionEn": "BBC's longest-running children's show. Crafts, challenge tasks, animal guests. Authentic British English.",
+                    "url": "Search: Blue Peter"
+                },
+                {
+                    "id": 2,
+                    "englishName": "Newsround",
+                    "chineseName": "新闻轮",
+                    "durationPerEpisode": "5-10 min",
+                    "ageRange": "8-13 years",
+                    "producer": "BBC",
+                    "transcriptFile": "",
+                    "description": "BBC儿童新闻节目，用孩子能懂的语言讲时事，新闻英语+全球视野。",
+                    "descriptionEn": "BBC children's news program. Current events explained in kid-friendly language. News English plus global perspective.",
+                    "url": "Search: Newsround"
+                },
+                {
+                    "id": 3,
+                    "englishName": "Deadly 60",
+                    "chineseName": "致命60秒",
+                    "durationPerEpisode": "28 min",
+                    "ageRange": "7-12 years",
+                    "producer": "BBC",
+                    "transcriptFile": "",
+                    "description": "Steve Backshall寻找全球最致命的动物，野生动物纪录片风格，高阶科普英语。",
+                    "descriptionEn": "Steve Backshall hunts for the world's deadliest animals. Wildlife documentary style, advanced science English.",
+                    "url": "Search: Deadly 60"
+                }
+            ]
+        }
+    ]
+}

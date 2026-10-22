@@ -1,0 +1,130 @@
+{
+    "title": "小学三年级",
+    "titleEn": "Primary School Grade 3",
+    "description": "适合8-9岁孩子，独立阅读起步、科普词汇引入、故事类短片理解力提升",
+    "descriptionEn": "For children aged 8-9. Beginning independent reading, introduction to science vocabulary, improved story comprehension.",
+    "categories": [
+        {
+            "name": "B站",
+            "en": "Bilibili",
+            "website": "https://www.bilibili.com",
+            "items": [
+                {
+                    "id": 1,
+                    "englishName": "Magic School Bus",
+                    "chineseName": "神奇校车",
+                    "durationPerEpisode": "25 min",
+                    "ageRange": "6-10 years",
+                    "producer": "PBS",
+                    "transcriptFile": "transcripts/MagicSchoolBus.json",
+                    "description": "卷毛老师带学生坐神奇校车深入人体、太空、海底，科普词汇密集，故事性强。",
+                    "descriptionEn": "Ms. Frizzle takes students on the Magic School Bus deep into the human body, space, and ocean floor. Dense science vocabulary, strong storytelling.",
+                    "url": "Search: 'Magic School Bus 英文版'"
+                },
+                {
+                    "id": 2,
+                    "englishName": "Wild Kratts",
+                    "chineseName": "动物兄弟",
+                    "durationPerEpisode": "26 min",
+                    "ageRange": "6-10 years",
+                    "producer": "PBS",
+                    "transcriptFile": "transcripts/WildKratts.json",
+                    "description": "Kratts兄弟用 Creature Power 变身动物探索自然，动物科普+动作冒险，男孩女孩都爱看。",
+                    "descriptionEn": "The Kratt brothers use Creature Power to transform into animals and explore nature. Animal science plus action adventure, loved by all.",
+                    "url": "Search: 'Wild Kratts 英文版'"
+                },
+                {
+                    "id": 3,
+                    "englishName": "WordGirl",
+                    "chineseName": "单词女孩",
+                    "durationPerEpisode": "12 min",
+                    "ageRange": "7-10 years",
+                    "producer": "PBS",
+                    "transcriptFile": "transcripts/WordGirl.json",
+                    "description": "拥有超能力的单词女孩一边打击犯罪一边教新词汇，每集重点讲解2-3个高级词汇。",
+                    "descriptionEn": "WordGirl fights crime while teaching new vocabulary. Each episode highlights 2-3 advanced words in context.",
+                    "url": "Search: 'WordGirl 英文版'"
+                },
+                {
+                    "id": 4,
+                    "englishName": "Octonauts",
+                    "chineseName": "海底小纵队",
+                    "durationPerEpisode": "11 min",
+                    "ageRange": "5-9 years",
+                    "producer": "BBC",
+                    "transcriptFile": "transcripts/Octonauts.json",
+                    "description": "八个小探险家海底探险，海洋生物知识+团队合作，角色配音英音标准。",
+                    "descriptionEn": "Eight explorers on underwater adventures. Marine biology knowledge plus teamwork. Standard British accent voice acting.",
+                    "url": "Search: 'Octonauts 英文版'"
+                },
+                {
+                    "id": 5,
+                    "englishName": "Paw Patrol",
+                    "chineseName": "汪汪队立大功",
+                    "durationPerEpisode": "11 min",
+                    "ageRange": "4-8 years",
+                    "producer": "Spin Master",
+                    "transcriptFile": "transcripts/PawPatrol.json",
+                    "description": "莱德和六只小狗的救援任务，团队合作+解决问题，指令句型和职业词汇丰富。",
+                    "descriptionEn": "Ryder and six puppies on rescue missions. Teamwork plus problem solving. Rich in command sentences and occupation vocabulary.",
+                    "url": "Search: 'Paw Patrol 英文版'"
+                },
+                {
+                    "id": 6,
+                    "englishName": "Curious George",
+                    "chineseName": "好奇猴乔治",
+                    "durationPerEpisode": "12 min",
+                    "ageRange": "4-8 years",
+                    "producer": "PBS",
+                    "transcriptFile": "transcripts/CuriousGeorge.json",
+                    "description": "好奇猴乔治的搞笑冒险，旁白讲述清晰，因果逻辑句型和科普词汇自然融入。",
+                    "descriptionEn": "Funny adventures of Curious George. Clear narration, cause-effect logic sentences and science vocabulary naturally integrated.",
+                    "url": "Search: 'Curious George 英文版'"
+                }
+            ]
+        },
+        {
+            "name": "CBeebies 官网",
+            "en": "CBeebies Official Website",
+            "website": "https://www.cbeebies.com/watch/",
+            "items": [
+                {
+                    "id": 1,
+                    "englishName": "Andy's Adventures",
+                    "chineseName": "安迪的冒险",
+                    "durationPerEpisode": "10 min",
+                    "ageRange": "4-8 years",
+                    "producer": "BBC",
+                    "transcriptFile": "",
+                    "description": "真人主持人穿越恐龙时代与自然世界，科普词汇密集，孩子看得目不转睛。",
+                    "descriptionEn": "Live host travels through dinosaur age and natural world. Dense science vocabulary, children watch with fixed eyes.",
+                    "url": "Search: Andy's Adventures"
+                },
+                {
+                    "id": 2,
+                    "englishName": "Deadly 60",
+                    "chineseName": "致命60秒",
+                    "durationPerEpisode": "28 min",
+                    "ageRange": "7-12 years",
+                    "producer": "BBC",
+                    "transcriptFile": "",
+                    "description": "Steve Backshall寻找全球最致命的动物，野生动物纪录片风格，高阶科普英语。",
+                    "descriptionEn": "Steve Backshall hunts for the world's deadliest animals. Wildlife documentary style, advanced science English.",
+                    "url": "Search: Deadly 60"
+                },
+                {
+                    "id": 3,
+                    "englishName": "Operation Ouch",
+                    "chineseName": "哇哦身体",
+                    "durationPerEpisode": "28 min",
+                    "ageRange": "7-12 years",
+                    "producer": "BBC",
+                    "transcriptFile": "",
+                    "description": "双胞胎医生兄弟用实验和医院实拍讲解人体知识，医学词汇丰富但讲解有趣不吓人。",
+                    "descriptionEn": "Twin doctor brothers explain human body knowledge through experiments and hospital footage. Rich medical vocabulary, fun and not scary.",
+                    "url": "Search: Operation Ouch"
+                }
+            ]
+        }
+    ]
+}
