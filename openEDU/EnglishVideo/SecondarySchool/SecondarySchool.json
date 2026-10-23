@@ -1,0 +1,24 @@
+{
+    "title": "中学",
+    "titleEn": "Secondary School",
+    "description": "适合12-16岁，TED演讲、新闻纪录片、青少年向电影片段。",
+    "descriptionEn": "For children aged 12-16. TED talks, news documentaries, teen-oriented film clips.",
+    "items": [
+    {
+      "id": 1,
+      "series": "",
+      "episode": "",
+      "englishName": "",
+      "chineseName": "",
+      "durationPerEpisode": "",
+      "ageRange": "",
+      "producer": "",
+      "channel": "",
+      "platform": "",
+      "transcriptFile": "",
+      "description": "",
+      "descriptionEn": "",
+      "url": ""
+    }
+  ]
+}
