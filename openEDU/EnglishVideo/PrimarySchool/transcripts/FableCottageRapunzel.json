@@ -1,0 +1,916 @@
+{
+  "lines": [
+    {
+      "index": 1,
+      "start": "00:05",
+      "en": "Once upon a time there was a girl named Rapunzel.",
+      "zh": "从前有个女孩，名叫长发公主。"
+    },
+    {
+      "index": 2,
+      "start": "00:08",
+      "en": "Rapunzel lived in a tall tower in the middle of a forest.",
+      "zh": "长发公主住在森林中央的一座高塔里。"
+    },
+    {
+      "index": 3,
+      "start": "00:13",
+      "en": "The tower had no ladder no stairs and definitely no elevator There was no way to get up or down.",
+      "zh": "塔里没有梯子，没有楼梯，当然也没有电梯。上不去，也下不来。"
+    },
+    {
+      "index": 4,
+      "start": "00:21",
+      "en": "So… why did Rapunzel live in a tower?",
+      "zh": "那么……长发公主为什么住在塔里呢？"
+    },
+    {
+      "index": 5,
+      "start": "00:25",
+      "en": "Well, it all started with a witch.",
+      "zh": "嗯，这都得从一个巫婆说起。"
+    },
+    {
+      "index": 6,
+      "start": "00:28",
+      "en": "As you know, witches can be very jealous.",
+      "zh": "你知道的，巫婆可是很爱嫉妒的。"
+    },
+    {
+      "index": 7,
+      "start": "00:32",
+      "en": "They especially hate people stealing herbs from their gardens.",
+      "zh": "她们尤其讨厌别人从自家花园里偷草药。"
+    },
+    {
+      "index": 8,
+      "start": "00:36",
+      "en": "Unfortunately Rapunzel’s mother didn't know this about witches.",
+      "zh": "不幸的是，长发公主的妈妈并不知道巫婆的这个脾气。"
+    },
+    {
+      "index": 9,
+      "start": "00:41",
+      "en": "Many years ago when she was pregnant with Rapunzel, she snuck over the fence and stole some parsley from the witch next door.",
+      "zh": "很多年前，她怀着长发公主的时候，偷偷翻过篱笆，从隔壁巫婆家偷了一些欧芹。"
+    },
+    {
+      "index": 10,
+      "start": "00:50",
+      "en": "The witch saw her stealing parsley.",
+      "zh": "巫婆看见她偷欧芹。"
+    },
+    {
+      "index": 11,
+      "start": "00:54",
+      "en": "She was furious.",
+      "zh": "她气坏了。"
+    },
+    {
+      "index": 12,
+      "start": "00:56",
+      "en": "She gave Rapunzel’s mother two choices.",
+      "zh": "她给了长发公主的妈妈两个选择。"
+    },
+    {
+      "index": 13,
+      "start": "00:59",
+      "en": "Option one: The witch would curse her unborn baby girl.",
+      "zh": "选择一：巫婆会诅咒她还没出生的女儿。"
+    },
+    {
+      "index": 14,
+      "start": "01:05",
+      "en": "The girl would always be unlucky.",
+      "zh": "这个女孩会一辈子倒霉。"
+    },
+    {
+      "index": 15,
+      "start": "01:08",
+      "en": "She would meet the wrong people and say the wrong things and wear the wrong clothes for every occasion She would never live happily ever after.",
+      "zh": "她会遇到不对的人，说不对的话，每个场合都穿不对衣服。她永远也不会过上幸福的生活。"
+    },
+    {
+      "index": 16,
+      "start": "01:22",
+      "en": "Option two: On the girl’s tenth birthday, she would go to live with the witch.",
+      "zh": "选择二：女孩十岁生日那天，要去跟巫婆一起生活。"
+    },
+    {
+      "index": 17,
+      "start": "01:29",
+      "en": "She would be the witch’s apprentice.",
+      "zh": "她会成为巫婆的学徒。"
+    },
+    {
+      "index": 18,
+      "start": "01:31",
+      "en": "The witch promised that, eventually the girl would live happily ever after.",
+      "zh": "巫婆答应，这个女孩最终会过上幸福的生活。"
+    },
+    {
+      "index": 19,
+      "start": "01:37",
+      "en": "Rapunzel’s mother was heartbroken.",
+      "zh": "长发公主的妈妈伤心欲绝。"
+    },
+    {
+      "index": 20,
+      "start": "01:40",
+      "en": "She chose option two.",
+      "zh": "她选择了第二个。"
+    },
+    {
+      "index": 21,
+      "start": "01:42",
+      "en": "And on the evening of Rapunzel’s tenth birthday the witch came to take her away She put Rapunzel in the tall tower in the woods.",
+      "zh": "于是在长发公主十岁生日那天傍晚，巫婆来把她带走了。她把长发公主关进了森林里的那座高塔。"
+    },
+    {
+      "index": 22,
+      "start": "01:56",
+      "en": "After that, every day was the same for Rapunzel.",
+      "zh": "从那以后，长发公主的每一天都一样。"
+    },
+    {
+      "index": 23,
+      "start": "01:59",
+      "en": "She cleaned her room at the top of the tower.",
+      "zh": "她打扫自己在塔顶的房间。"
+    },
+    {
+      "index": 24,
+      "start": "02:01",
+      "en": "She braided her long, long hair.",
+      "zh": "她把自己长长的头发编成辫子。"
+    },
+    {
+      "index": 25,
+      "start": "02:05",
+      "en": "And every day at lunchtime, the witch came to the tower.",
+      "zh": "每天午饭时间，巫婆都会来到塔下。"
+    },
+    {
+      "index": 26,
+      "start": "02:08",
+      "en": "She stood under the window and shouted: RAPUNZEL!",
+      "zh": "她站在窗下喊：长发公主！"
+    },
+    {
+      "index": 27,
+      "start": "02:12",
+      "en": "RAPUNZEL!",
+      "zh": "长发公主！"
+    },
+    {
+      "index": 28,
+      "start": "02:13",
+      "en": "Let down your hair!",
+      "zh": "把你的头发放下来！"
+    },
+    {
+      "index": 29,
+      "start": "02:16",
+      "en": "Rapunzel threw her braid out of the window.",
+      "zh": "长发公主把辫子从窗口扔下去。"
+    },
+    {
+      "index": 30,
+      "start": "02:19",
+      "en": "The witch climbed up Rapunzel’s hair like a rope and crawled in through the window The witch taught Rapunzel how to make medicines with herbs.",
+      "zh": "巫婆顺着长发公主的头发像爬绳子一样爬上来，从窗口钻了进去。巫婆教长发公主用草药做药。"
+    },
+    {
+      "index": 31,
+      "start": "02:28",
+      "en": "And Rapunzel loved the witch.",
+      "zh": "长发公主喜欢巫婆。"
+    },
+    {
+      "index": 32,
+      "start": "02:30",
+      "en": "She was Rapunzel’s only friend.",
+      "zh": "她是长发公主唯一的朋友。"
+    },
+    {
+      "index": 33,
+      "start": "02:33",
+      "en": "One night, Rapunzel was reading a book beside the window when she heard someone below: RAPUNZEL!",
+      "zh": "一天晚上，长发公主正在窗边看书，忽然听见下面有人喊：长发公主！"
+    },
+    {
+      "index": 34,
+      "start": "02:41",
+      "en": "RAPUNZEL!",
+      "zh": "长发公主！"
+    },
+    {
+      "index": 35,
+      "start": "02:43",
+      "en": "LET...",
+      "zh": "把……"
+    },
+    {
+      "index": 36,
+      "start": "02:44",
+      "en": "DOWN...",
+      "zh": "……你的头发……"
+    },
+    {
+      "index": 37,
+      "start": "02:44",
+      "en": "YOUR HAIR?!",
+      "zh": "放下来？！"
+    },
+    {
+      "index": 38,
+      "start": "02:47",
+      "en": "“That’s strange,” she thought.",
+      "zh": "“真奇怪，”她想。"
+    },
+    {
+      "index": 39,
+      "start": "02:49",
+      "en": "The witch never comes this late.",
+      "zh": "巫婆从来不会这么晚来。"
+    },
+    {
+      "index": 40,
+      "start": "02:52",
+      "en": "She threw her braid out of the window and the person climbed up, up, up.",
+      "zh": "她把辫子从窗口扔出去，那个人就爬啊、爬啊、爬了上来。"
+    },
+    {
+      "index": 41,
+      "start": "02:59",
+      "en": "But when this person reached the top Rapunzel saw that it wasn’t the witch.",
+      "zh": "可等这个人到了顶上，长发公主发现那不是巫婆。"
+    },
+    {
+      "index": 42,
+      "start": "03:03",
+      "en": "It was a man!",
+      "zh": "是个男人！"
+    },
+    {
+      "index": 43,
+      "start": "03:06",
+      "en": "Rapunzel quickly grabbed her book and smacked the man on the head.",
+      "zh": "长发公主一把抓起书，朝那个人的头上砸去。"
+    },
+    {
+      "index": 44,
+      "start": "03:11",
+      "en": "Get out!",
+      "zh": "出去！"
+    },
+    {
+      "index": 45,
+      "start": "03:11",
+      "en": "Get out!",
+      "zh": "出去！"
+    },
+    {
+      "index": 46,
+      "start": "03:12",
+      "en": "You’re not the witch!",
+      "zh": "你不是巫婆！"
+    },
+    {
+      "index": 47,
+      "start": "03:15",
+      "en": "The strange man fell to the floor.",
+      "zh": "那个陌生男人摔倒在地上。"
+    },
+    {
+      "index": 48,
+      "start": "03:17",
+      "en": "“Ow!",
+      "zh": "“哎哟！"
+    },
+    {
+      "index": 49,
+      "start": "03:17",
+      "en": "Ow!",
+      "zh": "哎哟！"
+    },
+    {
+      "index": 50,
+      "start": "03:18",
+      "en": "Stop hurting me!",
+      "zh": "别打了！"
+    },
+    {
+      "index": 51,
+      "start": "03:20",
+      "en": "” he begged.",
+      "zh": "”他求饶道。"
+    },
+    {
+      "index": 52,
+      "start": "03:21",
+      "en": "Who are you?",
+      "zh": "你是谁？"
+    },
+    {
+      "index": 53,
+      "start": "03:22",
+      "en": "What do you want?",
+      "zh": "你想干什么？"
+    },
+    {
+      "index": 54,
+      "start": "03:23",
+      "en": "Why did you climb my hair?",
+      "zh": "你为什么顺着我的头发爬上来？"
+    },
+    {
+      "index": 55,
+      "start": "03:25",
+      "en": "demanded Rapunzel “I’m Justin!",
+      "zh": "长发公主质问道。“我是贾斯汀！"
+    },
+    {
+      "index": 56,
+      "start": "03:28",
+      "en": "My name is Justin!",
+      "zh": "我叫贾斯汀！"
+    },
+    {
+      "index": 57,
+      "start": "03:30",
+      "en": "” he whimpered I came here to ...",
+      "zh": "”他呜咽着说，我来这里是为了……"
+    },
+    {
+      "index": 58,
+      "start": "03:33",
+      "en": "save you?",
+      "zh": "救你？"
+    },
+    {
+      "index": 59,
+      "start": "03:34",
+      "en": "As you can imagine, Rapunzel was not very impressed.",
+      "zh": "你可以想象，长发公主可没什么好印象。"
+    },
+    {
+      "index": 60,
+      "start": "03:38",
+      "en": "“Tell me, Justin,” she growled.",
+      "zh": "“告诉我，贾斯汀，”她低吼道。"
+    },
+    {
+      "index": 61,
+      "start": "03:41",
+      "en": "Does it look like I need to be saved?",
+      "zh": "我看起来像是需要被救的样子吗？"
+    },
+    {
+      "index": 62,
+      "start": "03:45",
+      "en": "Justin sighed.",
+      "zh": "贾斯汀叹了口气。"
+    },
+    {
+      "index": 63,
+      "start": "03:46",
+      "en": "I'm sorry I thought this was my chance to be a hero “What do you mean?",
+      "zh": "对不起，我以为这是我当英雄的机会。“你什么意思？"
+    },
+    {
+      "index": 64,
+      "start": "03:52",
+      "en": "” asked Rapunzel.",
+      "zh": "”长发公主问。"
+    },
+    {
+      "index": 65,
+      "start": "03:54",
+      "en": "My chance to be hero!",
+      "zh": "我当英雄的机会啊！"
+    },
+    {
+      "index": 66,
+      "start": "03:56",
+      "en": "Every man needs to be a hero at least once in his life.",
+      "zh": "每个男人一辈子总得当一次英雄。"
+    },
+    {
+      "index": 67,
+      "start": "03:59",
+      "en": "It’s the only way to live happily ever after!",
+      "zh": "这是过上幸福生活的唯一办法！"
+    },
+    {
+      "index": 68,
+      "start": "04:03",
+      "en": "Rapunzel put down her book.",
+      "zh": "长发公主放下书。"
+    },
+    {
+      "index": 69,
+      "start": "04:06",
+      "en": "“I don’t need a hero,” she said, kindly.",
+      "zh": "“我不需要英雄，”她和气地说。"
+    },
+    {
+      "index": 70,
+      "start": "04:10",
+      "en": "Go away.",
+      "zh": "走吧。"
+    },
+    {
+      "index": 71,
+      "start": "04:11",
+      "en": "Be a hero somewhere else.",
+      "zh": "到别处去当英雄吧。"
+    },
+    {
+      "index": 72,
+      "start": "04:13",
+      "en": "It’s late.",
+      "zh": "天晚了。"
+    },
+    {
+      "index": 73,
+      "start": "04:14",
+      "en": "I want to go to bed.",
+      "zh": "我要睡觉了。"
+    },
+    {
+      "index": 74,
+      "start": "04:16",
+      "en": "Rapunzel threw her braid out the window.",
+      "zh": "长发公主把辫子扔出了窗外。"
+    },
+    {
+      "index": 75,
+      "start": "04:20",
+      "en": "Well, can I come back and talk to you tomorrow?",
+      "zh": "那……我明天能再来跟你说话吗？"
+    },
+    {
+      "index": 76,
+      "start": "04:23",
+      "en": "Justin asked you seem nice Also I brought a rope for you In case you change your mind one day...",
+      "zh": "贾斯汀问，你看起来挺好的。我还给你带了根绳子，万一哪天你改变主意了呢……"
+    },
+    {
+      "index": 77,
+      "start": "04:31",
+      "en": "“Fine, fine,” said Rapunzel.",
+      "zh": "“好吧，好吧，”长发公主说。"
+    },
+    {
+      "index": 78,
+      "start": "04:34",
+      "en": "Goodbye, Justin And Justin climbed out the window and down Rapunzel's hair",
+      "zh": "再见，贾斯汀。于是贾斯汀爬出窗户，顺着长发公主的头发下去了。"
+    },
+    {
+      "index": 79,
+      "start": "04:42",
+      "en": "The next day, Rapunzel cleaned her room and braided her hair The witch came at lunch time.",
+      "zh": "第二天，长发公主打扫房间、编好头发。巫婆在午饭时间来了。"
+    },
+    {
+      "index": 80,
+      "start": "04:49",
+      "en": "She brought Rapunzel a sandwich and showed her how to make medicine to cure headaches But as the witch was leaving she saw Justin’s rope lying on the floor Whose rope is this?",
+      "zh": "她给长发公主带了一个三明治，还教她怎么做治头疼的药。可巫婆临走时，看见地上放着贾斯汀的绳子。这是谁的绳子？"
+    },
+    {
+      "index": 81,
+      "start": "05:01",
+      "en": "Where did you get it?",
+      "zh": "你从哪儿弄来的？"
+    },
+    {
+      "index": 82,
+      "start": "05:03",
+      "en": "Do you want to escape?",
+      "zh": "你想逃走吗？"
+    },
+    {
+      "index": 83,
+      "start": "05:06",
+      "en": "Rapunzel tried to explain, but the witch was too upset.",
+      "zh": "长发公主想解释，可巫婆太伤心了。"
+    },
+    {
+      "index": 84,
+      "start": "05:11",
+      "en": "I love you like a daughter!",
+      "zh": "我像爱女儿一样爱你！"
+    },
+    {
+      "index": 85,
+      "start": "05:14",
+      "en": "Do you really hate me so much that you want to leave?",
+      "zh": "你真的这么恨我，非要离开我吗？"
+    },
+    {
+      "index": 86,
+      "start": "05:18",
+      "en": "“No… there was a man—” said Rapunzel.",
+      "zh": "“不是……是有个男人——”长发公主说。"
+    },
+    {
+      "index": 87,
+      "start": "05:22",
+      "en": "“A MAN?",
+      "zh": "“男人？"
+    },
+    {
+      "index": 88,
+      "start": "05:23",
+      "en": "” the witch cried Fine!",
+      "zh": "”巫婆叫道，好啊！"
+    },
+    {
+      "index": 89,
+      "start": "05:26",
+      "en": "Go to him!",
+      "zh": "你去找他吧！"
+    },
+    {
+      "index": 90,
+      "start": "05:28",
+      "en": "Go!",
+      "zh": "走！"
+    },
+    {
+      "index": 91,
+      "start": "05:29",
+      "en": "Tears poured down the witch’s face Go and live happily ever after with this ….",
+      "zh": "眼泪顺着巫婆的脸流下来。去吧，去跟这个……"
+    },
+    {
+      "index": 92,
+      "start": "05:35",
+      "en": "man!",
+      "zh": "男人过幸福的日子吧！"
+    },
+    {
+      "index": 93,
+      "start": "05:36",
+      "en": "The witch threw some magic powder at the floor and Rapunzel immediately fell asleep When she woke up, she was not in the tower anymore.",
+      "zh": "巫婆往地上撒了些魔法粉末，长发公主立刻睡着了。等她醒来，她已经不在塔里了。"
+    },
+    {
+      "index": 94,
+      "start": "05:47",
+      "en": "She was lying under a tree in the forest.",
+      "zh": "她躺在森林里的一棵树下。"
+    },
+    {
+      "index": 95,
+      "start": "05:50",
+      "en": "Her hair was cut Rapunzel cried for ten minutes and then she stood up and decided to look for her tower Meanwhile, back at the tower Justin returned as promised Rapunzel, Rapunzel, let down your hair!",
+      "zh": "她的头发被剪掉了。长发公主哭了十分钟，然后站起来，决定去找她的塔。与此同时，塔那边，贾斯汀如约回来了。长发公主，长发公主，把你的头发放下来！"
+    },
+    {
+      "index": 96,
+      "start": "06:08",
+      "en": "he shouted from beneath the window And the hair dropped down in front of his face But as I’m sure you know...",
+      "zh": "他在窗下喊道。然后头发垂到了他面前。可你一定猜到了……"
+    },
+    {
+      "index": 97,
+      "start": "06:16",
+      "en": "It wasn’t Rapunzel in the tower.",
+      "zh": "塔里的人不是长发公主。"
+    },
+    {
+      "index": 98,
+      "start": "06:19",
+      "en": "It was the witch!",
+      "zh": "是巫婆！"
+    },
+    {
+      "index": 99,
+      "start": "06:21",
+      "en": "When Justin got to the top of the tower the witch pulled him in through the window.",
+      "zh": "贾斯汀爬到塔顶时，巫婆把他从窗口拽了进去。"
+    },
+    {
+      "index": 100,
+      "start": "06:26",
+      "en": "\"So YOU are the man who wants to take my Rapunzel!\"",
+      "zh": "“原来你就是那个想带走我家长发公主的人！”"
+    },
+    {
+      "index": 101,
+      "start": "06:32",
+      "en": "she said I see.",
+      "zh": "她说，我明白了。"
+    },
+    {
+      "index": 102,
+      "start": "06:34",
+      "en": "Well then.",
+      "zh": "那好吧。"
+    },
+    {
+      "index": 103,
+      "start": "06:35",
+      "en": "Go and live happily ever after together!",
+      "zh": "你们就去一起过幸福的日子吧！"
+    },
+    {
+      "index": 104,
+      "start": "06:39",
+      "en": "The witch blew a handful of powder into his face.",
+      "zh": "巫婆朝他脸上吹了一把粉末。"
+    },
+    {
+      "index": 105,
+      "start": "06:43",
+      "en": "And with that, Justin was blind.",
+      "zh": "就这样，贾斯汀瞎了。"
+    },
+    {
+      "index": 106,
+      "start": "06:48",
+      "en": "After walking all night, Rapunzel found her way home.",
+      "zh": "走了一整夜之后，长发公主找到了回家的路。"
+    },
+    {
+      "index": 107,
+      "start": "06:52",
+      "en": "But the tower was gone!",
+      "zh": "可塔不见了！"
+    },
+    {
+      "index": 108,
+      "start": "06:55",
+      "en": "All that was left was a burnt circle on the ground.",
+      "zh": "地上只剩下一圈烧焦的痕迹。"
+    },
+    {
+      "index": 109,
+      "start": "07:00",
+      "en": "“Oh nooooo!",
+      "zh": "“不要啊——！"
+    },
+    {
+      "index": 110,
+      "start": "07:01",
+      "en": "” cried Rapunzel and she fell to the ground sobbing",
+      "zh": "”长发公主哭着倒在地上。"
+    },
+    {
+      "index": 111,
+      "start": "07:07",
+      "en": "But then she heard a voice coming from behind some trees.",
+      "zh": "可就在这时，她听见树后面传来一个声音。"
+    },
+    {
+      "index": 112,
+      "start": "07:11",
+      "en": "Hello?",
+      "zh": "喂？"
+    },
+    {
+      "index": 113,
+      "start": "07:12",
+      "en": "Is someone there?",
+      "zh": "有人吗？"
+    },
+    {
+      "index": 114,
+      "start": "07:13",
+      "en": "Can you help me?",
+      "zh": "你能帮帮我吗？"
+    },
+    {
+      "index": 115,
+      "start": "07:15",
+      "en": "I can't see...",
+      "zh": "我看不见……"
+    },
+    {
+      "index": 116,
+      "start": "07:17",
+      "en": "I can't see anything!",
+      "zh": "我什么都看不见！"
+    },
+    {
+      "index": 117,
+      "start": "07:20",
+      "en": "It was Justin!",
+      "zh": "是贾斯汀！"
+    },
+    {
+      "index": 118,
+      "start": "07:21",
+      "en": "When Rapunzel saw Justin’s blind eyes, she knew what to do.",
+      "zh": "长发公主看见贾斯汀失明的眼睛，就知道该做什么了。"
+    },
+    {
+      "index": 119,
+      "start": "07:25",
+      "en": "“Stay right there,” she ordered.",
+      "zh": "“就待在那儿别动，”她命令道。"
+    },
+    {
+      "index": 120,
+      "start": "07:28",
+      "en": "Rapunzel ran into the forest to find some herbs.",
+      "zh": "长发公主跑进森林去找草药。"
+    },
+    {
+      "index": 121,
+      "start": "07:31",
+      "en": "She ground the herbs and made medicine.",
+      "zh": "她把草药磨碎，做成了药。"
+    },
+    {
+      "index": 122,
+      "start": "07:34",
+      "en": "Then she put the medicine on Justin’s eyes.",
+      "zh": "然后她把药敷在贾斯汀的眼睛上。"
+    },
+    {
+      "index": 123,
+      "start": "07:37",
+      "en": "Then...",
+      "zh": "然后……"
+    },
+    {
+      "index": 124,
+      "start": "07:38",
+      "en": "she cried again “Please don’t cry…” said Justin, softly.",
+      "zh": "她又哭了。“别哭了好吗……”贾斯汀轻声说。"
+    },
+    {
+      "index": 125,
+      "start": "07:44",
+      "en": "Why are you crying?",
+      "zh": "你为什么哭呢？"
+    },
+    {
+      "index": 126,
+      "start": "07:47",
+      "en": "My home is gone.",
+      "zh": "我的家没了。"
+    },
+    {
+      "index": 127,
+      "start": "07:48",
+      "en": "My only friend is gone You are blind — this is a mess!",
+      "zh": "我唯一的朋友也没了。你还瞎了——全都乱套了！"
+    },
+    {
+      "index": 128,
+      "start": "07:54",
+      "en": "“Everything will be ok,” Justin said.",
+      "zh": "“一切都会好起来的，”贾斯汀说。"
+    },
+    {
+      "index": 129,
+      "start": "07:57",
+      "en": "Then he smiled.",
+      "zh": "然后他笑了。"
+    },
+    {
+      "index": 130,
+      "start": "07:59",
+      "en": "Trust me — I’m a hero!",
+      "zh": "相信我——我可是个英雄！"
+    },
+    {
+      "index": 131,
+      "start": "08:03",
+      "en": "For three days, they camped in the forest.",
+      "zh": "他们在森林里露营了三天。"
+    },
+    {
+      "index": 132,
+      "start": "08:06",
+      "en": "Rapunzel made medicine for Justin’s eyes.",
+      "zh": "长发公主给贾斯汀的眼睛做药。"
+    },
+    {
+      "index": 133,
+      "start": "08:09",
+      "en": "Justin told her about every time he had tried to be a hero.",
+      "zh": "贾斯汀给她讲自己每一次想当英雄的经历。"
+    },
+    {
+      "index": 134,
+      "start": "08:14",
+      "en": "Once he tried to fight a giant...",
+      "zh": "有一次他想去跟巨人打一架……"
+    },
+    {
+      "index": 135,
+      "start": "08:18",
+      "en": "but the giant was very kind He invited Justin inside for tea",
+      "zh": "可那个巨人非常和气，还请贾斯汀进去喝茶。"
+    },
+    {
+      "index": 136,
+      "start": "08:23",
+      "en": "Once he tried to kill a dragon...",
+      "zh": "有一次他想去杀一条龙……"
+    },
+    {
+      "index": 137,
+      "start": "08:27",
+      "en": "But the dragon had baby dragons in its nest.",
+      "zh": "可那条龙的窝里有一群小龙。"
+    },
+    {
+      "index": 138,
+      "start": "08:30",
+      "en": "Justin couldn’t do it.",
+      "zh": "贾斯汀下不了手。"
+    },
+    {
+      "index": 139,
+      "start": "08:32",
+      "en": "Once he rescued a cat from a tree...",
+      "zh": "有一次他把一只猫从树上救了下来……"
+    },
+    {
+      "index": 140,
+      "start": "08:36",
+      "en": "But the cat immediately climbed back up.",
+      "zh": "可那只猫立刻又爬回树上去了。"
+    },
+    {
+      "index": 141,
+      "start": "08:40",
+      "en": "“It’s really hard to be a hero!",
+      "zh": "“当英雄可真难啊！"
+    },
+    {
+      "index": 142,
+      "start": "08:42",
+      "en": "” he complained.",
+      "zh": "”他抱怨道。"
+    },
+    {
+      "index": 143,
+      "start": "08:44",
+      "en": "When Rapunzel felt like crying, Justin told jokes until she laughed.",
+      "zh": "长发公主想哭的时候，贾斯汀就讲笑话，直到她笑出来。"
+    },
+    {
+      "index": 144,
+      "start": "08:49",
+      "en": "When she couldn’t sleep, he listened to all her worries.",
+      "zh": "她睡不着的时候，他就听她把所有的心事说完。"
+    },
+    {
+      "index": 145,
+      "start": "08:53",
+      "en": "On the fourth day when Rapunzel woke up Justin was already awake He was looking at her with his bright blue eyes He could see!",
+      "zh": "第四天，长发公主醒来时，贾斯汀已经醒了。他用明亮的蓝眼睛看着她。他看得见了！"
+    },
+    {
+      "index": 146,
+      "start": "09:04",
+      "en": "“Thank you, my beautiful friend,” he said You fixed my eyes.",
+      "zh": "“谢谢你，我美丽的朋友，”他说，你治好了我的眼睛。"
+    },
+    {
+      "index": 147,
+      "start": "09:12",
+      "en": "Justin and Rapunzel walked to Justin’s village.",
+      "zh": "贾斯汀和长发公主一起走到了贾斯汀的村子。"
+    },
+    {
+      "index": 148,
+      "start": "09:16",
+      "en": "Rapunzel liked it in the village.",
+      "zh": "长发公主喜欢这个村子。"
+    },
+    {
+      "index": 149,
+      "start": "09:18",
+      "en": "Justin helped her build a new tower and this time the tower had stairs Rapunzel spent her days making medicine for the sick people in the village Did Justin ever become a hero?",
+      "zh": "贾斯汀帮她建了一座新塔，这一次塔里有楼梯。长发公主每天给村里的病人做药。贾斯汀最后当上英雄了吗？"
+    },
+    {
+      "index": 150,
+      "start": "09:33",
+      "en": "Yes, of course!",
+      "zh": "当然当上了！"
+    },
+    {
+      "index": 151,
+      "start": "09:35",
+      "en": "There are many kinds of heroes But the best and bravest heroes are the ones who help their friends through hard times And Justin had helped his friend Rapunzel In the end Justin and Rapunzel both lived happily ever after —",
+      "zh": "英雄有很多种。而最好、最勇敢的英雄，是那些在困难时陪伴朋友的人。贾斯汀帮助了他的朋友长发公主。最后，贾斯汀和长发公主都过上了幸福的生活——"
+    },
+    {
+      "index": 152,
+      "start": "09:51",
+      "en": "— just as the witch had promised",
+      "zh": "——就像巫婆当初答应的那样。"
+    }
+  ]
+}

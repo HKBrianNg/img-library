@@ -1,0 +1,844 @@
+{
+  "lines": [
+    {
+      "index": 1,
+      "start": "00:00",
+      "en": "The Emperor's New Clothes",
+      "zh": "皇帝的新装"
+    },
+    {
+      "index": 2,
+      "start": "00:04",
+      "en": "Once upon a time there was an emperor.",
+      "zh": "从前有一位皇帝。"
+    },
+    {
+      "index": 3,
+      "start": "00:07",
+      "en": "He had a big round belly bushy eyebrows and a very long moustache.",
+      "zh": "他挺着又大又圆的肚子，长着浓密的眉毛和很长的小胡子。"
+    },
+    {
+      "index": 4,
+      "start": "00:14",
+      "en": "But he was very vain.",
+      "zh": "但他非常爱慕虚荣。"
+    },
+    {
+      "index": 5,
+      "start": "00:15",
+      "en": "All he thought about was himself.",
+      "zh": "他心里只想着自己。"
+    },
+    {
+      "index": 6,
+      "start": "00:18",
+      "en": "“I am so wonderful!",
+      "zh": "“我真是太了不起了！"
+    },
+    {
+      "index": 7,
+      "start": "00:20",
+      "en": "” he would say.",
+      "zh": "”他常常这样说。"
+    },
+    {
+      "index": 8,
+      "start": "00:22",
+      "en": "Look at my wonderful eyebrows!",
+      "zh": "看看我这了不起的眉毛！"
+    },
+    {
+      "index": 9,
+      "start": "00:25",
+      "en": "Look at my excellent moustache!",
+      "zh": "看看我这出色的胡子！"
+    },
+    {
+      "index": 10,
+      "start": "00:28",
+      "en": "I look marvellous!",
+      "zh": "我看起来棒极了！"
+    },
+    {
+      "index": 11,
+      "start": "00:32",
+      "en": "The emperor loved to wear fancy clothes He had four-hundred fancy shirts three-hundred pairs of fancy pants and one-thousand pairs of fancy socks.",
+      "zh": "皇帝喜欢穿讲究的衣服。他有四百件讲究的衬衫、三百条讲究的裤子，还有一千双讲究的袜子。"
+    },
+    {
+      "index": 12,
+      "start": "00:44",
+      "en": "The emperor also loved to say fancy words, like...",
+      "zh": "皇帝还喜欢说些花哨的词，比如……"
+    },
+    {
+      "index": 13,
+      "start": "00:47",
+      "en": "\"Empirical\" \"Cantankerous\" \"Discombobulate\" He didn’t know what the fancy words meant but he liked to say them anyway.",
+      "zh": "“实证的”“爱发牢骚的”“晕头转向”。他其实不知道这些词是什么意思，可他就是喜欢说。"
+    },
+    {
+      "index": 14,
+      "start": "00:58",
+      "en": "He liked to sound INTELLIGENT.",
+      "zh": "他喜欢让自己听起来很有学问。"
+    },
+    {
+      "index": 15,
+      "start": "01:01",
+      "en": "“I am so INTELLIGENT!",
+      "zh": "“我真是太有学问了！"
+    },
+    {
+      "index": 16,
+      "start": "01:03",
+      "en": "” he said.",
+      "zh": "”他说。"
+    },
+    {
+      "index": 17,
+      "start": "01:05",
+      "en": "I am a GENIUS!",
+      "zh": "我是个天才！"
+    },
+    {
+      "index": 18,
+      "start": "01:09",
+      "en": "One day, a man arrived at the palace.",
+      "zh": "一天，有个男人来到了宫殿。"
+    },
+    {
+      "index": 19,
+      "start": "01:12",
+      "en": "He said that he was a tailor.",
+      "zh": "他说自己是个裁缝。"
+    },
+    {
+      "index": 20,
+      "start": "01:14",
+      "en": "He said he could make the fanciest clothes in the land.",
+      "zh": "他说他能做出全国最讲究的衣服。"
+    },
+    {
+      "index": 21,
+      "start": "01:18",
+      "en": "But really, this man was a dishonest man.",
+      "zh": "可实际上，这个人是个骗子。"
+    },
+    {
+      "index": 22,
+      "start": "01:20",
+      "en": "He earned his money by fooling rich people.",
+      "zh": "他靠欺骗有钱人过日子。"
+    },
+    {
+      "index": 23,
+      "start": "01:24",
+      "en": "The tailor brought the emperor ten suitcases.",
+      "zh": "裁缝给皇帝搬来了十个手提箱。"
+    },
+    {
+      "index": 24,
+      "start": "01:28",
+      "en": "‍ Your most majestic and INTELLIGENT majesty...",
+      "zh": "“您最威严、最有学问的陛下……"
+    },
+    {
+      "index": 25,
+      "start": "01:33",
+      "en": "he said Everybody knows that you are the most INTELLIGENT man in the world.",
+      "zh": "”他说，谁都知道您是世界上最有学问的人。"
+    },
+    {
+      "index": 26,
+      "start": "01:41",
+      "en": "And I have created some amazing new clothes.",
+      "zh": "而我做出了几件了不起的新衣服。"
+    },
+    {
+      "index": 27,
+      "start": "01:44",
+      "en": "These clothes are only for INTELLIGENT people.",
+      "zh": "这些衣服只有有学问的人才配穿。"
+    },
+    {
+      "index": 28,
+      "start": "01:48",
+      "en": "In fact, stupid people cannot even see these clothes...",
+      "zh": "事实上，愚蠢的人连看都看不见这些衣服……"
+    },
+    {
+      "index": 29,
+      "start": "01:54",
+      "en": "The emperor clapped his hands.",
+      "zh": "”皇帝拍了拍手。"
+    },
+    {
+      "index": 30,
+      "start": "01:56",
+      "en": "Amazing!",
+      "zh": "太妙了！"
+    },
+    {
+      "index": 31,
+      "start": "01:57",
+      "en": "With these clothes I can know who is smart and who is stupid!",
+      "zh": "有了这身衣服，我就能知道谁聪明、谁愚蠢！"
+    },
+    {
+      "index": 32,
+      "start": "02:01",
+      "en": "I will never be bothered by idiots again!",
+      "zh": "我再也不会被傻瓜们烦了！"
+    },
+    {
+      "index": 33,
+      "start": "02:05",
+      "en": "Let me try these clothes!",
+      "zh": "让我试试这身衣服！"
+    },
+    {
+      "index": 34,
+      "start": "02:07",
+      "en": "The tailor undressed the emperor until he stood only in his underpants.",
+      "zh": "裁缝把皇帝身上的衣服脱掉，只剩一条内裤。"
+    },
+    {
+      "index": 35,
+      "start": "02:12",
+      "en": "He unpacked his tape measure.",
+      "zh": "他拿出软尺。"
+    },
+    {
+      "index": 36,
+      "start": "02:14",
+      "en": "He measured the emperor’s arms legs shoulders and all around his big round belly The tailor reached inside one of the suitcases.",
+      "zh": "他量了皇帝的胳膊、腿、肩膀，还有那又大又圆的肚子一圈。裁缝把手伸进其中一个手提箱。"
+    },
+    {
+      "index": 37,
+      "start": "02:25",
+      "en": "No...",
+      "zh": "不……"
+    },
+    {
+      "index": 38,
+      "start": "02:25",
+      "en": "no...",
+      "zh": "不……"
+    },
+    {
+      "index": 39,
+      "start": "02:25",
+      "en": "this one is too big.",
+      "zh": "这件太大了。"
+    },
+    {
+      "index": 40,
+      "start": "02:27",
+      "en": "No… this one is too small.",
+      "zh": "不……这件太小了。"
+    },
+    {
+      "index": 41,
+      "start": "02:30",
+      "en": "Ahh!",
+      "zh": "啊！"
+    },
+    {
+      "index": 42,
+      "start": "02:31",
+      "en": "This one is perfect!",
+      "zh": "这件正合适！"
+    },
+    {
+      "index": 43,
+      "start": "02:35",
+      "en": "He pretended to lift a shirt out of the suitcase.",
+      "zh": "他假装从手提箱里拎出一件衬衫。"
+    },
+    {
+      "index": 44,
+      "start": "02:39",
+      "en": "“What do you think?",
+      "zh": "“您觉得怎么样？"
+    },
+    {
+      "index": 45,
+      "start": "02:40",
+      "en": "” said the tailor.",
+      "zh": "”裁缝说。"
+    },
+    {
+      "index": 46,
+      "start": "02:43",
+      "en": "The emperor gasped.",
+      "zh": "皇帝倒吸一口气。"
+    },
+    {
+      "index": 47,
+      "start": "02:44",
+      "en": "He could not see anything!",
+      "zh": "他什么也没看见！"
+    },
+    {
+      "index": 48,
+      "start": "02:46",
+      "en": "“Isn’t it wonderful?",
+      "zh": "“是不是很棒？"
+    },
+    {
+      "index": 49,
+      "start": "02:48",
+      "en": "” said the tailor.",
+      "zh": "”裁缝说。"
+    },
+    {
+      "index": 50,
+      "start": "02:50",
+      "en": "And remember… Only intelligent people will be able to see it!",
+      "zh": "记住哦……只有有学问的人才看得见！"
+    },
+    {
+      "index": 51,
+      "start": "02:56",
+      "en": "The tailor reached into his suitcase again.",
+      "zh": "裁缝又把手伸进手提箱。"
+    },
+    {
+      "index": 52,
+      "start": "02:59",
+      "en": "Look at these pants!",
+      "zh": "看看这条裤子！"
+    },
+    {
+      "index": 53,
+      "start": "03:01",
+      "en": "Aren’t they beautiful?",
+      "zh": "是不是很漂亮？"
+    },
+    {
+      "index": 54,
+      "start": "03:03",
+      "en": "And they are completely invisible to idiots!",
+      "zh": "而且傻瓜是绝对看不见的！"
+    },
+    {
+      "index": 55,
+      "start": "03:08",
+      "en": "And look at this jacket!",
+      "zh": "再看看这件外套！"
+    },
+    {
+      "index": 56,
+      "start": "03:11",
+      "en": "See the colours?",
+      "zh": "看见那些颜色了吗？"
+    },
+    {
+      "index": 57,
+      "start": "03:13",
+      "en": "A complete nincompoop will see absolutely nothing!",
+      "zh": "十足的笨蛋可是什么都看不见！"
+    },
+    {
+      "index": 58,
+      "start": "03:18",
+      "en": "“Oh, oh, yes… very nice!",
+      "zh": "“哦，哦，是的……非常好！"
+    },
+    {
+      "index": 59,
+      "start": "03:20",
+      "en": "” stammered the emperor.",
+      "zh": "”皇帝结结巴巴地说。"
+    },
+    {
+      "index": 60,
+      "start": "03:23",
+      "en": "But he was confused.",
+      "zh": "可他心里很困惑。"
+    },
+    {
+      "index": 61,
+      "start": "03:25",
+      "en": "Why couldn’t he see the clothes?",
+      "zh": "为什么他看不见衣服呢？"
+    },
+    {
+      "index": 62,
+      "start": "03:28",
+      "en": "“Surely it’s not possible that I am an idiot?!",
+      "zh": "“我不可能是个傻瓜吧？！"
+    },
+    {
+      "index": 63,
+      "start": "03:31",
+      "en": "” he thought.",
+      "zh": "”他想。"
+    },
+    {
+      "index": 64,
+      "start": "03:32",
+      "en": "A complete moron would not know fancy words like...",
+      "zh": "一个十足的笨蛋是不会知道这些花哨词语的，比如……"
+    },
+    {
+      "index": 65,
+      "start": "03:36",
+      "en": "\"Vestibule\" \"Crepuscular\" \"Flibbertigibbet\" But the emperor said nothing.",
+      "zh": "“门厅”“黄昏的”“轻浮的人”。但皇帝什么也没说。"
+    },
+    {
+      "index": 66,
+      "start": "03:43",
+      "en": "The tailor pretended to dress the emperor in the invisible shirt, pants, jacket, and shoes.",
+      "zh": "裁缝假装给皇帝穿上那件看不见的衬衫、裤子、外套和鞋子。"
+    },
+    {
+      "index": 67,
+      "start": "03:50",
+      "en": "The emperor stood in front of the mirror.",
+      "zh": "皇帝站到镜子前。"
+    },
+    {
+      "index": 68,
+      "start": "03:53",
+      "en": "He wanted to see the clothes but all he saw was his big, round belly and his underpants \"I’m not sure that it’s really my style…\" said the emperor But let me get a second opinion.",
+      "zh": "他想看见那身衣服，可他看到的只有自己又大又圆的肚子和内裤。“我不太确定这是不是我的风格……”皇帝说，不过让我再听听别人的意见。"
+    },
+    {
+      "index": 69,
+      "start": "04:09",
+      "en": "The emperor called three of his most INTELLIGENT friends into the room.",
+      "zh": "皇帝把他最有学问的三个朋友叫进了房间。"
+    },
+    {
+      "index": 70,
+      "start": "04:14",
+      "en": "Friends!",
+      "zh": "朋友们！"
+    },
+    {
+      "index": 71,
+      "start": "04:15",
+      "en": "What do you think of these new clothes?",
+      "zh": "你们觉得这身新衣服怎么样？"
+    },
+    {
+      "index": 72,
+      "start": "04:18",
+      "en": "Only INTELLIGENT people can see these clothes.",
+      "zh": "只有有学问的人才看得见这身衣服。"
+    },
+    {
+      "index": 73,
+      "start": "04:22",
+      "en": "Stupid people see nothing at all!",
+      "zh": "愚蠢的人什么也看不见！"
+    },
+    {
+      "index": 74,
+      "start": "04:25",
+      "en": "Of course, his friends didn’t see anything either.",
+      "zh": "当然，他的朋友们也什么都没看见。"
+    },
+    {
+      "index": 75,
+      "start": "04:28",
+      "en": "But they did not want to look stupid.",
+      "zh": "可他们不想显得愚蠢。"
+    },
+    {
+      "index": 76,
+      "start": "04:31",
+      "en": "“Oh, yes!",
+      "zh": "“哦，是啊！"
+    },
+    {
+      "index": 77,
+      "start": "04:32",
+      "en": "That is a great shirt!",
+      "zh": "这件衬衫真棒！"
+    },
+    {
+      "index": 78,
+      "start": "04:34",
+      "en": "” said the first friend.",
+      "zh": "”第一个朋友说。"
+    },
+    {
+      "index": 79,
+      "start": "04:38",
+      "en": "“Yes!",
+      "zh": "“是啊！"
+    },
+    {
+      "index": 80,
+      "start": "04:38",
+      "en": "The pants are the perfect color,” said the second friend.",
+      "zh": "裤子的颜色再合适不过了，”第二个朋友说。"
+    },
+    {
+      "index": 81,
+      "start": "04:44",
+      "en": "\"Cool shoes!\"",
+      "zh": "“鞋子真酷！”"
+    },
+    {
+      "index": 82,
+      "start": "04:46",
+      "en": "said the third friend.",
+      "zh": "第三个朋友说。"
+    },
+    {
+      "index": 83,
+      "start": "04:50",
+      "en": "The emperor was excited.",
+      "zh": "皇帝很兴奋。"
+    },
+    {
+      "index": 84,
+      "start": "04:52",
+      "en": "I will wear these new clothes in the parade tomorrow!",
+      "zh": "明天游行我就要穿这身新衣服！"
+    },
+    {
+      "index": 85,
+      "start": "04:56",
+      "en": "The emperor gave the tailor a lot of money.",
+      "zh": "皇帝给了裁缝很多钱。"
+    },
+    {
+      "index": 86,
+      "start": "05:00",
+      "en": "The tailor left the palace with ten suitcases full of gold.",
+      "zh": "裁缝带着十个装满金子的手提箱离开了宫殿。"
+    },
+    {
+      "index": 87,
+      "start": "05:04",
+      "en": "When he was safely in his carriage, he laughed long and hard.",
+      "zh": "等他安全坐上马车，他痛痛快快地大笑起来。"
+    },
+    {
+      "index": 88,
+      "start": "05:09",
+      "en": "\"What a doofus!\"",
+      "zh": "“真是个傻瓜！”"
+    },
+    {
+      "index": 89,
+      "start": "05:13",
+      "en": "That night, the Emperor did not sleep.",
+      "zh": "那天晚上，皇帝没有睡觉。"
+    },
+    {
+      "index": 90,
+      "start": "05:16",
+      "en": "He stayed up late, reading the biggest, heaviest books in his library.",
+      "zh": "他熬夜读着书房里最大最厚的书。"
+    },
+    {
+      "index": 91,
+      "start": "05:21",
+      "en": "I just need a few more fancy words...",
+      "zh": "我只要再多学几个花哨的词……"
+    },
+    {
+      "index": 92,
+      "start": "05:24",
+      "en": "THEN I’ll be able to see my clothes!",
+      "zh": "那样我就能看见我的衣服了！"
+    },
+    {
+      "index": 93,
+      "start": "05:27",
+      "en": "he thought.",
+      "zh": "他想。"
+    },
+    {
+      "index": 94,
+      "start": "05:29",
+      "en": "In the morning, two servants came to the Emperor's room to dress him for the parade.",
+      "zh": "早上，两个仆人来到皇帝的房间，为他游行更衣。"
+    },
+    {
+      "index": 95,
+      "start": "05:34",
+      "en": "Of course, they couldn’t see any clothes either.",
+      "zh": "当然，他们也没看见什么衣服。"
+    },
+    {
+      "index": 96,
+      "start": "05:37",
+      "en": "But they said nothing.",
+      "zh": "可他们什么也没说。"
+    },
+    {
+      "index": 97,
+      "start": "05:39",
+      "en": "They did not want to look stupid.",
+      "zh": "他们不想显得愚蠢。"
+    },
+    {
+      "index": 98,
+      "start": "05:41",
+      "en": "They pretended to dress the emperor in invisible pants, invisible shirt invisible jacket and an invisible hat.",
+      "zh": "他们假装给皇帝穿上看不见的裤子、看不见的衬衫、看不见的外套，还有一顶看不见的帽子。"
+    },
+    {
+      "index": 99,
+      "start": "05:53",
+      "en": "The emperor looked at himself in the mirror.",
+      "zh": "皇帝照了照镜子。"
+    },
+    {
+      "index": 100,
+      "start": "05:56",
+      "en": "He stared and he squinted.",
+      "zh": "他睁大眼睛，又眯起眼睛。"
+    },
+    {
+      "index": 101,
+      "start": "05:59",
+      "en": "He turned his head left and right.",
+      "zh": "他把头左转转、右转转。"
+    },
+    {
+      "index": 102,
+      "start": "06:02",
+      "en": "And … wait!",
+      "zh": "然后……等等！"
+    },
+    {
+      "index": 103,
+      "start": "06:04",
+      "en": "There it was!",
+      "zh": "就在那儿！"
+    },
+    {
+      "index": 104,
+      "start": "06:06",
+      "en": "Out of the corner of his eye, he thought he saw a slight shimmering fabric.",
+      "zh": "他似乎用余光瞥见了一点微微发光的布料。"
+    },
+    {
+      "index": 105,
+      "start": "06:12",
+      "en": "A checkered pattern.",
+      "zh": "一个格子的花纹。"
+    },
+    {
+      "index": 106,
+      "start": "06:14",
+      "en": "A tiny bit of colour.",
+      "zh": "一点点颜色。"
+    },
+    {
+      "index": 107,
+      "start": "06:17",
+      "en": "He could see the clothes!",
+      "zh": "他看见衣服了！"
+    },
+    {
+      "index": 108,
+      "start": "06:20",
+      "en": "In reality, there were no clothes.",
+      "zh": "实际上，什么衣服也没有。"
+    },
+    {
+      "index": 109,
+      "start": "06:23",
+      "en": "But we often see what we want to see.",
+      "zh": "可我们常常看见自己想看见的东西。"
+    },
+    {
+      "index": 110,
+      "start": "06:26",
+      "en": "The emperor was happy that he could finally see the clothes.",
+      "zh": "皇帝很高兴自己终于看见了衣服。"
+    },
+    {
+      "index": 111,
+      "start": "06:30",
+      "en": "“Let’s join the parade!",
+      "zh": "“我们去游行吧！"
+    },
+    {
+      "index": 112,
+      "start": "06:32",
+      "en": "” he shouted.",
+      "zh": "”他喊道。"
+    },
+    {
+      "index": 113,
+      "start": "06:38",
+      "en": "Everybody from the town was at the parade.",
+      "zh": "镇上所有人都来参加游行了。"
+    },
+    {
+      "index": 114,
+      "start": "06:41",
+      "en": "All the intelligent people were there: All the scientists.",
+      "zh": "所有有学问的人都来了：所有的科学家。"
+    },
+    {
+      "index": 115,
+      "start": "06:46",
+      "en": "All the writers.",
+      "zh": "所有的作家。"
+    },
+    {
+      "index": 116,
+      "start": "06:47",
+      "en": "All the teachers.",
+      "zh": "所有的老师。"
+    },
+    {
+      "index": 117,
+      "start": "06:49",
+      "en": "And all the children.",
+      "zh": "还有所有的孩子。"
+    },
+    {
+      "index": 118,
+      "start": "06:52",
+      "en": "The emperor stood in his open carriage and waved to the crowd.",
+      "zh": "皇帝站在敞篷马车上，向人群挥手。"
+    },
+    {
+      "index": 119,
+      "start": "06:56",
+      "en": "But as the emperor’s carriage drove down the street, the crowd fell silent.",
+      "zh": "可当皇帝的马车沿街驶过时，人群安静了下来。"
+    },
+    {
+      "index": 120,
+      "start": "07:02",
+      "en": "The music stopped.",
+      "zh": "音乐停了。"
+    },
+    {
+      "index": 121,
+      "start": "07:05",
+      "en": "Everybody stared at the emperor.",
+      "zh": "所有人都盯着皇帝看。"
+    },
+    {
+      "index": 122,
+      "start": "07:08",
+      "en": "“These clothes must be AMAZING...",
+      "zh": "“这身衣服一定非常了不起……"
+    },
+    {
+      "index": 123,
+      "start": "07:11",
+      "en": "” thought the emperor.",
+      "zh": "”皇帝心想。"
+    },
+    {
+      "index": 124,
+      "start": "07:13",
+      "en": "But then, from the back of the crowd, a small child yelled: “Mummy, I can see his underpants!",
+      "zh": "可就在这时，人群后面有个小孩喊道：“妈妈，我看见他的内裤了！"
+    },
+    {
+      "index": 125,
+      "start": "07:22",
+      "en": "” Everybody gasped.",
+      "zh": "”所有人都倒吸一口气。"
+    },
+    {
+      "index": 126,
+      "start": "07:24",
+      "en": "Then there were a few giggles.",
+      "zh": "接着有人咯咯笑了起来。"
+    },
+    {
+      "index": 127,
+      "start": "07:26",
+      "en": "And then everyone on the street laughed — — and laughed — — and laughed even harder.",
+      "zh": "然后街上所有人都笑了——笑了——笑得更厉害了。"
+    },
+    {
+      "index": 128,
+      "start": "07:34",
+      "en": "They clapped and shouted: UN-DER-PANTS!",
+      "zh": "他们一边拍手一边喊：内——裤！"
+    },
+    {
+      "index": 129,
+      "start": "07:37",
+      "en": "UN-DER-PANTS!",
+      "zh": "内——裤！"
+    },
+    {
+      "index": 130,
+      "start": "07:39",
+      "en": "The emperor heard the crowd laugh.",
+      "zh": "皇帝听见人群的笑声。"
+    },
+    {
+      "index": 131,
+      "start": "07:42",
+      "en": "He knew he had been fooled.",
+      "zh": "他知道自己被骗了。"
+    },
+    {
+      "index": 132,
+      "start": "07:45",
+      "en": "He wasn’t wearing special clothes.",
+      "zh": "他穿的并不是什么特别的衣服。"
+    },
+    {
+      "index": 133,
+      "start": "07:47",
+      "en": "He was wearing NOTHING!",
+      "zh": "他什么也没穿！"
+    },
+    {
+      "index": 134,
+      "start": "07:50",
+      "en": "— only his underpants.",
+      "zh": "——只有一条内裤。"
+    },
+    {
+      "index": 135,
+      "start": "07:53",
+      "en": "He jumped out of the carriage and ran all the way back to the palace.",
+      "zh": "他跳下马车，一路跑回了宫殿。"
+    },
+    {
+      "index": 136,
+      "start": "07:57",
+      "en": "Behind him, he heard: “UN-DER-PANTS!",
+      "zh": "身后，他听见：“内——裤！"
+    },
+    {
+      "index": 137,
+      "start": "08:00",
+      "en": "UN-DER-PANTS!",
+      "zh": "内——裤！"
+    },
+    {
+      "index": 138,
+      "start": "08:01",
+      "en": "” He ran to his bedroom and slammed the door.",
+      "zh": "”他跑进卧室，砰地关上了门。"
+    },
+    {
+      "index": 139,
+      "start": "08:06",
+      "en": "Later, when his friends found him, he was lying on his bed.",
+      "zh": "后来朋友们找到他时，他正躺在床上。"
+    },
+    {
+      "index": 140,
+      "start": "08:10",
+      "en": "He was wearing all his REAL clothes: all his fancy shirts all his fancy pants and all one-thousand pairs of fancy socks.",
+      "zh": "他穿上了自己所有真正的衣服：所有讲究的衬衫、所有讲究的裤子，还有那一千双讲究的袜子。"
+    }
+  ]
+}

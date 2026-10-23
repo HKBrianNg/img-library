@@ -1,0 +1,1240 @@
+{
+  "lines": [
+    {
+      "index": 1,
+      "start": "00:00",
+      "en": "Jack and the Beanstalk (",
+      "zh": "杰克与魔豆（"
+    },
+    {
+      "index": 2,
+      "start": "00:09",
+      "en": "Once there was a young man named Jack.",
+      "zh": "从前有个年轻人，名叫杰克。"
+    },
+    {
+      "index": 3,
+      "start": "00:13",
+      "en": "He lived with his mother on a small farm at the foot of the Foggy Mountains.",
+      "zh": "他和妈妈住在雾山脚下的一个小农场里。"
+    },
+    {
+      "index": 4,
+      "start": "00:21",
+      "en": "Jack and his mother were very poor.",
+      "zh": "杰克和妈妈很穷。"
+    },
+    {
+      "index": 5,
+      "start": "00:24",
+      "en": "Their only way of making money was selling the milk from their cow, Bess.",
+      "zh": "他们唯一的收入，是卖掉自家那头叫贝丝的奶牛的牛奶。"
+    },
+    {
+      "index": 6,
+      "start": "00:30",
+      "en": "One morning, Jack's mother woke him up early.",
+      "zh": "一天清晨，妈妈早早把杰克叫醒。"
+    },
+    {
+      "index": 7,
+      "start": "00:35",
+      "en": "It was still dark outside.",
+      "zh": "外面天还没亮。"
+    },
+    {
+      "index": 8,
+      "start": "00:37",
+      "en": "She was crying.",
+      "zh": "她在哭。"
+    },
+    {
+      "index": 9,
+      "start": "00:39",
+      "en": "\"Jack, wake up!",
+      "zh": "“杰克，醒醒！"
+    },
+    {
+      "index": 10,
+      "start": "00:42",
+      "en": "Go to the market today and sell our cow, Bess.\"",
+      "zh": "今天去集市把我们的牛贝丝卖了吧。”"
+    },
+    {
+      "index": 11,
+      "start": "00:48",
+      "en": "\"But why?\"",
+      "zh": "“可为什么呢？”"
+    },
+    {
+      "index": 12,
+      "start": "00:50",
+      "en": "asked Jack, yawning.",
+      "zh": "杰克打着哈欠问。"
+    },
+    {
+      "index": 13,
+      "start": "00:53",
+      "en": "\"We need money to fix our house.",
+      "zh": "“我们需要钱修房子。"
+    },
+    {
+      "index": 14,
+      "start": "00:56",
+      "en": "There are holes in the roof.",
+      "zh": "屋顶上有洞。"
+    },
+    {
+      "index": 15,
+      "start": "00:58",
+      "en": "The windows are broken.",
+      "zh": "窗户也破了。"
+    },
+    {
+      "index": 16,
+      "start": "01:01",
+      "en": "For heaven's sake, we have no front door.",
+      "zh": "天哪，我们连大门都没有。"
+    },
+    {
+      "index": 17,
+      "start": "01:04",
+      "en": "Winter is coming soon.",
+      "zh": "冬天快到了。"
+    },
+    {
+      "index": 18,
+      "start": "01:06",
+      "en": "If we don't fix the house, the cold will kill us!\"",
+      "zh": "再不修房子，我们会冻死的！”"
+    },
+    {
+      "index": 19,
+      "start": "01:13",
+      "en": "Jack packed his bag and fetched Bess from the barn.",
+      "zh": "杰克收拾好包，从牛棚里牵出贝丝。"
+    },
+    {
+      "index": 20,
+      "start": "01:18",
+      "en": "As he was walking out the gate, he heard his mother shout: \"She is worth at least five gold coins!",
+      "zh": "他走出大门时，听见妈妈喊：“她至少值五个金币！"
+    },
+    {
+      "index": 21,
+      "start": "01:26",
+      "en": "Don’t sell her for less!\"",
+      "zh": "少一个子儿都不许卖！”"
+    },
+    {
+      "index": 22,
+      "start": "01:30",
+      "en": "When Jack was half way to the market, he met an old man.",
+      "zh": "走到半路，杰克遇见了一位老人。"
+    },
+    {
+      "index": 23,
+      "start": "01:36",
+      "en": "\"Good morning, my boy!\"",
+      "zh": "“早上好，孩子！”"
+    },
+    {
+      "index": 24,
+      "start": "01:38",
+      "en": "said the old man.",
+      "zh": "老人说。"
+    },
+    {
+      "index": 25,
+      "start": "01:40",
+      "en": "\"Where are you going today?\"",
+      "zh": "“你今天要去哪儿啊？”"
+    },
+    {
+      "index": 26,
+      "start": "01:43",
+      "en": "\"Good morning, sir,\" replied Jack.",
+      "zh": "“早上好，先生，”杰克回答。"
+    },
+    {
+      "index": 27,
+      "start": "01:46",
+      "en": "\"I'm going to the market to sell my cow.",
+      "zh": "“我要去集市卖掉我的牛。"
+    },
+    {
+      "index": 28,
+      "start": "01:49",
+      "en": "Her name is Bess.\"",
+      "zh": "她叫贝丝。”"
+    },
+    {
+      "index": 29,
+      "start": "01:52",
+      "en": "\"She is a beautiful cow,\" said the man.",
+      "zh": "“这头牛真漂亮，”那人说。"
+    },
+    {
+      "index": 30,
+      "start": "01:56",
+      "en": "\"I will buy Bess, and I will give you a very good deal!\"",
+      "zh": "“我要买下贝丝，而且我会给你一个很划算的价钱！”"
+    },
+    {
+      "index": 31,
+      "start": "02:02",
+      "en": "“How much will you pay for her?",
+      "zh": "“你愿意出多少钱？"
+    },
+    {
+      "index": 32,
+      "start": "02:04",
+      "en": "I won’t take less than five gold coins!",
+      "zh": "少于五个金币我可不卖！"
+    },
+    {
+      "index": 33,
+      "start": "02:07",
+      "en": "” said Jack.",
+      "zh": "”杰克说。"
+    },
+    {
+      "index": 34,
+      "start": "02:08",
+      "en": "“I don't have five gold coins,\" whispered the man.",
+      "zh": "“我没有五个金币，”那人低声说。"
+    },
+    {
+      "index": 35,
+      "start": "02:12",
+      "en": "\"But I have these five black beans!",
+      "zh": "“可我有这五颗黑豆子！"
+    },
+    {
+      "index": 36,
+      "start": "02:18",
+      "en": "These beans are magic beans!",
+      "zh": "这些是魔豆！"
+    },
+    {
+      "index": 37,
+      "start": "02:21",
+      "en": "They are worth more than gold!",
+      "zh": "它们比金子还值钱！"
+    },
+    {
+      "index": 38,
+      "start": "02:25",
+      "en": "If you take these beans, you will be richer than the richest man in the world.",
+      "zh": "你收下这些豆子，就会比世界上最富有的人还富有。"
+    },
+    {
+      "index": 39,
+      "start": "02:32",
+      "en": "” Jack thought about his mother.",
+      "zh": "”杰克想到了妈妈。"
+    },
+    {
+      "index": 40,
+      "start": "02:35",
+      "en": "He thought about how happy she would be if they were rich.",
+      "zh": "他想，如果他们有钱了，妈妈会有多高兴。"
+    },
+    {
+      "index": 41,
+      "start": "02:39",
+      "en": "They could fix the roof, the windows, and the front door.",
+      "zh": "他们就能修好屋顶、窗户和大门。"
+    },
+    {
+      "index": 42,
+      "start": "02:44",
+      "en": "Maybe they could buy a new cow!",
+      "zh": "说不定还能买一头新奶牛！"
+    },
+    {
+      "index": 43,
+      "start": "02:47",
+      "en": "“Okay,\" said Jack.",
+      "zh": "“好吧，”杰克说。"
+    },
+    {
+      "index": 44,
+      "start": "02:49",
+      "en": "\"You’ve got a deal.",
+      "zh": "“成交。"
+    },
+    {
+      "index": 45,
+      "start": "02:51",
+      "en": "Give me the beans!\"",
+      "zh": "把豆子给我吧！”"
+    },
+    {
+      "index": 46,
+      "start": "02:55",
+      "en": "Jack was very excited.",
+      "zh": "杰克非常兴奋。"
+    },
+    {
+      "index": 47,
+      "start": "02:58",
+      "en": "He ran home and showed his mother the beans.",
+      "zh": "他跑回家，把豆子拿给妈妈看。"
+    },
+    {
+      "index": 48,
+      "start": "03:01",
+      "en": "But instead of being happy, she was furious.",
+      "zh": "可妈妈不但没高兴，反而气坏了。"
+    },
+    {
+      "index": 49,
+      "start": "03:06",
+      "en": "“You foolish boy!",
+      "zh": "“你这傻孩子！"
+    },
+    {
+      "index": 50,
+      "start": "03:08",
+      "en": "You traded our only cow for a handful of beans?!",
+      "zh": "你用我们唯一的牛换了一把豆子？！"
+    },
+    {
+      "index": 51,
+      "start": "03:13",
+      "en": "” She took the beans and threw them out the window.",
+      "zh": "”她抓起豆子，扔出了窗外。"
+    },
+    {
+      "index": 52,
+      "start": "03:18",
+      "en": "Then she sat down beside the fire and cried.",
+      "zh": "然后她坐在炉火边哭了起来。"
+    },
+    {
+      "index": 53,
+      "start": "03:25",
+      "en": "Jack was devastated.",
+      "zh": "杰克沮丧极了。"
+    },
+    {
+      "index": 54,
+      "start": "03:28",
+      "en": "He shut himself in his bedroom.",
+      "zh": "他把自己关在卧室里。"
+    },
+    {
+      "index": 55,
+      "start": "03:30",
+      "en": "He felt so stupid.",
+      "zh": "他觉得自己蠢透了。"
+    },
+    {
+      "index": 56,
+      "start": "03:33",
+      "en": "They no longer had a cow, and now they were poorer than before.",
+      "zh": "他们没有了牛，现在比以前更穷了。"
+    },
+    {
+      "index": 57,
+      "start": "03:39",
+      "en": "What a disaster!",
+      "zh": "真是场灾难！"
+    },
+    {
+      "index": 58,
+      "start": "03:41",
+      "en": "And it was his fault!",
+      "zh": "而且都是他的错！"
+    },
+    {
+      "index": 59,
+      "start": "03:51",
+      "en": "The next morning when Jack opened the curtains, he saw something very strange.",
+      "zh": "第二天早上，杰克拉开窗帘，看见了一件非常奇怪的事。"
+    },
+    {
+      "index": 60,
+      "start": "03:58",
+      "en": "In the same place where his mother had thrown the beans, there was a giant, green beanstalk.",
+      "zh": "就在妈妈扔豆子的那个地方，长出了一根巨大的绿色豆茎。"
+    },
+    {
+      "index": 61,
+      "start": "04:06",
+      "en": "It stretched from the ground, up, up, up… all the way to the clouds.",
+      "zh": "它从地面往上、往上、往上……一直长到云里。"
+    },
+    {
+      "index": 62,
+      "start": "04:14",
+      "en": "“The beans really are magic!",
+      "zh": "“这些豆子真的是魔豆！"
+    },
+    {
+      "index": 63,
+      "start": "04:16",
+      "en": "” whispered Jack.",
+      "zh": "”杰克低声说。"
+    },
+    {
+      "index": 64,
+      "start": "04:18",
+      "en": "\"The old man was telling the truth!\"",
+      "zh": "“那位老人说的是真的！”"
+    },
+    {
+      "index": 65,
+      "start": "04:23",
+      "en": "Jack's mother was still asleep, so Jack decided to climb the beanstalk to look for the riches the old man had described.",
+      "zh": "妈妈还在睡觉，于是杰克决定爬上豆茎，去找老人说的那些财宝。"
+    },
+    {
+      "index": 66,
+      "start": "04:33",
+      "en": "\"Just five gold coins,\" thought Jack.",
+      "zh": "“只要五个金币，”杰克想。"
+    },
+    {
+      "index": 67,
+      "start": "04:37",
+      "en": "That's all I need to make my mother happy.\"",
+      "zh": "这些就够让妈妈高兴了。”"
+    },
+    {
+      "index": 68,
+      "start": "04:40",
+      "en": "Jack climbed up, up, up, higher and higher into the clouds.",
+      "zh": "杰克往上爬、往上爬，越爬越高，爬进了云里。"
+    },
+    {
+      "index": 69,
+      "start": "04:46",
+      "en": "When he reached the top, he was very hungry.",
+      "zh": "到了顶上，他饿极了。"
+    },
+    {
+      "index": 70,
+      "start": "04:50",
+      "en": "He saw a castle in the distance.",
+      "zh": "他看见远处有一座城堡。"
+    },
+    {
+      "index": 71,
+      "start": "04:54",
+      "en": "\"Maybe I can find something to eat in that castle…\" he thought.",
+      "zh": "“也许我能在那座城堡里找点吃的……”他想。"
+    },
+    {
+      "index": 72,
+      "start": "04:59",
+      "en": "Jack walked up to the door of the castle and knocked twice.",
+      "zh": "杰克走到城堡门前，敲了两下。"
+    },
+    {
+      "index": 73,
+      "start": "05:04",
+      "en": "Knock knock!",
+      "zh": "咚咚！"
+    },
+    {
+      "index": 74,
+      "start": "05:06",
+      "en": "A giantess opened the door.",
+      "zh": "开门的是一个巨人太太。"
+    },
+    {
+      "index": 75,
+      "start": "05:09",
+      "en": "She was as big as a house, but she had a warm smile and gentle eyes.",
+      "zh": "她像房子一样高大，却有着温暖的笑容和温和的眼神。"
+    },
+    {
+      "index": 76,
+      "start": "05:16",
+      "en": "\"Excuse me, Mrs.",
+      "zh": "“打扰一下，巨人"
+    },
+    {
+      "index": 77,
+      "start": "05:18",
+      "en": "Giant,\" said Jack.",
+      "zh": "太太，”杰克说。"
+    },
+    {
+      "index": 78,
+      "start": "05:20",
+      "en": "\"Could you please give me something to eat?",
+      "zh": "“能给我点吃的吗？"
+    },
+    {
+      "index": 79,
+      "start": "05:24",
+      "en": "I am so hungry!\"",
+      "zh": "我饿极了！”"
+    },
+    {
+      "index": 80,
+      "start": "05:26",
+      "en": "\"Oh you poor boy!\"",
+      "zh": "“哦，可怜的孩子！”"
+    },
+    {
+      "index": 81,
+      "start": "05:28",
+      "en": "said the giantess.",
+      "zh": "巨人太太说。"
+    },
+    {
+      "index": 82,
+      "start": "05:30",
+      "en": "She could see that Jack was very thin.",
+      "zh": "她看得出杰克很瘦。"
+    },
+    {
+      "index": 83,
+      "start": "05:33",
+      "en": "\"Of course!",
+      "zh": "“当然可以！"
+    },
+    {
+      "index": 84,
+      "start": "05:34",
+      "en": "Come in!",
+      "zh": "进来吧！"
+    },
+    {
+      "index": 85,
+      "start": "05:35",
+      "en": "Come in!\"",
+      "zh": "进来吧！”"
+    },
+    {
+      "index": 86,
+      "start": "05:36",
+      "en": "The kind giantess gave Jack some vegetable stew.",
+      "zh": "好心的巨人太太给了杰克一些蔬菜炖菜。"
+    },
+    {
+      "index": 87,
+      "start": "05:41",
+      "en": "He was enjoying it so much that he didn't notice when the kitchen table started to shake.",
+      "zh": "他吃得太香了，连厨房的桌子开始晃动都没注意到。"
+    },
+    {
+      "index": 88,
+      "start": "05:49",
+      "en": "Stomp...",
+      "zh": "咚……"
+    },
+    {
+      "index": 89,
+      "start": "05:50",
+      "en": "Stomp...",
+      "zh": "咚……"
+    },
+    {
+      "index": 90,
+      "start": "05:51",
+      "en": "Stomp… Loud footsteps echoed down the hallway.",
+      "zh": "咚……走廊里传来响亮的脚步声。"
+    },
+    {
+      "index": 91,
+      "start": "05:56",
+      "en": "\"Oh dear,\" whispered the giantess.",
+      "zh": "“哎呀，”巨人太太低声说。"
+    },
+    {
+      "index": 92,
+      "start": "05:59",
+      "en": "\"That is my husband!",
+      "zh": "“是我丈夫！"
+    },
+    {
+      "index": 93,
+      "start": "06:01",
+      "en": "He is home from work!",
+      "zh": "他干活回来了！"
+    },
+    {
+      "index": 94,
+      "start": "06:03",
+      "en": "He doesn't like humans!",
+      "zh": "他不喜欢人类！"
+    },
+    {
+      "index": 95,
+      "start": "06:06",
+      "en": "Quick!",
+      "zh": "快！"
+    },
+    {
+      "index": 96,
+      "start": "06:07",
+      "en": "Hide!\"",
+      "zh": "躲起来！”"
+    },
+    {
+      "index": 97,
+      "start": "06:09",
+      "en": "Jack hid in the pantry.",
+      "zh": "杰克躲进了储藏室。"
+    },
+    {
+      "index": 98,
+      "start": "06:13",
+      "en": "The giant stomped into the kitchen and sniffed the air.",
+      "zh": "巨人咚咚地走进厨房，嗅了嗅空气。"
+    },
+    {
+      "index": 99,
+      "start": "06:18",
+      "en": "\"FEE FI FO FUM!",
+      "zh": "“菲—法—佛—芬！"
+    },
+    {
+      "index": 100,
+      "start": "06:22",
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "index": 101,
+      "start": "06:24",
+      "en": "Hello my beautiful wife!",
+      "zh": "你好啊，我美丽的妻子！"
+    },
+    {
+      "index": 102,
+      "start": "06:28",
+      "en": "Wait!",
+      "zh": "等等！"
+    },
+    {
+      "index": 103,
+      "start": "06:29",
+      "en": "Do I smell a human man?",
+      "zh": "我怎么闻到人的味道？"
+    },
+    {
+      "index": 104,
+      "start": "06:31",
+      "en": "YUCK!",
+      "zh": "真恶心！"
+    },
+    {
+      "index": 105,
+      "start": "06:32",
+      "en": "WHERE IS HE?\"",
+      "zh": "他在哪儿？”"
+    },
+    {
+      "index": 106,
+      "start": "06:34",
+      "en": "\"Good evening, my darling husband,\" replied the giantess.",
+      "zh": "“晚上好，我亲爱的丈夫，”巨人太太回答。"
+    },
+    {
+      "index": 107,
+      "start": "06:39",
+      "en": "\"There is nobody here.",
+      "zh": "“这里没有人。"
+    },
+    {
+      "index": 108,
+      "start": "06:41",
+      "en": "You smell the vegetable stew, nothing more.\"",
+      "zh": "你闻到的是蔬菜炖菜，没别的。”"
+    },
+    {
+      "index": 109,
+      "start": "06:45",
+      "en": "\"Good,\" grunted the giant.",
+      "zh": "“那就好，”巨人咕哝道。"
+    },
+    {
+      "index": 110,
+      "start": "06:48",
+      "en": "\"I hate humans.\"",
+      "zh": "“我讨厌人类。”"
+    },
+    {
+      "index": 111,
+      "start": "06:51",
+      "en": "He sat down at the table in the kitchen.",
+      "zh": "他在厨房的桌边坐下。"
+    },
+    {
+      "index": 112,
+      "start": "06:54",
+      "en": "The giant took out a small sack of gold coins out of his pocket and counted them.",
+      "zh": "巨人从口袋里掏出一小袋金币，数了起来。"
+    },
+    {
+      "index": 113,
+      "start": "07:00",
+      "en": "One...",
+      "zh": "一……"
+    },
+    {
+      "index": 114,
+      "start": "07:01",
+      "en": "two...",
+      "zh": "二……"
+    },
+    {
+      "index": 115,
+      "start": "07:01",
+      "en": "three...",
+      "zh": "三……"
+    },
+    {
+      "index": 116,
+      "start": "07:03",
+      "en": "four...",
+      "zh": "四……"
+    },
+    {
+      "index": 117,
+      "start": "07:04",
+      "en": "five gold coins.",
+      "zh": "五个金币。"
+    },
+    {
+      "index": 118,
+      "start": "07:06",
+      "en": "Jack watched from inside the pantry.",
+      "zh": "杰克在储藏室里看着。"
+    },
+    {
+      "index": 119,
+      "start": "07:10",
+      "en": "\"Five gold coins!\"",
+      "zh": "“五个金币！”"
+    },
+    {
+      "index": 120,
+      "start": "07:12",
+      "en": "thought Jack.",
+      "zh": "杰克想。"
+    },
+    {
+      "index": 121,
+      "start": "07:14",
+      "en": "\"If I had that money, I could fix our house!\"",
+      "zh": "“要是我有那笔钱，就能修好我们的房子了！”"
+    },
+    {
+      "index": 122,
+      "start": "07:19",
+      "en": "When the two giants left the room, Jack stole the five gold coins and slipped them into his bag.",
+      "zh": "等两个巨人离开房间，杰克偷走了那五个金币，塞进自己的包里。"
+    },
+    {
+      "index": 123,
+      "start": "07:26",
+      "en": "\"This is all I need!\"",
+      "zh": "“这些就够了！”"
+    },
+    {
+      "index": 124,
+      "start": "07:28",
+      "en": "thought Jack.",
+      "zh": "杰克想。"
+    },
+    {
+      "index": 125,
+      "start": "07:30",
+      "en": "But then Jack remembered that his family no longer had a cow.",
+      "zh": "可这时杰克想起，家里已经没有牛了。"
+    },
+    {
+      "index": 126,
+      "start": "07:35",
+      "en": "Without a cow, they would surely starve.",
+      "zh": "没有牛，他们肯定会饿死。"
+    },
+    {
+      "index": 127,
+      "start": "07:39",
+      "en": "He decided to stay and look for other treasures.",
+      "zh": "他决定留下来，再找找别的宝贝。"
+    },
+    {
+      "index": 128,
+      "start": "07:44",
+      "en": "He followed the giant into the living room and hid under the couch.",
+      "zh": "他跟着巨人进了客厅，躲在沙发底下。"
+    },
+    {
+      "index": 129,
+      "start": "07:49",
+      "en": "The giant went to the cupboard and pulled out a golden hen.",
+      "zh": "巨人走到柜子前，拿出一只金色的母鸡。"
+    },
+    {
+      "index": 130,
+      "start": "07:54",
+      "en": "“Hello, my beautiful hen!",
+      "zh": "“你好啊，我美丽的母鸡！"
+    },
+    {
+      "index": 131,
+      "start": "07:57",
+      "en": "Lay, please!\"",
+      "zh": "下个蛋吧！”"
+    },
+    {
+      "index": 132,
+      "start": "07:59",
+      "en": "said the giant, and the hen laid a golden egg.",
+      "zh": "巨人说，母鸡就下了一个金蛋。"
+    },
+    {
+      "index": 133,
+      "start": "08:06",
+      "en": "Jack watched from under the couch.",
+      "zh": "杰克在沙发底下看着。"
+    },
+    {
+      "index": 134,
+      "start": "08:09",
+      "en": "\"A hen that lays golden eggs!\"",
+      "zh": "“一只能下金蛋的母鸡！”"
+    },
+    {
+      "index": 135,
+      "start": "08:12",
+      "en": "whispered Jack.",
+      "zh": "杰克低声说。"
+    },
+    {
+      "index": 136,
+      "start": "08:14",
+      "en": "\"If I had that hen, I could buy FIFTY cows!\"",
+      "zh": "“要是我有那只母鸡，就能买五十头牛！”"
+    },
+    {
+      "index": 137,
+      "start": "08:18",
+      "en": "When the giant left the room, Jack crawled out from under the couch.",
+      "zh": "巨人离开房间后，杰克从沙发底下爬了出来。"
+    },
+    {
+      "index": 138,
+      "start": "08:23",
+      "en": "He went to the cupboard, took the hen, and put it in his bag.",
+      "zh": "他走到柜子前，拿起母鸡放进了包里。"
+    },
+    {
+      "index": 139,
+      "start": "08:27",
+      "en": "\"This is all I need… \" thought Jack.",
+      "zh": "“这些就够了……”杰克想。"
+    },
+    {
+      "index": 140,
+      "start": "08:32",
+      "en": "But then Jack thought about what the old man had promised.",
+      "zh": "可接着杰克想起了老人的承诺。"
+    },
+    {
+      "index": 141,
+      "start": "08:37",
+      "en": "Jack imagined being richer than the richest man in the world.",
+      "zh": "他想象自己比世界上最富有的人还富有。"
+    },
+    {
+      "index": 142,
+      "start": "08:42",
+      "en": "He decided to see what other treasures he could find.",
+      "zh": "他决定再去看看还能找到什么宝贝。"
+    },
+    {
+      "index": 143,
+      "start": "08:47",
+      "en": "He followed the giant into the bedroom, and hid under the bed.",
+      "zh": "他跟着巨人进了卧室，躲在床底下。"
+    },
+    {
+      "index": 144,
+      "start": "08:52",
+      "en": "There was a golden harp standing in a corner of the room.",
+      "zh": "房间角落里立着一把金色的竖琴。"
+    },
+    {
+      "index": 145,
+      "start": "08:57",
+      "en": "\"Hello, my beautiful harp.",
+      "zh": "“你好啊，我美丽的竖琴。"
+    },
+    {
+      "index": 146,
+      "start": "09:00",
+      "en": "Play, please!\"",
+      "zh": "弹一曲吧！”"
+    },
+    {
+      "index": 147,
+      "start": "09:02",
+      "en": "said the giant.",
+      "zh": "巨人说。"
+    },
+    {
+      "index": 148,
+      "start": "09:04",
+      "en": "The harp began playing music with no one touching the strings.",
+      "zh": "竖琴没人拨弦，自己奏起了音乐。"
+    },
+    {
+      "index": 149,
+      "start": "09:13",
+      "en": "\"Wow!",
+      "zh": "“哇！"
+    },
+    {
+      "index": 150,
+      "start": "09:14",
+      "en": "A magic harp!\"",
+      "zh": "一把魔法竖琴！”"
+    },
+    {
+      "index": 151,
+      "start": "09:16",
+      "en": "whispered Jack.",
+      "zh": "杰克低声说。"
+    },
+    {
+      "index": 152,
+      "start": "09:19",
+      "en": "\"That harp would make me rich and famous!\"",
+      "zh": "“有了那把竖琴，我又能发财又能出名！”"
+    },
+    {
+      "index": 153,
+      "start": "09:24",
+      "en": "When the giant fell asleep, Jack crawled out from under the bed.",
+      "zh": "巨人睡着后，杰克从床底下爬了出来。"
+    },
+    {
+      "index": 154,
+      "start": "09:29",
+      "en": "He took the magic harp and put it in his bag.",
+      "zh": "他拿起魔法竖琴，放进了包里。"
+    },
+    {
+      "index": 155,
+      "start": "09:33",
+      "en": "But this time Jack was less lucky.",
+      "zh": "可这一次杰克没那么走运。"
+    },
+    {
+      "index": 156,
+      "start": "09:37",
+      "en": "The magic harp screamed, “Help me, master!",
+      "zh": "魔法竖琴尖叫起来：“救命啊，主人！"
+    },
+    {
+      "index": 157,
+      "start": "09:41",
+      "en": "A human is stealing me!",
+      "zh": "有个人类在偷我！"
+    },
+    {
+      "index": 158,
+      "start": "09:43",
+      "en": "” The giant woke up and saw Jack with the magic harp, the golden hen, and his gold coins.",
+      "zh": "”巨人惊醒过来，看见杰克拿着魔法竖琴、金色母鸡，还有他的金币。"
+    },
+    {
+      "index": 159,
+      "start": "09:52",
+      "en": "\"STOP, THIEF!\"",
+      "zh": "“站住，小偷！”"
+    },
+    {
+      "index": 160,
+      "start": "09:55",
+      "en": "The giant chased Jack — — out of the bedroom, down the hallway, through the kitchen, and out the front door.",
+      "zh": "巨人追着杰克——冲出卧室，穿过走廊，跑过厨房，追出大门。"
+    },
+    {
+      "index": 161,
+      "start": "10:03",
+      "en": "But Jack was smaller and faster than the giant.",
+      "zh": "可杰克比巨人个子小、跑得快。"
+    },
+    {
+      "index": 162,
+      "start": "10:07",
+      "en": "Jack reached the beanstalk first and slid down.",
+      "zh": "杰克先跑到豆茎那里，滑了下去。"
+    },
+    {
+      "index": 163,
+      "start": "10:12",
+      "en": "He arrived at the ground with all his treasures.",
+      "zh": "他带着所有宝贝回到了地面。"
+    },
+    {
+      "index": 164,
+      "start": "10:16",
+      "en": "The giant reached the top of the beanstalk and looked down.",
+      "zh": "巨人追到豆茎顶上，往下看。"
+    },
+    {
+      "index": 165,
+      "start": "10:20",
+      "en": "He was afraid of heights.",
+      "zh": "他怕高。"
+    },
+    {
+      "index": 166,
+      "start": "10:23",
+      "en": "He slowly climbed down.",
+      "zh": "他慢慢地往下爬。"
+    },
+    {
+      "index": 167,
+      "start": "10:26",
+      "en": "\"BE CAREFUL, MY HUSBAND!\"",
+      "zh": "“小心啊，我的丈夫！”"
+    },
+    {
+      "index": 168,
+      "start": "10:28",
+      "en": "shouted the giantess from the castle.",
+      "zh": "巨人太太在城堡里喊道。"
+    },
+    {
+      "index": 169,
+      "start": "10:32",
+      "en": "\"HUMANS CAN BE DANGEROUS!\"",
+      "zh": "“人类可危险了！”"
+    },
+    {
+      "index": 170,
+      "start": "10:36",
+      "en": "Jack saw the giant coming down the beanstalk.",
+      "zh": "杰克看见巨人正顺着豆茎爬下来。"
+    },
+    {
+      "index": 171,
+      "start": "10:39",
+      "en": "So he ran into his house and grabbed an axe.",
+      "zh": "于是他跑进屋，抓起一把斧头。"
+    },
+    {
+      "index": 172,
+      "start": "10:43",
+      "en": "He chopped the beanstalk.",
+      "zh": "他砍起豆茎来。"
+    },
+    {
+      "index": 173,
+      "start": "10:45",
+      "en": "Whack!",
+      "zh": "咔！"
+    },
+    {
+      "index": 174,
+      "start": "10:46",
+      "en": "Whack!",
+      "zh": "咔！"
+    },
+    {
+      "index": 175,
+      "start": "10:47",
+      "en": "Whack!",
+      "zh": "咔！"
+    },
+    {
+      "index": 176,
+      "start": "10:48",
+      "en": "Suddenly, the beanstalk snapped.",
+      "zh": "突然，豆茎断了。"
+    },
+    {
+      "index": 177,
+      "start": "10:52",
+      "en": "The giant came tumbling down from the sky.",
+      "zh": "巨人从天上翻滚着摔了下来。"
+    },
+    {
+      "index": 178,
+      "start": "10:57",
+      "en": "He fell down, down, down, and landed far away, on the other side of the Foggy Mountains.",
+      "zh": "他往下、往下、往下掉，最后落在很远的地方，雾山的另一边。"
+    },
+    {
+      "index": 179,
+      "start": "11:05",
+      "en": "Thud!",
+      "zh": "砰！"
+    },
+    {
+      "index": 180,
+      "start": "11:08",
+      "en": "For a moment everything was silent.",
+      "zh": "有那么一会儿，一切都很安静。"
+    },
+    {
+      "index": 181,
+      "start": "11:12",
+      "en": "Then Jack heard a strange sound from far away.",
+      "zh": "接着杰克听见远处传来一个奇怪的声音。"
+    },
+    {
+      "index": 182,
+      "start": "11:17",
+      "en": "\"NOOOOOOOOOOOOOooooooooooo!\"",
+      "zh": "“不—————————！”"
+    },
+    {
+      "index": 183,
+      "start": "11:23",
+      "en": "It was the giant.",
+      "zh": "是那个巨人。"
+    },
+    {
+      "index": 184,
+      "start": "11:26",
+      "en": "The beanstalk had fallen, and now he had no way to get back up to his castle in the clouds.",
+      "zh": "豆茎倒了，他再也回不去云里的城堡了。"
+    },
+    {
+      "index": 185,
+      "start": "11:33",
+      "en": "The giant yelled so loudly that the clouds shook and turned gray.",
+      "zh": "巨人吼得那么响，连云都震动起来，变成了灰色。"
+    },
+    {
+      "index": 186,
+      "start": "11:40",
+      "en": "Then somewhere up in the sky, Jack heard Mrs.",
+      "zh": "接着，杰克听见天上某个地方，巨人"
+    },
+    {
+      "index": 187,
+      "start": "11:44",
+      "en": "Giant start to cry.",
+      "zh": "太太哭了起来。"
+    },
+    {
+      "index": 188,
+      "start": "11:46",
+      "en": "Her tears fell through the clouds in tiny drops and soaked the earth.",
+      "zh": "她的眼泪化作小雨滴穿过云层，打湿了大地。"
+    },
+    {
+      "index": 189,
+      "start": "11:56",
+      "en": "After that, Jack and his mother lived a very comfortable life.",
+      "zh": "从那以后，杰克和妈妈过上了非常舒适的生活。"
+    },
+    {
+      "index": 190,
+      "start": "12:01",
+      "en": "The golden hen made a Jack a millionaire.",
+      "zh": "金母鸡让杰克成了百万富翁。"
+    },
+    {
+      "index": 191,
+      "start": "12:04",
+      "en": "The magic harp made him famous.",
+      "zh": "魔法竖琴让他出了名。"
+    },
+    {
+      "index": 192,
+      "start": "12:07",
+      "en": "Jack married a rich and famous woman and together they had ten children.",
+      "zh": "杰克娶了一位富有又出名的妻子，两人一共生了十个孩子。"
+    },
+    {
+      "index": 193,
+      "start": "12:13",
+      "en": "But Jack was never truly happy.",
+      "zh": "可杰克从来没有真正快乐过。"
+    },
+    {
+      "index": 194,
+      "start": "12:17",
+      "en": "Every time the wind blew, Jack heard the giant calling for his wife.",
+      "zh": "每次刮风，杰克都听见巨人在呼唤他的妻子。"
+    },
+    {
+      "index": 195,
+      "start": "12:23",
+      "en": "And every time it rained, he felt the giant-wife's tears falling on him.",
+      "zh": "每次下雨，他都感觉到巨人太太的眼泪落在自己身上。"
+    },
+    {
+      "index": 196,
+      "start": "12:29",
+      "en": "Jack felt sad and guilty.",
+      "zh": "杰克感到伤心和内疚。"
+    },
+    {
+      "index": 197,
+      "start": "12:33",
+      "en": "One day, when Jack was very old, he decided that he didn't want to be sad any more.",
+      "zh": "有一天，杰克已经很老了，他决定不再这样伤心下去。"
+    },
+    {
+      "index": 198,
+      "start": "12:40",
+      "en": "He opened a box on his mantelpiece and pulled out one last shrivelled magic bean.",
+      "zh": "他打开壁炉架上的盒子，拿出最后一颗干瘪的魔豆。"
+    },
+    {
+      "index": 199,
+      "start": "12:47",
+      "en": "If he could find the giant, he could grow another beanstalk.",
+      "zh": "要是能找到巨人，他就能再种一根豆茎。"
+    },
+    {
+      "index": 200,
+      "start": "12:51",
+      "en": "Then the giant could climb back up to his castle in the clouds.",
+      "zh": "那样巨人就能爬回云里的城堡。"
+    },
+    {
+      "index": 201,
+      "start": "12:56",
+      "en": "If he could find the giant, he could also apologize for being so greedy.",
+      "zh": "要是能找到巨人，他也能为自己当初的贪婪道歉。"
+    },
+    {
+      "index": 202,
+      "start": "13:02",
+      "en": "Jack packed his bag and walked into the Misty Mountains.",
+      "zh": "杰克收拾好行囊，走进了雾蒙蒙的山里。"
+    },
+    {
+      "index": 203,
+      "start": "13:11",
+      "en": "Did Jack find the giant?",
+      "zh": "杰克找到巨人了吗？"
+    },
+    {
+      "index": 204,
+      "start": "13:13",
+      "en": "Did he grow a new beanstalk with the last magic bean?",
+      "zh": "他用最后那颗魔豆种出新的豆茎了吗？"
+    },
+    {
+      "index": 205,
+      "start": "13:18",
+      "en": "Nobody knows.",
+      "zh": "没有人知道。"
+    },
+    {
+      "index": 206,
+      "start": "13:20",
+      "en": "But people say, if you listen closely during a thunderstorm, you can hear the rumbling sound of two giants dancing together in the clouds.",
+      "zh": "可人们说，如果你在雷雨时仔细听，能听见云里两个巨人一起跳舞的隆隆声。"
+    }
+  ]
+}

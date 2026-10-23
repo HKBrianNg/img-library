@@ -1,8 +1,8 @@
 {
   "title": "小学",
   "titleEn": "Primary School",
-  "description": "适合 5-10 岁、刚开始接触英语的孩子。全部取自 The Fable Cottage 的美式发音版本，都是伊索寓言式的经典小故事：语速慢、句型重复、情节靠画面就能懂。篇幅从 2 分钟到 6 分钟递进，词汇和句子长度也随之增加。",
-  "descriptionEn": "For children aged 5-10 who are just starting English. All stories come from The Fable Cottage in US English accent — Aesop-style fables told slowly, with repeated sentence patterns and plots you can follow from the pictures alone. Length increases from 2 to 6 minutes, and so do vocabulary and sentence length.",
+  "description": "适合 5-11 岁、刚开始接触英语的孩子。全部取自 The Fable Cottage，语速慢、句型重复、情节靠画面就能懂。前 10 集是伊索寓言式的短篇（2-6 分钟），后 5 集是经典童话（5-14 分钟），篇幅、词汇量和句子长度一路递进。",
+  "descriptionEn": "For children aged 5-11 who are just starting English. All stories come from The Fable Cottage — told slowly, with repeated sentence patterns and plots you can follow from the pictures alone. The first 10 are short Aesop-style fables (2-6 minutes); the last 5 are classic fairy tales (5-14 minutes). Length, vocabulary and sentence complexity all build up gradually.",
   "items": [
     {
       "id": 1,
@@ -163,6 +163,86 @@
       "description": "小红母鸡种麦子、磨面粉、烤面包，别的动物都不肯帮忙。步骤描述多，反复用 will you help me 句型。",
       "descriptionEn": "The little red hen plants wheat, mills flour and bakes bread while the other animals refuse to help. Lots of step-by-step description, with the repeated pattern 'will you help me'.",
       "url": "https://www.youtube.com/watch?v=VjTJvwgJnGc"
+    },
+    {
+      "id": 11,
+      "series": "The Fable Cottage",
+      "episode": "Chicken Little",
+      "englishName": "Chicken Little (UK English accent)",
+      "chineseName": "小鸡快跑",
+      "durationPerEpisode": "5 min",
+      "ageRange": "7-10 years",
+      "producer": "The Fable Cottage",
+      "channel": "The Fable Cottage",
+      "platform": "YouTube",
+      "transcriptFile": "transcripts/FableCottageChickenLittle.json",
+      "description": "小鸡以为天要塌了，一路跑去告诉国王。恐慌情绪的表达很多，「the sky is falling」一句反复出现。",
+      "descriptionEn": "Chicken Little thinks the sky is falling and runs off to tell the king. Lots of panic vocabulary, with the line 'the sky is falling' repeated throughout.",
+      "url": "https://www.youtube.com/watch?v=EVsWDNUQFe0"
+    },
+    {
+      "id": 12,
+      "series": "The Fable Cottage",
+      "episode": "The Emperor's New Clothes",
+      "englishName": "The Emperor's New Clothes (UK English accent)",
+      "chineseName": "皇帝的新装",
+      "durationPerEpisode": "8 min",
+      "ageRange": "7-10 years",
+      "producer": "The Fable Cottage",
+      "channel": "The Fable Cottage",
+      "platform": "YouTube",
+      "transcriptFile": "transcripts/FableCottageEmperorsNewClothes.json",
+      "description": "两个骗子给皇帝织了一件「看不见的衣服」。衣物布料相关词汇集中，出现「看得见／看不见」的反复表达。",
+      "descriptionEn": "Two swindlers weave the emperor a suit that cannot be seen. Heavy on clothing and fabric vocabulary, with repeated 'can see / cannot see' phrasing.",
+      "url": "https://www.youtube.com/watch?v=ZC38jekCaB8"
+    },
+    {
+      "id": 13,
+      "series": "The Fable Cottage",
+      "episode": "Rapunzel",
+      "englishName": "Rapunzel (UK English accent)",
+      "chineseName": "长发公主",
+      "durationPerEpisode": "10 min",
+      "ageRange": "8-11 years",
+      "producer": "The Fable Cottage",
+      "channel": "The Fable Cottage",
+      "platform": "YouTube",
+      "transcriptFile": "transcripts/FableCottageRapunzel.json",
+      "description": "长发公主被关在没有门的高塔里。童话类词汇（塔、巫婆、王子），角色对白明显增多。",
+      "descriptionEn": "Rapunzel is locked in a tower with no door. Fairy-tale vocabulary (tower, witch, prince), with noticeably more dialogue between characters.",
+      "url": "https://www.youtube.com/watch?v=ki_DGMh2r0c"
+    },
+    {
+      "id": 14,
+      "series": "The Fable Cottage",
+      "episode": "Snow White",
+      "englishName": "Snow White (UK English accent)",
+      "chineseName": "白雪公主",
+      "durationPerEpisode": "13 min",
+      "ageRange": "8-11 years",
+      "producer": "The Fable Cottage",
+      "channel": "The Fable Cottage",
+      "platform": "YouTube",
+      "transcriptFile": "transcripts/FableCottageSnowWhite.json",
+      "description": "白雪公主与七个小矮人的故事。人物称呼与日常物品名词丰富，篇幅较长，句子也更长。",
+      "descriptionEn": "Snow White and the seven dwarfs. Rich in terms of address and everyday-object nouns; longer in length, with longer sentences.",
+      "url": "https://www.youtube.com/watch?v=wtMUy_3NGl4"
+    },
+    {
+      "id": 15,
+      "series": "The Fable Cottage",
+      "episode": "Jack and the Beanstalk",
+      "englishName": "Jack and the Beanstalk (UK English accent)",
+      "chineseName": "杰克与魔豆",
+      "durationPerEpisode": "14 min",
+      "ageRange": "8-11 years",
+      "producer": "The Fable Cottage",
+      "channel": "The Fable Cottage",
+      "platform": "YouTube",
+      "transcriptFile": "transcripts/FableCottageJackAndBeanstalk.json",
+      "description": "杰克用魔豆换来的豆茎一路长上天。动作与奇幻类词汇多，是本档最长的一集。",
+      "descriptionEn": "Jack climbs a beanstalk that grows all the way to the sky. Plenty of action and fantasy vocabulary — the longest episode in this set.",
+      "url": "https://www.youtube.com/watch?v=9a9qNLUpkV8"
     }
   ]
 }

@@ -1,0 +1,700 @@
+{
+  "lines": [
+    {
+      "index": 1,
+      "start": "00:00",
+      "en": "Chicken Little",
+      "zh": "小鸡快跑"
+    },
+    {
+      "index": 2,
+      "start": "00:03",
+      "en": "(",
+      "zh": "（"
+    },
+    {
+      "index": 3,
+      "start": "00:10",
+      "en": "Let me tell you a story about a chicken.",
+      "zh": "我来给你讲一只鸡的故事。"
+    },
+    {
+      "index": 4,
+      "start": "00:13",
+      "en": "His name is Chicken Little.",
+      "zh": "他的名字叫小鸡快跑。"
+    },
+    {
+      "index": 5,
+      "start": "00:16",
+      "en": "He lives in a normal little chicken house in a normal little town.",
+      "zh": "他住在一个普普通通的小镇上，一栋普普通通的小鸡舍里。"
+    },
+    {
+      "index": 6,
+      "start": "00:21",
+      "en": "Chicken Little is neither tall nor short.",
+      "zh": "小鸡快跑不高，也不矮。"
+    },
+    {
+      "index": 7,
+      "start": "00:24",
+      "en": "He is neither fat nor thin.",
+      "zh": "他不胖，也不瘦。"
+    },
+    {
+      "index": 8,
+      "start": "00:27",
+      "en": "He is neither smart nor stupid.",
+      "zh": "他不聪明，也不笨。"
+    },
+    {
+      "index": 9,
+      "start": "00:29",
+      "en": "He is a completely normal chicken.",
+      "zh": "他是一只完完全全普普通通的鸡。"
+    },
+    {
+      "index": 10,
+      "start": "00:33",
+      "en": "One completely normal morning, Chicken Little is eating his breakfast in the kitchen.",
+      "zh": "一个再普通不过的早晨，小鸡快跑正在厨房里吃早餐。"
+    },
+    {
+      "index": 11,
+      "start": "00:39",
+      "en": "(He likes toast with butter and coffee with cream.)",
+      "zh": "（他喜欢涂了黄油的吐司，和加了奶油的咖啡。）"
+    },
+    {
+      "index": 12,
+      "start": "00:42",
+      "en": "He is reading the internet.",
+      "zh": "他正在上网看东西。"
+    },
+    {
+      "index": 13,
+      "start": "00:44",
+      "en": "He sees a terrifying story with a terrifying headline.",
+      "zh": "他看到一条吓人的消息，标题也很吓人。"
+    },
+    {
+      "index": 14,
+      "start": "00:49",
+      "en": "It says: THE SKY IS FALLING!",
+      "zh": "标题写着：天要塌下来了！"
+    },
+    {
+      "index": 15,
+      "start": "00:53",
+      "en": "He is so scared that he drops his toast into his coffee.",
+      "zh": "他吓得把吐司掉进了咖啡里。"
+    },
+    {
+      "index": 16,
+      "start": "00:57",
+      "en": "PLOP!",
+      "zh": "扑通！"
+    },
+    {
+      "index": 17,
+      "start": "00:58",
+      "en": "“The sky is falling?",
+      "zh": "“天要塌下来了？"
+    },
+    {
+      "index": 18,
+      "start": "01:00",
+      "en": "” “THE SKY IS FALLING!",
+      "zh": "”“天要塌下来了！"
+    },
+    {
+      "index": 19,
+      "start": "01:02",
+      "en": "” shouts Chicken Little.",
+      "zh": "”小鸡快跑喊道。"
+    },
+    {
+      "index": 20,
+      "start": "01:04",
+      "en": "“I have to warn everyone!",
+      "zh": "“我得去通知所有人！"
+    },
+    {
+      "index": 21,
+      "start": "01:06",
+      "en": "” First, he emails the story to one-thousand of his closest friends.",
+      "zh": "”他先把这条消息发给了他最要好的一千个朋友。"
+    },
+    {
+      "index": 22,
+      "start": "01:12",
+      "en": "Then runs down the road to warn everyone else.",
+      "zh": "然后沿着路跑去通知其他人。"
+    },
+    {
+      "index": 23,
+      "start": "01:18",
+      "en": "The first person he meets on the road is Gwen the Hen.",
+      "zh": "他在路上遇到的第一个人是母鸡格温。"
+    },
+    {
+      "index": 24,
+      "start": "01:22",
+      "en": "She is coming from the supermarket.",
+      "zh": "她刚从超市回来。"
+    },
+    {
+      "index": 25,
+      "start": "01:25",
+      "en": "“Good morning, Chicken Little!",
+      "zh": "“早上好，小鸡快跑！"
+    },
+    {
+      "index": 26,
+      "start": "01:27",
+      "en": "” says Gwen the Hen.",
+      "zh": "”母鸡格温说。"
+    },
+    {
+      "index": 27,
+      "start": "01:28",
+      "en": "“Where are you going?",
+      "zh": "“你要去哪儿？"
+    },
+    {
+      "index": 28,
+      "start": "01:30",
+      "en": "Why are you so scared?",
+      "zh": "你怎么吓成这样？"
+    },
+    {
+      "index": 29,
+      "start": "01:32",
+      "en": "” “The sky is falling!",
+      "zh": "”“天要塌下来了！"
+    },
+    {
+      "index": 30,
+      "start": "01:34",
+      "en": "” \"THE SKY IS FALLING!\"",
+      "zh": "”“天要塌下来了！”"
+    },
+    {
+      "index": 31,
+      "start": "01:35",
+      "en": "says Chicken Little.",
+      "zh": "小鸡快跑说。"
+    },
+    {
+      "index": 32,
+      "start": "01:37",
+      "en": "“Really?",
+      "zh": "“真的吗？"
+    },
+    {
+      "index": 33,
+      "start": "01:38",
+      "en": "How do you know?",
+      "zh": "你怎么知道的？"
+    },
+    {
+      "index": 34,
+      "start": "01:40",
+      "en": "” asks Gwen.",
+      "zh": "”格温问。"
+    },
+    {
+      "index": 35,
+      "start": "01:41",
+      "en": "“I saw it on the internet!",
+      "zh": "“我在网上看到的！"
+    },
+    {
+      "index": 36,
+      "start": "01:43",
+      "en": "” says Chicken Little.",
+      "zh": "”小鸡快跑说。"
+    },
+    {
+      "index": 37,
+      "start": "01:45",
+      "en": "“Holy moly!",
+      "zh": "“我的天哪！"
+    },
+    {
+      "index": 38,
+      "start": "01:46",
+      "en": "It must be true!",
+      "zh": "那一定是真的！"
+    },
+    {
+      "index": 39,
+      "start": "01:48",
+      "en": "” says Gwen.",
+      "zh": "”格温说。"
+    },
+    {
+      "index": 40,
+      "start": "01:49",
+      "en": "“Let's go!",
+      "zh": "“我们快走！"
+    },
+    {
+      "index": 41,
+      "start": "01:50",
+      "en": "” And so Chicken Little and Gwen the Hen run down the road towards the pond.",
+      "zh": "”于是小鸡快跑和母鸡格温沿着路朝池塘跑去。"
+    },
+    {
+      "index": 42,
+      "start": "01:57",
+      "en": "When they reach the pond, they meet Chuck the Duck.",
+      "zh": "到了池塘边，他们遇见了鸭子查克。"
+    },
+    {
+      "index": 43,
+      "start": "02:01",
+      "en": "He is having a bath.",
+      "zh": "他正在洗澡。"
+    },
+    {
+      "index": 44,
+      "start": "02:03",
+      "en": "“Hello, you two!",
+      "zh": "“你们好呀！"
+    },
+    {
+      "index": 45,
+      "start": "02:04",
+      "en": "” says Chuck the Duck.",
+      "zh": "”鸭子查克说。"
+    },
+    {
+      "index": 46,
+      "start": "02:06",
+      "en": "“Where are you going?",
+      "zh": "“你们要去哪儿？"
+    },
+    {
+      "index": 47,
+      "start": "02:08",
+      "en": "Why are you so scared?",
+      "zh": "怎么吓成这样？"
+    },
+    {
+      "index": 48,
+      "start": "02:10",
+      "en": "” “The sky is falling!",
+      "zh": "”“天要塌下来了！"
+    },
+    {
+      "index": 49,
+      "start": "02:12",
+      "en": "The sky is falling!",
+      "zh": "天要塌下来了！"
+    },
+    {
+      "index": 50,
+      "start": "02:13",
+      "en": "” say Chicken Little and Gwen the Hen together.",
+      "zh": "”小鸡快跑和母鸡格温一起说。"
+    },
+    {
+      "index": 51,
+      "start": "02:18",
+      "en": "“Really?",
+      "zh": "“真的吗？"
+    },
+    {
+      "index": 52,
+      "start": "02:19",
+      "en": "How do you know?",
+      "zh": "你们怎么知道的？"
+    },
+    {
+      "index": 53,
+      "start": "02:20",
+      "en": "” asks Chuck.",
+      "zh": "”查克问。"
+    },
+    {
+      "index": 54,
+      "start": "02:22",
+      "en": "“I saw it on the internet!",
+      "zh": "“我在网上看到的！"
+    },
+    {
+      "index": 55,
+      "start": "02:24",
+      "en": "” says Chicken Little.",
+      "zh": "”小鸡快跑说。"
+    },
+    {
+      "index": 56,
+      "start": "02:26",
+      "en": "“Oh no!",
+      "zh": "“不好了！"
+    },
+    {
+      "index": 57,
+      "start": "02:26",
+      "en": "It must be true!",
+      "zh": "那一定是真的！"
+    },
+    {
+      "index": 58,
+      "start": "02:28",
+      "en": "” says Chuck.",
+      "zh": "”查克说。"
+    },
+    {
+      "index": 59,
+      "start": "02:29",
+      "en": "“Let’s go!",
+      "zh": "“我们快走！"
+    },
+    {
+      "index": 60,
+      "start": "02:30",
+      "en": "” So Chicken Little, Gwen the Hen, and the Chuck the Duck run down the road towards the farm.",
+      "zh": "”于是小鸡快跑、母鸡格温和鸭子查克沿着路朝农场跑去。"
+    },
+    {
+      "index": 61,
+      "start": "02:39",
+      "en": "When they reach the farm they meet Bruce the Goose.",
+      "zh": "到了农场，他们遇见了鹅布鲁斯。"
+    },
+    {
+      "index": 62,
+      "start": "02:42",
+      "en": "He is reading poetry to Percy the pigeon.",
+      "zh": "他正在给鸽子珀西念诗。"
+    },
+    {
+      "index": 63,
+      "start": "02:46",
+      "en": "“Hello everyone!",
+      "zh": "“大家好呀！"
+    },
+    {
+      "index": 64,
+      "start": "02:47",
+      "en": "” says Bruce the Goose.",
+      "zh": "”鹅布鲁斯说。"
+    },
+    {
+      "index": 65,
+      "start": "02:49",
+      "en": "“Where are you going?",
+      "zh": "“你们要去哪儿？"
+    },
+    {
+      "index": 66,
+      "start": "02:51",
+      "en": "Why are you so scared?",
+      "zh": "怎么吓成这样？"
+    },
+    {
+      "index": 67,
+      "start": "02:53",
+      "en": "” “The sky is falling.",
+      "zh": "”“天要塌下来了。"
+    },
+    {
+      "index": 68,
+      "start": "02:55",
+      "en": "THE SKY IS FALLING!",
+      "zh": "天要塌下来了！"
+    },
+    {
+      "index": 69,
+      "start": "02:57",
+      "en": "” everyone yells.",
+      "zh": "”大家喊道。"
+    },
+    {
+      "index": 70,
+      "start": "02:59",
+      "en": "“Really?",
+      "zh": "“真的吗？"
+    },
+    {
+      "index": 71,
+      "start": "03:00",
+      "en": "How do you know?",
+      "zh": "你们怎么知道的？"
+    },
+    {
+      "index": 72,
+      "start": "03:01",
+      "en": "” asks Percy the pigeon.",
+      "zh": "”鸽子珀西问。"
+    },
+    {
+      "index": 73,
+      "start": "03:04",
+      "en": "“WE SAW IT ON THE INTERNET!!",
+      "zh": "“我们在网上看到的！！"
+    },
+    {
+      "index": 74,
+      "start": "03:07",
+      "en": "” they all say.",
+      "zh": "”他们齐声说。"
+    },
+    {
+      "index": 75,
+      "start": "03:08",
+      "en": "“Goodness gracious!",
+      "zh": "“天哪天哪！"
+    },
+    {
+      "index": 76,
+      "start": "03:10",
+      "en": "It must be true!",
+      "zh": "那一定是真的！"
+    },
+    {
+      "index": 77,
+      "start": "03:12",
+      "en": "” says Bruce.",
+      "zh": "”布鲁斯说。"
+    },
+    {
+      "index": 78,
+      "start": "03:13",
+      "en": "“There is no time to read poetry now.",
+      "zh": "“现在可没工夫念诗了。"
+    },
+    {
+      "index": 79,
+      "start": "03:16",
+      "en": "Let's go!",
+      "zh": "我们快走！"
+    },
+    {
+      "index": 80,
+      "start": "03:16",
+      "en": "” And Chicken Little, Gwen the Hen, Chuck the Duck, Bruce the Goose and Percy the Pigeon run down the road towards the town.",
+      "zh": "”于是小鸡快跑、母鸡格温、鸭子查克、鹅布鲁斯和鸽子珀西沿着路朝镇上跑去。"
+    },
+    {
+      "index": 81,
+      "start": "03:26",
+      "en": "On the main street, they meet Fred the Fox.",
+      "zh": "在大街上，他们遇见了狐狸弗雷德。"
+    },
+    {
+      "index": 82,
+      "start": "03:31",
+      "en": "He is sitting at a cafe, writing on his laptop.",
+      "zh": "他正坐在咖啡馆里，在笔记本电脑上写着什么。"
+    },
+    {
+      "index": 83,
+      "start": "03:34",
+      "en": "“Hello everyone!",
+      "zh": "“大家好呀！"
+    },
+    {
+      "index": 84,
+      "start": "03:36",
+      "en": "” says Fred the Fox.",
+      "zh": "”狐狸弗雷德说。"
+    },
+    {
+      "index": 85,
+      "start": "03:38",
+      "en": "“Where are you going?",
+      "zh": "“你们要去哪儿？"
+    },
+    {
+      "index": 86,
+      "start": "03:40",
+      "en": "Why are you so scared?",
+      "zh": "怎么吓成这样？"
+    },
+    {
+      "index": 87,
+      "start": "03:42",
+      "en": "” “THE SKY IS FALLING!\"",
+      "zh": "”“天要塌下来了！"
+    },
+    {
+      "index": 88,
+      "start": "03:45",
+      "en": "THE SKY IS FALLING!",
+      "zh": "天要塌下来了！"
+    },
+    {
+      "index": 89,
+      "start": "03:47",
+      "en": "” everyone yells.",
+      "zh": "”大家喊道。"
+    },
+    {
+      "index": 90,
+      "start": "03:50",
+      "en": "“Really?",
+      "zh": "“真的吗？"
+    },
+    {
+      "index": 91,
+      "start": "03:51",
+      "en": "How do you know?",
+      "zh": "你们怎么知道的？"
+    },
+    {
+      "index": 92,
+      "start": "03:53",
+      "en": "” asks Fred.",
+      "zh": "”弗雷德问。"
+    },
+    {
+      "index": 93,
+      "start": "03:54",
+      "en": "“WE SAW IT ON THE INTERNET!!!!",
+      "zh": "“我们在网上看到的！！！！"
+    },
+    {
+      "index": 94,
+      "start": "03:58",
+      "en": "” they all shout.",
+      "zh": "”他们齐声喊道。"
+    },
+    {
+      "index": 95,
+      "start": "04:01",
+      "en": "“Wow!",
+      "zh": "“哇！"
+    },
+    {
+      "index": 96,
+      "start": "04:02",
+      "en": "Well then it must be true!",
+      "zh": "那肯定错不了了！"
+    },
+    {
+      "index": 97,
+      "start": "04:06",
+      "en": "” says the fox.",
+      "zh": "”狐狸说。"
+    },
+    {
+      "index": 98,
+      "start": "04:08",
+      "en": "“But don’t worry, friends, I know the perfect place to hide.\"",
+      "zh": "“不过别担心，朋友们，我知道一个躲起来最安全的地方。”"
+    },
+    {
+      "index": 99,
+      "start": "04:13",
+      "en": "\"Follow me!",
+      "zh": "“跟我来！"
+    },
+    {
+      "index": 100,
+      "start": "04:14",
+      "en": "” Fred the fox leads everyone through the village, down the road, across the field, and up a hill.",
+      "zh": "”狐狸弗雷德带着大家穿过村子、沿着路、越过田野，爬上了一座小山。"
+    },
+    {
+      "index": 101,
+      "start": "04:22",
+      "en": "At the top of the hill is a big, dark cave.",
+      "zh": "山顶上有一个又大又黑的洞。"
+    },
+    {
+      "index": 102,
+      "start": "04:27",
+      "en": "“Come in!",
+      "zh": "“进来吧！"
+    },
+    {
+      "index": 103,
+      "start": "04:28",
+      "en": "Come in!",
+      "zh": "进来吧！"
+    },
+    {
+      "index": 104,
+      "start": "04:29",
+      "en": "” says Fred the fox.",
+      "zh": "”狐狸弗雷德说。"
+    },
+    {
+      "index": 105,
+      "start": "04:31",
+      "en": "“There is enough room for everybody!",
+      "zh": "“这里地方够大，大家都能进来！"
+    },
+    {
+      "index": 106,
+      "start": "04:35",
+      "en": "The sky won't fall on us here.",
+      "zh": "天塌下来也砸不到我们。"
+    },
+    {
+      "index": 107,
+      "start": "04:37",
+      "en": "We are safe.",
+      "zh": "我们安全了。”"
+    },
+    {
+      "index": 108,
+      "start": "04:39",
+      "en": "And so, one by one, Chicken Little and all of his friends follow the fox into the cave.",
+      "zh": "就这样，小鸡快跑和他的朋友们一个接一个，跟着狐狸走进了洞里。"
+    },
+    {
+      "index": 109,
+      "start": "04:47",
+      "en": "The next morning, Chicken Little and his friends have disappeared.",
+      "zh": "第二天早上，小鸡快跑和他的朋友们不见了。"
+    },
+    {
+      "index": 110,
+      "start": "04:51",
+      "en": "The cave is empty.",
+      "zh": "洞里空空的。"
+    },
+    {
+      "index": 111,
+      "start": "04:53",
+      "en": "Where did they go?",
+      "zh": "他们去哪儿了？"
+    },
+    {
+      "index": 112,
+      "start": "04:55",
+      "en": "We don’t know for sure.",
+      "zh": "我们也不确定。"
+    },
+    {
+      "index": 113,
+      "start": "04:57",
+      "en": "But I will tell you one thing: Fred the Fox is very happy.",
+      "zh": "但有一件事我可以告诉你们：狐狸弗雷德开心极了。"
+    },
+    {
+      "index": 114,
+      "start": "05:01",
+      "en": "He has a big, round belly.",
+      "zh": "他的肚子又大又圆。"
+    },
+    {
+      "index": 115,
+      "start": "05:04",
+      "en": "“Silly animals,” he says.",
+      "zh": "“傻乎乎的动物们，”他说。"
+    },
+    {
+      "index": 116,
+      "start": "05:07",
+      "en": "And he sits under a tree, gets his laptop, and begins to write again.",
+      "zh": "然后他坐到树下，拿出笔记本电脑，又开始写了起来。"
+    }
+  ]
+}
