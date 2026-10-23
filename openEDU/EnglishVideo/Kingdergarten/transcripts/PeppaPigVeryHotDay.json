@@ -1,0 +1,33 @@
+{
+  "lines": [
+    { "index": 1, "start": "00:00", "en": "I'm Peppa Pig. This is my little brother, George. This is Mummy Pig. And this is Daddy Pig.", "zh": "我是小猪佩奇。这是我的弟弟乔治，这是猪妈妈，这是猪爸爸。" },
+    { "index": 2, "start": "00:17", "en": "Very Hot Day. The sun is shining. It is a very hot day.", "zh": "大热天。阳光灿烂，今天天气非常热。" },
+    { "index": 3, "start": "00:24", "en": "What a lovely hot day! Peppa and George are wearing their boots. They are going to jump in muddy puddles.", "zh": "多美好的大热天呀！佩奇和乔治穿着他们的靴子。他们要去泥坑里跳。" },
+    { "index": 4, "start": "00:32", "en": "I love muddy puddles! Oh! Oh, dear, the sun is so hot that the puddles have dried up.", "zh": "我喜欢泥坑！哦！哦，天哪，太阳太晒了，泥坑都干了。" },
+    { "index": 5, "start": "00:38", "en": "Mummy, Daddy, the puddles are all dry, and we can't jump in them! Never mind, Peppa, it's so sunny, you can play in the paddling pool instead! Yes, the paddling pool!", "zh": "妈妈，爸爸，泥坑都干了，我们不能跳了！没关系，佩奇，天气这么晴朗，你们可以改在戏水池里玩呀！好耶，戏水池！" },
+    { "index": 6, "start": "00:50", "en": "First, you have to change into your swimming costumes. Yes, Mummy!", "zh": "首先，你们得换上游泳衣。好的，妈妈！" },
+    { "index": 7, "start": "01:04", "en": "Peppa and George are wearing their swimming costumes. Mummy Pig is wearing her swimming costume, and Daddy Pig is wearing his swimming costume.", "zh": "佩奇和乔治穿上了游泳衣。猪妈妈穿着她的游泳衣，猪爸爸穿着他的游泳衣。" },
+    { "index": 8, "start": "01:12", "en": "Because it's so hot, you need sun cream.", "zh": "因为天气太热了，你们需要涂防晒霜。" },
+    { "index": 9, "start": "01:18", "en": "So oily and yucky! Yuck! What a fuss about nothing. Yes, we all need sun cream today.", "zh": "又油又黏，真讨厌！呸！真是小题大做。是的，今天我们全都需要涂防晒霜。" },
+    { "index": 10, "start": "01:38", "en": "Oh, come on, George, let's get some air into this paddling pool!", "zh": "哦，快点，乔治，我们给戏水池充点气吧！" },
+    { "index": 11, "start": "01:44", "en": "Daddy Pig is pumping up the paddling pool. Easy as pie!", "zh": "猪爸爸正在给戏水池打气。小菜一碟！" },
+    { "index": 12, "start": "01:58", "en": "Peppa holds the hose, and Mummy Pig turns on the water. Where's the water?", "zh": "佩奇拿着水管，猪妈妈打开水龙头。水在哪儿呢？" },
+    { "index": 13, "start": "02:14", "en": "Peppa and George love their paddling pool!", "zh": "佩奇和乔治喜欢他们的戏水池！" },
+    { "index": 14, "start": "02:23", "en": "Ice cream! Ice cream!", "zh": "冰淇淋！冰淇淋！" },
+    { "index": 15, "start": "02:29", "en": "Miss Rabbit, the ice cream lady. On very hot days, Miss Rabbit sells ice cream.", "zh": "是卖冰淇淋的兔子小姐。天气特别热的时候，兔子小姐就会来卖冰淇淋。" },
+    { "index": 16, "start": "02:32", "en": "Mummy, Daddy, can George and I have an ice cream, please? Oh, well, I suppose it is an especially hot day. Yes, please!", "zh": "妈妈，爸爸，我和乔治能吃冰淇淋吗？哦，好吧，今天确实特别热。好吧，买！" },
+    { "index": 17, "start": "02:45", "en": "Can I have one as well? Everyone likes ice cream! Hello, Mummy Pig, Peppa and George. Hello, Miss Rabbit. What ice creams would you like?", "zh": "我也能来一个吗？大家都喜欢冰淇淋！你们好，猪妈妈、佩奇和乔治。你好，兔子小姐。你们想要什么冰淇淋？" },
+    { "index": 18, "start": "02:50", "en": "Can I have a cone, please, Miss Rabbit? Of course you may, Peppa. Thank you! Thank you! The same for me, and one for Daddy Pig, please.", "zh": "兔子小姐，我可以要一个蛋筒冰淇淋吗？当然可以，佩奇。谢谢！谢谢！我也一样的，再给猪爸爸来一个。" },
+    { "index": 19, "start": "03:01", "en": "And what would young Mr. George like? Dinosaur! A dinosaur? Silly George, he always says dinosaur for everything. Well, it just so happens that I do have a dinosaur-shaped ice lolly!", "zh": "那小乔治先生想要什么呢？恐龙！恐龙？傻乔治，他不管什么都说恐龙。嗯，巧了，我还真有一根恐龙形状的冰棍！" },
+    { "index": 20, "start": "03:21", "en": "Dinosaur!", "zh": "恐龙！" },
+    { "index": 21, "start": "03:27", "en": "George, you should eat your ice lolly before it melts. Thank you! George loves his dinosaur ice lolly so much, he doesn't want to eat it.", "zh": "乔治，你该趁冰棍还没化把它吃了。谢谢！乔治太喜欢他的恐龙冰棍了，都舍不得吃。" },
+    { "index": 22, "start": "03:32", "en": "Thank you, Miss Rabbit! Enjoy the weather!", "zh": "谢谢你，兔子小姐！好好享受这天气吧！" },
+    { "index": 23, "start": "03:38", "en": "George, I really think you should eat your ice lolly before it melts and falls on the ground. Oh, dear, George's dinosaur ice lolly has melted and fallen on the ground!", "zh": "乔治，我真觉得你该趁它还没化掉、没掉在地上之前吃掉。哦，天哪，乔治的恐龙冰棍化掉掉在地上了！" },
+    { "index": 24, "start": "03:48", "en": "Never mind, George, you can share Daddy's ice cream. I'm sure he won't mind.", "zh": "没关系，乔治，你可以分爸爸的冰淇淋吃。我肯定他不会介意的。" },
+    { "index": 25, "start": "03:58", "en": "It is so warm. Daddy Pig has fallen asleep.", "zh": "天气太暖和了。猪爸爸睡着了。" },
+    { "index": 26, "start": "04:02", "en": "Daddy Pig does look hot. Let's pour water on Daddy to cool him down! Good idea!", "zh": "猪爸爸看起来确实很热。我们往爸爸身上泼点水，给他降降温吧！好主意！" },
+    { "index": 27, "start": "04:11", "en": "Peppa, what happened? You were all red and hot, Daddy Pig, so we put water on you! Oh, I see. Thank you.", "zh": "佩奇，发生什么事了？猪爸爸，你刚才又红又热，所以我们往你身上泼水啦！哦，我明白了。谢谢你们。" },
+    { "index": 28, "start": "04:23", "en": "Peppa, look, the puddles are back! Quick, George, let's get our boots!", "zh": "佩奇你看，泥坑又回来了！快点，乔治，我们去拿靴子！" },
+    { "index": 29, "start": "04:33", "en": "Peppa and George are wearing their boots. Peppa and George love the hot day, but most of all, they love jumping up and down in puddles!", "zh": "佩奇和乔治穿上了他们的靴子。佩奇和乔治喜欢这个大热天，但最让他们开心的，还是在泥坑里跳上跳下！" }
+  ]
+}

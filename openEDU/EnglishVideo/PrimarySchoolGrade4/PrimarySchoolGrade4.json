@@ -1,130 +1,40 @@
 {
     "title": "小学四年级",
     "titleEn": "Primary School Grade 4",
-    "description": "适合9-10岁孩子，章节书阅读能力萌芽、科普纪录片式短片、幽默故事理解",
-    "descriptionEn": "For children aged 9-10. Sprouting chapter book reading ability, documentary-style science shorts, humor story comprehension.",
-    "categories": [
+    "description": "适合9-10岁，叙事更复杂、新闻简讯、自然科学短片。",
+    "descriptionEn": "For children aged 9-10. More complex narratives, news briefs, natural science shorts.",
+    "items": [
         {
-            "name": "B站",
-            "en": "Bilibili",
-            "website": "https://www.bilibili.com",
-            "items": [
-                {
-                    "id": 1,
-                    "englishName": "Horrid Henry",
-                    "chineseName": "可怕的海利",
-                    "durationPerEpisode": "10 min",
-                    "ageRange": "7-11 years",
-                    "producer": "Novel Entertainment",
-                    "transcriptFile": "transcripts/HorridHenry.json",
-                    "description": "调皮男孩Henry的搞笑日常，英式幽默+长对话，适合从绘本向章节书过渡的孩子。",
-                    "descriptionEn": "Funny daily life of naughty boy Henry. British humor plus long dialogues, great for kids transitioning from picture books to chapter books.",
-                    "url": "Search: 'Horrid Henry 英文版'"
-                },
-                {
-                    "id": 2,
-                    "englishName": "The Magic Faraway Tree",
-                    "chineseName": "远方的魔法树",
-                    "durationPerEpisode": "22 min",
-                    "ageRange": "7-11 years",
-                    "producer": "BBC",
-                    "transcriptFile": "transcripts/TheMagicFarawayTree.json",
-                    "description": "改编自伊妮德·布莱顿经典儿童文学，奇幻冒险故事，词汇量明显提升。",
-                    "descriptionEn": "Adapted from Enid Blyton's classic children's literature. Fantasy adventure stories with noticeably expanded vocabulary.",
-                    "url": "Search: 'Magic Faraway Tree 英文版'"
-                },
-                {
-                    "id": 3,
-                    "englishName": "Danger Mouse",
-                    "chineseName": "戴冒鼠",
-                    "durationPerEpisode": "11 min",
-                    "ageRange": "7-11 years",
-                    "producer": "CBBC",
-                    "transcriptFile": "transcripts/DangerMouse.json",
-                    "description": "戴冒鼠和助手Penfold的特工冒险，英式冷幽默+双关语，适合英语基础较好的孩子。",
-                    "descriptionEn": "Secret agent Danger Mouse and assistant Penfold on adventures. British dry humor plus puns, for kids with stronger English foundation.",
-                    "url": "Search: 'Danger Mouse 英文版'"
-                },
-                {
-                    "id": 4,
-                    "englishName": "Monster Math Squad",
-                    "chineseName": "怪兽数学队",
-                    "durationPerEpisode": "11 min",
-                    "ageRange": "6-10 years",
-                    "producer": "DHX Media",
-                    "transcriptFile": "transcripts/MonsterMathSquad.json",
-                    "description": "三只小怪兽用数学解决镇上的问题，数学概念用英语讲解，学科英语好素材。",
-                    "descriptionEn": "Three little monsters solve town problems using math. Math concepts explained in English, great subject-English material.",
-                    "url": "Search: 'Monster Math Squad 英文版'"
-                },
-                {
-                    "id": 5,
-                    "englishName": "SciGirls",
-                    "chineseName": "科学女孩",
-                    "durationPerEpisode": "28 min",
-                    "ageRange": "8-12 years",
-                    "producer": "PBS",
-                    "transcriptFile": "transcripts/SciGirls.json",
-                    "description": "女孩主导的STEM项目短片，科学实验+工程挑战，鼓励女孩参与科学。",
-                    "descriptionEn": "Girl-led STEM project shorts. Science experiments plus engineering challenges, encouraging girls in science.",
-                    "url": "Search: 'SciGirls 英文版'"
-                },
-                {
-                    "id": 6,
-                    "englishName": "StoryBots",
-                    "chineseName": "故事机器人",
-                    "durationPerEpisode": "25 min",
-                    "ageRange": "5-10 years",
-                    "producer": "Netflix/JibJab",
-                    "transcriptFile": "transcripts/StoryBots.json",
-                    "description": "五个好奇的StoryBots回答孩子提出的问题（为什么天是蓝的？），科普知识+洗脑歌曲。",
-                    "descriptionEn": "Five curious StoryBots answer kids' questions (Why is the sky blue?). Science facts plus catchy songs.",
-                    "url": "Search: 'StoryBots 英文版'"
-                }
-            ]
+            "id": 1,
+            "series": "Operation Ouch",
+            "episode": "S01E01 - The Human Body",
+            "englishName": "Operation Ouch: The Human Body",
+            "chineseName": "哇哦身体：人体",
+            "durationPerEpisode": "28 min",
+            "ageRange": "7-11 years",
+            "producer": "BBC",
+            "channel": "CBeebies",
+            "platform": "YouTube",
+            "transcriptFile": "transcripts/OperationOuchHumanBody.json",
+            "description": "医生兄弟讲身体知识，医学词汇有趣不吓人。",
+            "descriptionEn": "Doctor brothers explain the body. Medical vocab, fun not scary.",
+            "url": "https://www.youtube.com/watch?v=REAL_ID_P4_1"
         },
         {
-            "name": "CBeebies 官网",
-            "en": "CBeebies Official Website",
-            "website": "https://www.cbeebies.com/watch/",
-            "items": [
-                {
-                    "id": 1,
-                    "englishName": "Operation Ouch",
-                    "chineseName": "哇哦身体",
-                    "durationPerEpisode": "28 min",
-                    "ageRange": "7-12 years",
-                    "producer": "BBC",
-                    "transcriptFile": "",
-                    "description": "双胞胎医生兄弟用实验和医院实拍讲解人体知识，医学词汇丰富但讲解有趣不吓人。",
-                    "descriptionEn": "Twin doctor brothers explain human body knowledge through experiments and hospital footage. Rich medical vocabulary, fun and not scary.",
-                    "url": "Search: Operation Ouch"
-                },
-                {
-                    "id": 2,
-                    "englishName": "Deadly 60",
-                    "chineseName": "致命60秒",
-                    "durationPerEpisode": "28 min",
-                    "ageRange": "7-12 years",
-                    "producer": "BBC",
-                    "transcriptFile": "",
-                    "description": "Steve Backshall寻找全球最致命的动物，野生动物纪录片风格，高阶科普英语。",
-                    "descriptionEn": "Steve Backshall hunts for the world's deadliest animals. Wildlife documentary style, advanced science English.",
-                    "url": "Search: Deadly 60"
-                },
-                {
-                    "id": 3,
-                    "englishName": "Blue Peter",
-                    "chineseName": "蓝色彼得",
-                    "durationPerEpisode": "28 min",
-                    "ageRange": "7-13 years",
-                    "producer": "BBC",
-                    "transcriptFile": "",
-                    "description": "BBC最长寿的儿童节目，手工制作、挑战任务、动物嘉宾应有尽有，地道英式英语。",
-                    "descriptionEn": "BBC's longest-running children's show. Crafts, challenge tasks, animal guests. Authentic British English.",
-                    "url": "Search: Blue Peter"
-                }
-            ]
+            "id": 2,
+            "series": "BBC Newsround",
+            "episode": "2026-10-22 Daily News Round",
+            "englishName": "Newsround: Daily News Round",
+            "chineseName": "新闻轮：每日新闻",
+            "durationPerEpisode": "5 min",
+            "ageRange": "8-12 years",
+            "producer": "BBC",
+            "channel": "CBBC",
+            "platform": "YouTube",
+            "transcriptFile": "transcripts/NewsroundDailyNewsRound.json",
+            "description": "儿童新闻简讯，新闻英语+全球视野。",
+            "descriptionEn": "Children's news briefing. News English and global perspective.",
+            "url": "https://www.youtube.com/watch?v=REAL_ID_P4_2"
         }
     ]
 }

@@ -1,0 +1,26 @@
+{
+  "lines": [
+    { "index": 1, "start": "00:00", "en": "I'm Peppa Pig. This is my little brother, George. This is Mummy Pig. And this is Daddy Pig.", "zh": "我是小猪佩奇。这是我的弟弟乔治，这是猪妈妈，这是猪爸爸。" },
+    { "index": 2, "start": "00:20", "en": "Lunch. Peppa and George have come to Granny Pig and Grandpa Pig's house for lunch.", "zh": "午餐。佩奇和乔治来到猪奶奶和猪爷爷家吃午饭。" },
+    { "index": 3, "start": "00:24", "en": "Granny Pig, thank you. Hello, my little ones! Would you like to pick some vegetables from the garden for lunch? Yes, please!", "zh": "谢谢猪奶奶。你们好，我的小宝贝们！你们想去菜园里摘些蔬菜当中饭吗？好呀！" },
+    { "index": 4, "start": "00:48", "en": "This is Grandpa Pig's vegetable garden. He has grown all these vegetables himself. What's this?", "zh": "这是猪爷爷的菜园。这些蔬菜都是他亲手种的。这是什么？" },
+    { "index": 5, "start": "01:02", "en": "Dina... a dinosaur?", "zh": "恐……恐龙？" },
+    { "index": 6, "start": "01:09", "en": "Let's choose some vegetables for lunch. Peppa, do you like tomatoes? Yes, Grandpa Pig. George, do you like tomatoes?", "zh": "我们挑些蔬菜当午饭吧。佩奇，你喜欢西红柿吗？喜欢，猪爷爷。乔治，你喜欢西红柿吗？" },
+    { "index": 7, "start": "01:16", "en": "No. George does not like tomatoes. Oh, dear. Do you both like lettuce? Yes, Grandpa Pig.", "zh": "不喜欢。乔治不喜欢西红柿。哦，天哪。你们俩喜欢生菜吗？喜欢，猪爷爷。" },
+    { "index": 8, "start": "01:34", "en": "No. George does not like lettuce. Oh, dear, I must have something that George likes. Do you like cucumber?", "zh": "不喜欢。乔治不喜欢生菜。哦，天哪，总得有乔治喜欢的吧。你喜欢黄瓜吗？" },
+    { "index": 9, "start": "01:42", "en": "No. George does not like cucumbers, and he does not like lettuce, and he does not like tomatoes. Well, George, what vegetable do you like?", "zh": "不喜欢。乔治不喜欢黄瓜，不喜欢生菜，也不喜欢西红柿。好吧，乔治，那你喜欢什么蔬菜呢？" },
+    { "index": 10, "start": "01:54", "en": "Chocolate cake! Silly George, chocolate cake isn't a vegetable. Maybe George will like the vegetables when they're made into a lovely salad.", "zh": "巧克力蛋糕！傻乔治，巧克力蛋糕不是蔬菜呀。也许把蔬菜做成美味的沙拉，乔治就会喜欢了。" },
+    { "index": 11, "start": "02:11", "en": "Oh, lovely: fresh tomatoes, lettuce and cucumber. First, we have to wash them. Peppa and George help Granny Pig wash the vegetables.", "zh": "哦，太好了：新鲜的西红柿、生菜和黄瓜。首先，我们得把它们洗干净。佩奇和乔治帮猪奶奶洗蔬菜。" },
+    { "index": 12, "start": "02:28", "en": "Maybe that's enough washing. Granny Pig has made the tomatoes, lettuce and cucumber into a salad.", "zh": "洗得差不多啦。猪奶奶把西红柿、生菜和黄瓜做成了一份沙拉。" },
+    { "index": 13, "start": "02:38", "en": "Grandpa Pig, can you call everyone to lunch? Lunch!", "zh": "猪爷爷，你能叫大家来吃午饭吗？开饭啦！" },
+    { "index": 14, "start": "02:43", "en": "Granny Pig has made pizza for lunch, and here's some salad made with Grandpa Pig's tomatoes, lettuce and cucumber. Tuck in, everyone!", "zh": "猪奶奶做了披萨当午饭，还有用猪爷爷种的西红柿、生菜和黄瓜做的沙拉。大家尽情吃吧！" },
+    { "index": 15, "start": "03:05", "en": "George has eaten his pizza, but George does not like the tomatoes, or the lettuce, or the cucumber. Oh, dear. George, don't you like the salad? No!", "zh": "乔治把披萨吃完了，可他不喜欢西红柿，也不喜欢生菜和黄瓜。哦，天哪。乔治，你不喜欢沙拉吗？不喜欢！" },
+    { "index": 16, "start": "03:17", "en": "George, just try a little bit of this lovely tomato. Yuck! George, this is cucumber. Grandpa Pig grew it in his garden. A piece of lettuce, George? It's yummy!", "zh": "乔治，就尝一小口这个好吃的西红柿吧。呸！乔治，这是黄瓜。猪爷爷在菜园里种的。来一片生菜怎么样，乔治？可好吃啦！" },
+    { "index": 17, "start": "03:35", "en": "Oh, now, now, George, look what I'm doing. Now it's a dinosaur!", "zh": "哦，好了好了，乔治，看我在做什么。现在它变成恐龙啦！" },
+    { "index": 18, "start": "03:52", "en": "A dinosaur! George loves dinosaurs! George is eating the tomatoes, lettuce and cucumber!", "zh": "恐龙！乔治最喜欢恐龙了！乔治正在吃西红柿、生菜和黄瓜呢！" },
+    { "index": 19, "start": "03:57", "en": "Well, well done, George! Would you like some more, George?", "zh": "哇，干得好，乔治！乔治，你还想再来点吗？" },
+    { "index": 20, "start": "04:05", "en": "So, George, are you too full to eat any more tomatoes, lettuce or cucumber? George is too full to eat any more. George, are you too full to eat anything more? George is too full to eat anything more.", "zh": "那么，乔治，你吃饱了，再也吃不下西红柿、生菜和黄瓜了吗？乔治太饱了，吃不下了。乔治，你再也吃不下任何东西了吗？乔治太饱了，什么也吃不下了。" },
+    { "index": 21, "start": "04:22", "en": "Oh, well, then you won't want any of this chocolate cake.", "zh": "哦，好吧，那这个巧克力蛋糕你也不想要了。" },
+    { "index": 22, "start": "04:28", "en": "Chocolate cake! My word, George seems to have got his appetite back!", "zh": "巧克力蛋糕！哎呀，乔治好像又有胃口了！" }
+  ]
+}

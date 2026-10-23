@@ -1,0 +1,26 @@
+{
+  "lines": [
+    { "index": 1, "start": "00:02", "en": "I'm Peppa Pig. This is my little brother, George. This is Mummy Pig. And this is Daddy Pig.", "zh": "我是小猪佩奇。这是我的弟弟乔治，这是猪妈妈，这是猪爸爸。" },
+    { "index": 2, "start": "00:20", "en": "The Playground. Peppa and George are at the playground with their friends.", "zh": "游乐场。佩奇和乔治和朋友们在游乐场。" },
+    { "index": 3, "start": "00:25", "en": "Candy Cat and Pedro Pony are on the climbing frame. Hello! Meow!", "zh": "小猫坎迪和小马佩德罗在攀爬架上。你们好！喵！" },
+    { "index": 4, "start": "00:31", "en": "Suzy Sheep, Danny Dog and Rebecca Rabbit are playing on the slide.", "zh": "小羊苏西、小狗丹尼和小兔瑞贝卡在玩滑梯。" },
+    { "index": 5, "start": "00:40", "en": "Peppa is playing on the swing. Mummy, Mummy, push me, please! Are you ready? Yes, I want to go really high!", "zh": "佩奇在荡秋千。妈妈，妈妈，请推我一下！你准备好了吗？准备好了，我想荡得特别高！" },
+    { "index": 6, "start": "00:55", "en": "High, Mummy! Whee!", "zh": "高一点，妈妈！哇！" },
+    { "index": 7, "start": "01:03", "en": "George wants to play on the swing. Now it's your turn, George! Hold tight! I want to push George! Push George gently, Peppa. Yes, Mummy!", "zh": "乔治也想荡秋千。现在轮到你了，乔治！抓紧了！我想推乔治！佩奇，轻轻地推乔治。好的，妈妈！" },
+    { "index": 8, "start": "01:16", "en": "Hold tight, George!", "zh": "抓紧了，乔治！" },
+    { "index": 9, "start": "01:21", "en": "Oh, dear. Peppa has pushed George too high. George does not like being up high. Peppa, you know George is a bit scared of heights. Sorry, George!", "zh": "哦，天哪。佩奇把乔治推得太高了。乔治不喜欢待在高处。佩奇，你知道乔治有点怕高。对不起，乔治！" },
+    { "index": 10, "start": "01:34", "en": "George, let's play on the climbing frame!", "zh": "乔治，我们去玩攀爬架吧！" },
+    { "index": 11, "start": "01:39", "en": "Hello, Suzy! Hello, Danny!", "zh": "你好，苏西！你好，丹尼！" },
+    { "index": 12, "start": "01:51", "en": "Peppa, you were doing it all wrong. This is the proper way to swing across. Stand back! Ready, steady, go! Look at me, I'm flying like a bird!", "zh": "佩奇，你那样做全错了。荡过去的正确方法是这样的。退后！各就各位，预备，开始！看着我，我像小鸟一样飞起来啦！" },
+    { "index": 13, "start": "02:12", "en": "Oh, I can't get out! Peppa is stuck in the tyre!", "zh": "哦，我出不来了！佩奇卡在轮胎里了！" },
+    { "index": 14, "start": "02:20", "en": "It's not funny! Well, it does look a bit funny. We'll have to pull you out! Peppa's friends are helping to free her. Hooray! Thank you, everyone!", "zh": "这一点都不好笑！嗯，不过看起来确实有点好笑。我们得把你拉出来！佩奇的朋友们在帮忙把她弄出来。太好啦！谢谢大家！" },
+    { "index": 15, "start": "02:39", "en": "George, do you want to play on the climbing frame? The climbing frame is quite high. George does not like being up high. Sorry, George!", "zh": "乔治，你想玩攀爬架吗？攀爬架挺高的。乔治不喜欢待在高处。对不起，乔治！" },
+    { "index": 16, "start": "02:50", "en": "Let's play on the slide! Yes, the slide! Yippee! Peppa loves the slide!", "zh": "我们去玩滑梯吧！好耶，滑梯！太好啦！佩奇喜欢滑梯！" },
+    { "index": 17, "start": "03:04", "en": "Everyone loves the slide! Mummy, Daddy, look at me! Ready, steady, go!", "zh": "大家都喜欢滑梯！妈妈，爸爸，看我的！各就各位，预备，开始！" },
+    { "index": 18, "start": "03:22", "en": "Whee! George wants to play on the slide. Are you sure, George? It is a bit high. All right, I'll help you up the steps.", "zh": "哇！乔治也想玩滑梯。乔治，你确定吗？它有点高。好吧，我扶你上台阶。" },
+    { "index": 19, "start": "03:34", "en": "Oh, dear, it is a bit too high for George. Don't worry, George, I'll slide down with you. Daddy, you're too big to go down the slide! Don't be silly, Peppa, I'm not too big. Stand back! Ready, steady, go!", "zh": "哦，天哪，对乔治来说确实太高了。别担心，乔治，我陪你一起滑下去。爸爸，你太大了，滑不下去的！别傻了，佩奇，我才不算大。退后！各就各位，预备，开始！" },
+    { "index": 20, "start": "03:56", "en": "Daddy Pig is stuck!", "zh": "猪爸爸卡住了！" },
+    { "index": 21, "start": "04:02", "en": "It's not funny! It looks very funny, Daddy! I suppose it is a bit funny. We'll have to push you down!", "zh": "这一点都不好笑！爸爸，看起来特别好笑！我想确实有点好笑。我们得把你推下去！" },
+    { "index": 22, "start": "04:29", "en": "Daddy's tummy is just like a bouncy castle! George loves bouncing on Daddy's tummy. George isn't afraid of heights any more!", "zh": "爸爸的肚子就像一座充气城堡！乔治喜欢在爸爸的肚子上蹦。乔治再也不怕高啦！" }
+  ]
+}

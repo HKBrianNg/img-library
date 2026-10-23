@@ -1,0 +1,31 @@
+{
+  "lines": [
+    { "index": 1, "start": "00:02", "en": "I'm Peppa Pig. This is my little brother, George. This is Mummy Pig. And this is Daddy Pig.", "zh": "我是小猪佩奇。这是我的弟弟乔治，这是猪妈妈，这是猪爸爸。" },
+    { "index": 2, "start": "00:25", "en": "Musical Instruments. Mummy Pig and Daddy Pig have been tidying the house.", "zh": "乐器。猪妈妈和猪爸爸在收拾屋子。" },
+    { "index": 3, "start": "00:31", "en": "Mummy Pig and I found this old box in the attic. Can anyone guess what's inside? Hmm? Nope. It's full of musical instruments.", "zh": "我和猪妈妈在阁楼上发现了这个旧箱子。有人能猜到里面是什么吗？嗯？猜不到。里面装满了乐器。" },
+    { "index": 4, "start": "00:43", "en": "Wow! They are a bit old and dusty.", "zh": "哇！它们有点旧，还满是灰尘。" },
+    { "index": 5, "start": "00:53", "en": "This is the violin I used to play when I was little. Mummy, can you play your violin? I haven't played it for a long time.", "zh": "这是我小时候拉的小提琴。妈妈，你能拉小提琴吗？我已经很久没拉了。" },
+    { "index": 6, "start": "01:03", "en": "Please, Mummy, please play it. I hope I haven't forgotten how.", "zh": "求你了，妈妈，拉一曲吧。希望我还没忘记怎么拉。" },
+    { "index": 7, "start": "01:11", "en": "Bravo! Yay!", "zh": "太棒了！好耶！" },
+    { "index": 8, "start": "01:18", "en": "Mummy, can I play the violin? Hold it like this. Yes, Mummy.", "zh": "妈妈，我可以拉小提琴吗？要像这样拿。好的，妈妈。" },
+    { "index": 9, "start": "01:30", "en": "Oh, dear. I do not think it is meant to sound like that.", "zh": "哦，天哪。我觉得它不该是这样响的。" },
+    { "index": 10, "start": "01:33", "en": "George wants to try. Hold it like this.", "zh": "乔治也想试试。要像这样拿。" },
+    { "index": 11, "start": "01:41", "en": "George. Oh, that does not sound quite right, either. The violin is too hard to play.", "zh": "乔治。哦，这个听起来也不太对。小提琴太难拉了。" },
+    { "index": 12, "start": "01:48", "en": "Peppa, maybe you would do better with this tin drum. Thank you, Daddy.", "zh": "佩奇，也许你用这个铁皮鼓会好一些。谢谢你，爸爸。" },
+    { "index": 13, "start": "01:53", "en": "That sounds better. Peppa loves playing the drum. Oh, lovely. Yes, it sounds very nice.", "zh": "这个听起来好多了。佩奇喜欢打鼓。哦，真好听。是的，听起来非常棒。" },
+    { "index": 14, "start": "02:03", "en": "This is Daddy Pig's old accordion. I used to play this to Mummy Pig when we first met.", "zh": "这是猪爸爸的旧手风琴。我和猪妈妈刚认识的时候，常常拉给她听。" },
+    { "index": 15, "start": "02:12", "en": "Oh, Daddy Pig, I remember this tune.", "zh": "哦，猪爸爸，我记得这首曲子。" },
+    { "index": 16, "start": "02:21", "en": "George wants to play the accordion, too. Are you sure, George? The accordion is quite difficult.", "zh": "乔治也想拉手风琴。乔治，你确定吗？手风琴挺难的。" },
+    { "index": 17, "start": "02:27", "en": "George. The accordion is almost as difficult to play as my drum. Okay.", "zh": "乔治。手风琴几乎和我的鼓一样难。好吧。" },
+    { "index": 18, "start": "02:43", "en": "George. Oh, maybe George is a bit too little to play the accordion. Daddy, what other instruments are in the box?", "zh": "乔治。哦，也许乔治太小了，还拉不了手风琴。爸爸，箱子里还有什么乐器？" },
+    { "index": 19, "start": "02:49", "en": "Just this horn. Can I try? You have to blow it very hard.", "zh": "就剩这个号角了。我能试试吗？你得非常用力地吹。" },
+    { "index": 20, "start": "03:01", "en": "That does not sound right. It's impossible. I think I used to be able to play it.", "zh": "这个听起来不对。这根本不可能。我记得我以前会吹的。" },
+    { "index": 21, "start": "03:11", "en": "That really does not sound right. Maybe it just needs someone big and strong like me.", "zh": "这个听起来真的不对。也许需要像我这样又大又壮的人来吹。" },
+    { "index": 22, "start": "03:24", "en": "That does not sound right, either. Peppa was right. It is impossible to play.", "zh": "这个听起来也不对。佩奇说得对。这根本吹不响。" },
+    { "index": 23, "start": "03:32", "en": "Never mind, Daddy Pig, just stick to the accordion. You play it beautifully.", "zh": "没关系，猪爸爸，你还是拉手风琴吧。你拉得非常动听。" },
+    { "index": 24, "start": "03:38", "en": "Well, I do play it quite nicely, even if I say so myself. And I'll play my violin. And I will play my drum.", "zh": "嗯，我拉得确实挺不错的，虽然是我自己说的。那我拉小提琴。我打我的鼓。" },
+    { "index": 25, "start": "03:44", "en": "Mummy Pig plays the violin. Daddy Pig plays the accordion. Peppa plays the drum.", "zh": "猪妈妈拉小提琴，猪爸爸拉手风琴，佩奇打鼓。" },
+    { "index": 26, "start": "03:57", "en": "But what instrument will George play?", "zh": "那乔治要演奏什么乐器呢？" },
+    { "index": 27, "start": "04:09", "en": "George is blowing the horn. Mummy couldn't play the horn, and Daddy couldn't play it, and even I couldn't play it. But George can play it.", "zh": "乔治在吹号角。妈妈吹不响，爸爸也吹不响，连我都吹不响。可是乔治会吹。" }
+  ]
+}

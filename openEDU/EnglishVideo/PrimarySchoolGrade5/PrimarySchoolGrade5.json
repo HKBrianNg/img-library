@@ -1,130 +1,40 @@
 {
     "title": "小学五年级",
     "titleEn": "Primary School Grade 5",
-    "description": "适合10-11岁孩子，章节书阅读、新闻类短片、跨学科英语、批判性思维启蒙",
-    "descriptionEn": "For children aged 10-11. Chapter book reading, news-style shorts, cross-subject English, critical thinking starters.",
-    "categories": [
+    "description": "适合10-11岁，纪录片片段、观点表达、历史趣味短片。",
+    "descriptionEn": "For children aged 10-11. Documentary clips, opinion expression, fun history shorts.",
+    "items": [
         {
-            "name": "B站",
-            "en": "Bilibili",
-            "website": "https://www.bilibili.com",
-            "items": [
-                {
-                    "id": 1,
-                    "englishName": "Newsround",
-                    "chineseName": "新闻轮",
-                    "durationPerEpisode": "5-10 min",
-                    "ageRange": "8-13 years",
-                    "producer": "BBC",
-                    "transcriptFile": "transcripts/Newsround.json",
-                    "description": "BBC儿童新闻节目，用孩子能懂的语言讲时事，新闻英语+全球视野。",
-                    "descriptionEn": "BBC children's news program. Current events explained in kid-friendly language. News English plus global perspective.",
-                    "url": "Search: 'Newsround 英文版'"
-                },
-                {
-                    "id": 2,
-                    "englishName": "Horrible Histories",
-                    "chineseName": "糟糕历史",
-                    "durationPerEpisode": "28 min",
-                    "ageRange": "8-13 years",
-                    "producer": "CBBC",
-                    "transcriptFile": "transcripts/HorribleHistories.json",
-                    "description": "用搞笑短剧讲真实历史，莎士比亚到二战全覆盖，英式幽默+历史词汇量爆炸。",
-                    "descriptionEn": "Funny sketches about real history, from Shakespeare to WWII. British humor plus explosive history vocabulary.",
-                    "url": "Search: 'Horrible Histories 英文版'"
-                },
-                {
-                    "id": 3,
-                    "englishName": "Art Ninja",
-                    "chineseName": "艺术忍者",
-                    "durationPerEpisode": "14 min",
-                    "ageRange": "8-12 years",
-                    "producer": "CBBC",
-                    "transcriptFile": "transcripts/ArtNinja.json",
-                    "description": "Ricky用日常材料做创意手工，艺术词汇+步骤指令英语，动手又动脑。",
-                    "descriptionEn": "Ricky makes creative crafts from everyday materials. Art vocabulary plus step-by-step instruction English. Hands-on and brain-on.",
-                    "url": "Search: 'Art Ninja 英文版'"
-                },
-                {
-                    "id": 4,
-                    "englishName": "The Deep",
-                    "chineseName": "深海",
-                    "durationPerEpisode": "22 min",
-                    "ageRange": "8-12 years",
-                    "producer": "Nerd Corps",
-                    "transcriptFile": "transcripts/TheDeep.json",
-                    "description": "Nekton一家探索深海秘密，科幻冒险+海洋生物词汇，画面精美像动画电影。",
-                    "descriptionEn": "The Nekton family explores deep sea mysteries. Sci-fi adventure plus marine vocabulary. Cinematic animation quality.",
-                    "url": "Search: 'The Deep 英文版'"
-                },
-                {
-                    "id": 5,
-                    "englishName": "Odd Squad",
-                    "chineseName": "怪诞小队",
-                    "durationPerEpisode": "11 min",
-                    "ageRange": "6-11 years",
-                    "producer": "PBS",
-                    "transcriptFile": "transcripts/OddSquad.json",
-                    "description": "特工小孩用数学解决奇怪事件，数学逻辑+推理对话，幽默又烧脑。",
-                    "descriptionEn": "Kid agents solve weird cases using math. Math logic plus deduction dialogue. Funny and mind-bending.",
-                    "url": "Search: 'Odd Squad 英文版'"
-                },
-                {
-                    "id": 6,
-                    "englishName": "Planet Earth II Kids",
-                    "chineseName": "地球脉动二（少儿版）",
-                    "durationPerEpisode": "30 min",
-                    "ageRange": "8-13 years",
-                    "producer": "BBC",
-                    "transcriptFile": "transcripts/PlanetEarthIIKids.json",
-                    "description": "BBC自然纪录片经典，少儿版解说语速适中，自然科普英语天花板。",
-                    "descriptionEn": "BBC nature documentary classic. Kids' version has moderate narration speed. The ceiling of nature science English.",
-                    "url": "Search: 'Planet Earth II 少儿版'"
-                }
-            ]
+            "id": 1,
+            "series": "Horrible Histories",
+            "episode": "S01E01 - Measly Middle Ages",
+            "englishName": "Horrible Histories: Measly Middle Ages",
+            "chineseName": "糟糕历史：恶心中世纪",
+            "durationPerEpisode": "28 min",
+            "ageRange": "9-13 years",
+            "producer": "BBC",
+            "channel": "Horrible Histories",
+            "platform": "YouTube",
+            "transcriptFile": "transcripts/HorribleHistoriesMeaslyMiddleAges.json",
+            "description": "搞笑历史短剧，过去时+大量文化词。",
+            "descriptionEn": "Funny historical sketches. Past tense and cultural vocabulary.",
+            "url": "https://www.youtube.com/watch?v=REAL_ID_P5_1"
         },
         {
-            "name": "CBeebies 官网",
-            "en": "CBeebies Official Website",
-            "website": "https://www.cbeebies.com/watch/",
-            "items": [
-                {
-                    "id": 1,
-                    "englishName": "Blue Peter",
-                    "chineseName": "蓝色彼得",
-                    "durationPerEpisode": "28 min",
-                    "ageRange": "7-13 years",
-                    "producer": "BBC",
-                    "transcriptFile": "",
-                    "description": "BBC最长寿的儿童节目，手工制作、挑战任务、动物嘉宾应有尽有，地道英式英语。",
-                    "descriptionEn": "BBC's longest-running children's show. Crafts, challenge tasks, animal guests. Authentic British English.",
-                    "url": "Search: Blue Peter"
-                },
-                {
-                    "id": 2,
-                    "englishName": "Newsround",
-                    "chineseName": "新闻轮",
-                    "durationPerEpisode": "5-10 min",
-                    "ageRange": "8-13 years",
-                    "producer": "BBC",
-                    "transcriptFile": "",
-                    "description": "BBC儿童新闻节目，用孩子能懂的语言讲时事，新闻英语+全球视野。",
-                    "descriptionEn": "BBC children's news program. Current events explained in kid-friendly language. News English plus global perspective.",
-                    "url": "Search: Newsround"
-                },
-                {
-                    "id": 3,
-                    "englishName": "Operation Ouch",
-                    "chineseName": "哇哦身体",
-                    "durationPerEpisode": "28 min",
-                    "ageRange": "7-12 years",
-                    "producer": "BBC",
-                    "transcriptFile": "",
-                    "description": "双胞胎医生兄弟用实验和医院实拍讲解人体知识，医学词汇丰富但讲解有趣不吓人。",
-                    "descriptionEn": "Twin doctor brothers explain human body knowledge through experiments and hospital footage. Rich medical vocabulary, fun and not scary.",
-                    "url": "Search: Operation Ouch"
-                }
-            ]
+            "id": 2,
+            "series": "Deadly 60",
+            "episode": "S01E01 - African Savanna",
+            "englishName": "Deadly 60: African Savanna",
+            "chineseName": "致命60：非洲草原",
+            "durationPerEpisode": "30 min",
+            "ageRange": "9-13 years",
+            "producer": "BBC",
+            "channel": "CBBC",
+            "platform": "YouTube",
+            "transcriptFile": "transcripts/Deadly60AfricanSavanna.json",
+            "description": "野生动物实录，描述性语言+动物词汇。",
+            "descriptionEn": "Wildlife footage. Descriptive language and animal vocabulary.",
+            "url": "https://www.youtube.com/watch?v=REAL_ID_P5_2"
         }
     ]
 }

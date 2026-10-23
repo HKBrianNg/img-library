@@ -1,0 +1,26 @@
+{
+  "lines": [
+    { "index": 1, "start": "00:00", "en": "I'm Peppa Pig.", "zh": "我是小猪佩奇。" },
+    { "index": 2, "start": "00:00", "en": "This is my little brother, George.", "zh": "这是我的弟弟，乔治。" },
+    { "index": 3, "start": "00:00", "en": "Granny Pig and Grandpa Pig have a pet parrot.", "zh": "猪爷爷和猪奶奶有一只宠物鹦鹉。" },
+    { "index": 4, "start": "00:00", "en": "Hello, Polly.", "zh": "你好，Polly。" },
+    { "index": 5, "start": "00:00", "en": "Polly is a squawk! Squawk!", "zh": "Polly 会叫！嘎！嘎！" },
+    { "index": 6, "start": "00:00", "en": "Hello, Polly.", "zh": "你好，Polly。" },
+    { "index": 7, "start": "00:00", "en": "Polly says hello, Polly!", "zh": "Polly 会说你好哦！" },
+    { "index": 8, "start": "00:00", "en": "Granny Pig! Polly can talk!", "zh": "奶奶！Polly 会说话！" },
+    { "index": 9, "start": "00:00", "en": "Of course she can talk, Peppa. She's a parrot.", "zh": "她当然会说话，佩奇。她是鹦鹉呀。" },
+    { "index": 10, "start": "00:00", "en": "Can Polly say 'want cake'?", "zh": "Polly 会说“要蛋糕”吗？" },
+    { "index": 11, "start": "00:00", "en": "Cake! Cake! Cake!", "zh": "蛋糕！蛋糕！蛋糕！" },
+    { "index": 12, "start": "00:00", "en": "George wants to play with Polly.", "zh": "乔治想和 Polly 玩。" },
+    { "index": 13, "start": "00:00", "en": "Polly! George likes you!", "zh": "Polly！乔治喜欢你！" },
+    { "index": 14, "start": "00:00", "en": "George wants a turn to talk to Polly.", "zh": "乔治也想跟 Polly 说话。" },
+    { "index": 15, "start": "00:00", "en": "Polly, say 'want cake'!", "zh": "Polly，说“要蛋糕”！" },
+    { "index": 16, "start": "00:00", "en": "Want cake! Want cake!", "zh": "要蛋糕！要蛋糕！" },
+    { "index": 17, "start": "00:00", "en": "Polly! You are a very clever parrot!", "zh": "Polly！你是一只很聪明的鹦鹉！" },
+    { "index": 18, "start": "00:00", "en": "Granny, can Polly come and play at our house?", "zh": "奶奶，Polly 能去我们家玩吗？" },
+    { "index": 19, "start": "00:00", "en": "Maybe another time, Peppa.", "zh": "也许下次吧，佩奇。" },
+    { "index": 20, "start": "00:00", "en": "Bye bye, Polly!", "zh": "拜拜，Polly！" },
+    { "index": 21, "start": "00:00", "en": "Want cake!", "zh": "要蛋糕！" },
+    { "index": 22, "start": "00:00", "en": "Silly Polly.", "zh": "傻 Polly。" }
+  ]
+}

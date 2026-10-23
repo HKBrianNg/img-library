@@ -1,0 +1,16 @@
+{
+    "lines": [
+        { "index": 1, "start": "00:15", "en": "Hello.", "zh": "你好。" },
+        { "index": 2, "start": "00:20", "en": "My name is Muzzy.", "zh": "我的名字是玛泽。" },
+        { "index": 3, "start": "00:28", "en": "I am hungry.", "zh": "我饿了。" },
+        { "index": 4, "start": "00:35", "en": "What is this?", "zh": "这是什么？" },
+        { "index": 5, "start": "00:42", "en": "It is a clock.", "zh": "这是一个钟。" },
+        { "index": 6, "start": "00:50", "en": "No, Muzzy. That is not food.", "zh": "不，玛泽。那不是食物。" },
+        { "index": 7, "start": "00:58", "en": "Where is the food?", "zh": "食物在哪里？" },
+        { "index": 8, "start": "01:06", "en": "Come here.", "zh": "过来。" },
+        { "index": 9, "start": "01:14", "en": "Sit down.", "zh": "坐下。" },
+        { "index": 10, "start": "01:22", "en": "Eat your dinner.", "zh": "吃你的晚餐。" },
+        { "index": 11, "start": "01:30", "en": "Thank you.", "zh": "谢谢。" },
+        { "index": 12, "start": "01:36", "en": "You are welcome.", "zh": "不客气。" }
+    ]
+}

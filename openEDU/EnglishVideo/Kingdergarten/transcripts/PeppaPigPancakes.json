@@ -1,0 +1,31 @@
+{
+  "lines": [
+    { "index": 1, "start": "00:02", "en": "I'm Peppa Pig. This is my little brother, George. This is Mummy Pig. And this is Daddy Pig.", "zh": "我是小猪佩奇。这是我的弟弟乔治，这是猪妈妈，这是猪爸爸。" },
+    { "index": 2, "start": "00:23", "en": "Pancakes. It is teatime, and Mummy Pig has a surprise for everyone.", "zh": "薄煎饼。下午茶时间到了，猪妈妈给大家准备了一个惊喜。" },
+    { "index": 3, "start": "00:29", "en": "Today is a day for pancakes! Pancakes! Delicious!", "zh": "今天是吃薄煎饼的日子！煎饼！真好吃！" },
+    { "index": 4, "start": "00:38", "en": "I love pancakes. Everyone loves pancakes. I'm the expert at flipping the pancakes over. Leave that to me.", "zh": "我喜欢煎饼。大家都喜欢煎饼。我最擅长给煎饼翻面了。交给我吧。" },
+    { "index": 5, "start": "00:43", "en": "Are you sure, Daddy Pig? Last time you got a bit grumpy when you dropped the pancake on the floor. I did not get grumpy. There was a problem with the frying pan.", "zh": "猪爸爸，你确定吗？上次你把煎饼掉在地上，就有点发脾气了。我才没有发脾气。是那个平底锅有问题。" },
+    { "index": 6, "start": "00:53", "en": "Mummy, can we help make the pancakes, please? Yes, you can help me make the batter.", "zh": "妈妈，我们能帮忙做煎饼吗？可以，你们可以帮我调面糊。" },
+    { "index": 7, "start": "01:04", "en": "First, I put some flour in the bowl. Ooh! Now I add an egg. Now the milk, and I give it all a stir.", "zh": "首先，我在碗里放些面粉。哦！现在加一个鸡蛋。现在加牛奶，然后全部搅一搅。" },
+    { "index": 8, "start": "01:16", "en": "Mummy, can I stir? Yes, of course, Peppa. Peppa loves stirring. George wants to stir as well.", "zh": "妈妈，我能搅吗？当然可以，佩奇。佩奇喜欢搅拌。乔治也想搅。" },
+    { "index": 9, "start": "01:31", "en": "No, George, like this. Okay, that's enough stirring, you two. Sit at the table while I cook the pancakes.", "zh": "不对，乔治，要像这样。好了，你们俩搅够了。坐到桌边去，我来烙煎饼。" },
+    { "index": 10, "start": "01:44", "en": "Mummy Pig is going to flip the pancake over.", "zh": "猪妈妈要把煎饼翻个面。" },
+    { "index": 11, "start": "01:56", "en": "Hooray! You could flip it higher, Mummy Pig. You can show us how when you flip your own pancake, Daddy Pig.", "zh": "太好啦！猪妈妈，你可以翻得更高一点。猪爸爸，等你烙自己那张的时候，可以给我们露一手。" },
+    { "index": 12, "start": "02:01", "en": "This first pancake is for George. Mummy Pig pours a little syrup on George's pancake.", "zh": "第一张煎饼给乔治。猪妈妈在乔治的煎饼上浇了一点糖浆。" },
+    { "index": 13, "start": "02:15", "en": "Delicious! This pancake is for Peppa.", "zh": "真好吃！这张煎饼给佩奇。" },
+    { "index": 14, "start": "02:21", "en": "Hooray! You could flip it higher, Mummy Pig. You will get a chance to show me when you flip your own pancake, Daddy Pig.", "zh": "太好啦！猪妈妈，你可以翻得更高。猪爸爸，等你翻自己那张的时候，你就有机会给我们示范了。" },
+    { "index": 15, "start": "02:26", "en": "Hmm, please. Mmm.", "zh": "嗯，请给我。嗯。" },
+    { "index": 16, "start": "02:39", "en": "Delicious! This pancake is for Mummy Pig.", "zh": "真好吃！这张煎饼给猪妈妈。" },
+    { "index": 17, "start": "02:45", "en": "Hooray! You still aren't flipping them high enough, Mummy Pig. The next pancake is yours, Daddy Pig, so now you can show us how it should be done.", "zh": "太好啦！猪妈妈，你还是翻得不够高。下一张是你的了，猪爸爸，现在你可以给我们示范该怎么做了。" },
+    { "index": 18, "start": "02:56", "en": "Delicious! Hmm. Is everyone watching? The secret of making a good pancake is to flip it high into the air.", "zh": "真好吃！嗯。大家都看着吗？做出好煎饼的秘诀，就是把它在空中翻得高高的。" },
+    { "index": 19, "start": "03:10", "en": "Ah! One, two, three... hoopla!", "zh": "啊！一、二、三……飞喽！" },
+    { "index": 20, "start": "03:19", "en": "Silly Daddy! Oh, maybe that was just a bit too high. What a shame, that was the last pancake. It should be a simple matter to get it down.", "zh": "傻爸爸！哦，也许翻得有点太高了。真可惜，那是最后一张煎饼了。把它弄下来应该是件很简单的事。" },
+    { "index": 21, "start": "03:32", "en": "Oh, dear. Daddy Pig cannot reach his pancake. Don't worry, Daddy Pig, I think I know a way to get it down. Let's go upstairs, children. This way.", "zh": "哦，天哪。猪爸爸够不着他的煎饼。别担心，猪爸爸，我想我知道怎么把它弄下来。孩子们，我们上楼去。这边走。" },
+    { "index": 22, "start": "03:43", "en": "What is Mummy Pig planning to do?", "zh": "猪妈妈打算做什么呢？" },
+    { "index": 23, "start": "03:48", "en": "On the count of three, we all have to start jumping up and down. One, two, three, jump!", "zh": "数到三的时候，我们大家一起用力往上跳。一、二、三，跳！" },
+    { "index": 24, "start": "04:09", "en": "It worked! Now Daddy Pig has his pancake. Daddy has a pancake on his head!", "zh": "成功了！现在猪爸爸拿到他的煎饼了。爸爸头上顶着一张煎饼！" },
+    { "index": 25, "start": "04:19", "en": "Syrup on your pancake, Daddy Pig? Yes, please.", "zh": "猪爸爸，你的煎饼要浇糖浆吗？好的，来一点。" },
+    { "index": 26, "start": "04:26", "en": "One, two, three.", "zh": "一、二、三。" },
+    { "index": 27, "start": "04:39", "en": "Delicious!", "zh": "真好吃！" }
+  ]
+}

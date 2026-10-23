@@ -1,0 +1,13 @@
+{
+    "lines": [
+        { "index": 1, "start": "00:05", "en": "One.", "zh": "一。" },
+        { "index": 2, "start": "00:10", "en": "I am one.", "zh": "我是一。" },
+        { "index": 3, "start": "00:15", "en": "One little block.", "zh": "一个小方块。" },
+        { "index": 4, "start": "00:22", "en": "One, one, one!", "zh": "一，一，一！" },
+        { "index": 5, "start": "00:30", "en": "Can you see one?", "zh": "你能看到一个吗？" },
+        { "index": 6, "start": "00:38", "en": "One sun.", "zh": "一个太阳。" },
+        { "index": 7, "start": "00:42", "en": "One moon.", "zh": "一个月亮。" },
+        { "index": 8, "start": "00:48", "en": "One me!", "zh": "一个我！" },
+        { "index": 9, "start": "00:55", "en": "I am number one!", "zh": "我是数字一！" }
+    ]
+}

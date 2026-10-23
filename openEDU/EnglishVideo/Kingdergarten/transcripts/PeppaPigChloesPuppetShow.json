@@ -1,0 +1,29 @@
+{
+  "lines": [
+    { "index": 1, "start": "00:00", "en": "I'm Peppa Pig. This is my little brother, George. This is Mummy Pig. And this is Daddy Pig.", "zh": "我是小猪佩奇。这是我的弟弟乔治，这是猪妈妈，这是猪爸爸。" },
+    { "index": 2, "start": "00:15", "en": "Chloe's Puppet Show. Peppa and her family are visiting Uncle Pig and Auntie Pig and cousin Chloe.", "zh": "克洛伊的木偶戏。佩奇一家去看望猪叔叔、猪阿姨和表姐克洛伊。" },
+    { "index": 3, "start": "00:21", "en": "I expect Uncle Pig will fall asleep after lunch, like he always does. Daddy Pig, you shouldn't say such things about your own brother, especially in front of the children. But it's true. Uncle Pig always eats too much lunch and falls asleep, snoring loudly like this.", "zh": "我猜猪叔叔吃完午饭又会睡着，就像他每次那样。猪爸爸，你不该这样说自己的弟弟，尤其还是当着孩子们的面。可这是事实。猪叔叔总是午饭吃太多，然后睡着，呼噜打得震天响，就像这样。" },
+    { "index": 4, "start": "00:44", "en": "Uh, Peppa, George, forget what I just said about Uncle Pig. Okay, Daddy.", "zh": "呃，佩奇，乔治，忘了我刚才说的关于猪叔叔的话。好的，爸爸。" },
+    { "index": 5, "start": "00:55", "en": "Peppa and her family have arrived at Uncle Pig and Auntie Pig's house. Hello, Auntie Pig and Uncle Pig. Hello! Hello, everyone! Hello, Big Brother! Uncle Pig is Daddy Pig's brother. Chloe Pig is Peppa and George's cousin. Hello, Chloe!", "zh": "佩奇一家到了猪叔叔和猪阿姨家。你好，猪阿姨和猪叔叔。你们好！大家好！你好，大哥！猪叔叔是猪爸爸的弟弟。小猪克洛伊是佩奇和乔治的表姐。你好，克洛伊！" },
+    { "index": 6, "start": "01:07", "en": "Hello, Peppa. Hello, George. I want to show you something. Wait for us!", "zh": "你好，佩奇。你好，乔治。我要给你们看样东西。等等我们！" },
+    { "index": 7, "start": "01:21", "en": "This is my new puppet theater. My daddy made it for me. Wow! I've made two puppets already. This one is called Chloe. Hello, I am Chloe Pig.", "zh": "这是我的新木偶戏台。是我爸爸给我做的。哇！我已经做了两个木偶了。这个叫克洛伊。你好，我是小猪克洛伊。" },
+    { "index": 8, "start": "01:37", "en": "And this one is my daddy, Uncle Pig. Hello, Peppa. I am Uncle Pig.", "zh": "这个是我爸爸，猪叔叔。你好，佩奇。我是猪叔叔。" },
+    { "index": 9, "start": "01:46", "en": "Chloe, can me and George make puppets, too? Yes.", "zh": "克洛伊，我和乔治也能做木偶吗？可以呀。" },
+    { "index": 10, "start": "01:53", "en": "Chloe paints the puppet's eyes. Can I do the mouth? Okay.", "zh": "克洛伊给木偶画眼睛。我能画嘴巴吗？好呀。" },
+    { "index": 11, "start": "02:00", "en": "My name is Peppa. George, what puppet would you like to make? Dinosaur. A dinosaur? George always says dinosaur for everything.", "zh": "我叫佩奇。乔治，你想做什么木偶呢？恐龙。恐龙？乔治不管什么都说恐龙。" },
+    { "index": 12, "start": "02:13", "en": "Okay. A scary dinosaur puppet. Chloe is making George a dinosaur puppet. It needs pointy teeth. They're a scary dinosaur.", "zh": "好吧。那就做一个吓人的恐龙木偶。克洛伊在给乔治做恐龙木偶。它需要尖尖的牙齿。这才是吓人的恐龙。" },
+    { "index": 13, "start": "02:29", "en": "Lunchtime, everyone! Coming! After lunch, we'll do a puppet show. Hooray!", "zh": "开饭啦，大家！来啦！吃完午饭，我们就来演木偶戏。太好啦！" },
+    { "index": 14, "start": "02:37", "en": "Auntie Pig has made spaghetti for lunch. This spaghetti is delicious. Best spaghetti ever!", "zh": "猪阿姨做了意大利面当午饭。这意大利面真好吃。史上最好吃的意大利面！" },
+    { "index": 15, "start": "02:49", "en": "You can tell you two are brothers. Alike in every way. What do you mean? We are completely different.", "zh": "看得出来你们俩是兄弟。方方面面都一个样。你什么意思？我们完全不一样好吗。" },
+    { "index": 16, "start": "03:00", "en": "Peppa, George, and I are going to do a puppet show. Fantastic! Call us when you're ready. See you later.", "zh": "我、佩奇和乔治要去演木偶戏了。太棒了！准备好了就叫我们。待会儿见。" },
+    { "index": 17, "start": "03:05", "en": "A puppet show. That sounds fun. Have I got time for some more spaghetti? Could I have some more, too?", "zh": "木偶戏。听起来挺有意思。我还来得及再吃点意大利面吗？我也能再来点吗？" },
+    { "index": 18, "start": "03:17", "en": "The puppet show is about to begin.", "zh": "木偶戏马上就要开始了。" },
+    { "index": 19, "start": "03:23", "en": "Hello, my name is Chloe, and I am Peppa.", "zh": "你好，我叫克洛伊，这位是佩奇。" },
+    { "index": 20, "start": "03:30", "en": "It's a dinosaur! A scary dinosaur!", "zh": "是一只恐龙！一只吓人的恐龙！" },
+    { "index": 21, "start": "03:36", "en": "I say, that's very good. Bravo! I am Uncle Pig. Hello, Uncle Pig! Hello, Peppa! Ho ho ho. It looks just like you! I think they've made my tummy a bit big. Oh, ho! I did enjoy my lunch.", "zh": "哎呀，真不错。太精彩了！我是猪叔叔。你好，猪叔叔！你好，佩奇！呵呵呵。它跟你长得一模一样！我觉得他们把我的肚子做得有点大了。哦嗬！我那顿午饭吃得可真香。" },
+    { "index": 22, "start": "03:50", "en": "Uncle Pig, are you going to fall asleep and snore like you always do? What do you mean? Daddy says you always fall asleep and snore loudly like this.", "zh": "猪叔叔，你又要像每次那样睡着打呼噜了吗？你什么意思？爸爸说你总是睡着，呼噜打得震天响，就像这样。" },
+    { "index": 23, "start": "04:15", "en": "Ho ho! Your daddy's right. I do snore like this.", "zh": "呵呵！你爸爸说得对。我打呼噜就是这样的。" },
+    { "index": 24, "start": "04:20", "en": "Daddy Pig, you shouldn't have said those things about Uncle Pig. I don't think Daddy Pig or Uncle Pig can hear you. Daddy Pig and Uncle Pig have fallen asleep. You can tell they are brothers today!", "zh": "猪爸爸，你真不该说那些关于猪叔叔的话。我觉得猪爸爸和猪叔叔都听不见你说话了。猪爸爸和猪叔叔都睡着了。今天可真看得出他们是兄弟呀！" },
+    { "index": 25, "start": "04:35", "en": "What happened? Huh? Has the puppet show started yet?", "zh": "发生什么事了？啊？木偶戏开始了吗？" }
+  ]
+}

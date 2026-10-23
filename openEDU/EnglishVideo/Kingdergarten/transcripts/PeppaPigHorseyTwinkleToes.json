@@ -1,0 +1,28 @@
+{
+  "lines": [
+    { "index": 1, "start": "00:01", "en": "I'm Peppa Pig. This is my little brother, George. This is Mummy Pig. And this is Daddy Pig.", "zh": "我是小猪佩奇。这是我的弟弟乔治，这是猪妈妈，这是猪爸爸。" },
+    { "index": 2, "start": "00:17", "en": "Horsey Twinkle Toes. Peppa and George are playing in their bedroom.", "zh": "小马闪亮脚趾。佩奇和乔治在他们的卧室里玩。" },
+    { "index": 3, "start": "00:22", "en": "Dinosaur! George, you must stay on your side of the bedroom. That's your side, and this is my side!", "zh": "恐龙！乔治，你必须待在卧室你那一边。那是你那边，这是我这边！" },
+    { "index": 4, "start": "00:36", "en": "Do not cross the invisible line!", "zh": "不许越过这条看不见的线！" },
+    { "index": 5, "start": "00:45", "en": "Hello, Mr. Zebra! Hello, Daddy Pig! I've got some letters for you! Is there anything for me and George? Hmm, I'm afraid not, they're all for Mummy and me! Oh, there's a parcel as well! Probably that box of reinforced concrete I ordered! Look at all the stamps on it! That's because it's from a long way away! Bye now! Bye bye!", "zh": "你好，斑马先生！你好，猪爸爸！我这儿有你们的信！有我和乔治的吗？嗯，恐怕没有，都是妈妈和我的！哦，还有一个包裹！大概是我订的那箱钢筋混凝土吧！你看上面贴了多少邮票！那是因为它来自很远的地方！再见啦！再见！" },
+    { "index": 6, "start": "01:13", "en": "Oh, the label says it is for Peppa and George! Look, Mummy, a parcel for George and me!", "zh": "哦，标签上写的是给佩奇和乔治的！妈妈你看，是给乔治和我的包裹！" },
+    { "index": 7, "start": "01:23", "en": "Oh, there's a letter, too! Dear Peppa and George, here is a present for you to share! Love from Auntie Dottie! Auntie Dottie lives far away in another country!", "zh": "哦，还有一封信呢！亲爱的佩奇和乔治，这是送给你们俩一起分享的礼物！爱你们的朵蒂姑姑！朵蒂姑姑住在很远的另一个国家！" },
+    { "index": 8, "start": "01:35", "en": "Ooh, what is the present? It's got wheels! Car! It's not a car, George!", "zh": "哦，礼物是什么呢？它有轮子！汽车！乔治，那不是汽车！" },
+    { "index": 9, "start": "01:44", "en": "It's got legs! It's a table! It's got a tail! Oh, tables don't have tails!", "zh": "它有腿！是张桌子！它还有尾巴！哦，桌子是没有尾巴的！" },
+    { "index": 10, "start": "01:49", "en": "There's a handle as well! What can it be?", "zh": "还有一个把手呢！那会是什么呢？" },
+    { "index": 11, "start": "01:57", "en": "There's something else in the box!", "zh": "盒子里还有别的东西！" },
+    { "index": 12, "start": "02:04", "en": "It's a toy horse! I shall call it Twinkle Toes! Horsey! Twinkle Toes! Horsey Twinkle Toes!", "zh": "是一只玩具马！我要叫它闪亮脚趾！小马！闪亮脚趾！小马闪亮脚趾！" },
+    { "index": 13, "start": "02:12", "en": "Remember, children, Auntie Dottie sent the present for both of you! You'll have to share! Sharing can be fun! Can I play with Twinkle Toes first? Let George have the first turn, he's the youngest!", "zh": "记住，孩子们，朵蒂姑姑这礼物是送给你们两个人的！你们得一起玩！分享也可以很有趣！我能先玩闪亮脚趾吗？让乔治先玩吧，他最小。" },
+    { "index": 14, "start": "02:31", "en": "George likes playing with Horsey! George, it is called Twinkle Toes, not Horsey! Now it's Peppa's turn!", "zh": "乔治喜欢玩小马！乔治，它叫闪亮脚趾，不叫小马！现在轮到佩奇了！" },
+    { "index": 15, "start": "02:38", "en": "I am Princess Peppa with my magic horse, Twinkle Toes! Peppa likes playing with Twinkle Toes!", "zh": "我是佩奇公主，这是我的魔法马，闪亮脚趾！佩奇喜欢玩闪亮脚趾！" },
+    { "index": 16, "start": "02:52", "en": "Perhaps you should play with the toy horse outside! Yes, Mummy!", "zh": "也许你们该到外面去玩这匹玩具马！好的，妈妈！" },
+    { "index": 17, "start": "02:59", "en": "Hmm, it's a bit steep here! Maybe you should play at the bottom of the hill! And the quickest way down the hill is to ride down!", "zh": "嗯，这儿有点陡呢！也许你们该到山脚下去玩！下山坡最快的方法就是骑下去！" },
+    { "index": 18, "start": "03:09", "en": "Are you sure, Daddy? Don't crash like you always do! Oh, oh, I know what I'm doing, Peppa, I'm a grown-up! How are you going to stop, Daddy? Uh, I don't know! Where are the brakes?", "zh": "爸爸，你确定吗？别像每次那样摔倒了！哦，哦，佩奇，我知道自己在做什么，我是大人了！爸爸，你要怎么停下来呢？呃，我不知道！刹车在哪儿？" },
+    { "index": 19, "start": "03:36", "en": "Clever Daddy, you use the duck pond to stop!", "zh": "聪明的爸爸，你用鸭子池塘来刹车呀！" },
+    { "index": 20, "start": "03:41", "en": "What was that big splash? What big splash? Ah, Daddy Pig, did you know you've got a duck on your head? Oh, uh, yes, well, I did fall in the pond!", "zh": "刚才那声大水花是怎么回事？什么大水花？啊，猪爸爸，你知道你头上有一只鸭子吗？哦，呃，是的，嗯，我确实掉进池塘里了！" },
+    { "index": 21, "start": "03:56", "en": "Horsey! George wants to ride on the toy horse! Go! Go!", "zh": "小马！乔治想骑这匹玩具马！驾！驾！" },
+    { "index": 22, "start": "04:01", "en": "Oh, George cannot make the horse go! If only there was someone big and strong to push George along! I'm big and strong! I can push George! What a good idea, Peppa!", "zh": "哦，乔治没法让马跑起来！要是有个又大又壮的人来推乔治就好了！我又大又壮！我可以推乔治！佩奇，这主意真不错！" },
+    { "index": 23, "start": "04:22", "en": "George, she's called Twinkle Toes! Horsey Twinkle Toes! Horsey! I know! Because the present is for both of us, we'll call her Horsey Twinkle Toes!", "zh": "乔治，她叫闪亮脚趾！小马闪亮脚趾！小马！我知道了！因为这礼物是给我们两个人的，我们就叫她小马闪亮脚趾吧！" },
+    { "index": 24, "start": "04:34", "en": "Peppa and George love playing together with Horsey Twinkle Toes!", "zh": "佩奇和乔治喜欢一起玩小马闪亮脚趾！" }
+  ]
+}

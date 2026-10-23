@@ -1,0 +1,33 @@
+{
+  "lines": [
+    { "index": 1, "start": "00:02", "en": "I'm Peppa Pig. This is my little brother, George. This is Mummy Pig. And this is Daddy Pig.", "zh": "我是小猪佩奇。这是我的弟弟乔治，这是猪妈妈，这是猪爸爸。" },
+    { "index": 2, "start": "00:23", "en": "Flying a Kite. It is a bright, sunny day. Peppa and her family are in the park. They are going to fly a kite.", "zh": "放风筝。今天阳光明媚。佩奇和家人在公园里。他们要去放风筝。" },
+    { "index": 3, "start": "00:35", "en": "George is going to fly the kite first. George runs as fast as he can, but the kite won't fly.", "zh": "乔治先来放风筝。乔治拼命地跑，可风筝就是飞不起来。" },
+    { "index": 4, "start": "00:50", "en": "George, you're doing it all wrong. You didn't run fast enough. Now it's my turn.", "zh": "乔治，你做得全不对。你跑得不够快。现在轮到我了。" },
+    { "index": 5, "start": "01:00", "en": "Peppa runs as fast as she can, but the kite still won't fly.", "zh": "佩奇也拼命地跑，可风筝还是飞不起来。" },
+    { "index": 6, "start": "01:13", "en": "The kite won't fly if there isn't any wind, no matter how fast you run.", "zh": "如果没有风，不管你跑多快，风筝都飞不起来。" },
+    { "index": 7, "start": "01:20", "en": "Oh, we just have to wait until the wind picks up a bit. Look, it's getting windy. Now that it is windy, the kite can fly.", "zh": "哦，我们只要等风大一点就行。看，起风了。现在有风了，风筝就能飞了。" },
+    { "index": 8, "start": "01:34", "en": "The wind is quite strong now. The wind is very strong now.", "zh": "现在风挺大的。现在风非常大。" },
+    { "index": 9, "start": "01:48", "en": "George. Thank you, Daddy. Daddy Pig flies the kite.", "zh": "乔治。谢谢你，爸爸。猪爸爸放起了风筝。" },
+    { "index": 10, "start": "01:55", "en": "Hooray! Higher! Higher!", "zh": "太好啦！再高一点！再高一点！" },
+    { "index": 11, "start": "02:00", "en": "Daddy Pig flies the kite very well.", "zh": "猪爸爸风筝放得非常好。" },
+    { "index": 12, "start": "02:09", "en": "Wow! Yes, I am a bit of an expert at these things.", "zh": "哇！是的，我对这些事情还算在行。" },
+    { "index": 13, "start": "02:17", "en": "Watch out for the trees. You might get the kite stuck in one. Don't worry, I know what I'm doing.", "zh": "小心那些树。风筝可能会卡在树上。别担心，我知道我在做什么。" },
+    { "index": 14, "start": "02:27", "en": "Oh, dear. Daddy Pig has got the kite caught in a tree.", "zh": "哦，天哪。猪爸爸把风筝卡在树上了。" },
+    { "index": 15, "start": "02:36", "en": "Oh, no! Don't worry, George. Daddy will get the kite down.", "zh": "哦，不！别担心，乔治。爸爸会把风筝取下来的。" },
+    { "index": 16, "start": "02:45", "en": "Hooray! Uh...", "zh": "太好啦！呃……" },
+    { "index": 17, "start": "02:51", "en": "Yes. Careful, there's a big muddy puddle. Peppa and George love to jump in muddy puddles. Can we jump in the puddle, please? No, I don't want you covered in mud.", "zh": "好。小心，有一个大泥坑。佩奇和乔治喜欢在泥坑里跳。请问我们能跳进泥坑里吗？不行，我可不想你们弄得一身泥。" },
+    { "index": 18, "start": "03:03", "en": "Ah, stand back, children. Please be careful, Daddy Pig. I know what I'm doing.", "zh": "啊，孩子们，退后一点。猪爸爸，请小心。我知道我在做什么。" },
+    { "index": 19, "start": "03:20", "en": "Please be careful. Just a bit further. Daddy!", "zh": "请小心一点。再往前一点点。爸爸！" },
+    { "index": 20, "start": "03:28", "en": "Daddy Pig, you are much too heavy for that branch! Nonsense, I know exactly how heavy I am.", "zh": "猪爸爸，那根树枝可承受不了你的重量！胡说，我清楚自己有多重。" },
+    { "index": 21, "start": "03:35", "en": "There! Hooray! Daddy Pig has rescued the kite.", "zh": "好了！太好啦！猪爸爸把风筝救下来了。" },
+    { "index": 22, "start": "03:44", "en": "Oh, dear. Everyone is covered in mud.", "zh": "哦，天哪。大家都弄得一身泥。" },
+    { "index": 23, "start": "03:50", "en": "It's only mud. Luckily, Daddy Pig hasn't hurt himself, and the kite is out of the tree.", "zh": "只是泥而已。幸好猪爸爸没有受伤，风筝也从树上取下来了。" },
+    { "index": 24, "start": "04:03", "en": "Hooray! Mummy, now that we're all muddy, can we jump in the puddle?", "zh": "太好啦！妈妈，既然我们都已经一身泥了，我们能跳泥坑吗？" },
+    { "index": 25, "start": "04:08", "en": "I suppose so. After all, you can't get any muddier. And I think Daddy Pig is going to be doing the washing.", "zh": "我想可以吧。反正你们也不会更脏了。而且我觉得猪爸爸得负责洗衣服了。" },
+    { "index": 26, "start": "04:23", "en": "Oh. Peppa and George love jumping up and down in muddy puddles.", "zh": "哦。佩奇和乔治喜欢在泥坑里跳上跳下。" },
+    { "index": 27, "start": "04:28", "en": "Mummy and Daddy love jumping up and down in muddy puddles.", "zh": "猪妈妈和猪爸爸也喜欢在泥坑里跳上跳下。" },
+    { "index": 28, "start": "04:32", "en": "Everyone loves jumping up and down in muddy puddles.", "zh": "大家都喜欢在泥坑里跳上跳下。" },
+    { "index": 29, "start": "04:40", "en": "Jumping up and down in muddy puddles is just as much fun as flying the kite.", "zh": "在泥坑里跳上跳下，跟放风筝一样好玩。" }
+  ]
+}

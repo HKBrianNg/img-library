@@ -1,0 +1,29 @@
+{
+  "lines": [
+    { "index": 1, "start": "00:00", "en": "I'm Peppa Pig. This is my little brother, George. This is Mummy Pig. And this is Daddy Pig.", "zh": "我是小猪佩奇。这是我的弟弟乔治，这是猪妈妈，这是猪爸爸。" },
+    { "index": 2, "start": "00:22", "en": "Thunderstorm. It is a lovely sunny day. Peppa and George are having a picnic.", "zh": "雷阵雨。今天天气晴朗，阳光明媚。佩奇和乔治在野餐。" },
+    { "index": 3, "start": "00:28", "en": "Here's some orange juice for you, Teddy. What do you say? Thank you very much, Peppa. You're very welcome, Teddy.", "zh": "泰迪，这是给你的橙汁。你该说什么？非常感谢你，佩奇。不客气，泰迪。" },
+    { "index": 4, "start": "00:35", "en": "Here's some more juice for you, Mr. Dinosaur. And what do you say? You're very welcome, Mr. Dinosaur.", "zh": "恐龙先生，再给你一些果汁。你该说什么？不客气，恐龙先生。" },
+    { "index": 5, "start": "00:47", "en": "Would Teddy or Mr. Dinosaur like a cookie? We're not very hungry, so Peppa and George can eat all the cookies. Thank you, Teddy.", "zh": "泰迪和恐龙先生想吃饼干吗？我们不太饿，所以佩奇和乔治可以把饼干全吃了。谢谢你，泰迪。" },
+    { "index": 6, "start": "01:06", "en": "What was that strange noise? Peppa, George, quick, come inside the house!", "zh": "那是什么奇怪的声音？佩奇，乔治，快，进屋来！" },
+    { "index": 7, "start": "01:14", "en": "Mummy, there was a loud bang! It's thunder, Peppa. It means there will be a thunderstorm with lots of rain. Quick, into the house before the rain starts!", "zh": "妈妈，刚才有一声巨响！佩奇，那是打雷。这意味着要下雷阵雨了，还有大雨。快点，趁还没下雨进屋去！" },
+    { "index": 8, "start": "01:26", "en": "No need to panic. The rain is still a long way off.", "zh": "不用慌。雨还远着呢。" },
+    { "index": 9, "start": "01:32", "en": "The sky is getting darker and darker. There is going to be a thunderstorm.", "zh": "天变得越来越暗了。要下雷阵雨了。" },
+    { "index": 10, "start": "01:37", "en": "Peppa, George, did you bring all your toys in from the garden? Dinosaur? Good, Mr. Dinosaur is safe. Teddy? I left Teddy in the garden!", "zh": "佩奇，乔治，你们把花园里的玩具都收进来了吗？恐龙？很好，恐龙先生安全了。泰迪呢？我把泰迪落在花园里了！" },
+    { "index": 11, "start": "01:51", "en": "He'll get wet. Don't worry, Peppa, Daddy Pig will rescue Teddy. You'd better hurry, Daddy Pig! It's just about to rain.", "zh": "他会淋湿的。别担心，佩奇，猪爸爸去把泰迪救回来。猪爸爸，你最好快点！马上就要下雨了。" },
+    { "index": 12, "start": "01:56", "en": "I know all about thunderstorms. It won't rain for ages. As I thought, plenty of time before it rains.", "zh": "我对雷阵雨了如指掌。一时半会儿还下不了雨。果然不出我所料，离下雨还早着呢。" },
+    { "index": 13, "start": "02:21", "en": "Poor Teddy, he's soaking wet! Yes, poor Teddy. Let's get him dry.", "zh": "可怜的泰迪，他全身都湿透了！是啊，可怜的泰迪。我们把他弄干吧。" },
+    { "index": 14, "start": "02:32", "en": "There you are, Teddy, all dry. What about poor Daddy? I'm soaking wet, too! Oh, sorry, Daddy Pig. Let's get you dry.", "zh": "好了，泰迪，全干了。那可怜的爸爸怎么办？我也全身湿透了！哦，对不起，猪爸爸。我们把你擦干吧。" },
+    { "index": 15, "start": "02:48", "en": "There you are, Daddy Pig, nice and dry.", "zh": "好了，猪爸爸，干干爽爽的。" },
+    { "index": 16, "start": "02:54", "en": "Oh, the rain is coming in the house! The floor is getting wet. Oh, dear, what can we do?", "zh": "哦，雨水进到屋里来了！地板都湿了。哦，天哪，我们该怎么办？" },
+    { "index": 17, "start": "03:09", "en": "Don't worry, Daddy Pig is using a bucket to catch the drips. Well done, Daddy Pig! Easy as pie!", "zh": "别担心，猪爸爸正用桶接水滴呢。干得好，猪爸爸！小菜一碟！" },
+    { "index": 18, "start": "03:21", "en": "What? Quick, find something else to catch the water! Well done, Peppa! Easy as pie.", "zh": "什么？快点，再找个别的东西来接水！干得好，佩奇！小菜一碟。" },
+    { "index": 19, "start": "03:35", "en": "Mummy, the thunder bangs are very loud! It's okay, children, don't be frightened. Let's count between each flash and bang. The higher we can count, the further away the thunderstorm is.", "zh": "妈妈，雷声太大了！没事的，孩子们，别害怕。我们来数闪电和雷声之间隔多久。数得越大，说明雷阵雨离我们越远。" },
+    { "index": 20, "start": "03:51", "en": "One, two, three. That's three!", "zh": "一、二、三。数到三！" },
+    { "index": 21, "start": "04:02", "en": "One, two, three, four, five. That's five! The thunderstorm is going away.", "zh": "一、二、三、四、五。数到五！雷阵雨正在离我们远去。" },
+    { "index": 22, "start": "04:15", "en": "The thunderstorm is over. The thunderstorm has filled the garden with muddy puddles.", "zh": "雷阵雨过去了。雷阵雨把花园里弄得全是泥坑。" },
+    { "index": 23, "start": "04:24", "en": "Peppa loves jumping up and down in muddy puddles.", "zh": "佩奇喜欢在泥坑里跳上跳下。" },
+    { "index": 24, "start": "04:28", "en": "Everyone loves jumping up and down in muddy puddles.", "zh": "大家都喜欢在泥坑里跳上跳下。" },
+    { "index": 25, "start": "04:33", "en": "I love thunderstorms! They make muddy puddles! Splish, splash, splash!", "zh": "我喜欢雷阵雨！它们能造出泥坑！噗嗤，啪嗒，啪嗒！" }
+  ]
+}

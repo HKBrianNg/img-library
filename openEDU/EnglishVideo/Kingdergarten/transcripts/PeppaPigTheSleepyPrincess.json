@@ -1,0 +1,25 @@
+{
+  "lines": [
+    { "index": 1, "start": "00:02", "en": "I'm Peppa Pig. This is my little brother, George. This is Mummy Pig. And this is Daddy Pig.", "zh": "我是小猪佩奇。这是我的弟弟乔治，这是猪妈妈，这是猪爸爸。" },
+    { "index": 2, "start": "00:08", "en": "The Sleepy Princess. It is nighttime. Peppa and George are going to bed.", "zh": "瞌睡公主。晚上了，佩奇和乔治要上床睡觉了。" },
+    { "index": 3, "start": "00:15", "en": "Good night, Peppa and George. Mummy, Daddy? Yes, Peppa? I'm not sleepy. Could I have a story?", "zh": "晚安，佩奇和乔治。妈妈，爸爸？什么事，佩奇？我不困。我能听个故事吗？" },
+    { "index": 4, "start": "00:22", "en": "But maybe George is sleepy and doesn't want a story. George, do you want a story? Say yes.", "zh": "不过也许乔治困了，不想听故事。乔治，你想听故事吗？说想。" },
+    { "index": 5, "start": "00:28", "en": "All right, I will tell you just one story. If Daddy Pig tells you a story, you must both promise to go to sleep. We promise.", "zh": "好吧，我就给你们讲一个故事。如果猪爸爸给你们讲故事，你们俩必须答应要睡觉。我们答应。" },
+    { "index": 6, "start": "00:48", "en": "I think I'll tell you the story of the Sleepy Princess. Is it a good story? It sounds a bit boring. It's not boring, it's very good, Peppa. If you keep talking, Daddy Pig can't start the story.", "zh": "我想我就给你们讲瞌睡公主的故事吧。那是个好故事吗？听起来有点无聊。佩奇，它不无聊，它特别好。要是你一直说话，猪爸爸就没法开始讲了。" },
+    { "index": 7, "start": "01:05", "en": "Sorry, Mummy. Is there a princess in the story, Daddy? Yes, there is a little princess in it.", "zh": "对不起，妈妈。爸爸，故事里有公主吗？有，里面有一位小公主。" },
+    { "index": 8, "start": "01:12", "en": "Hmm, the Sleepy Princess. Once upon a time, in a castle, there lived a little princess, and she was called the Sleepy Princess.", "zh": "嗯，瞌睡公主。很久很久以前，在一座城堡里住着一位小公主，大家都叫她瞌睡公主。" },
+    { "index": 9, "start": "01:32", "en": "Okay. Why was she called that? I'll get to that later.", "zh": "好吧。她为什么叫这个名字？我待会儿会讲到。" },
+    { "index": 10, "start": "01:38", "en": "Was the sleepy princess pretty? Yes, she was very pretty. She loved looking at herself in the mirror.", "zh": "瞌睡公主漂亮吗？是的，她非常漂亮。她喜欢照镜子看自己。" },
+    { "index": 11, "start": "01:49", "en": "Who else was living at the castle? Well, the others in the castle were the small Prince, Queen Mummy, and King Daddy. That's right, they were all living there as well.", "zh": "还有谁住在城堡里呢？嗯，城堡里还有小王子、王后妈妈和国王爸爸。没错，他们也住在那儿。" },
+    { "index": 12, "start": "02:04", "en": "Of course! And he was very handsome, like me. Anyway, there was also a dragon.", "zh": "当然啦！而且他非常英俊，就像我一样。总之，那里还有一条龙。" },
+    { "index": 13, "start": "02:14", "en": "A dinosaur? Oh, yes, it wasn't a dragon, it was a dinosaur, living outside.", "zh": "是恐龙吗？哦，对，那不是龙，是一只恐龙，就住在城堡外面。" },
+    { "index": 14, "start": "02:23", "en": "Was it a huge fierce dinosaur? Maybe the dinosaur isn't quite that fierce, Daddy Pig. Sorry, George.", "zh": "是一只又大又凶的恐龙吗？猪爸爸，也许那只恐龙没那么凶。对不起，乔治。" },
+    { "index": 15, "start": "02:44", "en": "No, the dinosaur was very gentle. It ate lots of grass. Daddy Pig! Oh, sorry, I was being the dinosaur.", "zh": "不，那只恐龙非常温和。它吃很多草。猪爸爸！哦，对不起，我刚才在扮演恐龙。" },
+    { "index": 16, "start": "02:57", "en": "The princess! I'm coming to that. You see, the sun set, and the stars and moon came out, and everyone got very sleepy.", "zh": "公主呢！我正要讲到那儿。你看，太阳落山了，星星和月亮出来了，大家都变得特别困。" },
+    { "index": 17, "start": "03:18", "en": "But the most sleepy of all was the Sleepy Princess.", "zh": "但其中最困的，就是瞌睡公主。" },
+    { "index": 18, "start": "03:25", "en": "Peppa, are you sleepy? Not sleepy at all! Somebody... well, Peppa might not be sleepy, but the Sleepy Princess certainly was.", "zh": "佩奇，你困了吗？一点都不困！有人……嗯，佩奇也许不困，可瞌睡公主是真的困了。" },
+    { "index": 19, "start": "03:53", "en": "Looking at herself all day in the mirror had completely worn her out. Let's carry you to bed. Good night.", "zh": "整天照镜子把自己给累坏了。我们把她抱上床吧。晚安。" },
+    { "index": 20, "start": "04:05", "en": "The Sleepy Princess was so sleepy, she had fallen fast asleep.", "zh": "瞌睡公主太困了，她已经沉沉地睡着了。" },
+    { "index": 21, "start": "04:18", "en": "Thank you for that story, King Daddy. You're welcome, Queen Mummy. And our little prince and princess enjoyed it, too.", "zh": "谢谢你讲的故事，国王爸爸。不客气，王后妈妈。我们的小王子和公主也很喜欢。" }
+  ]
+}

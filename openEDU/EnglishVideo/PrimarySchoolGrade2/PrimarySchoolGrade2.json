@@ -1,154 +1,40 @@
 {
     "title": "小学二年级",
     "titleEn": "Primary School Grade 2",
-    "description": "适合7-8岁孩子，拼读规则巩固、简单阅读起步、生活对话扩展",
-    "descriptionEn": "For children aged 7-8. Phonics consolidation, early reading start, expanded daily conversations.",
-    "categories": [
+    "description": "适合7-8岁，简单故事理解、课堂英语、跨学科词汇。",
+    "descriptionEn": "For children aged 7-8. Simple story comprehension, classroom English, cross-subject vocabulary.",
+    "items": [
         {
-            "name": "B站",
-            "en": "Bilibili",
-            "website": "https://www.bilibili.com",
-            "items": [
-                {
-                    "id": 1,
-                    "englishName": "Alphablocks Advanced",
-                    "chineseName": "字母积木进阶",
-                    "durationPerEpisode": "5 min",
-                    "ageRange": "5-8 years",
-                    "producer": "BBC",
-                    "transcriptFile": "transcripts/AlphablocksAdvanced.json",
-                    "description": "字母积木中后段，引入长元音、辅音组合等进阶拼读规则，适合已有基础的孩子。",
-                    "descriptionEn": "Later seasons of Alphablocks introducing long vowels, consonant blends and advanced phonics rules for kids with foundation.",
-                    "url": "https://www.bilibili.com/video/BV1iC4y1h73s"
-                },
-                {
-                    "id": 2,
-                    "englishName": "WordWorld",
-                    "chineseName": "单词世界",
-                    "durationPerEpisode": "14 min",
-                    "ageRange": "4-7 years",
-                    "producer": "PBS",
-                    "transcriptFile": "transcripts/WordWorld.json",
-                    "description": "单词变成实物形状拼出角色，看字即识物，拼写到阅读的自然过渡。",
-                    "descriptionEn": "Words transform into object shapes to form characters. Natural transition from spelling to reading. See the word, see the thing.",
-                    "url": "Search: 'WordWorld 英文版'"
-                },
-                {
-                    "id": 3,
-                    "englishName": "Super Why",
-                    "chineseName": "超级为什么",
-                    "durationPerEpisode": "24 min",
-                    "ageRange": "5-8 years",
-                    "producer": "PBS",
-                    "transcriptFile": "transcripts/SuperWhy.json",
-                    "description": "四个童话角色用阅读超能力解决故事里的难题，自然融入字母、拼读和阅读理解。",
-                    "descriptionEn": "Four fairytale characters use reading superpowers to solve story problems. Naturally integrates letters, phonics, and reading comprehension.",
-                    "url": "Search: 'Super Why 英文版'"
-                },
-                {
-                    "id": 4,
-                    "englishName": "Ben and Holly's Little Kingdom",
-                    "chineseName": "本和霍利的小王国",
-                    "durationPerEpisode": "10 min",
-                    "ageRange": "4-8 years",
-                    "producer": "Astley Baker Davies",
-                    "transcriptFile": "transcripts/BenAndHollysLittleKingdom.json",
-                    "description": "小精灵和小仙子的魔法日常，句型比布鲁伊稍简单，适合从短句向长句过渡。",
-                    "descriptionEn": "Daily magic life of a little elf and fairy. Sentence patterns slightly simpler than Bluey, great transition from short to longer sentences.",
-                    "url": "Search: 'Ben and Holly 英文版'"
-                },
-                {
-                    "id": 5,
-                    "englishName": "Peppa Pig",
-                    "chineseName": "小猪佩奇",
-                    "durationPerEpisode": "5 min",
-                    "ageRange": "3-8 years",
-                    "producer": "Astley Baker Davies",
-                    "transcriptFile": "transcripts/PeppaPig.json",
-                    "description": "家喻户晓的佩奇一家，生活场景丰富，对话自然流畅，小学低年级听力训练经典素材。",
-                    "descriptionEn": "The beloved Pig family. Rich daily life scenes, natural fluent dialogue. Classic listening material for lower primary grades.",
-                    "url": "Search: 'Peppa Pig 英文版'"
-                },
-                {
-                    "id": 6,
-                    "englishName": "Fireman Sam",
-                    "chineseName": "消防员山姆",
-                    "durationPerEpisode": "10 min",
-                    "ageRange": "4-8 years",
-                    "producer": "HIT Entertainment",
-                    "transcriptFile": "transcripts/FiremanSam.json",
-                    "description": "消防员山姆和庞蒂潘迪镇的救援故事，安全常识+职业词汇+紧急场景对话。",
-                    "descriptionEn": "Fireman Sam and rescue stories in Pontypandy. Safety knowledge, occupation vocabulary and emergency scenario dialogue.",
-                    "url": "Search: 'Fireman Sam 英文版'"
-                }
-            ]
+            "id": 1,
+            "series": "Numberblocks",
+            "episode": "S01E02 - Two",
+            "englishName": "Numberblocks: Two",
+            "chineseName": "数字积木：2",
+            "durationPerEpisode": "5 min",
+            "ageRange": "3-7 years",
+            "producer": "BBC",
+            "channel": "Numberblocks",
+            "platform": "YouTube",
+            "transcriptFile": "transcripts/NumberblocksTwo.json",
+            "description": "数字 2 出场，配对、双数、朋友概念。",
+            "descriptionEn": "Number 2 appears. Pairs, evenness, friendship concept.",
+            "url": "https://www.youtube.com/watch?v=REAL_ID_P2_1"
         },
         {
-            "name": "CBeebies 官网",
-            "en": "CBeebies Official Website",
-            "website": "https://www.cbeebies.com/watch/",
-            "items": [
-                {
-                    "id": 1,
-                    "englishName": "Swashbuckle",
-                    "chineseName": "海盗学校",
-                    "durationPerEpisode": "11 min",
-                    "ageRange": "4-8 years",
-                    "producer": "CBeebies",
-                    "transcriptFile": "",
-                    "description": "真人儿童冒险游戏秀，Captain Sinker教Cook和Line当真正海盗，互动感强，指令类英语密集。",
-                    "descriptionEn": "Live children's adventure game show. Captain Sinker teaches Cook and Line to be real pirates. Strong interaction, dense command English.",
-                    "url": "Search: Swashbuckle"
-                },
-                {
-                    "id": 2,
-                    "englishName": "Grace's Amazing Machines",
-                    "chineseName": "格蕾丝的神奇机器",
-                    "durationPerEpisode": "10 min",
-                    "ageRange": "4-8 years",
-                    "producer": "BBC",
-                    "transcriptFile": "",
-                    "description": "女赛车手格蕾丝带娃认识太阳能车、救护车、清障车等，机械词汇极佳。",
-                    "descriptionEn": "Female racer Grace introduces kids to solar cars, ambulances, wreckers, etc. Excellent mechanical vocabulary.",
-                    "url": "Search: Grace's Amazing Machines"
-                },
-                {
-                    "id": 3,
-                    "englishName": "My World Kitchen",
-                    "chineseName": "我的世界厨房",
-                    "durationPerEpisode": "14 min",
-                    "ageRange": "4-8 years",
-                    "producer": "BBC",
-                    "transcriptFile": "",
-                    "description": "各国小朋友在厨房做家乡菜，食材与烹饪词汇+多元文化，适合亲子一起看。",
-                    "descriptionEn": "Kids from various countries cook hometown dishes in the kitchen. Ingredients and cooking vocabulary plus multicultural content, great for parent-child viewing.",
-                    "url": "Search: My World Kitchen"
-                },
-                {
-                    "id": 4,
-                    "englishName": "Go Jetters",
-                    "chineseName": "探险冲冲冲",
-                    "durationPerEpisode": "11 min",
-                    "ageRange": "4-7 years",
-                    "producer": "BBC",
-                    "transcriptFile": "transcripts/GoJetters.json",
-                    "description": "四名实习探险员环游世界，地理与文化知识融入冒险，指令类词汇多。",
-                    "descriptionEn": "Four trainee explorers travel the world. Geography and cultural knowledge integrated into adventures, lots of command vocabulary.",
-                    "url": "Search: Go Jetters"
-                },
-                {
-                    "id": 5,
-                    "englishName": "Hey Duggee",
-                    "chineseName": "嗨！道奇",
-                    "durationPerEpisode": "7 min",
-                    "ageRange": "3-6 years",
-                    "producer": "BBC",
-                    "transcriptFile": "transcripts/HeyDuggee.json",
-                    "description": "狗狗老师带小动物完成趣味任务，社交对话丰富，拥抱徽章环节讨喜。",
-                    "descriptionEn": "Dog teacher leads little animals to complete fun tasks. Rich social dialogue, popular hug badge segment.",
-                    "url": "Search: Hey Duggee → The Drawing Badge"
-                }
-            ]
+            "id": 2,
+            "series": "Alphablocks",
+            "episode": "S01E02 - Bee",
+            "englishName": "Alphablocks: Bee",
+            "chineseName": "字母积木：Bee",
+            "durationPerEpisode": "5 min",
+            "ageRange": "3-7 years",
+            "producer": "BBC",
+            "channel": "Alphablocks",
+            "platform": "YouTube",
+            "transcriptFile": "transcripts/AlphablocksBee.json",
+            "description": "B 和 EE 组合成 bee，短元音与押韵词。",
+            "descriptionEn": "B and EE make 'bee'. Short vowel and rhyme.",
+            "url": "https://www.youtube.com/watch?v=REAL_ID_P2_2"
         }
     ]
 }
