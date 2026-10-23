@@ -1,0 +1,256 @@
+{
+  "lines": [
+    {
+      "index": 1,
+      "start": "00:06",
+      "en": "In 1883, American socialite Josephine Cochrane was suddenly widowed and left with mounting debts.",
+      "zh": ""
+    },
+    {
+      "index": 2,
+      "start": "00:13",
+      "en": "But she had an idea she hoped would turn her fortunes around.",
+      "zh": ""
+    },
+    {
+      "index": 3,
+      "start": "00:18",
+      "en": "Years of hosting lavish dinner parties and watching her dishware get chipped during handwashing convinced her the world needed a better way to clean dishes.",
+      "zh": ""
+    },
+    {
+      "index": 4,
+      "start": "00:27",
+      "en": "So, she poured the little money she had left into building a prototype, eventually showcasing her dishwashing contraption at the Chicago World's Fair.",
+      "zh": ""
+    },
+    {
+      "index": 5,
+      "start": "00:37",
+      "en": "This was the first step towards the modern dishwasher, whose basic design remains remarkably similar to Cochrane's.",
+      "zh": ""
+    },
+    {
+      "index": 6,
+      "start": "00:44",
+      "en": "When you press start on a dishwasher, it fills a small basin with water that's heated up to 60°C.",
+      "zh": ""
+    },
+    {
+      "index": 7,
+      "start": "00:51",
+      "en": "Then the pre-wash cycle begins.",
+      "zh": ""
+    },
+    {
+      "index": 8,
+      "start": "00:53",
+      "en": "A circulation pump sends high-pressure water up into spray arms, where it shoots out of angled nozzles, propelling the arms to spin.",
+      "zh": ""
+    },
+    {
+      "index": 9,
+      "start": "01:02",
+      "en": "The water recollects in the basin, where, in most modern models, a turbidity sensor measures the water’s dirtiness by seeing how much light passes through it.",
+      "zh": ""
+    },
+    {
+      "index": 10,
+      "start": "01:11",
+      "en": "The dishwasher then adjusts the wash time and water temperature accordingly and transitions to the wash cycle.",
+      "zh": ""
+    },
+    {
+      "index": 11,
+      "start": "01:18",
+      "en": "Detergent is released and the dishwasher cycles the now-detergent-filled water.",
+      "zh": ""
+    },
+    {
+      "index": 12,
+      "start": "01:23",
+      "en": "This dirty water drains and clean water, heated to an even hotter 68°C, is circulated for a final sanitizing rinse.",
+      "zh": ""
+    },
+    {
+      "index": 13,
+      "start": "01:32",
+      "en": "This is at least 10 degrees warmer than a typical sink’s hottest water, and hot enough to eliminate most foodborne bacteria.",
+      "zh": ""
+    },
+    {
+      "index": 14,
+      "start": "01:40",
+      "en": "Finally, the dishwasher may enter an optional drying cycle.",
+      "zh": ""
+    },
+    {
+      "index": 15,
+      "start": "01:45",
+      "en": "While that's how most dishwashers work, how well they actually clean depends on several factors— the first being the type of detergent you use.",
+      "zh": ""
+    },
+    {
+      "index": 16,
+      "start": "01:54",
+      "en": "Detergent comes in three forms: liquid, powder, and pods.",
+      "zh": ""
+    },
+    {
+      "index": 17,
+      "start": "01:59",
+      "en": "The main ingredient in all three is the surfactant.",
+      "zh": ""
+    },
+    {
+      "index": 18,
+      "start": "02:02",
+      "en": "These special dual-ended molecules remove food residues by latching onto them with one end and pulling towards the water with the other.",
+      "zh": ""
+    },
+    {
+      "index": 19,
+      "start": "02:11",
+      "en": "You'll also find surfactants in regular dish soap, but detergents go further.",
+      "zh": ""
+    },
+    {
+      "index": 20,
+      "start": "02:16",
+      "en": "They often contain enzymes that break down food into smaller pieces that surfactants can easily tug away, and bleach, which disinfects and removes stains.",
+      "zh": ""
+    },
+    {
+      "index": 21,
+      "start": "02:27",
+      "en": "So, which detergent form is best?",
+      "zh": ""
+    },
+    {
+      "index": 22,
+      "start": "02:29",
+      "en": "Liquid detergent can only contain bleach or enzymes, since bleach breaks down enzymes in liquid form.",
+      "zh": ""
+    },
+    {
+      "index": 23,
+      "start": "02:36",
+      "en": "Powder detergents solve this problem by coating powdered enzymes with a protective wax, allowing them to work alongside powdered bleach.",
+      "zh": ""
+    },
+    {
+      "index": 24,
+      "start": "02:45",
+      "en": "But even more effective are dishwasher pods that separate components using a plastic film.",
+      "zh": ""
+    },
+    {
+      "index": 25,
+      "start": "02:51",
+      "en": "Though, pods may have environmental impacts— some studies claim the plastic biodegrades in a couple of months, while others find it persists for much longer.",
+      "zh": ""
+    },
+    {
+      "index": 26,
+      "start": "03:02",
+      "en": "How you treat your dishwasher, and the dishes you put in, can also affect performance.",
+      "zh": ""
+    },
+    {
+      "index": 27,
+      "start": "03:07",
+      "en": "A dirty dishwasher or filter can trick the turbidity sensor into thinking dishes are dirtier than they are, prompting an unnecessarily long wash cycle.",
+      "zh": ""
+    },
+    {
+      "index": 28,
+      "start": "03:16",
+      "en": "And while it might seem counterintuitive, rinsing dishes beforehand can also cause problems.",
+      "zh": ""
+    },
+    {
+      "index": 29,
+      "start": "03:22",
+      "en": "If dishes are well rinsed, the turbidity sensor will detect minimal grime and trigger a short wash cycle, which may not be enough to break down any stubborn stuck-on crust.",
+      "zh": ""
+    },
+    {
+      "index": 30,
+      "start": "03:33",
+      "en": "Further, the enzymes in detergent are designed to latch onto food residue, so the best practice is to simply scrape your dishes before loading.",
+      "zh": ""
+    },
+    {
+      "index": 31,
+      "start": "03:42",
+      "en": "What’s more, by letting the dishwasher do all the work, you'll also save water.",
+      "zh": ""
+    },
+    {
+      "index": 32,
+      "start": "03:47",
+      "en": "Dishwashers recycle water during the wash cycle, so they only use 3 to 5 gallons.",
+      "zh": ""
+    },
+    {
+      "index": 33,
+      "start": "03:53",
+      "en": "That’s equivalent to running a kitchen sink for up to 2.",
+      "zh": ""
+    },
+    {
+      "index": 34,
+      "start": "03:56",
+      "en": "5 minutes.",
+      "zh": ""
+    },
+    {
+      "index": 35,
+      "start": "03:57",
+      "en": "So if you think handwashing your dishes might take longer than that, it might be worth just running a load.",
+      "zh": ""
+    },
+    {
+      "index": 36,
+      "start": "04:04",
+      "en": "Of course, there are reasons to not throw in the towel on handwashing altogether.",
+      "zh": ""
+    },
+    {
+      "index": 37,
+      "start": "04:08",
+      "en": "Since dishwashers use very hot water, they can warp wooden items and certain plastics, damaging seals in travel mugs or storage containers.",
+      "zh": ""
+    },
+    {
+      "index": 38,
+      "start": "04:18",
+      "en": "Sharp knives can also be dulled by detergents, or they can even damage the dishwasher itself.",
+      "zh": ""
+    },
+    {
+      "index": 39,
+      "start": "04:24",
+      "en": "And there's also an energy consideration.",
+      "zh": ""
+    },
+    {
+      "index": 40,
+      "start": "04:26",
+      "en": "On average, a standard dishwasher cycle uses about the same amount of energy as leaving your TV on for 12 hours.",
+      "zh": ""
+    },
+    {
+      "index": 41,
+      "start": "04:34",
+      "en": "Clearly, there are situations when handwashing makes more sense.",
+      "zh": ""
+    },
+    {
+      "index": 42,
+      "start": "04:38",
+      "en": "But if you’re faced with a dinner party’s worth of dishes, a dishwasher can be a welcome reprieve.",
+      "zh": ""
+    }
+  ]
+}

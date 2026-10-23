@@ -1,0 +1,262 @@
+{
+  "lines": [
+    {
+      "index": 1,
+      "start": "00:06",
+      "en": "You're about to buy some bargain bin headphones when you spot a real bargain.",
+      "zh": ""
+    },
+    {
+      "index": 2,
+      "start": "00:12",
+      "en": "This pair is more expensive, but it's selling for half its usual price.",
+      "zh": ""
+    },
+    {
+      "index": 3,
+      "start": "00:18",
+      "en": "Surely this is the better buy, right?",
+      "zh": ""
+    },
+    {
+      "index": 4,
+      "start": "00:21",
+      "en": "It’s possible!",
+      "zh": ""
+    },
+    {
+      "index": 5,
+      "start": "00:22",
+      "en": "However, it’s also possible you’re falling for a psychological trick retailers use to influence what you buy and what you’re willing to pay.",
+      "zh": ""
+    },
+    {
+      "index": 6,
+      "start": "00:34",
+      "en": "From the late 1800s, economic theory often assumed that consumers were rational actors who pursued the optimal financial choice.",
+      "zh": ""
+    },
+    {
+      "index": 7,
+      "start": "00:44",
+      "en": "But while consumers are reasonably rational on average, they’re also vulnerable to impulse purchases, savvy salespeople, and other external factors that make them, well, irrational.",
+      "zh": ""
+    },
+    {
+      "index": 8,
+      "start": "00:59",
+      "en": "20th century psychologists investigating these factors learned that human decision making is rarely perfectly logical.",
+      "zh": ""
+    },
+    {
+      "index": 9,
+      "start": "01:08",
+      "en": "And by the 1970s, this research informed the birth of behavioral economics, a new field exploring the intersection of economics and psychology.",
+      "zh": ""
+    },
+    {
+      "index": 10,
+      "start": "01:21",
+      "en": "Behavioral economics operated off a new assumption, introduced by economic sciences laureate Herbert Simon.",
+      "zh": ""
+    },
+    {
+      "index": 11,
+      "start": "01:30",
+      "en": "His model, called “bounded rationality,” argued that consumers have limited information, limited time, and various psychological constraints that lead them not to the optimal financial choice, but simply one they feel good about.",
+      "zh": ""
+    },
+    {
+      "index": 12,
+      "start": "01:47",
+      "en": "So how do we decide what's good enough?",
+      "zh": ""
+    },
+    {
+      "index": 13,
+      "start": "01:50",
+      "en": "Rather than using logic, behavioral economists say we fall back on heuristics— mental shortcuts for making decisions easier and faster.",
+      "zh": ""
+    },
+    {
+      "index": 14,
+      "start": "02:01",
+      "en": "For example, the anchoring heuristic suggests that the first piece of information you get becomes your baseline for future decision making.",
+      "zh": ""
+    },
+    {
+      "index": 15,
+      "start": "02:11",
+      "en": "So if a menu's first item costs $50, you'll compare other prices against that reference point.",
+      "zh": ""
+    },
+    {
+      "index": 16,
+      "start": "02:19",
+      "en": "Psychologists like Daniel Kahneman thought heuristics predict many consumer choices— which means they can be manipulated to control them.",
+      "zh": ""
+    },
+    {
+      "index": 17,
+      "start": "02:29",
+      "en": "Case in point, while those discounted headphones might be 50% off, it’s also possible the original price was inflated to begin with.",
+      "zh": ""
+    },
+    {
+      "index": 18,
+      "start": "02:40",
+      "en": "Anchoring is just one of many heuristics retailers exploit.",
+      "zh": ""
+    },
+    {
+      "index": 19,
+      "start": "02:45",
+      "en": "Consider this: which of these cleaning products would you buy?",
+      "zh": ""
+    },
+    {
+      "index": 20,
+      "start": "02:50",
+      "en": "How about now?",
+      "zh": ""
+    },
+    {
+      "index": 21,
+      "start": "02:52",
+      "en": "Both are equally effective and basically cost the same, but careful language and pricing makes one more appealing.",
+      "zh": ""
+    },
+    {
+      "index": 22,
+      "start": "03:00",
+      "en": "This is the framing effect, and it’s one of several psychological phenomena that short circuit our ability to assign value.",
+      "zh": ""
+    },
+    {
+      "index": 23,
+      "start": "03:10",
+      "en": "Here’s an example of another: some American grocery stores tried encouraging customers to bring reusable shopping bags by offering a 5 cent credit.",
+      "zh": ""
+    },
+    {
+      "index": 24,
+      "start": "03:21",
+      "en": "But this proved less effective than charging a 5 cent fee for using disposable bags.",
+      "zh": ""
+    },
+    {
+      "index": 25,
+      "start": "03:28",
+      "en": "In other words, the desire to avoid losing 5 cents was more motivating than gaining 5 cents.",
+      "zh": ""
+    },
+    {
+      "index": 26,
+      "start": "03:36",
+      "en": "This is called loss aversion, and retailers trigger this fear of losing value by emphasizing a sale’s scarcity or looming deadline.",
+      "zh": ""
+    },
+    {
+      "index": 27,
+      "start": "03:47",
+      "en": "All these tactics suggest our perception of value is more important than what something is actually worth.",
+      "zh": ""
+    },
+    {
+      "index": 28,
+      "start": "03:56",
+      "en": "And that effect goes deeper than you might think.",
+      "zh": ""
+    },
+    {
+      "index": 29,
+      "start": "03:59",
+      "en": "In a 2008 study, subjects were put into MRI machines and treated to samples from five bottles of increasingly expensive wine.",
+      "zh": ""
+    },
+    {
+      "index": 30,
+      "start": "04:10",
+      "en": "Participants reported preferring the expensive samples, and MRI images confirmed this claim.",
+      "zh": ""
+    },
+    {
+      "index": 31,
+      "start": "04:18",
+      "en": "But in reality they only tasted three bottles, with the two cheapest pulling double duty as the two priciest.",
+      "zh": ""
+    },
+    {
+      "index": 32,
+      "start": "04:27",
+      "en": "Of course, retailers don’t just manipulate your perception, they control the spaces you shop.",
+      "zh": ""
+    },
+    {
+      "index": 33,
+      "start": "04:35",
+      "en": "Supermarkets often place high-margin items at eye level and design stores to guide you past them.",
+      "zh": ""
+    },
+    {
+      "index": 34,
+      "start": "04:44",
+      "en": "Behavioral economist Richard Thaler and legal scholar Cass Sunstein call this subtle product placement “nudge theory,” and it works online as well.",
+      "zh": ""
+    },
+    {
+      "index": 35,
+      "start": "04:55",
+      "en": "Sites might nudge you by suggesting related items to purchase or by pre-selecting add-ons.",
+      "zh": ""
+    },
+    {
+      "index": 36,
+      "start": "05:03",
+      "en": "So if retailers are boxing you in, what can you do about it?",
+      "zh": ""
+    },
+    {
+      "index": 37,
+      "start": "05:07",
+      "en": "First, shop slower.",
+      "zh": ""
+    },
+    {
+      "index": 38,
+      "start": "05:10",
+      "en": "Heuristic-based decision making is quick and instinctive, so slowing down to run the numbers can pull back the curtain on a flashy deal.",
+      "zh": ""
+    },
+    {
+      "index": 39,
+      "start": "05:21",
+      "en": "Deciding what a product is worth to you before shopping can help set your own anchors.",
+      "zh": ""
+    },
+    {
+      "index": 40,
+      "start": "05:28",
+      "en": "And always ask yourself why you want this deal.",
+      "zh": ""
+    },
+    {
+      "index": 41,
+      "start": "05:32",
+      "en": "Buying something just because it’s a bargain means you might not be in control of your choice.",
+      "zh": ""
+    },
+    {
+      "index": 42,
+      "start": "05:40",
+      "en": "Above all, remember that retailers and advertisers aren’t just selling products— they’re designing your choices.",
+      "zh": ""
+    },
+    {
+      "index": 43,
+      "start": "05:47",
+      "en": "And once you understand the psychology behind their designs, you might gain something even more valuable than a discount: the ability to choose on your own terms.",
+      "zh": ""
+    }
+  ]
+}

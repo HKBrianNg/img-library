@@ -1,0 +1,232 @@
+{
+  "lines": [
+    {
+      "index": 1,
+      "start": "00:07",
+      "en": "In the early 1900s, physicists Niels Bohr and Hendrika Johanna van Leeuwen separately discovered something shocking.",
+      "zh": ""
+    },
+    {
+      "index": 2,
+      "start": "00:17",
+      "en": "According to every known rule of physics, magnetism was impossible.",
+      "zh": ""
+    },
+    {
+      "index": 3,
+      "start": "00:25",
+      "en": "This finding made no sense.",
+      "zh": ""
+    },
+    {
+      "index": 4,
+      "start": "00:27",
+      "en": "Humans had relied on magnetic compasses for a thousand years, and anyone who had ever held two magnetized metals could tell you that some invisible force was acting on them.",
+      "zh": ""
+    },
+    {
+      "index": 5,
+      "start": "00:38",
+      "en": "Bohr and van Leeuwen knew they were missing something— but what?",
+      "zh": ""
+    },
+    {
+      "index": 6,
+      "start": "00:43",
+      "en": "By the 1920s, physicists had learned quite a bit about the fundamentals of matter.",
+      "zh": ""
+    },
+    {
+      "index": 7,
+      "start": "00:49",
+      "en": "They knew that every material is made of atoms, each comprised of a nucleus containing protons and orbited by electrons.",
+      "zh": ""
+    },
+    {
+      "index": 8,
+      "start": "00:57",
+      "en": "They also knew that both of these particles have a few fundamental properties, including a small amount of mass, an electrical charge, and some amount of magnetism.",
+      "zh": ""
+    },
+    {
+      "index": 9,
+      "start": "01:09",
+      "en": "The origin of these intrinsic properties remains an ongoing mystery.",
+      "zh": ""
+    },
+    {
+      "index": 10,
+      "start": "01:13",
+      "en": "But the result is that every electron and proton is a tiny magnet that works just like their full-size counterparts.",
+      "zh": ""
+    },
+    {
+      "index": 11,
+      "start": "01:22",
+      "en": "Both have invisible magnetic fields that radiate out in closed loops from one end to the other.",
+      "zh": ""
+    },
+    {
+      "index": 12,
+      "start": "01:29",
+      "en": "These magnetic poles are attracted to the dense field lines of the opposite pole of other magnets, and repelled by fields flowing in the opposite direction.",
+      "zh": ""
+    },
+    {
+      "index": 13,
+      "start": "01:39",
+      "en": "Of course, researchers still had questions.",
+      "zh": ""
+    },
+    {
+      "index": 14,
+      "start": "01:42",
+      "en": "What determines the direction of these magnetic fields?",
+      "zh": ""
+    },
+    {
+      "index": 15,
+      "start": "01:45",
+      "en": "And if every atom is composed of tiny magnets, why isn't everything magnetic?",
+      "zh": ""
+    },
+    {
+      "index": 16,
+      "start": "01:52",
+      "en": "The answers emerged with the birth of quantum mechanics: a new branch of physics exploring how the laws of nature work differently at the sub-atomic level.",
+      "zh": ""
+    },
+    {
+      "index": 17,
+      "start": "02:03",
+      "en": "In 1926, a pair of Dutch physicists discovered that— in addition to mass, charge, and magnetism— particles had another fundamental property: quantum spin.",
+      "zh": ""
+    },
+    {
+      "index": 18,
+      "start": "02:18",
+      "en": "This is a confusing label because while nothing is actually spinning, spin does refer to a kind of innate direction that influences a particle’s behavior.",
+      "zh": ""
+    },
+    {
+      "index": 19,
+      "start": "02:29",
+      "en": "And in the 1930s, Nobel Prize laureate John H.",
+      "zh": ""
+    },
+    {
+      "index": 20,
+      "start": "02:32",
+      "en": "Van Vleck discovered that this property held the answer to countless questions about magnetism— including Bohr and van Leeuwen’s.",
+      "zh": ""
+    },
+    {
+      "index": 21,
+      "start": "02:42",
+      "en": "Basically, the direction of a particle’s spin determines the direction of its magnetic field.",
+      "zh": ""
+    },
+    {
+      "index": 22,
+      "start": "02:49",
+      "en": "And since electrons have much stronger magnetic fields than protons, the direction of their spin determines whether or not something is magnetic.",
+      "zh": ""
+    },
+    {
+      "index": 23,
+      "start": "02:59",
+      "en": "If enough of a material's electrons spin in the same direction, their many tiny magnetic fields will align, turning the material into a magnet with a field pointing in that direction.",
+      "zh": ""
+    },
+    {
+      "index": 24,
+      "start": "03:13",
+      "en": "The more aligned electrons, the stronger the magnet.",
+      "zh": ""
+    },
+    {
+      "index": 25,
+      "start": "03:17",
+      "en": "On the other hand, if a material is full of electrons with competing spins their fields cancel each other out, leaving you with something non-magnetic.",
+      "zh": ""
+    },
+    {
+      "index": 26,
+      "start": "03:29",
+      "en": "Most elements have electrons that come in pairs and spin in opposite directions, which is why most materials aren’t magnetic.",
+      "zh": ""
+    },
+    {
+      "index": 27,
+      "start": "03:38",
+      "en": "But iron, nickel, cobalt, and a few rare metals prefer to leave some of their electrons unpaired.",
+      "zh": ""
+    },
+    {
+      "index": 28,
+      "start": "03:45",
+      "en": "This doesn’t automatically make them magnetic— just because their electrons are unpaired doesn’t mean they always spin in the same direction.",
+      "zh": ""
+    },
+    {
+      "index": 29,
+      "start": "03:53",
+      "en": "However, they can be nudged into alignment by interacting with neighboring atoms.",
+      "zh": ""
+    },
+    {
+      "index": 30,
+      "start": "03:59",
+      "en": "And researchers can kick-start this process by applying a strong magnetic field or by heating and cooling the material inside a weaker magnetic field.",
+      "zh": ""
+    },
+    {
+      "index": 31,
+      "start": "04:11",
+      "en": "These metals will stay magnets permanently unless their electrons are scrambled by intense heat or an extremely strong magnetic field.",
+      "zh": ""
+    },
+    {
+      "index": 32,
+      "start": "04:21",
+      "en": "But this magnetization process can make anything magnetic temporarily.",
+      "zh": ""
+    },
+    {
+      "index": 33,
+      "start": "04:26",
+      "en": "Felix Bloch and Edward Mills Purcell took advantage of this in 1945 when they invented nuclear magnetic resonance spectroscopy.",
+      "zh": ""
+    },
+    {
+      "index": 34,
+      "start": "04:37",
+      "en": "This technology uses a strong magnetic field to temporarily align a material's protons, then a weaker field to knock specific molecules out of alignment.",
+      "zh": ""
+    },
+    {
+      "index": 35,
+      "start": "04:48",
+      "en": "The machine then tracks the electromagnetic energy expended by the jostled protons as they realign, allowing researchers to map the material's molecular structure.",
+      "zh": ""
+    },
+    {
+      "index": 36,
+      "start": "05:01",
+      "en": "This invention laid the groundwork for MRI machines, which use a similar approach to magnetize the water in our bodies and map our tissues.",
+      "zh": ""
+    },
+    {
+      "index": 37,
+      "start": "05:12",
+      "en": "Of course, NMR and MRI are just two of countless modern technologies that rely on magnetism.",
+      "zh": ""
+    },
+    {
+      "index": 38,
+      "start": "05:20",
+      "en": "Computer hard drives, electric motors, speakers, wireless communication— all these inventions prove that not only does magnetism exist, but studying this phenomenon remains endlessly attractive.",
+      "zh": ""
+    }
+  ]
+}
