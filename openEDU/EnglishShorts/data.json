@@ -233,10 +233,6 @@
         {
           "en": "I don't feel good.",
           "name": "我不太舒服。"
-        },
-        {
-          "en": "Your fly is down.",
-          "name": "你裤子拉链没拉。"
         }
       ]
     },
@@ -679,16 +675,8 @@
           "name": "我搞砸了。"
         },
         {
-          "en": "It's killing me.",
-          "name": "真是要命。"
-        },
-        {
           "en": "I'm sick of it.",
           "name": "我受够了。"
-        },
-        {
-          "en": "That sucks.",
-          "name": "真糟糕。"
         }
       ]
     },
@@ -933,6 +921,10 @@
         {
           "en": "Come in.",
           "name": "请进。"
+        },
+        {
+          "en": "What's next?",
+          "name": "下一个是什么？"
         }
       ]
     },
@@ -1207,20 +1199,8 @@
           "name": "可不是嘛。"
         },
         {
-          "en": "Over my dead body.",
-          "name": "我死也不同意。"
-        },
-        {
-          "en": "I don't wonder.",
-          "name": "我一点也不奇怪。"
-        },
-        {
           "en": "For real.",
           "name": "说真的，真的吗？"
-        },
-        {
-          "en": "No cap.",
-          "name": "不骗你，说真的。"
         },
         {
           "en": "It happens.",
@@ -1277,6 +1257,10 @@
         {
           "en": "It's impossible.",
           "name": "这不可能。"
+        },
+        {
+          "en": "Kind of.",
+          "name": "有点儿，算是吧。"
         }
       ]
     },
@@ -1465,26 +1449,6 @@
         {
           "en": "Be careful.",
           "name": "小心点。"
-        },
-        {
-          "en": "Get lost.",
-          "name": "走开。"
-        },
-        {
-          "en": "Shut up.",
-          "name": "闭嘴。"
-        },
-        {
-          "en": "Bite me.",
-          "name": "少理我。"
-        },
-        {
-          "en": "Screw you.",
-          "name": "去你的。"
-        },
-        {
-          "en": "Big Mouth.",
-          "name": "大嘴巴，多嘴。"
         }
       ]
     },
@@ -1833,6 +1797,10 @@
         {
           "en": "This way.",
           "name": "往这边走。"
+        },
+        {
+          "en": "Follow me.",
+          "name": "跟我来。"
         }
       ]
     },
@@ -1917,10 +1885,6 @@
         {
           "en": "I'm confused.",
           "name": "我被弄糊涂了。"
-        },
-        {
-          "en": "I'm screwed.",
-          "name": "我完蛋了。"
         },
         {
           "en": "That hurts.",
