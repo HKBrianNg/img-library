@@ -1,0 +1,201 @@
+{
+  "title": "英文短句",
+  "titleEn": "Everyday English Phrases",
+  "description": "native 脱口而出的两三词口语反应",
+  "descriptionEn": "Short everyday phrases native speakers blurt out",
+  "groups": [
+    {
+      "id": "manners",
+      "name": "礼貌用语",
+      "en": "Manners",
+      "icon": "🙇",
+      "items": [
+        { "en": "May I come in?", "name": "我可以进来吗？" },
+        { "en": "Please come in.", "name": "请进。" },
+        { "en": "Have a seat.", "name": "请坐。" },
+        { "en": "Help yourself.", "name": "别客气，随便用。" },
+        { "en": "Enjoy your meal.", "name": "请慢用。" },
+        { "en": "Take your time.", "name": "慢慢来，不着急。" },
+        { "en": "Go ahead.", "name": "你先请。" }
+      ]
+    },
+    {
+      "id": "outabout",
+      "name": "出门与守时",
+      "en": "Out & About",
+      "icon": "🚪",
+      "items": [
+        { "en": "Get in the car.", "name": "上车吧。" },
+        { "en": "Tie your shoes.", "name": "把鞋带系好。" },
+        { "en": "Dress warmly.", "name": "穿暖和些。" },
+        { "en": "It's chilly out.", "name": "外面挺冷的。" },
+        { "en": "Stay warm.", "name": "注意保暖。" },
+        { "en": "Watch your step.", "name": "小心脚下。" },
+        { "en": "Wait for me.", "name": "等等我。" },
+        { "en": "No rush.", "name": "不急。" },
+        { "en": "Hurry up.", "name": "快点儿。" },
+        { "en": "I'm running late.", "name": "我要迟到了。" },
+        { "en": "I forgot my keys.", "name": "我忘带钥匙了。" }
+      ]
+    },
+    {
+      "id": "mealtime",
+      "name": "一日三餐",
+      "en": "Meal Time",
+      "icon": "🍚",
+      "items": [
+        { "en": "You hungry?", "name": "你饿吗？" },
+        { "en": "I'm starving.", "name": "我饿坏了。" },
+        { "en": "Let's eat out.", "name": "咱们出去吃吧。" },
+        { "en": "I'd love to.", "name": "我很乐意。" },
+        { "en": "Try some.", "name": "尝一口。" },
+        { "en": "It's tasty.", "name": "真好吃。" },
+        { "en": "I'm full.", "name": "我吃饱了。" },
+        { "en": "I eat anything.", "name": "我什么都吃。" }
+      ]
+    },
+    {
+      "id": "sayagain",
+      "name": "没听清楚",
+      "en": "Say That Again",
+      "icon": "👂",
+      "items": [
+        { "en": "I didn't catch that.", "name": "我没听清。" },
+        { "en": "Come again?", "name": "再说一遍？" },
+        { "en": "Louder please.", "name": "请大点声。" },
+        { "en": "Did you hear me?", "name": "你听见我说话了吗？" },
+        { "en": "Can we talk?", "name": "我们能聊聊吗？" },
+        { "en": "It's hard to tell.", "name": "说不好。" }
+      ]
+    },
+    {
+      "id": "checkingin",
+      "name": "嘘寒问暖",
+      "en": "Checking In",
+      "icon": "🤗",
+      "items": [
+        { "en": "You doing okay?", "name": "你还好吧？" },
+        { "en": "Are you awake?", "name": "你醒了吗？" },
+        { "en": "I don't feel well.", "name": "我不舒服。" },
+        { "en": "I have a cold.", "name": "我感冒了。" },
+        { "en": "Get some rest.", "name": "好好休息。" },
+        { "en": "Drink more water.", "name": "多喝点水。" },
+        { "en": "What's wrong?", "name": "怎么了？" },
+        { "en": "Take it easy.", "name": "别紧张，放轻松。" }
+      ]
+    },
+    {
+      "id": "phone",
+      "name": "打电话",
+      "en": "On the Phone",
+      "icon": "📞",
+      "items": [
+        { "en": "Answer the phone.", "name": "接个电话。" },
+        { "en": "Wrong number.", "name": "打错了。" },
+        { "en": "We got cut off.", "name": "电话断了。" },
+        { "en": "Where were you?", "name": "你刚刚在哪儿？" }
+      ]
+    },
+    {
+      "id": "cheerup",
+      "name": "加油打气",
+      "en": "Cheer Up",
+      "icon": "💪",
+      "items": [
+        { "en": "Keep it up.", "name": "继续保持！" },
+        { "en": "You can do it.", "name": "你能行。" },
+        { "en": "Try your best.", "name": "尽力就好。" },
+        { "en": "No worries.", "name": "别担心。" },
+        { "en": "It's over now.", "name": "都过去了。" },
+        { "en": "You're the best.", "name": "你最棒了。" },
+        { "en": "I hope so.", "name": "希望如此。" },
+        { "en": "Good for you.", "name": "真为你高兴。" },
+        { "en": "Leave it to me.", "name": "交给我吧。" },
+        { "en": "Take a deep breath.", "name": "深呼吸一下。" }
+      ]
+    },
+    {
+      "id": "smalltalk",
+      "name": "朋友闲聊",
+      "en": "Small Talk",
+      "icon": "💬",
+      "items": [
+        { "en": "How's it going?", "name": "最近怎么样？" },
+        { "en": "Pretty good.", "name": "挺好的。" },
+        { "en": "Sounds great.", "name": "听起来不错。" },
+        { "en": "It's a long story.", "name": "说来话长。" },
+        { "en": "I knew it.", "name": "我早知道了。" },
+        { "en": "I told you so.", "name": "我早说过吧。" },
+        { "en": "I don't think so.", "name": "我不这么想。" },
+        { "en": "Do I know you?", "name": "我们认识吗？" },
+        { "en": "You look familiar.", "name": "你看着好眼熟。" },
+        { "en": "See you then.", "name": "那到时候见。" },
+        { "en": "You scared me.", "name": "你吓我一跳。" }
+      ]
+    },
+    {
+      "id": "trouble",
+      "name": "遇上麻烦",
+      "en": "Trouble",
+      "icon": "😣",
+      "items": [
+        { "en": "I'm in trouble.", "name": "我有麻烦了。" },
+        { "en": "I overslept.", "name": "我睡过头了。" },
+        { "en": "I had a nightmare.", "name": "我做噩梦了。" },
+        { "en": "I didn't mean it.", "name": "我不是故意的。" },
+        { "en": "It doesn't work.", "name": "它坏了。" },
+        { "en": "Start over.", "name": "重新开始。" },
+        { "en": "Help me out.", "name": "帮帮我。" },
+        { "en": "I don't get it.", "name": "我不明白。" }
+      ]
+    },
+    {
+      "id": "handy",
+      "name": "随时应对",
+      "en": "Handy Replies",
+      "icon": "⚡",
+      "items": [
+        { "en": "Let's get started.", "name": "我们开始吧。" },
+        { "en": "Here you are.", "name": "给你。" },
+        { "en": "There you go.", "name": "好了，就这样。" },
+        { "en": "Got a minute?", "name": "有空吗？" },
+        { "en": "Right away.", "name": "马上就来。" },
+        { "en": "Hold on.", "name": "等一下。" },
+        { "en": "I'll be right back.", "name": "我马上回来。" },
+        { "en": "Come closer.", "name": "走近点儿。" },
+        { "en": "Anybody here?", "name": "有人吗？" },
+        { "en": "Do I have to?", "name": "非得这样吗？" }
+      ]
+    },
+    {
+      "id": "timetry",
+      "name": "时间与排队",
+      "en": "Time & Turns",
+      "icon": "⏰",
+      "items": [
+        { "en": "What time is it?", "name": "几点了？" },
+        { "en": "It's still early.", "name": "还早着呢。" },
+        { "en": "It's getting late.", "name": "天不早了。" },
+        { "en": "I got to go.", "name": "我得走了。" },
+        { "en": "I'm in a hurry.", "name": "我在赶时间。" },
+        { "en": "Line up please.", "name": "请排好队。" },
+        { "en": "Let's take turns.", "name": "我们轮流来。" },
+        { "en": "It's your turn.", "name": "轮到你了。" },
+        { "en": "This is my floor.", "name": "我到楼层了。" }
+      ]
+    },
+    {
+      "id": "fit",
+      "name": "合不合适",
+      "en": "Does It Fit",
+      "icon": "🧩",
+      "items": [
+        { "en": "Does it fit?", "name": "合适吗？" },
+        { "en": "Perfect fit.", "name": "正合适。" },
+        { "en": "Is it good?", "name": "好吗？行吗？" },
+        { "en": "You ready?", "name": "你准备好了吗？" },
+        { "en": "I'm all set.", "name": "我都准备好了。" }
+      ]
+    }
+  ]
+}
