@@ -1,35 +1,120 @@
 {
-    "title": "中文歌",
-    "titleEn": "Chinese Songs",
-    "categories": [
+  "title": "中文歌",
+  "titleEn": "Chinese Songs",
+  "categories": [
+    {
+      "name": "儿歌",
+      "en": "Children Songs",
+      "items": [
         {
-            "name":"儿歌",
-            "en": "Children Songs",
-            "items": [
-                {"name": "孩子的天空", "en": "Children's Sky", "audio": "/audio/children's-sky.mp3", "lyric": "/lyric/children's-sky.lrc"},
-                {"name": "勇气大爆发", "en": "Courage Explosion", "audio": "/audio/courage-explosion.mp3", "lyric": "/lyric/courage-explosion.lrc"}
-            ]
+          "name": "孩子的天空",
+          "en": "Children's Sky",
+          "audio": "/audio/children's-sky.mp3",
+          "lyric": "/lyric/children's-sky.lrc"
         },
         {
-            "name": "流行歌曲",
-            "en": "Pop Music",
-            "items": [
-                {"name": "黄昏", "en": "Dusk", "audio": "/audio/dusk.mp3", "lyric": "/lyric/dusk.lrc"},
-                {"name": "小幸运", "en": "Little Happiness", "audio": "/audio/little-happiness.mp3", "lyric": "/lyric/little-happiness.lrc"},
-                {"name": "爱在西元前", "en": "Love Before Christ", "audio": "/audio/love-before-christ.mp3", "lyric": "/lyric/love-before-christ.lrc"},
-                {"name": "晴天", "en": "Sunny Day", "audio": "/audio/sunny-day.mp3", "lyric": "/lyric/sunny-day.lrc"},
-                {"name": "青花瓷", "en": "Blue and White Porcelain", "audio": "/audio/blue-and-white-porcelain.mp3", "lyric": "/lyric/blue-and-white-porcelain.lrc"},
-                {"name": "多远都要在一起", "en": "together-forever", "audio": "/audio/together-forever.m4a", "lyric": "/lyric/together-forever.lrc"},
-                {"name": "唯一", "en": "the-one", "audio": "/audio/the-one.m4a", "lyric": "/lyric/the-one.lrc"},
-                {"name": "演员", "en": "actor", "audio": "/audio/actor.m4a", "lyric": "/lyric/actor.lrc"},
-                {"name": "认真的雪", "en": "Earnest Snow", "audio": "/audio/earnest-snow.mp3", "lyric": "/lyric/earnest-snow.lrc"},
-                {"name": "今夜你会不会来", "en": "will you come tonight", "audio": "/audio/will-you-come-tonight.mp3", "lyric": "/lyric/will-you-come-tonight.lrc"},
-                {"name": "两个人的烟火", "en": "fireworks for two", "audio": "/audio/fireworks-for-two.m4a", "lyric": "/lyric/fireworks-for-two.lrc"},
-                {"name": "夏日倾情", "en": "summer romance", "audio": "/audio/summer-romance.mp3", "lyric": "/lyric/summer-romance.lrc"},
-                {"name": "梦仍是一样", "en": "The Dream Remains the Same", "audio": "/audio/the-dream-remains-the-same.mp3", "lyric": "/lyric/the-dream-remains-the-same.lrc"},
-                {"name": "半梦半醒", "en": "Half Awake Half Asleep", "audio": "/audio/half-awake-half-asleep.mp3", "lyric": "/lyric/half-awake-half-asleep.lrc"}
-            ]
-
+          "name": "勇气大爆发",
+          "en": "Courage Explosion",
+          "audio": "/audio/courage-explosion.mp3",
+          "lyric": "/lyric/courage-explosion.lrc"
         }
-    ]
+      ]
+    },
+    {
+      "name": "流行歌曲",
+      "en": "Pop Music",
+      "items": [
+        {
+          "name": "黄昏",
+          "en": "Dusk",
+          "audio": "/audio/dusk.mp3",
+          "lyric": "/lyric/dusk.lrc"
+        },
+        {
+          "name": "小幸运",
+          "en": "Little Happiness",
+          "audio": "/audio/little-happiness.mp3",
+          "lyric": "/lyric/little-happiness.lrc"
+        },
+        {
+          "name": "爱在西元前",
+          "en": "Love Before Christ",
+          "audio": "/audio/love-before-christ.mp3",
+          "lyric": "/lyric/love-before-christ.lrc"
+        },
+        {
+          "name": "晴天",
+          "en": "Sunny Day",
+          "audio": "/audio/sunny-day.mp3",
+          "lyric": "/lyric/sunny-day.lrc"
+        },
+        {
+          "name": "青花瓷",
+          "en": "Blue and White Porcelain",
+          "audio": "/audio/blue-and-white-porcelain.mp3",
+          "lyric": "/lyric/blue-and-white-porcelain.lrc"
+        },
+        {
+          "name": "多远都要在一起",
+          "en": "together-forever",
+          "audio": "/audio/together-forever.m4a",
+          "lyric": "/lyric/together-forever.lrc"
+        },
+        {
+          "name": "唯一",
+          "en": "the-one",
+          "audio": "/audio/the-one.m4a",
+          "lyric": "/lyric/the-one.lrc"
+        },
+        {
+          "name": "演员",
+          "en": "actor",
+          "audio": "/audio/actor.m4a",
+          "lyric": "/lyric/actor.lrc"
+        },
+        {
+          "name": "认真的雪",
+          "en": "Earnest Snow",
+          "audio": "/audio/earnest-snow.mp3",
+          "lyric": "/lyric/earnest-snow.lrc"
+        },
+        {
+          "name": "今夜你会不会来",
+          "en": "will you come tonight",
+          "audio": "/audio/will-you-come-tonight.mp3",
+          "lyric": "/lyric/will-you-come-tonight.lrc"
+        },
+        {
+          "name": "两个人的烟火",
+          "en": "fireworks for two",
+          "audio": "/audio/fireworks-for-two.m4a",
+          "lyric": "/lyric/fireworks-for-two.lrc"
+        },
+        {
+          "name": "夏日倾情",
+          "en": "summer romance",
+          "audio": "/audio/summer-romance.mp3",
+          "lyric": "/lyric/summer-romance.lrc"
+        },
+        {
+          "name": "梦仍是一样",
+          "en": "The Dream Remains the Same",
+          "audio": "/audio/the-dream-remains-the-same.mp3",
+          "lyric": "/lyric/the-dream-remains-the-same.lrc"
+        },
+        {
+          "name": "半梦半醒",
+          "en": "Half Awake Half Asleep",
+          "audio": "/audio/half-awake-half-asleep.mp3",
+          "lyric": "/lyric/half-awake-half-asleep.lrc"
+        },
+        {
+          "name": "开始懂了",
+          "en": "starting to understand",
+          "audio": "/audio/starting-to-understand.m4a",
+          "lyric": "/lyric/starting-to-understand.lrc"
+        }
+      ]
+    }
+  ]
 }
