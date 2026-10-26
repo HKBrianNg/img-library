@@ -1,0 +1,75 @@
+name: Purge CDN cache
+
+# 数据目录 push 之后，把改动过的路径在 jsDelivr 上的缓存清掉。
+#
+# 为什么要这一步：jsDelivr 对分支（@main）的缓存是 12 小时（s-maxage=43200）。
+#   - 新增文件：CDN 没缓存过，push 完立刻就有 → 不用管
+#   - 改过的文件：不清的话最长要等 12 小时才在线上生效
+# 所以只对「改过的」那些路径 purge 一遍就够了。
+
+on:
+  push:
+    branches: [main]
+    paths: ['openEDU/**']
+
+  # 想手工跑一次（比如怀疑某个文件缓存不对），在 Actions 页面点 Run workflow
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  # 连着推好几次的话，没必要排队逐个清理 —— 保留最后一个即可。
+  # 但也有另一个思路：如果希望每次都能取消掉前一个，把 cancel-in-progress 改成 true
+  group: purge-cdn
+  cancel-in-progress: false
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 要拿上一个 commit 做 diff，浅克隆不够
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 找出这次改动的路径
+        env:
+          BEFORE: ${{ github.event.before }}
+        run: |
+          set -euo pipefail
+
+          # 第一次 push（before 全是 0）或 workflow_dispatch 时，退回跟上一个 commit 比
+          before="${BEFORE:-}"
+          if [ -z "$before" ] || [ "$before" = "0000000000000000000000000000000000000000" ]; then
+            if git rev-parse HEAD~1 >/dev/null 2>&1; then
+              before=$(git rev-parse HEAD~1)
+            else
+              before=""
+            fi
+          fi
+
+          if [ -z "$before" ]; then
+            # 仓库只有一个 commit：整个 openEDU/ 都算新文件（本来也没缓存，清理无害）
+            git -c core.quotepath=false ls-tree -r --name-only HEAD > changed.txt
+          else
+            # -c core.quotepath=false 是关键：
+            # 不加的话中文文件名会被 git 转义成 \344\275\240... 这种八进制，
+            # 后面拼 URL 就全错了。
+            # --diff-filter=ACMR：只看 新增/复制/修改/重命名，删掉的文件不必清。
+            git -c core.quotepath=false diff --name-only --diff-filter=ACMR "$before" HEAD > changed.txt
+          fi
+
+          echo "改动文件数: $(grep -c . changed.txt || true)"
+          head -20 changed.txt
+
+      - name: 清 jsDelivr 缓存
+        env:
+          JSDELIVR_REPO: HKBrianNg/img-library
+          JSDELIVR_BRANCH: main
+        run: node scripts/purge-cdn.mjs --list=changed.txt --verify

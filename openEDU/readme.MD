@@ -32,17 +32,20 @@ node openEDU-check.js all
 node openEDU-check.js
 
 
-你现在的流程已经非常完善了：
+你现在的流程（2026-10-26 起，缓存这一步已经自动化了）：
 
-更新数据​ → 推送到 GitHub 仓库
+1. 更新数据 → 本地改 openEDU/ 下的 JSON / 图片
+2. 推送     → git push 到 GitHub main 分支
+3. 自动清理 → .github/workflows/purge-cdn.yml 触发，
+              对这次改动过的每个路径各调一次 jsDelivr purge
+4. 验证（可选）→ node scripts/purge-cdn.mjs --list=changed.txt --verify
+               或直接把 CDN 地址贴浏览器里看内容
 
-清理缓存​ → 运行 openEDU-purge.js（按课程或全部）
+新增的文件本来就没有缓存（push 完立刻可见），只有改过的文件需要清 ——
+所以 workflow 只对本次 diff 里真正变动的路径发请求，不做全量扫。
+手工补一次：GitHub → Actions → Purge CDN cache → Run workflow。
 
-验证数据​ → 运行 openEDU-check.js 确认 CDN 上已是最新
-
-这套组合拳可以确保 CDN 始终提供最新数据，不再被缓存困扰。如果想更进一步实现自动化，可以考虑：
-
-GitHub Actions 集成：在每次推送 openEDU/ 目录下的 JSON 文件时，自动触发 purge 脚本。
+这套组合拳可以确保 CDN 始终提供最新数据，不再被缓存困扰。
 
 好的，现在确认了脚本在 openEDU 目录内，管理后台的路径也调整正确，整个体系就通顺了。
 
