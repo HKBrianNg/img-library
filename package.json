@@ -1,0 +1,11 @@
+{
+  "name": "img-library-scripts",
+  "private": true,
+  "description": "维护图库的脚本：生成单词配图缩略图、清 jsDelivr 缓存",
+  "scripts": {
+    "thumbs": "node scripts/gen-thumbs.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
+}
