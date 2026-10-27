@@ -9,66 +9,77 @@
         {
           "name": "宾果",
           "en": "Bingo",
+          "artist": "Videogyan Nursery Rhymes",
           "audio": "/audio/bingo.mp3",
           "lyric": "/lyric/bingo.lrc"
         },
         {
           "name": "老麦克唐纳",
           "en": "Old Macdonald",
+          "artist": "Wee Sing",
           "audio": "/audio/old-macdonald.mp3",
           "lyric": "/lyric/old-macdonald.lrc"
         },
         {
           "name": "铃儿响叮当",
           "en": "Jingle Bells",
+          "artist": "Children's Christmas Favorites",
           "audio": "/audio/jingle-bells.mp3",
           "lyric": "/lyric/jingle-bells.lrc"
         },
         {
           "name": "雨啊雨快走开",
           "en": "Rain Rain Go Away",
+          "artist": "Super Simple Songs",
           "audio": "/audio/rain-rain-go-away.mp3",
           "lyric": "/lyric/rain-rain-go-away.lrc"
         },
         {
           "name": "你好吗",
           "en": "Hello How are you",
+          "artist": "The Kiboomers",
           "audio": "/audio/hello-hello-how-are-you.mp3",
           "lyric": "/lyric/hello-hello-how-are-you.lrc"
         },
         {
           "name": "别评判我",
           "en": "Don't Judge Me",
+          "artist": "未知",
           "audio": "/audio/don't-judge-me.mp3",
           "lyric": "/lyric/don't-judge-me.lrc"
         },
         {
           "name": "随它吧",
           "en": "Let It Go",
+          "artist": "Idina Menzel",
           "audio": "/audio/let-it-go.mp3",
           "lyric": "/lyric/let-it-go.lrc"
         },
         {
           "name": "划船歌",
           "en": "Row Row Row Your Boat",
+          "artist": "Larry Groce",
           "audio": "/audio/row-row-row-your-boat.mp3",
           "lyric": "/lyric/row-row-row-your-boat.lrc"
         },
         {
           "name": "小星星",
           "en": "Twinkle Star",
+          "artist": "Badanamu",
           "audio": "/audio/twinkle-star.mp3",
           "lyric": "/lyric/twinkle-star.lrc"
         },
         {
           "name": "巴士上的轮子",
           "en": "Wheels On The Bus",
+          "artist": "Cocomelon",
           "audio": "/audio/wheels-on-the-bus.mp3",
           "lyric": "/lyric/wheels-on-the-bus.lrc"
         },
         {
           "name": "蛋头先生",
           "en": "Humpty Dumpty",
+          "artist": "Dean Landon",
           "audio": "/audio/humpty-dumpty.mp3",
           "lyric": "/lyric/humpty-dumpty.lrc"
         }
@@ -81,69 +92,115 @@
         {
           "name": "情感",
           "en": "Emotion",
+          "artist": "Samantha Sang",
           "audio": "/audio/emotion.mp3",
           "lyric": "/lyric/emotion.lrc"
         },
         {
           "name": "嘿，朱迪",
           "en": "Hey Jude",
+          "artist": "The Beatles",
           "audio": "/audio/hey-jude.mp3",
           "lyric": "/lyric/hey-jude.lrc"
         },
         {
           "name": "你好",
           "en": "Hello",
+          "artist": "Adele",
           "audio": "/audio/hello.mp3",
           "lyric": "/lyric/hello.lrc"
         },
         {
           "name": "你的爱有多深",
           "en": "How Deep Is Your Love",
+          "artist": "Bee Gees",
           "audio": "/audio/how-deep-is-your-love.mp3",
           "lyric": "/lyric/how-deep-is-your-love.lrc"
         },
         {
           "name": "顺其自然",
           "en": "Let It Be",
+          "artist": "The Beatles",
           "audio": "/audio/let-it-be.mp3",
           "lyric": "/lyric/let-it-be.lrc"
         },
         {
           "name": "活着",
           "en": "Stayin' Alive",
+          "artist": "Bee Gees",
           "audio": "/audio/stayin-alive.mp3",
           "lyric": "/lyric/stayin-alive.lrc"
         },
         {
           "name": "爱上一个人",
           "en": "To Love Somebody",
+          "artist": "Bee Gees",
           "audio": "/audio/to-love-somebody.mp3",
           "lyric": "/lyric/to-love-somebody.lrc"
         },
         {
           "name": "我们才刚刚开始",
           "en": "We've Only Just Begun",
+          "artist": "Carpenters",
           "audio": "/audio/we've-only-just-begun.mp3",
           "lyric": "/lyric/we've-only-just-begun.lrc"
         },
         {
           "name": "昨日重现",
           "en": "Yesterday Once More",
+          "artist": "Carpenters",
           "audio": "/audio/yesterday-once-more.mp3",
           "lyric": "/lyric/yesterday-once-more.lrc"
         },
         {
           "name": "昨天",
           "en": "Yesterday",
+          "artist": "The Beatles",
           "audio": "/audio/yesterday.mp3",
           "lyric": "/lyric/yesterday.lrc"
         },
-        {"name": "在你身旁", "en": "Close To You", "audio": "/audio/close-to-you.aac", "lyric": "/lyric/close-to-you.lrc"},
-        {"name": "化装舞会", "en": "This Masquerade", "audio": "/audio/this-masquerade.mp3", "lyric": "/lyric/this-masquerade.lrc"},
-        {"name": "什锦菜(在河畔沼泽)", "en": "Jambalaya (On The Bayou)", "audio": "/audio/jambalaya-(on-the-bayou).mp3", "lyric": "/lyric/jambalaya-(on-the-bayou).lrc"},
-        {"name": "邮差先生", "en": "Please Mr Postman", "audio": "/audio/please-mr-postman.mp3", "lyric": "/lyric/please-mr-postman.lrc"},
-        {"name": "世界末日", "en": "The End Of The World", "audio": "/audio/the-end-of-the-world.mp3", "lyric": "/lyric/the-end-of-the-world.lrc"},
-        {"name": "你好", "en": "Hello Lionel Richie", "audio": "/audio/hello-lionel-richie.mp3", "lyric": "/lyric/hello-lionel-richie.lrc"}
+        {
+          "name": "在你身旁",
+          "en": "Close To You",
+          "artist": "Carpenters",
+          "audio": "/audio/close-to-you.aac",
+          "lyric": "/lyric/close-to-you.lrc"
+        },
+        {
+          "name": "化装舞会",
+          "en": "This Masquerade",
+          "artist": "Carpenters",
+          "audio": "/audio/this-masquerade.mp3",
+          "lyric": "/lyric/this-masquerade.lrc"
+        },
+        {
+          "name": "什锦菜(在河畔沼泽)",
+          "en": "Jambalaya (On The Bayou)",
+          "artist": "Carpenters",
+          "audio": "/audio/jambalaya-(on-the-bayou).mp3",
+          "lyric": "/lyric/jambalaya-(on-the-bayou).lrc"
+        },
+        {
+          "name": "邮差先生",
+          "en": "Please Mr Postman",
+          "artist": "Carpenters",
+          "audio": "/audio/please-mr-postman.mp3",
+          "lyric": "/lyric/please-mr-postman.lrc"
+        },
+        {
+          "name": "世界末日",
+          "en": "The End Of The World",
+          "artist": "Carpenters",
+          "audio": "/audio/the-end-of-the-world.mp3",
+          "lyric": "/lyric/the-end-of-the-world.lrc"
+        },
+        {
+          "name": "你好",
+          "en": "Hello Lionel Richie",
+          "artist": "Lionel Richie",
+          "audio": "/audio/hello-lionel-richie.mp3",
+          "lyric": "/lyric/hello-lionel-richie.lrc"
+        }
       ]
     }
   ]
