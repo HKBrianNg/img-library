@@ -1,0 +1,129 @@
+{
+  "title": "高尔夫球",
+  "titleEn": "Golf",
+  "description": "零基础系列课程：从握杆、站姿到推杆，按顺序一集一集学",
+  "descriptionEn": "A beginner series, from grip and posture through to putting — follow it in order",
+  "items": [
+    {
+      "id": 1,
+      "englishName": "Lesson 1: Grip, Posture and the Triangle Drill",
+      "chineseName": "第 1 堂：握杆、站姿、三角形拍球",
+      "channel": "長腿VIVI 老師",
+      "platform": "YouTube",
+      "durationPerEpisode": "4:01",
+      "url": "https://www.youtube.com/watch?v=zMFK1GBhj5c",
+      "description": "从零开始的第一课：怎么握、怎么站，再用拍球练习找感觉。",
+      "descriptionEn": "The first lesson: how to hold the club, how to stand, and a ball-bouncing drill for feel."
+    },
+    {
+      "id": 2,
+      "englishName": "Lesson 2: The Half Swing",
+      "chineseName": "第 2 堂：半挥杆",
+      "channel": "長腿VIVI 老師",
+      "platform": "YouTube",
+      "durationPerEpisode": "4:43",
+      "url": "https://www.youtube.com/watch?v=ALHfh14oDPE",
+      "description": "先别急着全挥，半挥杆把动作练顺。",
+      "descriptionEn": "Hold off on the full swing — the half swing is what grooves the motion."
+    },
+    {
+      "id": 3,
+      "englishName": "Lesson 3: The Full Backswing",
+      "chineseName": "第 3 堂：全挥上杆",
+      "channel": "長腿VIVI 老師",
+      "platform": "YouTube",
+      "durationPerEpisode": "4:40",
+      "url": "https://www.youtube.com/watch?v=3bp3xKVyOyc",
+      "description": "上杆到位了，下杆才有东西可用。",
+      "descriptionEn": "A complete backswing is what the downswing feeds on."
+    },
+    {
+      "id": 4,
+      "englishName": "Lesson 4: The Finish",
+      "chineseName": "第 4 堂：收杆",
+      "channel": "長腿VIVI 老師",
+      "platform": "YouTube",
+      "durationPerEpisode": "4:23",
+      "url": "https://www.youtube.com/watch?v=x2Ek4_q4LSc",
+      "description": "收杆姿势稳不稳，决定球飞得直不直。",
+      "descriptionEn": "A steady finish is what keeps the ball flying straight."
+    },
+    {
+      "id": 5,
+      "englishName": "Lesson 5: Hitting with Power",
+      "chineseName": "第 5 堂：发力击球",
+      "channel": "長腿VIVI 老師",
+      "platform": "YouTube",
+      "durationPerEpisode": "4:57",
+      "url": "https://www.youtube.com/watch?v=k4eK7wRoJGE",
+      "description": "力量从哪里来，什么时候放出去。",
+      "descriptionEn": "Where the power comes from, and when to release it."
+    },
+    {
+      "id": 6,
+      "englishName": "Lesson 6: Short Game Without the Fat Shot",
+      "chineseName": "第 6 堂：短杆，远离炒米粉",
+      "channel": "長腿VIVI 老師",
+      "platform": "YouTube",
+      "durationPerEpisode": "6:07",
+      "url": "https://www.youtube.com/watch?v=AWd7FuWI5KE",
+      "description": "打厚把草皮铲飞（球友戏称炒米粉），怎么避开这个失误。",
+      "descriptionEn": "How to stop hitting fat and tearing up the turf."
+    },
+    {
+      "id": 7,
+      "englishName": "Lesson 7: Making the Driver Simple",
+      "chineseName": "第 7 堂：把 1 号木变简单",
+      "channel": "長腿VIVI 老師",
+      "platform": "YouTube",
+      "durationPerEpisode": "4:57",
+      "url": "https://www.youtube.com/watch?v=0TvJ5a46r_k",
+      "description": "一号木不用打得那么复杂。",
+      "descriptionEn": "The driver does not have to be complicated."
+    },
+    {
+      "id": 8,
+      "englishName": "Lesson 8: More Distance with the Driver",
+      "chineseName": "第 8 堂：1 号木打得更远",
+      "channel": "長腿VIVI 老師",
+      "platform": "YouTube",
+      "durationPerEpisode": "5:45",
+      "url": "https://www.youtube.com/watch?v=j73bIvv-MF8",
+      "description": "在稳得住的前提下加距离。",
+      "descriptionEn": "Adding distance without losing control."
+    },
+    {
+      "id": 9,
+      "englishName": "Lesson 9: Putting — Where Strokes Are Saved",
+      "chineseName": "第 9 堂：推杆，赢球的关键",
+      "channel": "長腿VIVI 老師",
+      "platform": "YouTube",
+      "durationPerEpisode": "8:20",
+      "url": "https://www.youtube.com/watch?v=i89Sq7YszQQ",
+      "description": "一场球里推杆占的杆数最多，练它最划算。",
+      "descriptionEn": "Putting accounts for the most strokes in a round — the best use of practice time."
+    },
+    {
+      "id": 10,
+      "englishName": "Lesson 10: Reading the Green",
+      "chineseName": "第 10 堂：看懂果岭路线",
+      "channel": "長腿VIVI 老師",
+      "platform": "YouTube",
+      "durationPerEpisode": "12:16",
+      "url": "https://www.youtube.com/watch?v=3-sRjPav2jg",
+      "description": "果岭的坡往哪边倒，怎么看出来。",
+      "descriptionEn": "How to read which way a green breaks."
+    },
+    {
+      "id": 11,
+      "englishName": "Lesson 11: Controlling 30, 50 and 100 Yards",
+      "chineseName": "第 11 堂：30、50、100 码的距离控制",
+      "channel": "長腿VIVI 老師",
+      "platform": "YouTube",
+      "durationPerEpisode": "5:33",
+      "url": "https://www.youtube.com/watch?v=2X2Bq1QXaM8",
+      "description": "三个常用距离，各用几成力。",
+      "descriptionEn": "Three everyday distances — and how much swing each one needs."
+    }
+  ]
+}

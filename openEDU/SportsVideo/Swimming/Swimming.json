@@ -1,0 +1,58 @@
+{
+  "title": "游泳",
+  "titleEn": "Swimming",
+  "description": "四种泳姿的技术要点与常见错误",
+  "descriptionEn": "Technique tips and common mistakes across the four strokes",
+  "items": [
+    {
+      "id": 1,
+      "englishName": "Backstroke Hand Entry Technique for Better Swimming",
+      "chineseName": "仰泳入水手型",
+      "channel": "Swim With Khalid",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=42cmx760FHY",
+      "description": "手怎么入水、小指先还是拇指先，讲得很细。",
+      "descriptionEn": "How the hand enters the water — which finger leads, and why it matters."
+    },
+    {
+      "id": 2,
+      "englishName": "Most Common Streamline Mistakes",
+      "chineseName": "流线型常见错误",
+      "channel": "enduranceID",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=0kyb5erUncU",
+      "description": "出发和转身后的流线型，最容易做错的几个点。",
+      "descriptionEn": "The most common streamline errors off the start and the turn."
+    },
+    {
+      "id": 3,
+      "englishName": "Stop Getting Water Up Your Nose When Swimming!",
+      "chineseName": "游泳时鼻子不进水",
+      "channel": "Rocket Swimming",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=GsoqGnWh344",
+      "description": "换气时鼻子呛水的小技巧，初学者很实用。",
+      "descriptionEn": "A simple trick to stop water going up your nose when you breathe."
+    },
+    {
+      "id": 4,
+      "englishName": "Butterfly Swimming in open water",
+      "chineseName": "开放水域蝶泳",
+      "channel": "Swim like Pro",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=y14d1HqrDBo",
+      "description": "不在泳池里游蝶泳是什么样子。",
+      "descriptionEn": "What butterfly looks like outside the pool."
+    },
+    {
+      "id": 5,
+      "englishName": "50m Breaststroke",
+      "chineseName": "50 米蛙泳",
+      "channel": "AJENDRASWIM",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=RaAC3aUOyok",
+      "description": "一场 50 米蛙泳，看节奏和划水配合。",
+      "descriptionEn": "A 50m breaststroke race — watch the rhythm and timing."
+    }
+  ]
+}

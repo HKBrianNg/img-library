@@ -1,0 +1,28 @@
+{
+  "title": "足球",
+  "titleEn": "Football",
+  "description": "儿童足球入门：控球与基础训练",
+  "descriptionEn": "Soccer for young beginners — ball control and basic training",
+  "items": [
+    {
+      "id": 1,
+      "englishName": "Kindergarten Soccer Skills (Lesson 2): Ball Control",
+      "chineseName": "幼儿园足球课（第 2 课）：控球",
+      "channel": "Prime Coaching Sport",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=ekesFXtK8go&t=64s",
+      "description": "幼儿园这个年纪的控球练习，跟着做就行。",
+      "descriptionEn": "Ball-control practice pitched at kindergarten age — just follow along."
+    },
+    {
+      "id": 2,
+      "englishName": "Soccer Training for Beginners (Ages 6–9): Ball Control & Balance",
+      "chineseName": "6-9 岁足球入门（第 1 课）：控球与平衡",
+      "channel": "Soccer Brothers Academy",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=IG_nt31ltzc",
+      "description": "面向 6-9 岁初学者的第一节训练课，练控球和平衡。",
+      "descriptionEn": "The first session of a beginners' course for ages 6–9, covering ball control and balance."
+    }
+  ]
+}

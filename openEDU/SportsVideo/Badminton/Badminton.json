@@ -1,0 +1,58 @@
+{
+  "title": "羽毛球",
+  "titleEn": "Badminton",
+  "description": "多拍回合、极限救球与杀球步法",
+  "descriptionEn": "Long rallies, impossible saves, and the footwork behind a smash",
+  "items": [
+    {
+      "id": 1,
+      "englishName": "Long Rally Mixed Doubles | Smash Open",
+      "chineseName": "混双多拍回合",
+      "channel": "Original Badminton",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=TPXBL5dlTQw",
+      "description": "一分打很久，看双方怎么互相调动。",
+      "descriptionEn": "A marathon rally — watch how each side moves the other around."
+    },
+    {
+      "id": 2,
+      "englishName": "Carolina Marin's insane no-look shot",
+      "chineseName": "马林的不看球回击",
+      "channel": "Mini Shuttle",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=dzt31IjQq1E",
+      "description": "背对着球也能回过去，靠的是手感。",
+      "descriptionEn": "Returning the shuttle without looking — pure feel."
+    },
+    {
+      "id": 3,
+      "englishName": "Insane save at the end!!!",
+      "chineseName": "最后一刻的极限救球",
+      "channel": "Badminton Kannur",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=Q1NKGFK1Nn8",
+      "description": "眼看要落地了还能捞起来。",
+      "descriptionEn": "Somehow getting it back when it looked certain to land."
+    },
+    {
+      "id": 4,
+      "englishName": "Lakshya Sen's Footwork and smash",
+      "chineseName": "拉克什亚·森的步法与杀球",
+      "channel": "Badminton Palakkad",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=gClIqJ-3DKg",
+      "description": "从后场移动到起跳杀球的完整过程。",
+      "descriptionEn": "The full sequence from rear-court movement to the jumping smash."
+    },
+    {
+      "id": 5,
+      "englishName": "Lied down but Defence to the fullest",
+      "chineseName": "倒地也要救到底",
+      "channel": "Badminton Kannur",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=8Wiiy93kvj4",
+      "description": "已经摔在地上了还不放弃这一分。",
+      "descriptionEn": "Already on the floor and still refusing to lose the point."
+    }
+  ]
+}

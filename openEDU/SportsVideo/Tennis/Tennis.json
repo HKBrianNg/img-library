@@ -1,0 +1,58 @@
+{
+  "title": "网球",
+  "titleEn": "Tennis",
+  "description": "正手、反手与放小球，含技术讲解",
+  "descriptionEn": "Forehands, backhands and drop shots — with technique breakdowns",
+  "items": [
+    {
+      "id": 1,
+      "englishName": "How to Hit a Tennis Forehand (Deep vs Short)",
+      "chineseName": "正手击球：深球与短球",
+      "channel": "Filipe Teixeira",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=y1vBSrhz3Qg",
+      "description": "来球深浅不同，挥拍和站位怎么调整。",
+      "descriptionEn": "How your swing and setup change with a deep or a short ball."
+    },
+    {
+      "id": 2,
+      "englishName": "Jumping backhand drop shot goes crazy!",
+      "chineseName": "腾空反手放小球",
+      "channel": "Winston Du",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=0BTkCd9mezM",
+      "description": "跳起来反手放小球，胆子和手感都要有。",
+      "descriptionEn": "An airborne backhand drop shot — takes both nerve and touch."
+    },
+    {
+      "id": 3,
+      "englishName": "Elena Rybakina Shows True Sportsmanship",
+      "chineseName": "莱巴金娜的体育精神",
+      "channel": "Tennisrush",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=R77ucdhiMso",
+      "description": "比赛里让人服气的一个举动。",
+      "descriptionEn": "A moment of sportsmanship worth showing."
+    },
+    {
+      "id": 4,
+      "englishName": "This Left Arm Block Unlocks Massive Forehand Power",
+      "chineseName": "左手制动释放正手力量",
+      "channel": "Arti Tennis",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=f9PPb0e5sBQ",
+      "description": "非持手侧的制动动作，是正手发力的关键。",
+      "descriptionEn": "The off-arm block — the key to unlocking forehand power."
+    },
+    {
+      "id": 5,
+      "englishName": "This Tennis Trick Looks IMPOSSIBLE!",
+      "chineseName": "看似不可能的网球绝技",
+      "channel": "BrainBites",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=IElt3asjub8",
+      "description": "看着像假的，其实是手感加练习。",
+      "descriptionEn": "Looks fake, but it's touch plus a lot of practice."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "健身",
+  "titleEn": "Fitness",
+  "description": "在家就能练的动作，多数不需要器械",
+  "descriptionEn": "Workouts you can do at home — most of them need no equipment",
+  "items": [
+    {
+      "id": 1,
+      "englishName": "4 Easy Wall Exercises at Home",
+      "chineseName": "4 个靠墙动作：全身核心训练",
+      "channel": "XTREME FITNESS",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=K21gHfjtcvg",
+      "description": "一面墙就能练，适合刚开始的人。",
+      "descriptionEn": "Four moves using just a wall — good for beginners."
+    },
+    {
+      "id": 2,
+      "englishName": "Full Body Bodyweight Workout | No Equipment Home Routine",
+      "chineseName": "无器械全身自重训练",
+      "channel": "Anupam Chaudhary",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=ApwMgBmRzmE",
+      "description": "全程徒手，在家一套练完。",
+      "descriptionEn": "A complete no-equipment routine you can do at home."
+    },
+    {
+      "id": 3,
+      "englishName": "Full Body Burn Workout | 1 Move Home Workout Challenge",
+      "chineseName": "一个动作的全身燃脂挑战",
+      "channel": "AnjuFitDrive",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=GEJ3P4lrUK8",
+      "description": "只用一个动作，跟着做满就行。",
+      "descriptionEn": "One move, done for time — just keep up."
+    },
+    {
+      "id": 4,
+      "englishName": "Full body workout at home!",
+      "chineseName": "在家全身训练",
+      "channel": "MostlyFit",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=mxPt_ZvjyHc",
+      "description": "一套节奏不快的全身训练，容易跟得上。",
+      "descriptionEn": "A steady full-body routine that's easy to follow."
+    },
+    {
+      "id": 5,
+      "englishName": "Upper body home workout: chest, shoulders and biceps",
+      "chineseName": "在家练胸、肩和二头",
+      "channel": "Ginja Fit.",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=TlU00IldD68",
+      "description": "上半身为主，俯卧撑类动作偏多。",
+      "descriptionEn": "Upper-body focused, mostly push-up variations."
+    },
+    {
+      "id": 6,
+      "englishName": "Kettlebell Swing, Step by Step for Beginners",
+      "chineseName": "壶铃动作保姆级教学示范",
+      "channel": "小陈说健身",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/shorts/0OUwFMe5f3A",
+      "description": "新手练臀常见问题的壶铃动作教学，一步一步示范，中文讲解。",
+      "descriptionEn": "A step-by-step kettlebell tutorial on the mistakes beginners make when training glutes. In Chinese."
+    }
+  ]
+}

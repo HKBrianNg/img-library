@@ -1,0 +1,12 @@
+{
+  "title": "体育短片",
+  "titleEn": "Sports Shorts",
+  "description": "四个项目的短视频精选：看动作、学技巧",
+  "descriptionEn": "Short clips from four sports — watch the move, learn the technique",
+  "chapters": [
+    { "name": "高尔夫球", "en": "Golf", "contentLink": "Golf.json" },
+    { "name": "篮球", "en": "Basketball", "contentLink": "Basketball.json" },
+    { "name": "足球", "en": "Football", "contentLink": "Football.json" },
+    { "name": "健身", "en": "Fitness", "contentLink": "Fitness.json" }
+  ]
+}

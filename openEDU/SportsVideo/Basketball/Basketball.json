@@ -1,0 +1,18 @@
+{
+  "title": "篮球",
+  "titleEn": "Basketball",
+  "description": "面向青少年体育课的篮球基础教学",
+  "descriptionEn": "Basketball fundamentals, taught for youth PE classes",
+  "items": [
+    {
+      "id": 1,
+      "englishName": "Teach the basics of BASKETBALL for youth PE",
+      "chineseName": "篮球基础动作（青少年体育课版）",
+      "channel": "Prime Coaching Sport",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=tg-w45l2Ib0",
+      "description": "给青少年体育课用的篮球入门教学。",
+      "descriptionEn": "An introduction to basketball basics, aimed at youth PE lessons."
+    }
+  ]
+}
