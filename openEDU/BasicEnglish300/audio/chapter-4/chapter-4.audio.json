@@ -1,0 +1,999 @@
+{
+  "chapter": "chapter-4",
+  "entries": {
+    "0": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:29:39.880562"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:29:43.319590"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:29:45.448432"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:29:47.670447"
+      }
+    },
+    "1": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:29:49.699341"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:29:53.675368"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:29:55.945280"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:29:59.446606"
+      }
+    },
+    "2": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:30:02.250190"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:30:04.456361"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:30:06.543579"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:30:09.115307"
+      }
+    },
+    "3": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:30:11.456847"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:30:14.347250"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:30:17.466282"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:30:19.988343"
+      }
+    },
+    "4": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:30:22.211306"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:30:29.206059"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:30:31.319304"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:30:34.848457"
+      }
+    },
+    "5": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:30:36.893147"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:30:38.984818"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:30:41.269619"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:30:45.191841"
+      }
+    },
+    "6": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:30:47.174057"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:30:49.179010"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:30:51.240489"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:30:53.443054"
+      }
+    },
+    "7": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:30:56.578396"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:31:00.289741"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:31:02.860971"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:31:05.815255"
+      }
+    },
+    "8": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:31:09.555525"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:31:13.338911"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:31:15.525488"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:31:20.560831"
+      }
+    },
+    "9": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:31:24.038196"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:31:28.624232"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:31:30.986089"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:31:36.262869"
+      }
+    },
+    "10": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:31:40.408994"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:31:44.043868"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:31:46.843913"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:31:49.641063"
+      }
+    },
+    "11": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:31:53.022034"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:31:56.944569"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:32:00.237213"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:32:04.645033"
+      }
+    },
+    "12": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:32:09.345878"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:32:11.513679"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:32:14.833460"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:32:17.081648"
+      }
+    },
+    "13": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:32:20.718255"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:32:25.280288"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:32:29.535551"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:32:31.971748"
+      }
+    },
+    "14": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:32:34.111248"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:32:37.224966"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:32:39.650434"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      }
+    },
+    "15": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [指定的网络名不再可用。]"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      }
+    },
+    "16": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [指定的网络名不再可用。]"
+      }
+    },
+    "17": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [指定的网络名不再可用。]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      }
+    },
+    "18": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [指定的网络名不再可用。]"
+      }
+    },
+    "19": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      }
+    },
+    "20": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [指定的网络名不再可用。]"
+      }
+    },
+    "21": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:32:44.325107"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      }
+    },
+    "22": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:32:46.558189"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:32:49.179083"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:32:52.118812"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:32:55.343386"
+      }
+    },
+    "23": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:32:58.481377"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:33:03.350039"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:33:06.693698"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:33:10.339534"
+      }
+    },
+    "24": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:33:14.251856"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:33:16.701006"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:33:19.655619"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:33:22.162642"
+      }
+    },
+    "25": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:33:24.785799"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:33:27.653516"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:33:30.643321"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:33:32.844430"
+      }
+    },
+    "26": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:33:35.274043"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:33:38.130521"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:33:40.157101"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:33:44.228068"
+      }
+    },
+    "27": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:33:46.570023"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:33:49.630346"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:33:51.609907"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:33:53.590909"
+      }
+    },
+    "28": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:33:55.992488"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:34:02.108208"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:34:04.597692"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:34:06.646965"
+      }
+    },
+    "29": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:34:09.213003"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [远程计算机拒绝网络连接。]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Connection timeout to host wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=8211e4bbc47a4ba3bdcc10f5b95b0a9a&Sec-MS-GEC=8F3E9A3F90D7007E-30BDEC5066D8B11895D2229BD37189DBAC6B7865C17FB289E0A35CB74A957C5F&Sec-MS-GEC-Version=2-143.0.3650.75"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:34:59.449550"
+      }
+    },
+    "30": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:35:01.955777"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:35:04.536154"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:35:09.685613"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:35:13.088261"
+      }
+    },
+    "31": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:35:15.682714"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:35:18.691473"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      }
+    },
+    "32": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      }
+    },
+    "33": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      }
+    },
+    "34": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [指定的网络名不再可用。]"
+      }
+    },
+    "35": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [指定的网络名不再可用。]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      }
+    },
+    "36": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      }
+    },
+    "37": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [指定的网络名不再可用。]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      }
+    },
+    "38": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [指定的网络名不再可用。]"
+      }
+    },
+    "39": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [指定的网络名不再可用。]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:35:27.916947"
+      }
+    },
+    "40": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      }
+    },
+    "41": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      }
+    },
+    "42": {
+      "zh_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "zh_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_normal": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      },
+      "en_slow": {
+        "ok": false,
+        "error": "Cannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x0000026F1C7DD230> [None]"
+      }
+    },
+    "43": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:35:31.975228"
+      },
+      "zh_slow": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:35:37.730163"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-10-30T17:35:41.341499"
+      },
+      "en_slow": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-50%",
+        "generated_at": "2026-10-30T17:35:48.367794"
+      }
+    }
+  }
+}
