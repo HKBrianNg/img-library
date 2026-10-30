@@ -1,0 +1,122 @@
+[
+  {
+    "title": {
+      "zh": "你饿吗？",
+      "en": "You hungry?"
+    },
+    "content": {
+      "zh": "你饿吗？",
+      "en": "You hungry?"
+    }
+  },
+  {
+    "title": {
+      "zh": "我饿坏了。",
+      "en": "I'm starving."
+    },
+    "content": {
+      "zh": "我饿坏了。",
+      "en": "I'm starving."
+    }
+  },
+  {
+    "title": {
+      "zh": "咱们出去吃吧。",
+      "en": "Let's eat out."
+    },
+    "content": {
+      "zh": "咱们出去吃吧。",
+      "en": "Let's eat out."
+    }
+  },
+  {
+    "title": {
+      "zh": "我很乐意。",
+      "en": "I'd love to."
+    },
+    "content": {
+      "zh": "我很乐意。",
+      "en": "I'd love to."
+    }
+  },
+  {
+    "title": {
+      "zh": "尝一口。",
+      "en": "Try some."
+    },
+    "content": {
+      "zh": "尝一口。",
+      "en": "Try some."
+    }
+  },
+  {
+    "title": {
+      "zh": "真好吃。",
+      "en": "It's tasty."
+    },
+    "content": {
+      "zh": "真好吃。",
+      "en": "It's tasty."
+    }
+  },
+  {
+    "title": {
+      "zh": "我吃饱了。",
+      "en": "I'm full."
+    },
+    "content": {
+      "zh": "我吃饱了。",
+      "en": "I'm full."
+    }
+  },
+  {
+    "title": {
+      "zh": "我什么都吃。",
+      "en": "I eat anything."
+    },
+    "content": {
+      "zh": "我什么都吃。",
+      "en": "I eat anything."
+    }
+  },
+  {
+    "title": {
+      "zh": "在这儿吃还是带走？",
+      "en": "For here or to go?"
+    },
+    "content": {
+      "zh": "在这儿吃还是带走？",
+      "en": "For here or to go?"
+    }
+  },
+  {
+    "title": {
+      "zh": "干杯。",
+      "en": "Bottoms up."
+    },
+    "content": {
+      "zh": "干杯。",
+      "en": "Bottoms up."
+    }
+  },
+  {
+    "title": {
+      "zh": "在这儿吃。",
+      "en": "For here."
+    },
+    "content": {
+      "zh": "在这儿吃。",
+      "en": "For here."
+    }
+  },
+  {
+    "title": {
+      "zh": "带走。",
+      "en": "To go."
+    },
+    "content": {
+      "zh": "带走。",
+      "en": "To go."
+    }
+  }
+]

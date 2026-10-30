@@ -1,0 +1,82 @@
+[
+  {
+    "title": {
+      "zh": "我请客。",
+      "en": "My treat."
+    },
+    "content": {
+      "zh": "我请客。",
+      "en": "My treat."
+    }
+  },
+  {
+    "title": {
+      "zh": "多少钱？",
+      "en": "How much?"
+    },
+    "content": {
+      "zh": "多少钱？",
+      "en": "How much?"
+    }
+  },
+  {
+    "title": {
+      "zh": "有钱好办事。",
+      "en": "Money talks."
+    },
+    "content": {
+      "zh": "有钱好办事。",
+      "en": "Money talks."
+    }
+  },
+  {
+    "title": {
+      "zh": "对不起，请再说一遍。",
+      "en": "Pardon me."
+    },
+    "content": {
+      "zh": "对不起，请再说一遍。",
+      "en": "Pardon me."
+    }
+  },
+  {
+    "title": {
+      "zh": "我道歉。",
+      "en": "I apologize."
+    },
+    "content": {
+      "zh": "我道歉。",
+      "en": "I apologize."
+    }
+  },
+  {
+    "title": {
+      "zh": "请原谅我。",
+      "en": "Forgive me."
+    },
+    "content": {
+      "zh": "请原谅我。",
+      "en": "Forgive me."
+    }
+  },
+  {
+    "title": {
+      "zh": "我保证。",
+      "en": "I promise."
+    },
+    "content": {
+      "zh": "我保证。",
+      "en": "I promise."
+    }
+  },
+  {
+    "title": {
+      "zh": "答应我。",
+      "en": "Promise me."
+    },
+    "content": {
+      "zh": "答应我。",
+      "en": "Promise me."
+    }
+  }
+]

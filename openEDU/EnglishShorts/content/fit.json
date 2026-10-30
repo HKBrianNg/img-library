@@ -1,0 +1,72 @@
+[
+  {
+    "title": {
+      "zh": "合适吗？",
+      "en": "Does it fit?"
+    },
+    "content": {
+      "zh": "合适吗？",
+      "en": "Does it fit?"
+    }
+  },
+  {
+    "title": {
+      "zh": "正合适。",
+      "en": "Perfect fit."
+    },
+    "content": {
+      "zh": "正合适。",
+      "en": "Perfect fit."
+    }
+  },
+  {
+    "title": {
+      "zh": "好吗？行吗？",
+      "en": "Is it good?"
+    },
+    "content": {
+      "zh": "好吗？行吗？",
+      "en": "Is it good?"
+    }
+  },
+  {
+    "title": {
+      "zh": "你准备好了吗？",
+      "en": "You ready?"
+    },
+    "content": {
+      "zh": "你准备好了吗？",
+      "en": "You ready?"
+    }
+  },
+  {
+    "title": {
+      "zh": "我都准备好了。",
+      "en": "I'm all set."
+    },
+    "content": {
+      "zh": "我都准备好了。",
+      "en": "I'm all set."
+    }
+  },
+  {
+    "title": {
+      "zh": "不合身。",
+      "en": "It doesn't fit."
+    },
+    "content": {
+      "zh": "不合身。",
+      "en": "It doesn't fit."
+    }
+  },
+  {
+    "title": {
+      "zh": "太紧了。",
+      "en": "It's too tight."
+    },
+    "content": {
+      "zh": "太紧了。",
+      "en": "It's too tight."
+    }
+  }
+]

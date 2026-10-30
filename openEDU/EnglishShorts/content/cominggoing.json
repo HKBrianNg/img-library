@@ -1,0 +1,112 @@
+[
+  {
+    "title": {
+      "zh": "该走了。",
+      "en": "Time to go."
+    },
+    "content": {
+      "zh": "该走了。",
+      "en": "Time to go."
+    }
+  },
+  {
+    "title": {
+      "zh": "准备好了，可以走了。",
+      "en": "Ready to go."
+    },
+    "content": {
+      "zh": "准备好了，可以走了。",
+      "en": "Ready to go."
+    }
+  },
+  {
+    "title": {
+      "zh": "我回来了。",
+      "en": "I'm home."
+    },
+    "content": {
+      "zh": "我回来了。",
+      "en": "I'm home."
+    }
+  },
+  {
+    "title": {
+      "zh": "一起来吧。",
+      "en": "Come along."
+    },
+    "content": {
+      "zh": "一起来吧。",
+      "en": "Come along."
+    }
+  },
+  {
+    "title": {
+      "zh": "挪过去一点。",
+      "en": "Move over."
+    },
+    "content": {
+      "zh": "挪过去一点。",
+      "en": "Move over."
+    }
+  },
+  {
+    "title": {
+      "zh": "下来。",
+      "en": "Get down."
+    },
+    "content": {
+      "zh": "下来。",
+      "en": "Get down."
+    }
+  },
+  {
+    "title": {
+      "zh": "抓紧了。",
+      "en": "Hold on tight."
+    },
+    "content": {
+      "zh": "抓紧了。",
+      "en": "Hold on tight."
+    }
+  },
+  {
+    "title": {
+      "zh": "玩得开心。",
+      "en": "Have fun."
+    },
+    "content": {
+      "zh": "玩得开心。",
+      "en": "Have fun."
+    }
+  },
+  {
+    "title": {
+      "zh": "保重。",
+      "en": "Take care."
+    },
+    "content": {
+      "zh": "保重。",
+      "en": "Take care."
+    }
+  },
+  {
+    "title": {
+      "zh": "睡个好觉。",
+      "en": "Sleep tight."
+    },
+    "content": {
+      "zh": "睡个好觉。",
+      "en": "Sleep tight."
+    }
+  },
+  {
+    "title": {
+      "zh": "准备好了吗？",
+      "en": "Get ready."
+    },
+    "content": {
+      "zh": "准备好了吗？",
+      "en": "Get ready."
+    }
+  }
+]

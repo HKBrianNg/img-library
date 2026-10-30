@@ -1,0 +1,82 @@
+[
+  {
+    "title": {
+      "zh": "穿好衣服。",
+      "en": "Get dressed."
+    },
+    "content": {
+      "zh": "穿好衣服。",
+      "en": "Get dressed."
+    }
+  },
+  {
+    "title": {
+      "zh": "起床了。",
+      "en": "Wake up."
+    },
+    "content": {
+      "zh": "起床了。",
+      "en": "Wake up."
+    }
+  },
+  {
+    "title": {
+      "zh": "起来吧。",
+      "en": "Get up."
+    },
+    "content": {
+      "zh": "起来吧。",
+      "en": "Get up."
+    }
+  },
+  {
+    "title": {
+      "zh": "站起来。",
+      "en": "Stand up."
+    },
+    "content": {
+      "zh": "站起来。",
+      "en": "Stand up."
+    }
+  },
+  {
+    "title": {
+      "zh": "上楼去。",
+      "en": "Go upstairs."
+    },
+    "content": {
+      "zh": "上楼去。",
+      "en": "Go upstairs."
+    }
+  },
+  {
+    "title": {
+      "zh": "下楼去。",
+      "en": "Go downstairs."
+    },
+    "content": {
+      "zh": "下楼去。",
+      "en": "Go downstairs."
+    }
+  },
+  {
+    "title": {
+      "zh": "还没睡吗？",
+      "en": "Still up?"
+    },
+    "content": {
+      "zh": "还没睡吗？",
+      "en": "Still up?"
+    }
+  },
+  {
+    "title": {
+      "zh": "做个好梦。",
+      "en": "Sweet dreams."
+    },
+    "content": {
+      "zh": "做个好梦。",
+      "en": "Sweet dreams."
+    }
+  }
+]

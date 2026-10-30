@@ -1,0 +1,1928 @@
+{
+  "title": "英文短句",
+  "titleEn": "Everyday English Phrases",
+  "description": "native 脱口而出的两三词口语反应",
+  "descriptionEn": "Short everyday phrases native speakers blurt out",
+  "groups": [
+    {
+      "id": "manners",
+      "name": "礼貌用语",
+      "en": "Manners",
+      "icon": "🙇",
+      "items": [
+        {
+          "en": "May I come in?",
+          "name": "我可以进来吗？"
+        },
+        {
+          "en": "Please come in.",
+          "name": "请进。"
+        },
+        {
+          "en": "Have a seat.",
+          "name": "请坐。"
+        },
+        {
+          "en": "Help yourself.",
+          "name": "别客气，随便用。"
+        },
+        {
+          "en": "Enjoy your meal.",
+          "name": "请慢用。"
+        },
+        {
+          "en": "Take your time.",
+          "name": "慢慢来，不着急。"
+        },
+        {
+          "en": "Go ahead.",
+          "name": "你先请。"
+        }
+      ]
+    },
+    {
+      "id": "outabout",
+      "name": "出门与守时",
+      "en": "Out & About",
+      "icon": "🚪",
+      "items": [
+        {
+          "en": "Get in the car.",
+          "name": "上车吧。"
+        },
+        {
+          "en": "Tie your shoes.",
+          "name": "把鞋带系好。"
+        },
+        {
+          "en": "Dress warmly.",
+          "name": "穿暖和些。"
+        },
+        {
+          "en": "It's chilly out.",
+          "name": "外面挺冷的。"
+        },
+        {
+          "en": "Stay warm.",
+          "name": "注意保暖。"
+        },
+        {
+          "en": "Watch your step.",
+          "name": "小心脚下。"
+        },
+        {
+          "en": "Wait for me.",
+          "name": "等等我。"
+        },
+        {
+          "en": "No rush.",
+          "name": "不急。"
+        },
+        {
+          "en": "Hurry up.",
+          "name": "快点儿。"
+        },
+        {
+          "en": "I'm running late.",
+          "name": "我要迟到了。"
+        },
+        {
+          "en": "I forgot my keys.",
+          "name": "我忘带钥匙了。"
+        }
+      ]
+    },
+    {
+      "id": "mealtime",
+      "name": "一日三餐",
+      "en": "Meal Time",
+      "icon": "🍚",
+      "items": [
+        {
+          "en": "You hungry?",
+          "name": "你饿吗？"
+        },
+        {
+          "en": "I'm starving.",
+          "name": "我饿坏了。"
+        },
+        {
+          "en": "Let's eat out.",
+          "name": "咱们出去吃吧。"
+        },
+        {
+          "en": "I'd love to.",
+          "name": "我很乐意。"
+        },
+        {
+          "en": "Try some.",
+          "name": "尝一口。"
+        },
+        {
+          "en": "It's tasty.",
+          "name": "真好吃。"
+        },
+        {
+          "en": "I'm full.",
+          "name": "我吃饱了。"
+        },
+        {
+          "en": "I eat anything.",
+          "name": "我什么都吃。"
+        },
+        {
+          "en": "For here or to go?",
+          "name": "在这儿吃还是带走？"
+        },
+        {
+          "en": "Bottoms up.",
+          "name": "干杯。"
+        },
+        {
+          "en": "For here.",
+          "name": "在这儿吃。"
+        },
+        {
+          "en": "To go.",
+          "name": "带走。"
+        }
+      ]
+    },
+    {
+      "id": "sayagain",
+      "name": "没听清楚",
+      "en": "Say That Again",
+      "icon": "👂",
+      "items": [
+        {
+          "en": "I didn't catch that.",
+          "name": "我没听清。"
+        },
+        {
+          "en": "Come again?",
+          "name": "再说一遍？"
+        },
+        {
+          "en": "Louder please.",
+          "name": "请大点声。"
+        },
+        {
+          "en": "Did you hear me?",
+          "name": "你听见我说话了吗？"
+        },
+        {
+          "en": "Can we talk?",
+          "name": "我们能聊聊吗？"
+        },
+        {
+          "en": "It's hard to tell.",
+          "name": "说不好。"
+        }
+      ]
+    },
+    {
+      "id": "checkingin",
+      "name": "嘘寒问暖",
+      "en": "Checking In",
+      "icon": "🤗",
+      "items": [
+        {
+          "en": "You doing okay?",
+          "name": "你还好吧？"
+        },
+        {
+          "en": "Are you awake?",
+          "name": "你醒了吗？"
+        },
+        {
+          "en": "I don't feel well.",
+          "name": "我不舒服。"
+        },
+        {
+          "en": "I have a cold.",
+          "name": "我感冒了。"
+        },
+        {
+          "en": "Get some rest.",
+          "name": "好好休息。"
+        },
+        {
+          "en": "Drink more water.",
+          "name": "多喝点水。"
+        },
+        {
+          "en": "What's wrong?",
+          "name": "怎么了？"
+        },
+        {
+          "en": "Take it easy.",
+          "name": "别紧张，放轻松。"
+        },
+        {
+          "en": "Feel better.",
+          "name": "祝你早日康复。"
+        },
+        {
+          "en": "You look tired.",
+          "name": "你看起来有点累。"
+        },
+        {
+          "en": "Are you all right?",
+          "name": "你没事吧？"
+        },
+        {
+          "en": "I don't feel good.",
+          "name": "我不太舒服。"
+        }
+      ]
+    },
+    {
+      "id": "phone",
+      "name": "打电话",
+      "en": "On the Phone",
+      "icon": "📞",
+      "items": [
+        {
+          "en": "Answer the phone.",
+          "name": "接个电话。"
+        },
+        {
+          "en": "Wrong number.",
+          "name": "打错了。"
+        },
+        {
+          "en": "We got cut off.",
+          "name": "电话断了。"
+        },
+        {
+          "en": "Where were you?",
+          "name": "你刚刚在哪儿？"
+        },
+        {
+          "en": "Give me a call.",
+          "name": "给我打个电话。"
+        },
+        {
+          "en": "I can't get through.",
+          "name": "我打不通。"
+        },
+        {
+          "en": "Who's calling?",
+          "name": "谁打来的？"
+        },
+        {
+          "en": "My phone died.",
+          "name": "我手机没电了。"
+        },
+        {
+          "en": "The line is busy.",
+          "name": "电话占线。"
+        },
+        {
+          "en": "Who is this?",
+          "name": "你是谁？"
+        },
+        {
+          "en": "Hang up.",
+          "name": "挂电话吧。"
+        }
+      ]
+    },
+    {
+      "id": "cheerup",
+      "name": "加油打气",
+      "en": "Cheer Up",
+      "icon": "💪",
+      "items": [
+        {
+          "en": "Keep it up.",
+          "name": "继续保持！"
+        },
+        {
+          "en": "You can do it.",
+          "name": "你能行。"
+        },
+        {
+          "en": "Try your best.",
+          "name": "尽力就好。"
+        },
+        {
+          "en": "No worries.",
+          "name": "别担心。"
+        },
+        {
+          "en": "It's over now.",
+          "name": "都过去了。"
+        },
+        {
+          "en": "You're the best.",
+          "name": "你最棒了。"
+        },
+        {
+          "en": "I hope so.",
+          "name": "希望如此。"
+        },
+        {
+          "en": "Good for you.",
+          "name": "真为你高兴。"
+        },
+        {
+          "en": "Leave it to me.",
+          "name": "交给我吧。"
+        },
+        {
+          "en": "Take a deep breath.",
+          "name": "深呼吸一下。"
+        },
+        {
+          "en": "Trust me.",
+          "name": "相信我。"
+        },
+        {
+          "en": "Keep going.",
+          "name": "继续加油。"
+        },
+        {
+          "en": "I made it.",
+          "name": "我做到了。"
+        },
+        {
+          "en": "Go for it.",
+          "name": "放手去做吧。"
+        },
+        {
+          "en": "I'm behind you.",
+          "name": "我支持你。"
+        },
+        {
+          "en": "Hang in there.",
+          "name": "坚持住。"
+        },
+        {
+          "en": "You win.",
+          "name": "你赢了。"
+        },
+        {
+          "en": "Nailed it.",
+          "name": "漂亮，搞定了。"
+        },
+        {
+          "en": "Killed it.",
+          "name": "太厉害了。"
+        },
+        {
+          "en": "Well done.",
+          "name": "做得好。"
+        },
+        {
+          "en": "Nice one.",
+          "name": "漂亮。"
+        },
+        {
+          "en": "Good idea.",
+          "name": "好主意。"
+        },
+        {
+          "en": "Have faith.",
+          "name": "要有信心。"
+        },
+        {
+          "en": "Stay strong.",
+          "name": "坚强点。"
+        },
+        {
+          "en": "Stay cool.",
+          "name": "保持冷静。"
+        },
+        {
+          "en": "Stay true.",
+          "name": "做真实的自己。"
+        },
+        {
+          "en": "Stay focused.",
+          "name": "专注一点。"
+        },
+        {
+          "en": "Chin up.",
+          "name": "振作起来。"
+        },
+        {
+          "en": "Look ahead.",
+          "name": "往前看。"
+        },
+        {
+          "en": "Dream big.",
+          "name": "敢想敢做。"
+        },
+        {
+          "en": "Take chances.",
+          "name": "勇于尝试。"
+        },
+        {
+          "en": "Almost there.",
+          "name": "快到了。"
+        },
+        {
+          "en": "Don't worry.",
+          "name": "别担心。"
+        },
+        {
+          "en": "Cheer up.",
+          "name": "振作点。"
+        },
+        {
+          "en": "Good luck.",
+          "name": "祝你好运。"
+        }
+      ]
+    },
+    {
+      "id": "smalltalk",
+      "name": "朋友闲聊",
+      "en": "Small Talk",
+      "icon": "💬",
+      "items": [
+        {
+          "en": "How's it going?",
+          "name": "最近怎么样？"
+        },
+        {
+          "en": "Pretty good.",
+          "name": "挺好的。"
+        },
+        {
+          "en": "Sounds great.",
+          "name": "听起来不错。"
+        },
+        {
+          "en": "It's a long story.",
+          "name": "说来话长。"
+        },
+        {
+          "en": "I knew it.",
+          "name": "我早知道了。"
+        },
+        {
+          "en": "I told you so.",
+          "name": "我早说过吧。"
+        },
+        {
+          "en": "I don't think so.",
+          "name": "我不这么想。"
+        },
+        {
+          "en": "Do I know you?",
+          "name": "我们认识吗？"
+        },
+        {
+          "en": "You look familiar.",
+          "name": "你看着好眼熟。"
+        },
+        {
+          "en": "See you then.",
+          "name": "那到时候见。"
+        },
+        {
+          "en": "You scared me.",
+          "name": "你吓我一跳。"
+        },
+        {
+          "en": "What's up?",
+          "name": "怎么了？"
+        },
+        {
+          "en": "Not much.",
+          "name": "没什么。"
+        },
+        {
+          "en": "Can't complain.",
+          "name": "还行吧。"
+        },
+        {
+          "en": "Guess what.",
+          "name": "你猜怎么着。"
+        },
+        {
+          "en": "How come?",
+          "name": "怎么会呢？"
+        },
+        {
+          "en": "What else?",
+          "name": "还有呢？"
+        },
+        {
+          "en": "Like what?",
+          "name": "比如说？"
+        },
+        {
+          "en": "Just checking.",
+          "name": "随便问问。"
+        },
+        {
+          "en": "Anything new?",
+          "name": "有什么新鲜事吗？"
+        },
+        {
+          "en": "Sounds good.",
+          "name": "听起来不错。"
+        },
+        {
+          "en": "You're kidding.",
+          "name": "你在开玩笑吧。"
+        },
+        {
+          "en": "Good to see you.",
+          "name": "见到你很高兴。"
+        },
+        {
+          "en": "You too.",
+          "name": "你也是。"
+        },
+        {
+          "en": "Talk to you later.",
+          "name": "回头再聊。"
+        },
+        {
+          "en": "Catch you later.",
+          "name": "回头见。"
+        },
+        {
+          "en": "How did it go?",
+          "name": "进行得怎么样？"
+        },
+        {
+          "en": "Speak of the devil.",
+          "name": "说曹操曹操到。"
+        },
+        {
+          "en": "You don't say.",
+          "name": "真的吗？不会吧。"
+        },
+        {
+          "en": "Am I right?",
+          "name": "我说得对吧？"
+        },
+        {
+          "en": "How's everything?",
+          "name": "一切都好吗？"
+        },
+        {
+          "en": "Nothing much.",
+          "name": "没什么。"
+        },
+        {
+          "en": "What's new?",
+          "name": "有什么新鲜事吗？"
+        },
+        {
+          "en": "How so?",
+          "name": "怎么会这样？"
+        },
+        {
+          "en": "Pretty much.",
+          "name": "差不多吧。"
+        },
+        {
+          "en": "Who knows.",
+          "name": "谁知道呢。"
+        },
+        {
+          "en": "I guess.",
+          "name": "我想是吧。"
+        },
+        {
+          "en": "Beats me.",
+          "name": "我可不知道。"
+        },
+        {
+          "en": "No kidding.",
+          "name": "不开玩笑，真的。"
+        },
+        {
+          "en": "Just kidding.",
+          "name": "开玩笑的。"
+        },
+        {
+          "en": "You know.",
+          "name": "你知道的。"
+        },
+        {
+          "en": "You wish.",
+          "name": "你想得美。"
+        },
+        {
+          "en": "Good news.",
+          "name": "好消息。"
+        },
+        {
+          "en": "Poor thing.",
+          "name": "真可怜。"
+        },
+        {
+          "en": "Bless you.",
+          "name": "祝你平安。"
+        },
+        {
+          "en": "For what?",
+          "name": "为了什么？"
+        },
+        {
+          "en": "What happened?",
+          "name": "发生什么事了？"
+        }
+      ]
+    },
+    {
+      "id": "trouble",
+      "name": "遇上麻烦",
+      "en": "Trouble",
+      "icon": "😣",
+      "items": [
+        {
+          "en": "I'm in trouble.",
+          "name": "我有麻烦了。"
+        },
+        {
+          "en": "I overslept.",
+          "name": "我睡过头了。"
+        },
+        {
+          "en": "I had a nightmare.",
+          "name": "我做噩梦了。"
+        },
+        {
+          "en": "I didn't mean it.",
+          "name": "我不是故意的。"
+        },
+        {
+          "en": "It doesn't work.",
+          "name": "它坏了。"
+        },
+        {
+          "en": "Start over.",
+          "name": "重新开始。"
+        },
+        {
+          "en": "Help me out.",
+          "name": "帮帮我。"
+        },
+        {
+          "en": "I don't get it.",
+          "name": "我不明白。"
+        },
+        {
+          "en": "I messed up.",
+          "name": "我搞砸了。"
+        },
+        {
+          "en": "I'm sick of it.",
+          "name": "我受够了。"
+        }
+      ]
+    },
+    {
+      "id": "handy",
+      "name": "随时应对",
+      "en": "Handy Replies",
+      "icon": "⚡",
+      "items": [
+        {
+          "en": "Let's get started.",
+          "name": "我们开始吧。"
+        },
+        {
+          "en": "Here you are.",
+          "name": "给你。"
+        },
+        {
+          "en": "There you go.",
+          "name": "好了，就这样。"
+        },
+        {
+          "en": "Got a minute?",
+          "name": "有空吗？"
+        },
+        {
+          "en": "Right away.",
+          "name": "马上就来。"
+        },
+        {
+          "en": "Hold on.",
+          "name": "等一下。"
+        },
+        {
+          "en": "I'll be right back.",
+          "name": "我马上回来。"
+        },
+        {
+          "en": "Come closer.",
+          "name": "走近点儿。"
+        },
+        {
+          "en": "Anybody here?",
+          "name": "有人吗？"
+        },
+        {
+          "en": "Do I have to?",
+          "name": "非得这样吗？"
+        },
+        {
+          "en": "Got it.",
+          "name": "明白了。"
+        },
+        {
+          "en": "No problem.",
+          "name": "没问题。"
+        },
+        {
+          "en": "Here I am.",
+          "name": "我来了。"
+        },
+        {
+          "en": "Not yet.",
+          "name": "还没有。"
+        },
+        {
+          "en": "That's it.",
+          "name": "就是这样。"
+        },
+        {
+          "en": "I'll take this.",
+          "name": "我要这个。"
+        },
+        {
+          "en": "Listen up.",
+          "name": "听好了。"
+        },
+        {
+          "en": "Is that clear?",
+          "name": "明白了吗？"
+        },
+        {
+          "en": "We are all ears.",
+          "name": "我们洗耳恭听。"
+        },
+        {
+          "en": "I swear.",
+          "name": "我发誓。"
+        },
+        {
+          "en": "Touch wood.",
+          "name": "敲敲木头，但愿走好运。"
+        },
+        {
+          "en": "Just a moment.",
+          "name": "稍等一下。"
+        },
+        {
+          "en": "I'm on my way.",
+          "name": "我在路上了。"
+        },
+        {
+          "en": "I get it.",
+          "name": "我懂了。"
+        },
+        {
+          "en": "Are you ready?",
+          "name": "你准备好了吗？"
+        },
+        {
+          "en": "Can we make it?",
+          "name": "我们来得及吗？"
+        },
+        {
+          "en": "Don't rush me.",
+          "name": "别催我。"
+        },
+        {
+          "en": "That's enough.",
+          "name": "够了。"
+        },
+        {
+          "en": "Enough is enough.",
+          "name": "适可而止。"
+        },
+        {
+          "en": "Skip it.",
+          "name": "跳过吧，算了。"
+        },
+        {
+          "en": "Thanks for coming.",
+          "name": "谢谢你能来。"
+        },
+        {
+          "en": "This is it.",
+          "name": "就是这个。"
+        },
+        {
+          "en": "Hi there.",
+          "name": "你好呀。"
+        },
+        {
+          "en": "Welcome back.",
+          "name": "欢迎回来。"
+        },
+        {
+          "en": "All set.",
+          "name": "都准备好了。"
+        },
+        {
+          "en": "All right.",
+          "name": "好的。"
+        },
+        {
+          "en": "All done.",
+          "name": "做完了。"
+        },
+        {
+          "en": "Sure thing.",
+          "name": "没问题，当然。"
+        },
+        {
+          "en": "Of course.",
+          "name": "当然。"
+        },
+        {
+          "en": "I see.",
+          "name": "我明白了。"
+        },
+        {
+          "en": "Me too.",
+          "name": "我也是。"
+        },
+        {
+          "en": "My pleasure.",
+          "name": "我的荣幸。"
+        },
+        {
+          "en": "Come on.",
+          "name": "快点吧。"
+        },
+        {
+          "en": "Never mind.",
+          "name": "算了，没关系。"
+        },
+        {
+          "en": "Forget it.",
+          "name": "算了，别提了。"
+        },
+        {
+          "en": "Anything else?",
+          "name": "还有别的吗？"
+        },
+        {
+          "en": "Nothing else.",
+          "name": "没别的了。"
+        },
+        {
+          "en": "That's all.",
+          "name": "就这些。"
+        },
+        {
+          "en": "Any problem?",
+          "name": "有什么问题吗？"
+        },
+        {
+          "en": "Who's next?",
+          "name": "下一个是谁？"
+        },
+        {
+          "en": "Your turn.",
+          "name": "轮到你了。"
+        },
+        {
+          "en": "Save it.",
+          "name": "省省吧，别说了。"
+        },
+        {
+          "en": "Hold it.",
+          "name": "等一下。"
+        },
+        {
+          "en": "Show me.",
+          "name": "给我看看。"
+        },
+        {
+          "en": "Try this.",
+          "name": "试试这个。"
+        },
+        {
+          "en": "Get it?",
+          "name": "明白了吗？"
+        },
+        {
+          "en": "Say cheese.",
+          "name": "笑一个。"
+        },
+        {
+          "en": "Sing along.",
+          "name": "一起唱。"
+        },
+        {
+          "en": "Come in.",
+          "name": "请进。"
+        },
+        {
+          "en": "What's next?",
+          "name": "下一个是什么？"
+        }
+      ]
+    },
+    {
+      "id": "timetry",
+      "name": "时间与排队",
+      "en": "Time & Turns",
+      "icon": "⏰",
+      "items": [
+        {
+          "en": "What time is it?",
+          "name": "几点了？"
+        },
+        {
+          "en": "It's still early.",
+          "name": "还早着呢。"
+        },
+        {
+          "en": "It's getting late.",
+          "name": "天不早了。"
+        },
+        {
+          "en": "I got to go.",
+          "name": "我得走了。"
+        },
+        {
+          "en": "I'm in a hurry.",
+          "name": "我在赶时间。"
+        },
+        {
+          "en": "Line up please.",
+          "name": "请排好队。"
+        },
+        {
+          "en": "Let's take turns.",
+          "name": "我们轮流来。"
+        },
+        {
+          "en": "It's your turn.",
+          "name": "轮到你了。"
+        },
+        {
+          "en": "This is my floor.",
+          "name": "我到楼层了。"
+        },
+        {
+          "en": "What day is it today?",
+          "name": "今天星期几？"
+        },
+        {
+          "en": "Today is Friday.",
+          "name": "今天是星期五。"
+        },
+        {
+          "en": "Are you in line?",
+          "name": "你在排队吗？"
+        },
+        {
+          "en": "Let's call it a day.",
+          "name": "今天就到这儿吧。"
+        },
+        {
+          "en": "One second.",
+          "name": "稍等一下。"
+        },
+        {
+          "en": "Time flies.",
+          "name": "光阴似箭。"
+        }
+      ]
+    },
+    {
+      "id": "fit",
+      "name": "合不合适",
+      "en": "Does It Fit",
+      "icon": "🧩",
+      "items": [
+        {
+          "en": "Does it fit?",
+          "name": "合适吗？"
+        },
+        {
+          "en": "Perfect fit.",
+          "name": "正合适。"
+        },
+        {
+          "en": "Is it good?",
+          "name": "好吗？行吗？"
+        },
+        {
+          "en": "You ready?",
+          "name": "你准备好了吗？"
+        },
+        {
+          "en": "I'm all set.",
+          "name": "我都准备好了。"
+        },
+        {
+          "en": "It doesn't fit.",
+          "name": "不合身。"
+        },
+        {
+          "en": "It's too tight.",
+          "name": "太紧了。"
+        }
+      ]
+    },
+    {
+      "id": "visiting",
+      "name": "做客与寒暄",
+      "en": "Visiting",
+      "icon": "🏠",
+      "items": [
+        {
+          "en": "Come over.",
+          "name": "过来玩吧。"
+        },
+        {
+          "en": "After you.",
+          "name": "您先请。"
+        },
+        {
+          "en": "Allow me.",
+          "name": "让我来吧。"
+        },
+        {
+          "en": "Come on in.",
+          "name": "进来吧。"
+        },
+        {
+          "en": "It's on me.",
+          "name": "我请客。"
+        },
+        {
+          "en": "I appreciate it.",
+          "name": "太感谢了。"
+        },
+        {
+          "en": "Not at all.",
+          "name": "别客气。"
+        },
+        {
+          "en": "Be my guest.",
+          "name": "请便，别客气。"
+        },
+        {
+          "en": "Thanks a million.",
+          "name": "万分感谢。"
+        },
+        {
+          "en": "All the best.",
+          "name": "祝你一切顺利。"
+        }
+      ]
+    },
+    {
+      "id": "reactions",
+      "name": "随口评价",
+      "en": "Quick Reactions",
+      "icon": "👍",
+      "items": [
+        {
+          "en": "Nice try.",
+          "name": "想得美。"
+        },
+        {
+          "en": "Way to go.",
+          "name": "干得好！"
+        },
+        {
+          "en": "Good job.",
+          "name": "做得好。"
+        },
+        {
+          "en": "Not bad.",
+          "name": "还不错。"
+        },
+        {
+          "en": "Could be.",
+          "name": "有可能。"
+        },
+        {
+          "en": "That's right.",
+          "name": "没错。"
+        },
+        {
+          "en": "That's true.",
+          "name": "确实如此。"
+        },
+        {
+          "en": "That's impossible.",
+          "name": "这不可能。"
+        },
+        {
+          "en": "Absolutely not.",
+          "name": "绝对不行。"
+        },
+        {
+          "en": "Neither do I.",
+          "name": "我也不。"
+        },
+        {
+          "en": "Sort of.",
+          "name": "算是吧。"
+        },
+        {
+          "en": "Not really.",
+          "name": "不太算。"
+        },
+        {
+          "en": "Not exactly.",
+          "name": "不完全是。"
+        },
+        {
+          "en": "Who cares.",
+          "name": "谁在乎呢。"
+        },
+        {
+          "en": "Why not.",
+          "name": "为什么不呢。"
+        },
+        {
+          "en": "Same here.",
+          "name": "我也是。"
+        },
+        {
+          "en": "My mistake.",
+          "name": "我的错。"
+        },
+        {
+          "en": "I guess so.",
+          "name": "我想是吧。"
+        },
+        {
+          "en": "Are you sure?",
+          "name": "你确定吗？"
+        },
+        {
+          "en": "Are you serious?",
+          "name": "你是认真的吗？"
+        },
+        {
+          "en": "I doubt that.",
+          "name": "我表示怀疑。"
+        },
+        {
+          "en": "Believe it or not.",
+          "name": "信不信由你。"
+        },
+        {
+          "en": "No such thing.",
+          "name": "没这回事。"
+        },
+        {
+          "en": "It's nothing.",
+          "name": "没什么，小事一桩。"
+        },
+        {
+          "en": "It's all good.",
+          "name": "一切都好，没事。"
+        },
+        {
+          "en": "That's not fair.",
+          "name": "这不公平。"
+        },
+        {
+          "en": "Get real.",
+          "name": "现实点吧。"
+        },
+        {
+          "en": "You're telling me.",
+          "name": "可不是嘛。"
+        },
+        {
+          "en": "For real.",
+          "name": "说真的，真的吗？"
+        },
+        {
+          "en": "It happens.",
+          "name": "常有的事。"
+        },
+        {
+          "en": "Fair enough.",
+          "name": "说得也是。"
+        },
+        {
+          "en": "No offense.",
+          "name": "无意冒犯。"
+        },
+        {
+          "en": "No biggie.",
+          "name": "没什么大不了。"
+        },
+        {
+          "en": "No sweat.",
+          "name": "小意思。"
+        },
+        {
+          "en": "No doubt.",
+          "name": "毫无疑问。"
+        },
+        {
+          "en": "No wonder.",
+          "name": "怪不得。"
+        },
+        {
+          "en": "My bad.",
+          "name": "我的错。"
+        },
+        {
+          "en": "All good.",
+          "name": "一切都好。"
+        },
+        {
+          "en": "Too bad.",
+          "name": "太可惜了。"
+        },
+        {
+          "en": "You bet.",
+          "name": "当然，没错。"
+        },
+        {
+          "en": "I'll say.",
+          "name": "我也这么认为。"
+        },
+        {
+          "en": "I'm flattered.",
+          "name": "过奖了。"
+        },
+        {
+          "en": "It's impossible.",
+          "name": "这不可能。"
+        },
+        {
+          "en": "Kind of.",
+          "name": "有点儿，算是吧。"
+        }
+      ]
+    },
+    {
+      "id": "cominggoing",
+      "name": "出门与到达",
+      "en": "Coming & Going",
+      "icon": "🚶",
+      "items": [
+        {
+          "en": "Time to go.",
+          "name": "该走了。"
+        },
+        {
+          "en": "Ready to go.",
+          "name": "准备好了，可以走了。"
+        },
+        {
+          "en": "I'm home.",
+          "name": "我回来了。"
+        },
+        {
+          "en": "Come along.",
+          "name": "一起来吧。"
+        },
+        {
+          "en": "Move over.",
+          "name": "挪过去一点。"
+        },
+        {
+          "en": "Get down.",
+          "name": "下来。"
+        },
+        {
+          "en": "Hold on tight.",
+          "name": "抓紧了。"
+        },
+        {
+          "en": "Have fun.",
+          "name": "玩得开心。"
+        },
+        {
+          "en": "Take care.",
+          "name": "保重。"
+        },
+        {
+          "en": "Sleep tight.",
+          "name": "睡个好觉。"
+        },
+        {
+          "en": "Get ready.",
+          "name": "准备好了吗？"
+        }
+      ]
+    },
+    {
+      "id": "mood",
+      "name": "情绪与劝阻",
+      "en": "Calm Down",
+      "icon": "😤",
+      "items": [
+        {
+          "en": "Calm down.",
+          "name": "冷静点。"
+        },
+        {
+          "en": "Stop it.",
+          "name": "别闹了。"
+        },
+        {
+          "en": "Stop being rude.",
+          "name": "别这么没礼貌。"
+        },
+        {
+          "en": "Hold your tongue.",
+          "name": "别多嘴。"
+        },
+        {
+          "en": "Give me a break.",
+          "name": "饶了我吧。"
+        },
+        {
+          "en": "Leave me alone.",
+          "name": "别烦我。"
+        },
+        {
+          "en": "Don't bug me.",
+          "name": "别缠着我。"
+        },
+        {
+          "en": "Watch out.",
+          "name": "小心！"
+        },
+        {
+          "en": "Cut it out.",
+          "name": "别闹了，住手。"
+        },
+        {
+          "en": "Watch your mouth.",
+          "name": "说话注意点。"
+        },
+        {
+          "en": "Bite your tongue.",
+          "name": "忍住别说。"
+        },
+        {
+          "en": "Don't even try it.",
+          "name": "想都别想。"
+        },
+        {
+          "en": "Say no more.",
+          "name": "别再说了。"
+        },
+        {
+          "en": "Act your age.",
+          "name": "别孩子气了。"
+        },
+        {
+          "en": "Don't be silly.",
+          "name": "别傻了。"
+        },
+        {
+          "en": "Shame on you.",
+          "name": "真不害臊。"
+        },
+        {
+          "en": "Don't bother.",
+          "name": "别费心了。"
+        },
+        {
+          "en": "Give it up.",
+          "name": "放弃吧，别白费劲了。"
+        },
+        {
+          "en": "You asked for it.",
+          "name": "你自找的。"
+        },
+        {
+          "en": "Go easy.",
+          "name": "温和点，别太较真。"
+        },
+        {
+          "en": "Drop it.",
+          "name": "别说了，放下吧。"
+        },
+        {
+          "en": "Leave it.",
+          "name": "别管了。"
+        },
+        {
+          "en": "Let go.",
+          "name": "放手吧。"
+        },
+        {
+          "en": "Back off.",
+          "name": "退后，别逼我。"
+        },
+        {
+          "en": "Hands off.",
+          "name": "别碰。"
+        },
+        {
+          "en": "Get serious.",
+          "name": "认真点。"
+        },
+        {
+          "en": "Don't rush.",
+          "name": "别着急。"
+        },
+        {
+          "en": "Chill out.",
+          "name": "冷静点，放松。"
+        },
+        {
+          "en": "Be patient.",
+          "name": "耐心点。"
+        },
+        {
+          "en": "Be quiet.",
+          "name": "安静点。"
+        },
+        {
+          "en": "Keep silent.",
+          "name": "保持安静。"
+        },
+        {
+          "en": "Be careful.",
+          "name": "小心点。"
+        }
+      ]
+    },
+    {
+      "id": "decide",
+      "name": "拿不定主意",
+      "en": "Making Up Your Mind",
+      "icon": "🤔",
+      "items": [
+        {
+          "en": "Think it over.",
+          "name": "好好想想。"
+        },
+        {
+          "en": "Think twice.",
+          "name": "三思而行。"
+        },
+        {
+          "en": "It takes time.",
+          "name": "这事急不得。"
+        },
+        {
+          "en": "Time will tell.",
+          "name": "时间会给出答案。"
+        },
+        {
+          "en": "It's up to you.",
+          "name": "你来决定。"
+        },
+        {
+          "en": "Let me see.",
+          "name": "让我想想。"
+        },
+        {
+          "en": "I'd rather not.",
+          "name": "我还是算了。"
+        },
+        {
+          "en": "Let it be.",
+          "name": "随它去吧。"
+        },
+        {
+          "en": "Any day will do.",
+          "name": "哪天都行。"
+        },
+        {
+          "en": "It's about time.",
+          "name": "早该这样了。"
+        },
+        {
+          "en": "Come to the point.",
+          "name": "说重点吧。"
+        },
+        {
+          "en": "Say again?",
+          "name": "再说一遍？"
+        },
+        {
+          "en": "Since when?",
+          "name": "从什么时候开始的？"
+        },
+        {
+          "en": "Where to?",
+          "name": "去哪儿？"
+        },
+        {
+          "en": "What for?",
+          "name": "为了什么？"
+        },
+        {
+          "en": "Make up your mind.",
+          "name": "拿定主意吧。"
+        },
+        {
+          "en": "Give it a try.",
+          "name": "试一试。"
+        },
+        {
+          "en": "Whatever you say.",
+          "name": "随你说吧。"
+        },
+        {
+          "en": "Anything you say.",
+          "name": "你说什么都行。"
+        },
+        {
+          "en": "Fine with me.",
+          "name": "我没意见。"
+        },
+        {
+          "en": "Works for me.",
+          "name": "我这边没问题。"
+        },
+        {
+          "en": "Take it or leave it.",
+          "name": "要不要随你。"
+        },
+        {
+          "en": "Not a chance.",
+          "name": "没门儿。"
+        },
+        {
+          "en": "It isn't worth it.",
+          "name": "不值得。"
+        },
+        {
+          "en": "The sooner the better.",
+          "name": "越快越好。"
+        },
+        {
+          "en": "It depends.",
+          "name": "看情况。"
+        },
+        {
+          "en": "Suit yourself.",
+          "name": "随你便。"
+        },
+        {
+          "en": "Why bother.",
+          "name": "何必呢。"
+        },
+        {
+          "en": "I'm in.",
+          "name": "算我一个。"
+        },
+        {
+          "en": "I quit.",
+          "name": "我不干了。"
+        },
+        {
+          "en": "I decline.",
+          "name": "我拒绝。"
+        },
+        {
+          "en": "I agree.",
+          "name": "我同意。"
+        },
+        {
+          "en": "I disagree.",
+          "name": "我不同意。"
+        },
+        {
+          "en": "Give up.",
+          "name": "放弃吧。"
+        },
+        {
+          "en": "Try again.",
+          "name": "再试一次。"
+        },
+        {
+          "en": "Move on.",
+          "name": "继续往前吧。"
+        },
+        {
+          "en": "Right now.",
+          "name": "就现在。"
+        },
+        {
+          "en": "Not today.",
+          "name": "今天不行。"
+        }
+      ]
+    },
+    {
+      "id": "promises",
+      "name": "承诺与交情",
+      "en": "Promises & Favors",
+      "icon": "🤝",
+      "items": [
+        {
+          "en": "I owe you one.",
+          "name": "我欠你一个人情。"
+        },
+        {
+          "en": "You have my word.",
+          "name": "我向你保证。"
+        },
+        {
+          "en": "It's a deal.",
+          "name": "一言为定。"
+        },
+        {
+          "en": "We are even.",
+          "name": "我们扯平了。"
+        },
+        {
+          "en": "Count me in.",
+          "name": "算我一个。"
+        },
+        {
+          "en": "I mean it.",
+          "name": "我是认真的。"
+        },
+        {
+          "en": "As you wish.",
+          "name": "如你所愿。"
+        },
+        {
+          "en": "Believe me.",
+          "name": "相信我。"
+        }
+      ]
+    },
+    {
+      "id": "sides",
+      "name": "站队与认同",
+      "en": "Taking Sides",
+      "icon": "🙋",
+      "items": [
+        {
+          "en": "I'm with you.",
+          "name": "我跟你一起。"
+        },
+        {
+          "en": "I'm on your side.",
+          "name": "我站在你这边。"
+        },
+        {
+          "en": "You're the boss.",
+          "name": "你说了算。"
+        },
+        {
+          "en": "Same to you.",
+          "name": "你也一样。"
+        },
+        {
+          "en": "Ladies first.",
+          "name": "女士优先。"
+        },
+        {
+          "en": "Is this seat taken?",
+          "name": "这个位子有人吗？"
+        }
+      ]
+    },
+    {
+      "id": "clarity",
+      "name": "把话说清楚",
+      "en": "Getting Clear",
+      "icon": "🗣️",
+      "items": [
+        {
+          "en": "Speak up.",
+          "name": "大点声说。"
+        },
+        {
+          "en": "Long story short.",
+          "name": "长话短说。"
+        },
+        {
+          "en": "Change the subject.",
+          "name": "换个话题吧。"
+        },
+        {
+          "en": "Don't you see?",
+          "name": "你还不明白吗？"
+        },
+        {
+          "en": "Get out of here.",
+          "name": "少来了，别开玩笑了。"
+        },
+        {
+          "en": "Long story.",
+          "name": "说来话长。"
+        },
+        {
+          "en": "Joking aside.",
+          "name": "说正经的。"
+        },
+        {
+          "en": "Answer me.",
+          "name": "回答我。"
+        }
+      ]
+    },
+    {
+      "id": "routine",
+      "name": "起居作息",
+      "en": "Daily Routine",
+      "icon": "🌙",
+      "items": [
+        {
+          "en": "Get dressed.",
+          "name": "穿好衣服。"
+        },
+        {
+          "en": "Wake up.",
+          "name": "起床了。"
+        },
+        {
+          "en": "Get up.",
+          "name": "起来吧。"
+        },
+        {
+          "en": "Stand up.",
+          "name": "站起来。"
+        },
+        {
+          "en": "Go upstairs.",
+          "name": "上楼去。"
+        },
+        {
+          "en": "Go downstairs.",
+          "name": "下楼去。"
+        },
+        {
+          "en": "Still up?",
+          "name": "还没睡吗？"
+        },
+        {
+          "en": "Sweet dreams.",
+          "name": "做个好梦。"
+        }
+      ]
+    },
+    {
+      "id": "road",
+      "name": "路上与交通",
+      "en": "On the Road",
+      "icon": "🚗",
+      "items": [
+        {
+          "en": "Pull over.",
+          "name": "靠边停车。"
+        },
+        {
+          "en": "Go straight.",
+          "name": "一直往前走。"
+        },
+        {
+          "en": "Move aside.",
+          "name": "让一下。"
+        },
+        {
+          "en": "Drive safe.",
+          "name": "开车小心。"
+        },
+        {
+          "en": "Slow down.",
+          "name": "慢一点。"
+        },
+        {
+          "en": "Over there.",
+          "name": "在那边。"
+        },
+        {
+          "en": "This way.",
+          "name": "往这边走。"
+        },
+        {
+          "en": "Follow me.",
+          "name": "跟我来。"
+        }
+      ]
+    },
+    {
+      "id": "goodbye",
+      "name": "道别",
+      "en": "Saying Goodbye",
+      "icon": "👋",
+      "items": [
+        {
+          "en": "Got to go.",
+          "name": "我得走了。"
+        },
+        {
+          "en": "See you.",
+          "name": "再见。"
+        },
+        {
+          "en": "So long.",
+          "name": "再见啦。"
+        },
+        {
+          "en": "Come back.",
+          "name": "回来吧。"
+        }
+      ]
+    },
+    {
+      "id": "treating",
+      "name": "请客与致歉",
+      "en": "Treating & Sorry",
+      "icon": "🙏",
+      "items": [
+        {
+          "en": "My treat.",
+          "name": "我请客。"
+        },
+        {
+          "en": "How much?",
+          "name": "多少钱？"
+        },
+        {
+          "en": "Money talks.",
+          "name": "有钱好办事。"
+        },
+        {
+          "en": "Pardon me.",
+          "name": "对不起，请再说一遍。"
+        },
+        {
+          "en": "I apologize.",
+          "name": "我道歉。"
+        },
+        {
+          "en": "Forgive me.",
+          "name": "请原谅我。"
+        },
+        {
+          "en": "I promise.",
+          "name": "我保证。"
+        },
+        {
+          "en": "Promise me.",
+          "name": "答应我。"
+        }
+      ]
+    },
+    {
+      "id": "states",
+      "name": "状况与感受",
+      "en": "How Things Stand",
+      "icon": "😖",
+      "items": [
+        {
+          "en": "I'm beat.",
+          "name": "我累坏了。"
+        },
+        {
+          "en": "I'm done.",
+          "name": "我不干了。"
+        },
+        {
+          "en": "I'm confused.",
+          "name": "我被弄糊涂了。"
+        },
+        {
+          "en": "That hurts.",
+          "name": "好痛。"
+        },
+        {
+          "en": "It's over.",
+          "name": "都结束了。"
+        },
+        {
+          "en": "It works.",
+          "name": "管用了。"
+        },
+        {
+          "en": "No way.",
+          "name": "不会吧。"
+        },
+        {
+          "en": "Not again.",
+          "name": "又来了。"
+        },
+        {
+          "en": "No comment.",
+          "name": "无可奉告。"
+        },
+        {
+          "en": "Holy cow.",
+          "name": "天哪。"
+        },
+        {
+          "en": "What now?",
+          "name": "又怎么了？"
+        },
+        {
+          "en": "Everything's fine.",
+          "name": "一切都好。"
+        }
+      ]
+    }
+  ]
+}

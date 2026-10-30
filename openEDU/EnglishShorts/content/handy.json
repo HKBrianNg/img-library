@@ -1,0 +1,602 @@
+[
+  {
+    "title": {
+      "zh": "我们开始吧。",
+      "en": "Let's get started."
+    },
+    "content": {
+      "zh": "我们开始吧。",
+      "en": "Let's get started."
+    }
+  },
+  {
+    "title": {
+      "zh": "给你。",
+      "en": "Here you are."
+    },
+    "content": {
+      "zh": "给你。",
+      "en": "Here you are."
+    }
+  },
+  {
+    "title": {
+      "zh": "好了，就这样。",
+      "en": "There you go."
+    },
+    "content": {
+      "zh": "好了，就这样。",
+      "en": "There you go."
+    }
+  },
+  {
+    "title": {
+      "zh": "有空吗？",
+      "en": "Got a minute?"
+    },
+    "content": {
+      "zh": "有空吗？",
+      "en": "Got a minute?"
+    }
+  },
+  {
+    "title": {
+      "zh": "马上就来。",
+      "en": "Right away."
+    },
+    "content": {
+      "zh": "马上就来。",
+      "en": "Right away."
+    }
+  },
+  {
+    "title": {
+      "zh": "等一下。",
+      "en": "Hold on."
+    },
+    "content": {
+      "zh": "等一下。",
+      "en": "Hold on."
+    }
+  },
+  {
+    "title": {
+      "zh": "我马上回来。",
+      "en": "I'll be right back."
+    },
+    "content": {
+      "zh": "我马上回来。",
+      "en": "I'll be right back."
+    }
+  },
+  {
+    "title": {
+      "zh": "走近点儿。",
+      "en": "Come closer."
+    },
+    "content": {
+      "zh": "走近点儿。",
+      "en": "Come closer."
+    }
+  },
+  {
+    "title": {
+      "zh": "有人吗？",
+      "en": "Anybody here?"
+    },
+    "content": {
+      "zh": "有人吗？",
+      "en": "Anybody here?"
+    }
+  },
+  {
+    "title": {
+      "zh": "非得这样吗？",
+      "en": "Do I have to?"
+    },
+    "content": {
+      "zh": "非得这样吗？",
+      "en": "Do I have to?"
+    }
+  },
+  {
+    "title": {
+      "zh": "明白了。",
+      "en": "Got it."
+    },
+    "content": {
+      "zh": "明白了。",
+      "en": "Got it."
+    }
+  },
+  {
+    "title": {
+      "zh": "没问题。",
+      "en": "No problem."
+    },
+    "content": {
+      "zh": "没问题。",
+      "en": "No problem."
+    }
+  },
+  {
+    "title": {
+      "zh": "我来了。",
+      "en": "Here I am."
+    },
+    "content": {
+      "zh": "我来了。",
+      "en": "Here I am."
+    }
+  },
+  {
+    "title": {
+      "zh": "还没有。",
+      "en": "Not yet."
+    },
+    "content": {
+      "zh": "还没有。",
+      "en": "Not yet."
+    }
+  },
+  {
+    "title": {
+      "zh": "就是这样。",
+      "en": "That's it."
+    },
+    "content": {
+      "zh": "就是这样。",
+      "en": "That's it."
+    }
+  },
+  {
+    "title": {
+      "zh": "我要这个。",
+      "en": "I'll take this."
+    },
+    "content": {
+      "zh": "我要这个。",
+      "en": "I'll take this."
+    }
+  },
+  {
+    "title": {
+      "zh": "听好了。",
+      "en": "Listen up."
+    },
+    "content": {
+      "zh": "听好了。",
+      "en": "Listen up."
+    }
+  },
+  {
+    "title": {
+      "zh": "明白了吗？",
+      "en": "Is that clear?"
+    },
+    "content": {
+      "zh": "明白了吗？",
+      "en": "Is that clear?"
+    }
+  },
+  {
+    "title": {
+      "zh": "我们洗耳恭听。",
+      "en": "We are all ears."
+    },
+    "content": {
+      "zh": "我们洗耳恭听。",
+      "en": "We are all ears."
+    }
+  },
+  {
+    "title": {
+      "zh": "我发誓。",
+      "en": "I swear."
+    },
+    "content": {
+      "zh": "我发誓。",
+      "en": "I swear."
+    }
+  },
+  {
+    "title": {
+      "zh": "敲敲木头，但愿走好运。",
+      "en": "Touch wood."
+    },
+    "content": {
+      "zh": "敲敲木头，但愿走好运。",
+      "en": "Touch wood."
+    }
+  },
+  {
+    "title": {
+      "zh": "稍等一下。",
+      "en": "Just a moment."
+    },
+    "content": {
+      "zh": "稍等一下。",
+      "en": "Just a moment."
+    }
+  },
+  {
+    "title": {
+      "zh": "我在路上了。",
+      "en": "I'm on my way."
+    },
+    "content": {
+      "zh": "我在路上了。",
+      "en": "I'm on my way."
+    }
+  },
+  {
+    "title": {
+      "zh": "我懂了。",
+      "en": "I get it."
+    },
+    "content": {
+      "zh": "我懂了。",
+      "en": "I get it."
+    }
+  },
+  {
+    "title": {
+      "zh": "你准备好了吗？",
+      "en": "Are you ready?"
+    },
+    "content": {
+      "zh": "你准备好了吗？",
+      "en": "Are you ready?"
+    }
+  },
+  {
+    "title": {
+      "zh": "我们来得及吗？",
+      "en": "Can we make it?"
+    },
+    "content": {
+      "zh": "我们来得及吗？",
+      "en": "Can we make it?"
+    }
+  },
+  {
+    "title": {
+      "zh": "别催我。",
+      "en": "Don't rush me."
+    },
+    "content": {
+      "zh": "别催我。",
+      "en": "Don't rush me."
+    }
+  },
+  {
+    "title": {
+      "zh": "够了。",
+      "en": "That's enough."
+    },
+    "content": {
+      "zh": "够了。",
+      "en": "That's enough."
+    }
+  },
+  {
+    "title": {
+      "zh": "适可而止。",
+      "en": "Enough is enough."
+    },
+    "content": {
+      "zh": "适可而止。",
+      "en": "Enough is enough."
+    }
+  },
+  {
+    "title": {
+      "zh": "跳过吧，算了。",
+      "en": "Skip it."
+    },
+    "content": {
+      "zh": "跳过吧，算了。",
+      "en": "Skip it."
+    }
+  },
+  {
+    "title": {
+      "zh": "谢谢你能来。",
+      "en": "Thanks for coming."
+    },
+    "content": {
+      "zh": "谢谢你能来。",
+      "en": "Thanks for coming."
+    }
+  },
+  {
+    "title": {
+      "zh": "就是这个。",
+      "en": "This is it."
+    },
+    "content": {
+      "zh": "就是这个。",
+      "en": "This is it."
+    }
+  },
+  {
+    "title": {
+      "zh": "你好呀。",
+      "en": "Hi there."
+    },
+    "content": {
+      "zh": "你好呀。",
+      "en": "Hi there."
+    }
+  },
+  {
+    "title": {
+      "zh": "欢迎回来。",
+      "en": "Welcome back."
+    },
+    "content": {
+      "zh": "欢迎回来。",
+      "en": "Welcome back."
+    }
+  },
+  {
+    "title": {
+      "zh": "都准备好了。",
+      "en": "All set."
+    },
+    "content": {
+      "zh": "都准备好了。",
+      "en": "All set."
+    }
+  },
+  {
+    "title": {
+      "zh": "好的。",
+      "en": "All right."
+    },
+    "content": {
+      "zh": "好的。",
+      "en": "All right."
+    }
+  },
+  {
+    "title": {
+      "zh": "做完了。",
+      "en": "All done."
+    },
+    "content": {
+      "zh": "做完了。",
+      "en": "All done."
+    }
+  },
+  {
+    "title": {
+      "zh": "没问题，当然。",
+      "en": "Sure thing."
+    },
+    "content": {
+      "zh": "没问题，当然。",
+      "en": "Sure thing."
+    }
+  },
+  {
+    "title": {
+      "zh": "当然。",
+      "en": "Of course."
+    },
+    "content": {
+      "zh": "当然。",
+      "en": "Of course."
+    }
+  },
+  {
+    "title": {
+      "zh": "我明白了。",
+      "en": "I see."
+    },
+    "content": {
+      "zh": "我明白了。",
+      "en": "I see."
+    }
+  },
+  {
+    "title": {
+      "zh": "我也是。",
+      "en": "Me too."
+    },
+    "content": {
+      "zh": "我也是。",
+      "en": "Me too."
+    }
+  },
+  {
+    "title": {
+      "zh": "我的荣幸。",
+      "en": "My pleasure."
+    },
+    "content": {
+      "zh": "我的荣幸。",
+      "en": "My pleasure."
+    }
+  },
+  {
+    "title": {
+      "zh": "快点吧。",
+      "en": "Come on."
+    },
+    "content": {
+      "zh": "快点吧。",
+      "en": "Come on."
+    }
+  },
+  {
+    "title": {
+      "zh": "算了，没关系。",
+      "en": "Never mind."
+    },
+    "content": {
+      "zh": "算了，没关系。",
+      "en": "Never mind."
+    }
+  },
+  {
+    "title": {
+      "zh": "算了，别提了。",
+      "en": "Forget it."
+    },
+    "content": {
+      "zh": "算了，别提了。",
+      "en": "Forget it."
+    }
+  },
+  {
+    "title": {
+      "zh": "还有别的吗？",
+      "en": "Anything else?"
+    },
+    "content": {
+      "zh": "还有别的吗？",
+      "en": "Anything else?"
+    }
+  },
+  {
+    "title": {
+      "zh": "没别的了。",
+      "en": "Nothing else."
+    },
+    "content": {
+      "zh": "没别的了。",
+      "en": "Nothing else."
+    }
+  },
+  {
+    "title": {
+      "zh": "就这些。",
+      "en": "That's all."
+    },
+    "content": {
+      "zh": "就这些。",
+      "en": "That's all."
+    }
+  },
+  {
+    "title": {
+      "zh": "有什么问题吗？",
+      "en": "Any problem?"
+    },
+    "content": {
+      "zh": "有什么问题吗？",
+      "en": "Any problem?"
+    }
+  },
+  {
+    "title": {
+      "zh": "下一个是谁？",
+      "en": "Who's next?"
+    },
+    "content": {
+      "zh": "下一个是谁？",
+      "en": "Who's next?"
+    }
+  },
+  {
+    "title": {
+      "zh": "轮到你了。",
+      "en": "Your turn."
+    },
+    "content": {
+      "zh": "轮到你了。",
+      "en": "Your turn."
+    }
+  },
+  {
+    "title": {
+      "zh": "省省吧，别说了。",
+      "en": "Save it."
+    },
+    "content": {
+      "zh": "省省吧，别说了。",
+      "en": "Save it."
+    }
+  },
+  {
+    "title": {
+      "zh": "等一下。",
+      "en": "Hold it."
+    },
+    "content": {
+      "zh": "等一下。",
+      "en": "Hold it."
+    }
+  },
+  {
+    "title": {
+      "zh": "给我看看。",
+      "en": "Show me."
+    },
+    "content": {
+      "zh": "给我看看。",
+      "en": "Show me."
+    }
+  },
+  {
+    "title": {
+      "zh": "试试这个。",
+      "en": "Try this."
+    },
+    "content": {
+      "zh": "试试这个。",
+      "en": "Try this."
+    }
+  },
+  {
+    "title": {
+      "zh": "明白了吗？",
+      "en": "Get it?"
+    },
+    "content": {
+      "zh": "明白了吗？",
+      "en": "Get it?"
+    }
+  },
+  {
+    "title": {
+      "zh": "笑一个。",
+      "en": "Say cheese."
+    },
+    "content": {
+      "zh": "笑一个。",
+      "en": "Say cheese."
+    }
+  },
+  {
+    "title": {
+      "zh": "一起唱。",
+      "en": "Sing along."
+    },
+    "content": {
+      "zh": "一起唱。",
+      "en": "Sing along."
+    }
+  },
+  {
+    "title": {
+      "zh": "请进。",
+      "en": "Come in."
+    },
+    "content": {
+      "zh": "请进。",
+      "en": "Come in."
+    }
+  },
+  {
+    "title": {
+      "zh": "下一个是什么？",
+      "en": "What's next?"
+    },
+    "content": {
+      "zh": "下一个是什么？",
+      "en": "What's next?"
+    }
+  }
+]

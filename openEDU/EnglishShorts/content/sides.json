@@ -1,0 +1,62 @@
+[
+  {
+    "title": {
+      "zh": "我跟你一起。",
+      "en": "I'm with you."
+    },
+    "content": {
+      "zh": "我跟你一起。",
+      "en": "I'm with you."
+    }
+  },
+  {
+    "title": {
+      "zh": "我站在你这边。",
+      "en": "I'm on your side."
+    },
+    "content": {
+      "zh": "我站在你这边。",
+      "en": "I'm on your side."
+    }
+  },
+  {
+    "title": {
+      "zh": "你说了算。",
+      "en": "You're the boss."
+    },
+    "content": {
+      "zh": "你说了算。",
+      "en": "You're the boss."
+    }
+  },
+  {
+    "title": {
+      "zh": "你也一样。",
+      "en": "Same to you."
+    },
+    "content": {
+      "zh": "你也一样。",
+      "en": "Same to you."
+    }
+  },
+  {
+    "title": {
+      "zh": "女士优先。",
+      "en": "Ladies first."
+    },
+    "content": {
+      "zh": "女士优先。",
+      "en": "Ladies first."
+    }
+  },
+  {
+    "title": {
+      "zh": "这个位子有人吗？",
+      "en": "Is this seat taken?"
+    },
+    "content": {
+      "zh": "这个位子有人吗？",
+      "en": "Is this seat taken?"
+    }
+  }
+]

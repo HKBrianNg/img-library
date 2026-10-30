@@ -1,0 +1,102 @@
+[
+  {
+    "title": {
+      "zh": "我有麻烦了。",
+      "en": "I'm in trouble."
+    },
+    "content": {
+      "zh": "我有麻烦了。",
+      "en": "I'm in trouble."
+    }
+  },
+  {
+    "title": {
+      "zh": "我睡过头了。",
+      "en": "I overslept."
+    },
+    "content": {
+      "zh": "我睡过头了。",
+      "en": "I overslept."
+    }
+  },
+  {
+    "title": {
+      "zh": "我做噩梦了。",
+      "en": "I had a nightmare."
+    },
+    "content": {
+      "zh": "我做噩梦了。",
+      "en": "I had a nightmare."
+    }
+  },
+  {
+    "title": {
+      "zh": "我不是故意的。",
+      "en": "I didn't mean it."
+    },
+    "content": {
+      "zh": "我不是故意的。",
+      "en": "I didn't mean it."
+    }
+  },
+  {
+    "title": {
+      "zh": "它坏了。",
+      "en": "It doesn't work."
+    },
+    "content": {
+      "zh": "它坏了。",
+      "en": "It doesn't work."
+    }
+  },
+  {
+    "title": {
+      "zh": "重新开始。",
+      "en": "Start over."
+    },
+    "content": {
+      "zh": "重新开始。",
+      "en": "Start over."
+    }
+  },
+  {
+    "title": {
+      "zh": "帮帮我。",
+      "en": "Help me out."
+    },
+    "content": {
+      "zh": "帮帮我。",
+      "en": "Help me out."
+    }
+  },
+  {
+    "title": {
+      "zh": "我不明白。",
+      "en": "I don't get it."
+    },
+    "content": {
+      "zh": "我不明白。",
+      "en": "I don't get it."
+    }
+  },
+  {
+    "title": {
+      "zh": "我搞砸了。",
+      "en": "I messed up."
+    },
+    "content": {
+      "zh": "我搞砸了。",
+      "en": "I messed up."
+    }
+  },
+  {
+    "title": {
+      "zh": "我受够了。",
+      "en": "I'm sick of it."
+    },
+    "content": {
+      "zh": "我受够了。",
+      "en": "I'm sick of it."
+    }
+  }
+]

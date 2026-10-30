@@ -1,0 +1,72 @@
+[
+  {
+    "title": {
+      "zh": "我可以进来吗？",
+      "en": "May I come in?"
+    },
+    "content": {
+      "zh": "我可以进来吗？",
+      "en": "May I come in?"
+    }
+  },
+  {
+    "title": {
+      "zh": "请进。",
+      "en": "Please come in."
+    },
+    "content": {
+      "zh": "请进。",
+      "en": "Please come in."
+    }
+  },
+  {
+    "title": {
+      "zh": "请坐。",
+      "en": "Have a seat."
+    },
+    "content": {
+      "zh": "请坐。",
+      "en": "Have a seat."
+    }
+  },
+  {
+    "title": {
+      "zh": "别客气，随便用。",
+      "en": "Help yourself."
+    },
+    "content": {
+      "zh": "别客气，随便用。",
+      "en": "Help yourself."
+    }
+  },
+  {
+    "title": {
+      "zh": "请慢用。",
+      "en": "Enjoy your meal."
+    },
+    "content": {
+      "zh": "请慢用。",
+      "en": "Enjoy your meal."
+    }
+  },
+  {
+    "title": {
+      "zh": "慢慢来，不着急。",
+      "en": "Take your time."
+    },
+    "content": {
+      "zh": "慢慢来，不着急。",
+      "en": "Take your time."
+    }
+  },
+  {
+    "title": {
+      "zh": "你先请。",
+      "en": "Go ahead."
+    },
+    "content": {
+      "zh": "你先请。",
+      "en": "Go ahead."
+    }
+  }
+]

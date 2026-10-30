@@ -1,0 +1,382 @@
+[
+  {
+    "title": {
+      "zh": "好好想想。",
+      "en": "Think it over."
+    },
+    "content": {
+      "zh": "好好想想。",
+      "en": "Think it over."
+    }
+  },
+  {
+    "title": {
+      "zh": "三思而行。",
+      "en": "Think twice."
+    },
+    "content": {
+      "zh": "三思而行。",
+      "en": "Think twice."
+    }
+  },
+  {
+    "title": {
+      "zh": "这事急不得。",
+      "en": "It takes time."
+    },
+    "content": {
+      "zh": "这事急不得。",
+      "en": "It takes time."
+    }
+  },
+  {
+    "title": {
+      "zh": "时间会给出答案。",
+      "en": "Time will tell."
+    },
+    "content": {
+      "zh": "时间会给出答案。",
+      "en": "Time will tell."
+    }
+  },
+  {
+    "title": {
+      "zh": "你来决定。",
+      "en": "It's up to you."
+    },
+    "content": {
+      "zh": "你来决定。",
+      "en": "It's up to you."
+    }
+  },
+  {
+    "title": {
+      "zh": "让我想想。",
+      "en": "Let me see."
+    },
+    "content": {
+      "zh": "让我想想。",
+      "en": "Let me see."
+    }
+  },
+  {
+    "title": {
+      "zh": "我还是算了。",
+      "en": "I'd rather not."
+    },
+    "content": {
+      "zh": "我还是算了。",
+      "en": "I'd rather not."
+    }
+  },
+  {
+    "title": {
+      "zh": "随它去吧。",
+      "en": "Let it be."
+    },
+    "content": {
+      "zh": "随它去吧。",
+      "en": "Let it be."
+    }
+  },
+  {
+    "title": {
+      "zh": "哪天都行。",
+      "en": "Any day will do."
+    },
+    "content": {
+      "zh": "哪天都行。",
+      "en": "Any day will do."
+    }
+  },
+  {
+    "title": {
+      "zh": "早该这样了。",
+      "en": "It's about time."
+    },
+    "content": {
+      "zh": "早该这样了。",
+      "en": "It's about time."
+    }
+  },
+  {
+    "title": {
+      "zh": "说重点吧。",
+      "en": "Come to the point."
+    },
+    "content": {
+      "zh": "说重点吧。",
+      "en": "Come to the point."
+    }
+  },
+  {
+    "title": {
+      "zh": "再说一遍？",
+      "en": "Say again?"
+    },
+    "content": {
+      "zh": "再说一遍？",
+      "en": "Say again?"
+    }
+  },
+  {
+    "title": {
+      "zh": "从什么时候开始的？",
+      "en": "Since when?"
+    },
+    "content": {
+      "zh": "从什么时候开始的？",
+      "en": "Since when?"
+    }
+  },
+  {
+    "title": {
+      "zh": "去哪儿？",
+      "en": "Where to?"
+    },
+    "content": {
+      "zh": "去哪儿？",
+      "en": "Where to?"
+    }
+  },
+  {
+    "title": {
+      "zh": "为了什么？",
+      "en": "What for?"
+    },
+    "content": {
+      "zh": "为了什么？",
+      "en": "What for?"
+    }
+  },
+  {
+    "title": {
+      "zh": "拿定主意吧。",
+      "en": "Make up your mind."
+    },
+    "content": {
+      "zh": "拿定主意吧。",
+      "en": "Make up your mind."
+    }
+  },
+  {
+    "title": {
+      "zh": "试一试。",
+      "en": "Give it a try."
+    },
+    "content": {
+      "zh": "试一试。",
+      "en": "Give it a try."
+    }
+  },
+  {
+    "title": {
+      "zh": "随你说吧。",
+      "en": "Whatever you say."
+    },
+    "content": {
+      "zh": "随你说吧。",
+      "en": "Whatever you say."
+    }
+  },
+  {
+    "title": {
+      "zh": "你说什么都行。",
+      "en": "Anything you say."
+    },
+    "content": {
+      "zh": "你说什么都行。",
+      "en": "Anything you say."
+    }
+  },
+  {
+    "title": {
+      "zh": "我没意见。",
+      "en": "Fine with me."
+    },
+    "content": {
+      "zh": "我没意见。",
+      "en": "Fine with me."
+    }
+  },
+  {
+    "title": {
+      "zh": "我这边没问题。",
+      "en": "Works for me."
+    },
+    "content": {
+      "zh": "我这边没问题。",
+      "en": "Works for me."
+    }
+  },
+  {
+    "title": {
+      "zh": "要不要随你。",
+      "en": "Take it or leave it."
+    },
+    "content": {
+      "zh": "要不要随你。",
+      "en": "Take it or leave it."
+    }
+  },
+  {
+    "title": {
+      "zh": "没门儿。",
+      "en": "Not a chance."
+    },
+    "content": {
+      "zh": "没门儿。",
+      "en": "Not a chance."
+    }
+  },
+  {
+    "title": {
+      "zh": "不值得。",
+      "en": "It isn't worth it."
+    },
+    "content": {
+      "zh": "不值得。",
+      "en": "It isn't worth it."
+    }
+  },
+  {
+    "title": {
+      "zh": "越快越好。",
+      "en": "The sooner the better."
+    },
+    "content": {
+      "zh": "越快越好。",
+      "en": "The sooner the better."
+    }
+  },
+  {
+    "title": {
+      "zh": "看情况。",
+      "en": "It depends."
+    },
+    "content": {
+      "zh": "看情况。",
+      "en": "It depends."
+    }
+  },
+  {
+    "title": {
+      "zh": "随你便。",
+      "en": "Suit yourself."
+    },
+    "content": {
+      "zh": "随你便。",
+      "en": "Suit yourself."
+    }
+  },
+  {
+    "title": {
+      "zh": "何必呢。",
+      "en": "Why bother."
+    },
+    "content": {
+      "zh": "何必呢。",
+      "en": "Why bother."
+    }
+  },
+  {
+    "title": {
+      "zh": "算我一个。",
+      "en": "I'm in."
+    },
+    "content": {
+      "zh": "算我一个。",
+      "en": "I'm in."
+    }
+  },
+  {
+    "title": {
+      "zh": "我不干了。",
+      "en": "I quit."
+    },
+    "content": {
+      "zh": "我不干了。",
+      "en": "I quit."
+    }
+  },
+  {
+    "title": {
+      "zh": "我拒绝。",
+      "en": "I decline."
+    },
+    "content": {
+      "zh": "我拒绝。",
+      "en": "I decline."
+    }
+  },
+  {
+    "title": {
+      "zh": "我同意。",
+      "en": "I agree."
+    },
+    "content": {
+      "zh": "我同意。",
+      "en": "I agree."
+    }
+  },
+  {
+    "title": {
+      "zh": "我不同意。",
+      "en": "I disagree."
+    },
+    "content": {
+      "zh": "我不同意。",
+      "en": "I disagree."
+    }
+  },
+  {
+    "title": {
+      "zh": "放弃吧。",
+      "en": "Give up."
+    },
+    "content": {
+      "zh": "放弃吧。",
+      "en": "Give up."
+    }
+  },
+  {
+    "title": {
+      "zh": "再试一次。",
+      "en": "Try again."
+    },
+    "content": {
+      "zh": "再试一次。",
+      "en": "Try again."
+    }
+  },
+  {
+    "title": {
+      "zh": "继续往前吧。",
+      "en": "Move on."
+    },
+    "content": {
+      "zh": "继续往前吧。",
+      "en": "Move on."
+    }
+  },
+  {
+    "title": {
+      "zh": "就现在。",
+      "en": "Right now."
+    },
+    "content": {
+      "zh": "就现在。",
+      "en": "Right now."
+    }
+  },
+  {
+    "title": {
+      "zh": "今天不行。",
+      "en": "Not today."
+    },
+    "content": {
+      "zh": "今天不行。",
+      "en": "Not today."
+    }
+  }
+]

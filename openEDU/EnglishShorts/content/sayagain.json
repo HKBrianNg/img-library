@@ -1,0 +1,62 @@
+[
+  {
+    "title": {
+      "zh": "我没听清。",
+      "en": "I didn't catch that."
+    },
+    "content": {
+      "zh": "我没听清。",
+      "en": "I didn't catch that."
+    }
+  },
+  {
+    "title": {
+      "zh": "再说一遍？",
+      "en": "Come again?"
+    },
+    "content": {
+      "zh": "再说一遍？",
+      "en": "Come again?"
+    }
+  },
+  {
+    "title": {
+      "zh": "请大点声。",
+      "en": "Louder please."
+    },
+    "content": {
+      "zh": "请大点声。",
+      "en": "Louder please."
+    }
+  },
+  {
+    "title": {
+      "zh": "你听见我说话了吗？",
+      "en": "Did you hear me?"
+    },
+    "content": {
+      "zh": "你听见我说话了吗？",
+      "en": "Did you hear me?"
+    }
+  },
+  {
+    "title": {
+      "zh": "我们能聊聊吗？",
+      "en": "Can we talk?"
+    },
+    "content": {
+      "zh": "我们能聊聊吗？",
+      "en": "Can we talk?"
+    }
+  },
+  {
+    "title": {
+      "zh": "说不好。",
+      "en": "It's hard to tell."
+    },
+    "content": {
+      "zh": "说不好。",
+      "en": "It's hard to tell."
+    }
+  }
+]

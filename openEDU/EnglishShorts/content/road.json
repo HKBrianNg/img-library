@@ -1,0 +1,82 @@
+[
+  {
+    "title": {
+      "zh": "靠边停车。",
+      "en": "Pull over."
+    },
+    "content": {
+      "zh": "靠边停车。",
+      "en": "Pull over."
+    }
+  },
+  {
+    "title": {
+      "zh": "一直往前走。",
+      "en": "Go straight."
+    },
+    "content": {
+      "zh": "一直往前走。",
+      "en": "Go straight."
+    }
+  },
+  {
+    "title": {
+      "zh": "让一下。",
+      "en": "Move aside."
+    },
+    "content": {
+      "zh": "让一下。",
+      "en": "Move aside."
+    }
+  },
+  {
+    "title": {
+      "zh": "开车小心。",
+      "en": "Drive safe."
+    },
+    "content": {
+      "zh": "开车小心。",
+      "en": "Drive safe."
+    }
+  },
+  {
+    "title": {
+      "zh": "慢一点。",
+      "en": "Slow down."
+    },
+    "content": {
+      "zh": "慢一点。",
+      "en": "Slow down."
+    }
+  },
+  {
+    "title": {
+      "zh": "在那边。",
+      "en": "Over there."
+    },
+    "content": {
+      "zh": "在那边。",
+      "en": "Over there."
+    }
+  },
+  {
+    "title": {
+      "zh": "往这边走。",
+      "en": "This way."
+    },
+    "content": {
+      "zh": "往这边走。",
+      "en": "This way."
+    }
+  },
+  {
+    "title": {
+      "zh": "跟我来。",
+      "en": "Follow me."
+    },
+    "content": {
+      "zh": "跟我来。",
+      "en": "Follow me."
+    }
+  }
+]

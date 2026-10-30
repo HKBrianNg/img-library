@@ -1,0 +1,122 @@
+[
+  {
+    "title": {
+      "zh": "你还好吧？",
+      "en": "You doing okay?"
+    },
+    "content": {
+      "zh": "你还好吧？",
+      "en": "You doing okay?"
+    }
+  },
+  {
+    "title": {
+      "zh": "你醒了吗？",
+      "en": "Are you awake?"
+    },
+    "content": {
+      "zh": "你醒了吗？",
+      "en": "Are you awake?"
+    }
+  },
+  {
+    "title": {
+      "zh": "我不舒服。",
+      "en": "I don't feel well."
+    },
+    "content": {
+      "zh": "我不舒服。",
+      "en": "I don't feel well."
+    }
+  },
+  {
+    "title": {
+      "zh": "我感冒了。",
+      "en": "I have a cold."
+    },
+    "content": {
+      "zh": "我感冒了。",
+      "en": "I have a cold."
+    }
+  },
+  {
+    "title": {
+      "zh": "好好休息。",
+      "en": "Get some rest."
+    },
+    "content": {
+      "zh": "好好休息。",
+      "en": "Get some rest."
+    }
+  },
+  {
+    "title": {
+      "zh": "多喝点水。",
+      "en": "Drink more water."
+    },
+    "content": {
+      "zh": "多喝点水。",
+      "en": "Drink more water."
+    }
+  },
+  {
+    "title": {
+      "zh": "怎么了？",
+      "en": "What's wrong?"
+    },
+    "content": {
+      "zh": "怎么了？",
+      "en": "What's wrong?"
+    }
+  },
+  {
+    "title": {
+      "zh": "别紧张，放轻松。",
+      "en": "Take it easy."
+    },
+    "content": {
+      "zh": "别紧张，放轻松。",
+      "en": "Take it easy."
+    }
+  },
+  {
+    "title": {
+      "zh": "祝你早日康复。",
+      "en": "Feel better."
+    },
+    "content": {
+      "zh": "祝你早日康复。",
+      "en": "Feel better."
+    }
+  },
+  {
+    "title": {
+      "zh": "你看起来有点累。",
+      "en": "You look tired."
+    },
+    "content": {
+      "zh": "你看起来有点累。",
+      "en": "You look tired."
+    }
+  },
+  {
+    "title": {
+      "zh": "你没事吧？",
+      "en": "Are you all right?"
+    },
+    "content": {
+      "zh": "你没事吧？",
+      "en": "Are you all right?"
+    }
+  },
+  {
+    "title": {
+      "zh": "我不太舒服。",
+      "en": "I don't feel good."
+    },
+    "content": {
+      "zh": "我不太舒服。",
+      "en": "I don't feel good."
+    }
+  }
+]
