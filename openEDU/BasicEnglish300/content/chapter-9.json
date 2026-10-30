@@ -3,18 +3,10 @@
     "title": {
       "zh": "我们来画画吧",
       "en": "Let's draw something."
-    },
-    "content": {
-      "zh": "我们来画画吧",
-      "en": "Let's draw something."
     }
   },
   {
     "title": {
-      "zh": "我们来填色吧",
-      "en": "Let's color it."
-    },
-    "content": {
       "zh": "我们来填色吧",
       "en": "Let's color it."
     }
@@ -23,18 +15,10 @@
     "title": {
       "zh": "你可以为我画朵花吗",
       "en": "Can you draw me a flower?"
-    },
-    "content": {
-      "zh": "你可以为我画朵花吗",
-      "en": "Can you draw me a flower?"
     }
   },
   {
     "title": {
-      "zh": "把它涂成红色吧",
-      "en": "Color it red."
-    },
-    "content": {
       "zh": "把它涂成红色吧",
       "en": "Color it red."
     }
@@ -43,18 +27,10 @@
     "title": {
       "zh": "你可以把花剪下来",
       "en": "You can cut the flower out."
-    },
-    "content": {
-      "zh": "你可以把花剪下来",
-      "en": "You can cut the flower out."
     }
   },
   {
     "title": {
-      "zh": "我们需要一把儿童剪刀",
-      "en": "We need a pair of children's scissors."
-    },
-    "content": {
       "zh": "我们需要一把儿童剪刀",
       "en": "We need a pair of children's scissors."
     }
@@ -63,18 +39,10 @@
     "title": {
       "zh": "像妈妈这样拿剪刀",
       "en": "Hold the scissors like mom does."
-    },
-    "content": {
-      "zh": "像妈妈这样拿剪刀",
-      "en": "Hold the scissors like mom does."
     }
   },
   {
     "title": {
-      "zh": "小心不要剪到手了",
-      "en": "Be careful not to cut your hand."
-    },
-    "content": {
       "zh": "小心不要剪到手了",
       "en": "Be careful not to cut your hand."
     }
@@ -83,18 +51,10 @@
     "title": {
       "zh": "把花贴到这里吧",
       "en": "Stick the flower here."
-    },
-    "content": {
-      "zh": "把花贴到这里吧",
-      "en": "Stick the flower here."
     }
   },
   {
     "title": {
-      "zh": "把胶水涂在背面",
-      "en": "Put some glue on the back."
-    },
-    "content": {
       "zh": "把胶水涂在背面",
       "en": "Put some glue on the back."
     }
@@ -103,18 +63,10 @@
     "title": {
       "zh": "你要玩积木吗",
       "en": "Do you want to play with the blocks?"
-    },
-    "content": {
-      "zh": "你要玩积木吗",
-      "en": "Do you want to play with the blocks?"
     }
   },
   {
     "title": {
-      "zh": "我们来玩积木吧",
-      "en": "Let's play with the blocks."
-    },
-    "content": {
       "zh": "我们来玩积木吧",
       "en": "Let's play with the blocks."
     }
@@ -123,18 +75,10 @@
     "title": {
       "zh": "我们把积木倒出来吧",
       "en": "Let's pour out the blocks."
-    },
-    "content": {
-      "zh": "我们把积木倒出来吧",
-      "en": "Let's pour out the blocks."
     }
   },
   {
     "title": {
-      "zh": "你能用积木搭什么",
-      "en": "What can you build with the blocks?"
-    },
-    "content": {
       "zh": "你能用积木搭什么",
       "en": "What can you build with the blocks?"
     }
@@ -143,18 +87,10 @@
     "title": {
       "zh": "试一试",
       "en": "Give it a shot."
-    },
-    "content": {
-      "zh": "试一试",
-      "en": "Give it a shot."
     }
   },
   {
     "title": {
-      "zh": "坚持",
-      "en": "Keep going."
-    },
-    "content": {
       "zh": "坚持",
       "en": "Keep going."
     }
@@ -163,18 +99,10 @@
     "title": {
       "zh": "给你",
       "en": "Here you go."
-    },
-    "content": {
-      "zh": "给你",
-      "en": "Here you go."
     }
   },
   {
     "title": {
-      "zh": "哇你搭成功了",
-      "en": "Wow, you made something!"
-    },
-    "content": {
       "zh": "哇你搭成功了",
       "en": "Wow, you made something!"
     }
@@ -183,18 +111,10 @@
     "title": {
       "zh": "玩完了把积木收到盒子里",
       "en": "When you're done, put the blocks back in the box."
-    },
-    "content": {
-      "zh": "玩完了把积木收到盒子里",
-      "en": "When you're done, put the blocks back in the box."
     }
   },
   {
     "title": {
-      "zh": "玩完把玩具收好",
-      "en": "Put away your toys when you're done playing."
-    },
-    "content": {
       "zh": "玩完把玩具收好",
       "en": "Put away your toys when you're done playing."
     }
@@ -203,18 +123,10 @@
     "title": {
       "zh": "你吹牛",
       "en": "Oh, baloney!"
-    },
-    "content": {
-      "zh": "你吹牛",
-      "en": "Oh, baloney!"
     }
   },
   {
     "title": {
-      "zh": "我完成了",
-      "en": "I'm done."
-    },
-    "content": {
       "zh": "我完成了",
       "en": "I'm done."
     }
@@ -223,28 +135,16 @@
     "title": {
       "zh": "小气鬼",
       "en": "You big stinker."
-    },
-    "content": {
-      "zh": "小气鬼",
-      "en": "You big stinker."
     }
   },
   {
     "title": {
       "zh": "输了别耍赖哦",
       "en": "No cheating!"
-    },
-    "content": {
-      "zh": "输了别耍赖哦",
-      "en": "No cheating!"
     }
   },
   {
     "title": {
-      "zh": "你赢了太厉害了吧",
-      "en": "You won! What a rock star!"
-    },
-    "content": {
       "zh": "你赢了太厉害了吧",
       "en": "You won! What a rock star!"
     }

@@ -3,18 +3,10 @@
     "title": {
       "zh": "先换拖鞋",
       "en": "Change into your slippers first."
-    },
-    "content": {
-      "zh": "先换拖鞋",
-      "en": "Change into your slippers first."
     }
   },
   {
     "title": {
-      "zh": "先把鞋脱了",
-      "en": "Take off your shoes first."
-    },
-    "content": {
       "zh": "先把鞋脱了",
       "en": "Take off your shoes first."
     }
@@ -23,18 +15,10 @@
     "title": {
       "zh": "拍拍鞋子上的泥",
       "en": "Dust the mud off your shoes."
-    },
-    "content": {
-      "zh": "拍拍鞋子上的泥",
-      "en": "Dust the mud off your shoes."
     }
   },
   {
     "title": {
-      "zh": "把鞋子摆整齐",
-      "en": "Make your shoes nice and neat."
-    },
-    "content": {
       "zh": "把鞋子摆整齐",
       "en": "Make your shoes nice and neat."
     }
@@ -43,18 +27,10 @@
     "title": {
       "zh": "你的鞋在鞋柜里",
       "en": "Your shoes are in the shoe cabinet."
-    },
-    "content": {
-      "zh": "你的鞋在鞋柜里",
-      "en": "Your shoes are in the shoe cabinet."
     }
   },
   {
     "title": {
-      "zh": "打开鞋柜把鞋拿出来",
-      "en": "Open the shoe cabinet and take out your shoes."
-    },
-    "content": {
       "zh": "打开鞋柜把鞋拿出来",
       "en": "Open the shoe cabinet and take out your shoes."
     }
@@ -63,18 +39,10 @@
     "title": {
       "zh": "坐下来换鞋",
       "en": "Sit down to change your shoes."
-    },
-    "content": {
-      "zh": "坐下来换鞋",
-      "en": "Sit down to change your shoes."
     }
   },
   {
     "title": {
-      "zh": "快点穿上鞋",
-      "en": "Put your shoes on."
-    },
-    "content": {
       "zh": "快点穿上鞋",
       "en": "Put your shoes on."
     }
@@ -83,18 +51,10 @@
     "title": {
       "zh": "你要迟到了",
       "en": "You're going to be late."
-    },
-    "content": {
-      "zh": "你要迟到了",
-      "en": "You're going to be late."
     }
   },
   {
     "title": {
-      "zh": "你的鞋带松了",
-      "en": "Your shoes are untied."
-    },
-    "content": {
       "zh": "你的鞋带松了",
       "en": "Your shoes are untied."
     }
@@ -103,18 +63,10 @@
     "title": {
       "zh": "把鞋带系好",
       "en": "Tie your shoelaces."
-    },
-    "content": {
-      "zh": "把鞋带系好",
-      "en": "Tie your shoelaces."
     }
   },
   {
     "title": {
-      "zh": "你东西都拿好了吗",
-      "en": "Did you get everything?"
-    },
-    "content": {
       "zh": "你东西都拿好了吗",
       "en": "Did you get everything?"
     }
@@ -123,18 +75,10 @@
     "title": {
       "zh": "你的书包收拾好了吗",
       "en": "Is your bag ready to go?"
-    },
-    "content": {
-      "zh": "你的书包收拾好了吗",
-      "en": "Is your bag ready to go?"
     }
   },
   {
     "title": {
-      "zh": "书都放进去了吗",
-      "en": "Are your books all packed?"
-    },
-    "content": {
       "zh": "书都放进去了吗",
       "en": "Are your books all packed?"
     }
@@ -143,18 +87,10 @@
     "title": {
       "zh": "确认一下东西都带齐了哦",
       "en": "Make sure you have everything."
-    },
-    "content": {
-      "zh": "确认一下东西都带齐了哦",
-      "en": "Make sure you have everything."
     }
   },
   {
     "title": {
-      "zh": "水杯带了吗",
-      "en": "Do you have your water bottle?"
-    },
-    "content": {
       "zh": "水杯带了吗",
       "en": "Do you have your water bottle?"
     }
@@ -163,18 +99,10 @@
     "title": {
       "zh": "自己背书包",
       "en": "Carry your own bag."
-    },
-    "content": {
-      "zh": "自己背书包",
-      "en": "Carry your own bag."
     }
   },
   {
     "title": {
-      "zh": "妈妈要锁门了",
-      "en": "Mom is going to lock the door."
-    },
-    "content": {
       "zh": "妈妈要锁门了",
       "en": "Mom is going to lock the door."
     }
@@ -183,18 +111,10 @@
     "title": {
       "zh": "小心夹到手",
       "en": "Watch your fingers."
-    },
-    "content": {
-      "zh": "小心夹到手",
-      "en": "Watch your fingers."
     }
   },
   {
     "title": {
-      "zh": "记得关灯",
-      "en": "Remember to turn off the lights."
-    },
-    "content": {
       "zh": "记得关灯",
       "en": "Remember to turn off the lights."
     }
@@ -203,18 +123,10 @@
     "title": {
       "zh": "快点爸爸在电梯那等你呢",
       "en": "Come on, dad's waiting for you by the elevator."
-    },
-    "content": {
-      "zh": "快点爸爸在电梯那等你呢",
-      "en": "Come on, dad's waiting for you by the elevator."
     }
   },
   {
     "title": {
-      "zh": "走去上学啦",
-      "en": "Let's go to school."
-    },
-    "content": {
       "zh": "走去上学啦",
       "en": "Let's go to school."
     }
@@ -223,18 +135,10 @@
     "title": {
       "zh": "爸爸要上班啦",
       "en": "Dad has to go to work."
-    },
-    "content": {
-      "zh": "爸爸要上班啦",
-      "en": "Dad has to go to work."
     }
   },
   {
     "title": {
-      "zh": "妈妈出门啦",
-      "en": "Mom's heading out."
-    },
-    "content": {
       "zh": "妈妈出门啦",
       "en": "Mom's heading out."
     }
@@ -243,18 +147,10 @@
     "title": {
       "zh": "跟妈妈说拜拜",
       "en": "Say goodbye to mom."
-    },
-    "content": {
-      "zh": "跟妈妈说拜拜",
-      "en": "Say goodbye to mom."
     }
   },
   {
     "title": {
-      "zh": "爸爸回来我们一起玩游戏",
-      "en": "We'll play a game when dad comes back."
-    },
-    "content": {
       "zh": "爸爸回来我们一起玩游戏",
       "en": "We'll play a game when dad comes back."
     }
@@ -263,18 +159,10 @@
     "title": {
       "zh": "爸爸上完班很快就会回来的",
       "en": "Dad will be back soon after work."
-    },
-    "content": {
-      "zh": "爸爸上完班很快就会回来的",
-      "en": "Dad will be back soon after work."
     }
   },
   {
     "title": {
-      "zh": "给妈妈一个飞吻",
-      "en": "Blow a kiss to mom."
-    },
-    "content": {
       "zh": "给妈妈一个飞吻",
       "en": "Blow a kiss to mom."
     }
@@ -283,18 +171,10 @@
     "title": {
       "zh": "快过来抱抱",
       "en": "Come and give me a hug."
-    },
-    "content": {
-      "zh": "快过来抱抱",
-      "en": "Come and give me a hug."
     }
   },
   {
     "title": {
-      "zh": "我会想你的宝贝",
-      "en": "I'm going to miss you, baby."
-    },
-    "content": {
       "zh": "我会想你的宝贝",
       "en": "I'm going to miss you, baby."
     }
@@ -303,18 +183,10 @@
     "title": {
       "zh": "要听外婆奶奶的话噢",
       "en": "Mind your grandmother."
-    },
-    "content": {
-      "zh": "要听外婆奶奶的话噢",
-      "en": "Mind your grandmother."
     }
   },
   {
     "title": {
-      "zh": "在家去上学要乖乖噢",
-      "en": "Be good at home/ school."
-    },
-    "content": {
       "zh": "在家去上学要乖乖噢",
       "en": "Be good at home/ school."
     }
@@ -323,18 +195,10 @@
     "title": {
       "zh": "按一楼负一楼",
       "en": "Press the 1st floor/ B1 button."
-    },
-    "content": {
-      "zh": "按一楼负一楼",
-      "en": "Press the 1st floor/ B1 button."
     }
   },
   {
     "title": {
-      "zh": "我回来啦",
-      "en": "I'm back."
-    },
-    "content": {
       "zh": "我回来啦",
       "en": "I'm back."
     }
@@ -343,18 +207,10 @@
     "title": {
       "zh": "把书包放好",
       "en": "Put your bag away."
-    },
-    "content": {
-      "zh": "把书包放好",
-      "en": "Put your bag away."
     }
   },
   {
     "title": {
-      "zh": "今天有没有乖乖听话呀",
-      "en": "Were you good today?"
-    },
-    "content": {
       "zh": "今天有没有乖乖听话呀",
       "en": "Were you good today?"
     }
@@ -363,18 +219,10 @@
     "title": {
       "zh": "今天过得怎么样",
       "en": "How was your day?"
-    },
-    "content": {
-      "zh": "今天过得怎么样",
-      "en": "How was your day?"
     }
   },
   {
     "title": {
-      "zh": "今天老师有没有表扬你呀",
-      "en": "Did the teacher praise you today?"
-    },
-    "content": {
       "zh": "今天老师有没有表扬你呀",
       "en": "Did the teacher praise you today?"
     }
@@ -383,18 +231,10 @@
     "title": {
       "zh": "跟妈妈一起去取快递吧",
       "en": "Come with mom to pick up our package."
-    },
-    "content": {
-      "zh": "跟妈妈一起去取快递吧",
-      "en": "Come with mom to pick up our package."
     }
   },
   {
     "title": {
-      "zh": "走出去玩啦",
-      "en": "Let's go outside to play."
-    },
-    "content": {
       "zh": "走出去玩啦",
       "en": "Let's go outside to play."
     }
@@ -403,18 +243,10 @@
     "title": {
       "zh": "带你喜欢的小零食吧",
       "en": "Bring some of your favorite snacks."
-    },
-    "content": {
-      "zh": "带你喜欢的小零食吧",
-      "en": "Bring some of your favorite snacks."
     }
   },
   {
     "title": {
-      "zh": "涂一点防晒霜",
-      "en": "Let's put on a little sunscreen."
-    },
-    "content": {
       "zh": "涂一点防晒霜",
       "en": "Let's put on a little sunscreen."
     }
@@ -423,18 +255,10 @@
     "title": {
       "zh": "你需要戴上防晒帽",
       "en": "You'll need your sun hat."
-    },
-    "content": {
-      "zh": "你需要戴上防晒帽",
-      "en": "You'll need your sun hat."
     }
   },
   {
     "title": {
-      "zh": "骑上你的滑板车吧",
-      "en": "Ride your little scooter."
-    },
-    "content": {
       "zh": "骑上你的滑板车吧",
       "en": "Ride your little scooter."
     }
@@ -443,18 +267,10 @@
     "title": {
       "zh": "骑上你的扭扭车吧",
       "en": "Ride your wiggle car."
-    },
-    "content": {
-      "zh": "骑上你的扭扭车吧",
-      "en": "Ride your wiggle car."
     }
   },
   {
     "title": {
-      "zh": "戴上护膝",
-      "en": "Put on your pads."
-    },
-    "content": {
       "zh": "戴上护膝",
       "en": "Put on your pads."
     }
