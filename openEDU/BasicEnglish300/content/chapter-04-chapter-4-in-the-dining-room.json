@@ -1,0 +1,442 @@
+[
+  {
+    "title": {
+      "zh": "吃饭啦",
+      "en": "It's time to eat."
+    },
+    "content": {
+      "zh": "吃饭啦",
+      "en": "It's time to eat."
+    }
+  },
+  {
+    "title": {
+      "zh": "先去洗手吧",
+      "en": "Go wash your hands."
+    },
+    "content": {
+      "zh": "先去洗手吧",
+      "en": "Go wash your hands."
+    }
+  },
+  {
+    "title": {
+      "zh": "穿上你的小围兜",
+      "en": "Put on your bib."
+    },
+    "content": {
+      "zh": "穿上你的小围兜",
+      "en": "Put on your bib."
+    }
+  },
+  {
+    "title": {
+      "zh": "它们看上去都好好吃呀",
+      "en": "They all look so delicious."
+    },
+    "content": {
+      "zh": "它们看上去都好好吃呀",
+      "en": "They all look so delicious."
+    }
+  },
+  {
+    "title": {
+      "zh": "它闻起来好香啊",
+      "en": "It smells so good."
+    },
+    "content": {
+      "zh": "它闻起来好香啊",
+      "en": "It smells so good."
+    }
+  },
+  {
+    "title": {
+      "zh": "你想吃哪个",
+      "en": "Which one do you want?"
+    },
+    "content": {
+      "zh": "你想吃哪个",
+      "en": "Which one do you want?"
+    }
+  },
+  {
+    "title": {
+      "zh": "尝尝这个吧",
+      "en": "Try some of this."
+    },
+    "content": {
+      "zh": "尝尝这个吧",
+      "en": "Try some of this."
+    }
+  },
+  {
+    "title": {
+      "zh": "这个有点烫先吹吹",
+      "en": "It's a little hot, blow on it first."
+    },
+    "content": {
+      "zh": "这个有点烫先吹吹",
+      "en": "It's a little hot, blow on it first."
+    }
+  },
+  {
+    "title": {
+      "zh": "多吃点蔬菜",
+      "en": "Eat more veggies."
+    },
+    "content": {
+      "zh": "多吃点蔬菜",
+      "en": "Eat more veggies."
+    }
+  },
+  {
+    "title": {
+      "zh": "不要只吃肉",
+      "en": "Don't just eat meat."
+    },
+    "content": {
+      "zh": "不要只吃肉",
+      "en": "Don't just eat meat."
+    }
+  },
+  {
+    "title": {
+      "zh": "不要挑食",
+      "en": "Don't be picky."
+    },
+    "content": {
+      "zh": "不要挑食",
+      "en": "Don't be picky."
+    }
+  },
+  {
+    "title": {
+      "zh": "多嚼一下食物帮助消化",
+      "en": "Chew your food a little more."
+    },
+    "content": {
+      "zh": "多嚼一下食物帮助消化",
+      "en": "Chew your food a little more."
+    }
+  },
+  {
+    "title": {
+      "zh": "你慢点吃",
+      "en": "Take your time."
+    },
+    "content": {
+      "zh": "你慢点吃",
+      "en": "Take your time."
+    }
+  },
+  {
+    "title": {
+      "zh": "快点把食物咽下去",
+      "en": "Swallow your food."
+    },
+    "content": {
+      "zh": "快点把食物咽下去",
+      "en": "Swallow your food."
+    }
+  },
+  {
+    "title": {
+      "zh": "你吃得太少了",
+      "en": "You didn't eat enough."
+    },
+    "content": {
+      "zh": "你吃得太少了",
+      "en": "You didn't eat enough."
+    }
+  },
+  {
+    "title": {
+      "zh": "别吃撑了",
+      "en": "Don't stuff yourself."
+    },
+    "content": {
+      "zh": "别吃撑了",
+      "en": "Don't stuff yourself."
+    }
+  },
+  {
+    "title": {
+      "zh": "不要弄得到处都是",
+      "en": "Don't mess around."
+    },
+    "content": {
+      "zh": "不要弄得到处都是",
+      "en": "Don't mess around."
+    }
+  },
+  {
+    "title": {
+      "zh": "不要浪费食物",
+      "en": "Don't waste your food."
+    },
+    "content": {
+      "zh": "不要浪费食物",
+      "en": "Don't waste your food."
+    }
+  },
+  {
+    "title": {
+      "zh": "好好吃饭别乱动",
+      "en": "Eat right and quit moving around."
+    },
+    "content": {
+      "zh": "好好吃饭别乱动",
+      "en": "Eat right and quit moving around."
+    }
+  },
+  {
+    "title": {
+      "zh": "不要站起来危险",
+      "en": "Don't stand up, it's dangerous."
+    },
+    "content": {
+      "zh": "不要站起来危险",
+      "en": "Don't stand up, it's dangerous."
+    }
+  },
+  {
+    "title": {
+      "zh": "不要那样拿筷子",
+      "en": "Don't hold your chopsticks like that."
+    },
+    "content": {
+      "zh": "不要那样拿筷子",
+      "en": "Don't hold your chopsticks like that."
+    }
+  },
+  {
+    "title": {
+      "zh": "不要一边吃饭一边说话",
+      "en": "Don't talk with your mouth full."
+    },
+    "content": {
+      "zh": "不要一边吃饭一边说话",
+      "en": "Don't talk with your mouth full."
+    }
+  },
+  {
+    "title": {
+      "zh": "不要玩食物",
+      "en": "Don't play with your food."
+    },
+    "content": {
+      "zh": "不要玩食物",
+      "en": "Don't play with your food."
+    }
+  },
+  {
+    "title": {
+      "zh": "不要扔地上",
+      "en": "Don't throw it on the floor."
+    },
+    "content": {
+      "zh": "不要扔地上",
+      "en": "Don't throw it on the floor."
+    }
+  },
+  {
+    "title": {
+      "zh": "你还要再吃点吗",
+      "en": "Do you want some more?"
+    },
+    "content": {
+      "zh": "你还要再吃点吗",
+      "en": "Do you want some more?"
+    }
+  },
+  {
+    "title": {
+      "zh": "最后一口吃完再去玩",
+      "en": "One last bite, then you can go play."
+    },
+    "content": {
+      "zh": "最后一口吃完再去玩",
+      "en": "One last bite, then you can go play."
+    }
+  },
+  {
+    "title": {
+      "zh": "你吃饱了吗",
+      "en": "Are you full?"
+    },
+    "content": {
+      "zh": "你吃饱了吗",
+      "en": "Are you full?"
+    }
+  },
+  {
+    "title": {
+      "zh": "你吃完了呀",
+      "en": "You're all done."
+    },
+    "content": {
+      "zh": "你吃完了呀",
+      "en": "You're all done."
+    }
+  },
+  {
+    "title": {
+      "zh": "用纸巾擦一下鼻子",
+      "en": "Wipe your nose."
+    },
+    "content": {
+      "zh": "用纸巾擦一下鼻子",
+      "en": "Wipe your nose."
+    }
+  },
+  {
+    "title": {
+      "zh": "让妈妈把你抱下来",
+      "en": "Let mom get you down."
+    },
+    "content": {
+      "zh": "让妈妈把你抱下来",
+      "en": "Let mom get you down."
+    }
+  },
+  {
+    "title": {
+      "zh": "该喝奶啦",
+      "en": "It's milk time."
+    },
+    "content": {
+      "zh": "该喝奶啦",
+      "en": "It's milk time."
+    }
+  },
+  {
+    "title": {
+      "zh": "你打嗝了",
+      "en": "You have the hiccups."
+    },
+    "content": {
+      "zh": "你打嗝了",
+      "en": "You have the hiccups."
+    }
+  },
+  {
+    "title": {
+      "zh": "你要喝点水",
+      "en": "You need to drink some water."
+    },
+    "content": {
+      "zh": "你要喝点水",
+      "en": "You need to drink some water."
+    }
+  },
+  {
+    "title": {
+      "zh": "我饿死了",
+      "en": "I'm starving."
+    },
+    "content": {
+      "zh": "我饿死了",
+      "en": "I'm starving."
+    }
+  },
+  {
+    "title": {
+      "zh": "我们点外卖吧",
+      "en": "Let's order some take out."
+    },
+    "content": {
+      "zh": "我们点外卖吧",
+      "en": "Let's order some take out."
+    }
+  },
+  {
+    "title": {
+      "zh": "去拿一下你的餐盘",
+      "en": "Go get your plate."
+    },
+    "content": {
+      "zh": "去拿一下你的餐盘",
+      "en": "Go get your plate."
+    }
+  },
+  {
+    "title": {
+      "zh": "能帮妈妈一起摆餐具吗",
+      "en": "Can you help me set the table?"
+    },
+    "content": {
+      "zh": "能帮妈妈一起摆餐具吗",
+      "en": "Can you help me set the table?"
+    }
+  },
+  {
+    "title": {
+      "zh": "帮妈妈收拾一下桌子吧",
+      "en": "Please help clear the table."
+    },
+    "content": {
+      "zh": "帮妈妈收拾一下桌子吧",
+      "en": "Please help clear the table."
+    }
+  },
+  {
+    "title": {
+      "zh": "好油啊",
+      "en": "It's so greasy."
+    },
+    "content": {
+      "zh": "好油啊",
+      "en": "It's so greasy."
+    }
+  },
+  {
+    "title": {
+      "zh": "我好胀啊",
+      "en": "I'm stuffed."
+    },
+    "content": {
+      "zh": "我好胀啊",
+      "en": "I'm stuffed."
+    }
+  },
+  {
+    "title": {
+      "zh": "吃饭时不要玩手机",
+      "en": "Don't play with the phone while eating."
+    },
+    "content": {
+      "zh": "吃饭时不要玩手机",
+      "en": "Don't play with the phone while eating."
+    }
+  },
+  {
+    "title": {
+      "zh": "不要吃太多零食",
+      "en": "Don't eat too many snacks."
+    },
+    "content": {
+      "zh": "不要吃太多零食",
+      "en": "Don't eat too many snacks."
+    }
+  },
+  {
+    "title": {
+      "zh": "吃完饭再吃零食",
+      "en": "Finish your meal then you can have a snack."
+    },
+    "content": {
+      "zh": "吃完饭再吃零食",
+      "en": "Finish your meal then you can have a snack."
+    }
+  },
+  {
+    "title": {
+      "zh": "你要吃点水果吗",
+      "en": "Do you want to eat some fruit?"
+    },
+    "content": {
+      "zh": "你要吃点水果吗",
+      "en": "Do you want to eat some fruit?"
+    }
+  }
+]

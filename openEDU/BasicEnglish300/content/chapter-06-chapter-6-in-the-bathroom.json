@@ -1,0 +1,272 @@
+[
+  {
+    "title": {
+      "zh": "你要上厕所吗？",
+      "en": "Do you need to go to the bathroom?"
+    },
+    "content": {
+      "zh": "你要上厕所吗？",
+      "en": "Do you need to go to the bathroom?"
+    }
+  },
+  {
+    "title": {
+      "zh": "要上厕所就告诉妈妈。",
+      "en": "Tell Mom if you need to go to the bathroom."
+    },
+    "content": {
+      "zh": "要上厕所就告诉妈妈。",
+      "en": "Tell Mom if you need to go to the bathroom."
+    }
+  },
+  {
+    "title": {
+      "zh": "卫生间里没纸了。",
+      "en": "There's no toilet paper in the bathroom."
+    },
+    "content": {
+      "zh": "卫生间里没纸了。",
+      "en": "There's no toilet paper in the bathroom."
+    }
+  },
+  {
+    "title": {
+      "zh": "把裤子脱下来。",
+      "en": "Pull your pants down."
+    },
+    "content": {
+      "zh": "把裤子脱下来。",
+      "en": "Pull your pants down."
+    }
+  },
+  {
+    "title": {
+      "zh": "把马桶圈掀起来。",
+      "en": "Lift up the toilet seat."
+    },
+    "content": {
+      "zh": "把马桶圈掀起来。",
+      "en": "Lift up the toilet seat."
+    }
+  },
+  {
+    "title": {
+      "zh": "拿点纸，擦擦小屁股。",
+      "en": "Get some toilet paper and wipe your bottom."
+    },
+    "content": {
+      "zh": "拿点纸，擦擦小屁股。",
+      "en": "Get some toilet paper and wipe your bottom."
+    }
+  },
+  {
+    "title": {
+      "zh": "来，我给你擦屁股。",
+      "en": "Here, I'll wipe your bottom."
+    },
+    "content": {
+      "zh": "来，我给你擦屁股。",
+      "en": "Here, I'll wipe your bottom."
+    }
+  },
+  {
+    "title": {
+      "zh": "擦干净了吗？",
+      "en": "Did you wipe clean?"
+    },
+    "content": {
+      "zh": "擦干净了吗？",
+      "en": "Did you wipe clean?"
+    }
+  },
+  {
+    "title": {
+      "zh": "哎呀，好臭！",
+      "en": "Oh, that stinks!"
+    },
+    "content": {
+      "zh": "哎呀，好臭！",
+      "en": "Oh, that stinks!"
+    }
+  },
+  {
+    "title": {
+      "zh": "记得冲马桶。",
+      "en": "Remember to flush the toilet."
+    },
+    "content": {
+      "zh": "记得冲马桶。",
+      "en": "Remember to flush the toilet."
+    }
+  },
+  {
+    "title": {
+      "zh": "把马桶圈放下来。",
+      "en": "Put the toilet seat down."
+    },
+    "content": {
+      "zh": "把马桶圈放下来。",
+      "en": "Put the toilet seat down."
+    }
+  },
+  {
+    "title": {
+      "zh": "用洗手液洗洗手。",
+      "en": "Wash your hands with soap."
+    },
+    "content": {
+      "zh": "用洗手液洗洗手。",
+      "en": "Wash your hands with soap."
+    }
+  },
+  {
+    "title": {
+      "zh": "把手擦干。",
+      "en": "Dry your hands off."
+    },
+    "content": {
+      "zh": "把手擦干。",
+      "en": "Dry your hands off."
+    }
+  },
+  {
+    "title": {
+      "zh": "把水龙头关到底。",
+      "en": "Turn the tap off all the way."
+    },
+    "content": {
+      "zh": "把水龙头关到底。",
+      "en": "Turn the tap off all the way."
+    }
+  },
+  {
+    "title": {
+      "zh": "用抹布把台面擦干净。",
+      "en": "Wipe the countertop off with a cloth."
+    },
+    "content": {
+      "zh": "用抹布把台面擦干净。",
+      "en": "Wipe the countertop off with a cloth."
+    }
+  },
+  {
+    "title": {
+      "zh": "把毛巾拧干。",
+      "en": "Wring out the towel."
+    },
+    "content": {
+      "zh": "把毛巾拧干。",
+      "en": "Wring out the towel."
+    }
+  },
+  {
+    "title": {
+      "zh": "该刷牙了。",
+      "en": "It's time to brush your teeth."
+    },
+    "content": {
+      "zh": "该刷牙了。",
+      "en": "It's time to brush your teeth."
+    }
+  },
+  {
+    "title": {
+      "zh": "挤点牙膏出来。",
+      "en": "Squeeze some toothpaste out."
+    },
+    "content": {
+      "zh": "挤点牙膏出来。",
+      "en": "Squeeze some toothpaste out."
+    }
+  },
+  {
+    "title": {
+      "zh": "好好刷牙。",
+      "en": "Brush your teeth right."
+    },
+    "content": {
+      "zh": "好好刷牙。",
+      "en": "Brush your teeth right."
+    }
+  },
+  {
+    "title": {
+      "zh": "漱漱口，咕噜咕噜。",
+      "en": "Gargle and swish."
+    },
+    "content": {
+      "zh": "漱漱口，咕噜咕噜。",
+      "en": "Gargle and swish."
+    }
+  },
+  {
+    "title": {
+      "zh": "我们去洗澡吧。",
+      "en": "Let's take a shower."
+    },
+    "content": {
+      "zh": "我们去洗澡吧。",
+      "en": "Let's take a shower."
+    }
+  },
+  {
+    "title": {
+      "zh": "给你洗发水。",
+      "en": "Here's some shampoo for you."
+    },
+    "content": {
+      "zh": "给你洗发水。",
+      "en": "Here's some shampoo for you."
+    }
+  },
+  {
+    "title": {
+      "zh": "别玩水。",
+      "en": "Don't play with the water."
+    },
+    "content": {
+      "zh": "别玩水。",
+      "en": "Don't play with the water."
+    }
+  },
+  {
+    "title": {
+      "zh": "我来帮你擦干。",
+      "en": "Let me help you dry off."
+    },
+    "content": {
+      "zh": "我来帮你擦干。",
+      "en": "Let me help you dry off."
+    }
+  },
+  {
+    "title": {
+      "zh": "用吹风机把头发吹干。",
+      "en": "Dry your hair with the hair dryer."
+    },
+    "content": {
+      "zh": "用吹风机把头发吹干。",
+      "en": "Dry your hair with the hair dryer."
+    }
+  },
+  {
+    "title": {
+      "zh": "往身上擦点润肤露。",
+      "en": "Put some lotion on your body."
+    },
+    "content": {
+      "zh": "往身上擦点润肤露。",
+      "en": "Put some lotion on your body."
+    }
+  },
+  {
+    "title": {
+      "zh": "你这个小淘气！",
+      "en": "You cheeky monkey!"
+    },
+    "content": {
+      "zh": "你这个小淘气！",
+      "en": "You cheeky monkey!"
+    }
+  }
+]
