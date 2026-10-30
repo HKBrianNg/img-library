@@ -5,52 +5,52 @@
     {
       "name": "第一章：在家门口",
       "en": "Chapter 1: At the Door",
-      "contentLink": "chapter-01-chapter-1-at-the-door.json"
+      "contentLink": "chapter-1.json"
     },
     {
       "name": "第二章：在客厅",
       "en": "Chapter 2: In the Living Room",
-      "contentLink": "chapter-02-chapter-2-in-the-living-room.json"
+      "contentLink": "chapter-2.json"
     },
     {
       "name": "第三章：在阳台",
       "en": "Chapter 3: On the Balcony",
-      "contentLink": "chapter-03-chapter-3-on-the-balcony.json"
+      "contentLink": "chapter-3.json"
     },
     {
       "name": "第四章：在餐厅",
       "en": "Chapter 4: In the Dining Room",
-      "contentLink": "chapter-04-chapter-4-in-the-dining-room.json"
+      "contentLink": "chapter-4.json"
     },
     {
       "name": "第五章：在厨房",
       "en": "Chapter 5: In the Kitchen",
-      "contentLink": "chapter-05-chapter-5-in-the-kitchen.json"
+      "contentLink": "chapter-5.json"
     },
     {
       "name": "第六章：在卫生间",
       "en": "Chapter 6: In the Bathroom",
-      "contentLink": "chapter-06-chapter-6-in-the-bathroom.json"
+      "contentLink": "chapter-6.json"
     },
     {
       "name": "第七章：在卧室",
       "en": "Chapter 7: In the Bedroom",
-      "contentLink": "chapter-07-chapter-7-in-the-bedroom.json"
+      "contentLink": "chapter-7.json"
     },
     {
       "name": "第八章：在阅读角",
       "en": "Chapter 8: At the Reading Corner",
-      "contentLink": "chapter-08-chapter-8-at-the-reading-corner.json"
+      "contentLink": "chapter-8.json"
     },
     {
       "name": "第九章：在游戏区",
       "en": "Chapter 9: In the Play Area",
-      "contentLink": "chapter-09-chapter-9-in-the-play-area.json"
+      "contentLink": "chapter-9.json"
     },
     {
       "name": "第十章：宝宝说",
       "en": "Chapter 10: Baby Says",
-      "contentLink": "chapter-10-chapter-10-baby-says.json"
+      "contentLink": "chapter-10.json"
     }
   ]
 }
