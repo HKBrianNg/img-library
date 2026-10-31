@@ -13,10 +13,9 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 
 # ── 路径 ────────────────────────────────────────────────
-ROOT = Path(__file__).resolve().parent.parent          # openEDU/
+ROOT = Path(__file__).resolve().parent.parent
 ALLOWED_PROJECTS = {"EnglishShorts", "BasicEnglish300", "KnowledgeBase"}
 RATE_NORMAL = "-8%"
-RATE_SLOW = "-50%"
 
 # ── 音色预设 ────────────────────────────────────────────
 VOICE_PRESETS = {
@@ -84,26 +83,22 @@ class TTSAdminApp:
         self._refresh_zh_voices()
         self._refresh_en_voices()
 
-    # ── UI 构建 ──────────────────────────────────────────
     def _build_ui(self):
         top = ttk.Frame(self.root, padding=10)
         top.pack(fill="x")
 
-        # 项目
         ttk.Label(top, text="项目:", font=("", 11, "bold")).pack(side="left")
         self.project_var = tk.StringVar()
         self.project_combo = ttk.Combobox(top, textvariable=self.project_var, state="readonly", width=22)
         self.project_combo.pack(side="left", padx=(5, 15))
         self.project_combo.bind("<<ComboboxSelected>>", self._load_project)
 
-        # 章节
         ttk.Label(top, text="章节:").pack(side="left")
         self.chapter_var = tk.StringVar(value="（全部章节）")
         self.chapter_combo = ttk.Combobox(top, textvariable=self.chapter_var, state="readonly", width=28)
         self.chapter_combo.pack(side="left", padx=(2, 15))
         self.chapter_combo.bind("<<ComboboxSelected>>", self._apply_chapter_filter)
 
-        # 中文声音
         ttk.Label(top, text="中文:").pack(side="left")
         self.zh_gender_var = tk.StringVar(value="女声")
         self.zh_gender_combo = ttk.Combobox(top, textvariable=self.zh_gender_var,
@@ -114,7 +109,6 @@ class TTSAdminApp:
         self.zh_voice_combo = ttk.Combobox(top, textvariable=self.zh_voice_var, state="readonly", width=26)
         self.zh_voice_combo.pack(side="left", padx=(0, 10))
 
-        # 英文声音
         ttk.Label(top, text="英文:").pack(side="left")
         self.en_gender_var = tk.StringVar(value="女声")
         self.en_gender_combo = ttk.Combobox(top, textvariable=self.en_gender_var,
@@ -127,7 +121,6 @@ class TTSAdminApp:
 
         ttk.Button(top, text="刷新音色", command=self._reload_voices).pack(side="left")
 
-        # 工具栏
         bar = ttk.Frame(self.root, padding=(10, 5))
         bar.pack(fill="x")
         ttk.Button(bar, text="全选", command=self._select_all).pack(side="left", padx=(0, 4))
@@ -136,29 +129,25 @@ class TTSAdminApp:
         self.force_var = tk.BooleanVar(value=False)
         ttk.Checkbutton(bar, text="强制重生成", variable=self.force_var).pack(side="left", padx=(10, 0))
 
-        # 列表
         main = ttk.Frame(self.root, padding=(10, 0, 10, 10))
         main.pack(fill="both", expand=True)
 
-        cols = ("chapter", "slug", "zh", "en", "zh_n", "zh_s", "en_n", "en_s", "status")
+        cols = ("chapter", "slug", "zh", "en", "zh_gen", "en_gen", "status")
         self.tree = ttk.Treeview(main, columns=cols, show="headings", height=22)
         widths = [("chapter", 140), ("slug", 160), ("zh", 150), ("en", 160),
-                  ("zh_n", 46), ("zh_s", 46), ("en_n", 46), ("en_s", 46), ("status", 80)]
+                  ("zh_gen", 50), ("en_gen", 50), ("status", 80)]
         for c, w in widths:
-            self.tree.heading(c, text={"zh_n": "中正", "zh_s": "中慢",
-                                        "en_n": "英正", "en_s": "英慢"}.get(c, c))
+            self.tree.heading(c, text={"zh_gen": "中文", "en_gen": "英文"}.get(c, c))
             self.tree.column(c, width=w,
-                             anchor="center" if c in ("zh_n", "zh_s", "en_n", "en_s", "status") else "w")
+                             anchor="center" if c in ("zh_gen", "en_gen", "status") else "w")
 
         vsb = ttk.Scrollbar(main, orient="vertical", command=self.tree.yview)
         self.tree.configure(yscrollcommand=vsb.set)
         self.tree.pack(side="left", fill="both", expand=True)
         vsb.pack(side="right", fill="y")
 
-        # 绑定：点击复选框列 → 切换勾选；点击中文/英文列 → 朗读
         self.tree.bind("<Button-1>", self._on_click_cell)
 
-        # 底部
         bottom = ttk.Frame(self.root, padding=(10, 5))
         bottom.pack(fill="x", side="bottom")
         self.progress = ttk.Progressbar(bottom, mode="determinate", maximum=100)
@@ -167,7 +156,6 @@ class TTSAdminApp:
         ttk.Label(bottom, textvariable=self.status_var, relief="sunken",
                   anchor="w", padding=(6, 3)).pack(fill="x")
 
-    # ── 项目发现 ─────────────────────────────────────────
     def _discover(self):
         return [d for d in sorted(ROOT.iterdir())
                 if d.is_dir() and d.name in ALLOWED_PROJECTS and (d / "data.json").exists()]
@@ -179,7 +167,6 @@ class TTSAdminApp:
             self.project_combo.current(0)
             self._load_project()
 
-    # ── 加载项目 ─────────────────────────────────────────
     def _load_project(self, *_):
         if self._loading:
             return
@@ -200,7 +187,6 @@ class TTSAdminApp:
 
         data = json.loads((base / "data.json").read_text(encoding="utf-8"))
 
-        # ── BasicEnglish300 / KnowledgeBase ──
         if "chapters" in data and data["chapters"]:
             for ch in data["chapters"]:
                 ch_name = ch.get("name", "")
@@ -238,13 +224,8 @@ class TTSAdminApp:
                         slug = f"{stem}_{i+1:03d}"
 
                     entry = {
-                        "id": f"{stem}_{i}",
-                        "stem": stem,
-                        "index": i,
-                        "chapter_name": ch_name,
-                        "slug": slug,
-                        "zh": zh,
-                        "en": en,
+                        "id": f"{stem}_{i}", "stem": stem, "index": i,
+                        "chapter_name": ch_name, "slug": slug, "zh": zh, "en": en,
                     }
                     self.all_entries.append(entry)
 
@@ -267,10 +248,9 @@ class TTSAdminApp:
                         ch_name, slug[:25],
                         zh[:20] if zh else "（无）",
                         en[:25] if en else "（无）",
-                        "☐", "☐", "☐", "☐", st
+                        "☐", "☐", st
                     ))
 
-        # ── EnglishShorts ──
         elif "groups" in data and data["groups"]:
             for g in data["groups"]:
                 g_name = g.get("name", "") or g.get("title", {}).get("zh", "")
@@ -297,7 +277,7 @@ class TTSAdminApp:
                         g_name, slug[:25],
                         zh[:20] if zh else "（无）",
                         en[:25] if en else "（无）",
-                        "☐", "☐", "☐", "☐", "待生成"
+                        "☐", "☐", "待生成"
                     ))
 
         self.chapter_combo["values"] = chapter_options
@@ -305,7 +285,6 @@ class TTSAdminApp:
         self._loading = False
         self.status_var.set(f"✅ {base.name}：{len(self.all_entries)} 条，{len(chapter_options)-1} 章")
 
-    # ── 章节筛选 ────────────────────────────────────────
     def _apply_chapter_filter(self, *_):
         sel = self.chapter_var.get()
         self.tree.delete(*self.tree.get_children())
@@ -332,11 +311,10 @@ class TTSAdminApp:
                 e["chapter_name"], e["slug"][:25],
                 e["zh"][:20] if e["zh"] else "（无）",
                 e["en"][:25] if e["en"] else "（无）",
-                "☐", "☐", "☐", "☐", st
+                "☐", "☐", st
             ))
         self.status_var.set(f"筛选：{sel}（{len(self.tree.get_children())} 条）")
 
-    # ── 核心交互：点击单元格 ─────────────────────────────
     def _on_click_cell(self, ev):
         region = self.tree.identify("region", ev.x, ev.y)
         if region != "cell":
@@ -353,60 +331,40 @@ class TTSAdminApp:
         if not e:
             return
 
-        # 列 5,6,7,8 = 复选框列 → 切换勾选
-        if ci in (5, 6, 7, 8):
+        # 列 5 = 中文复选框, 列 6 = 英文复选框
+        if ci in (5, 6):
             vals[ci - 1] = "☐" if vals[ci - 1] == "☑" else "☑"
             self.tree.item(iid, values=vals)
             return
 
-        # 列 3 = 中文列 → 朗读中文
         if ci == 3:
             if not e["zh"]:
                 self.status_var.set("该条没有中文文本")
                 return
-            self._speak_zh(e, vals)
+            self._speak_zh(e)
             return
 
-        # 列 4 = 英文列 → 朗读英文
         if ci == 4:
             if not e["en"]:
                 self.status_var.set("该条没有英文文本")
                 return
-            self._speak_en(e, vals)
+            self._speak_en(e)
             return
 
-    # ── 朗读中文（根据勾选决定速度） ────────────────────
-    def _speak_zh(self, e, vals):
+    def _speak_zh(self, e):
         if self._speaking:
             self.status_var.set("⏳ 正在朗读中，请稍候...")
             return
 
         zh_v = self.zh_voice_var.get()
-        chk_normal = vals[4] == "☑"   # 中正
-        chk_slow = vals[5] == "☑"     # 中慢
-
-        # 都没勾 → 默认正常
-        if not chk_normal and not chk_slow:
-            chk_normal = True
-
-        tasks = []
-        if chk_normal:
-            tasks.append(("正常", RATE_NORMAL))
-        if chk_slow:
-            tasks.append(("慢速", RATE_SLOW))
-
-        self.status_var.set(f"🔊 朗读中文：{e['slug']}（{'/'.join(t[0] for t in tasks)}）")
+        self.status_var.set(f"🔊 朗读中文：{e['slug']}")
 
         def run():
             self._speaking = True
             try:
-                for label, rate in tasks:
-                    if self._closing:
-                        break
-                    self.root.after(0, lambda m=f"🔊 朗读中文 {label}：{e['slug']}": self.status_var.set(m))
-                    play_tts(e["zh"], zh_v, rate)
-                    if len(tasks) > 1:
-                        pygame.time.wait(300)  # 两段之间短暂停顿
+                if not self._closing:
+                    self.root.after(0, lambda m=f"🔊 朗读中文：{e['slug']}": self.status_var.set(m))
+                    play_tts(e["zh"], zh_v, RATE_NORMAL)
                 self.root.after(0, lambda: self.status_var.set("✅ 朗读结束"))
             except Exception as exc:
                 self.root.after(0, lambda m=f"❌ 朗读失败：{exc}": self.status_var.set(m))
@@ -415,37 +373,20 @@ class TTSAdminApp:
 
         threading.Thread(target=run, daemon=True).start()
 
-    # ── 朗读英文（根据勾选决定速度） ────────────────────
-    def _speak_en(self, e, vals):
+    def _speak_en(self, e):
         if self._speaking:
             self.status_var.set("⏳ 正在朗读中，请稍候...")
             return
 
         en_v = self.en_voice_var.get()
-        chk_normal = vals[6] == "☑"   # 英正
-        chk_slow = vals[7] == "☑"     # 英慢
-
-        if not chk_normal and not chk_slow:
-            chk_normal = True
-
-        tasks = []
-        if chk_normal:
-            tasks.append(("正常", RATE_NORMAL))
-        if chk_slow:
-            tasks.append(("慢速", RATE_SLOW))
-
-        self.status_var.set(f"🔊 朗读英文：{e['slug']}（{'/'.join(t[0] for t in tasks)}）")
+        self.status_var.set(f"🔊 朗读英文：{e['slug']}")
 
         def run():
             self._speaking = True
             try:
-                for label, rate in tasks:
-                    if self._closing:
-                        break
-                    self.root.after(0, lambda m=f"🔊 朗读英文 {label}：{e['slug']}": self.status_var.set(m))
-                    play_tts(e["en"], en_v, rate)
-                    if len(tasks) > 1:
-                        pygame.time.wait(300)
+                if not self._closing:
+                    self.root.after(0, lambda m=f"🔊 朗读英文：{e['slug']}": self.status_var.set(m))
+                    play_tts(e["en"], en_v, RATE_NORMAL)
                 self.root.after(0, lambda: self.status_var.set("✅ 朗读结束"))
             except Exception as exc:
                 self.root.after(0, lambda m=f"❌ 朗读失败：{exc}": self.status_var.set(m))
@@ -454,22 +395,20 @@ class TTSAdminApp:
 
         threading.Thread(target=run, daemon=True).start()
 
-    # ── 勾选批量操作 ────────────────────────────────────
     def _select_all(self):
         for iid in self.tree.get_children():
             v = list(self.tree.item(iid, "values"))
-            for k in range(4, 8):
-                v[k] = "☑"
+            v[4] = "☑"   # 中文
+            v[5] = "☑"   # 英文
             self.tree.item(iid, values=v)
 
     def _deselect_all(self):
         for iid in self.tree.get_children():
             v = list(self.tree.item(iid, "values"))
-            for k in range(4, 8):
-                v[k] = "☐"
+            v[4] = "☐"
+            v[5] = "☐"
             self.tree.item(iid, values=v)
 
-    # ── 声音刷新 ─────────────────────────────────────────
     def _refresh_zh_voices(self):
         vs = VOICE_PRESETS["zh"].get(self.zh_gender_var.get(), [])
         self.zh_voice_combo["values"] = vs
@@ -505,7 +444,6 @@ class TTSAdminApp:
                 self.root.after(0, lambda m=err: self.status_var.set(m))
         threading.Thread(target=run, daemon=True).start()
 
-    # ── 批量生成 ─────────────────────────────────────────
     def _start_generate(self):
         if self.generating:
             messagebox.showinfo("提示", "正在生成中")
@@ -516,10 +454,11 @@ class TTSAdminApp:
             e = next((x for x in self.all_entries if x["id"] == iid), None)
             if not e:
                 continue
-            chk = vals[4:8]
-            if all(c == "☐" for c in chk):
+            chk_zh = vals[4] == "☑"
+            chk_en = vals[5] == "☑"
+            if not chk_zh and not chk_en:
                 continue
-            tasks.append((e, chk))
+            tasks.append((e, chk_zh, chk_en))
 
         if not tasks:
             messagebox.showinfo("提示", "没有可生成的勾选项")
@@ -536,7 +475,7 @@ class TTSAdminApp:
     def _worker(self, tasks, force, zh_v, en_v):
         total = len(tasks)
         done = 0
-        for e, chk in tasks:
+        for e, chk_zh, chk_en in tasks:
             if self._closing:
                 break
             stem = e["stem"]
@@ -556,8 +495,7 @@ class TTSAdminApp:
             meta.setdefault("entries", {})
             es = meta["entries"].setdefault(str(idx), {})
 
-            # 中文正常
-            if chk[0] == "☑" and e["zh"]:
+            if chk_zh and e["zh"]:
                 p = adir / f"{slug}_zh.mp3"
                 if force or not p.exists() or not es.get("zh_normal", {}).get("ok"):
                     try:
@@ -570,22 +508,7 @@ class TTSAdminApp:
                     except Exception as exc:
                         es["zh_normal"] = {"ok": False, "error": str(exc)}
 
-            # 中文慢
-            if chk[1] == "☑" and e["zh"]:
-                p = adir / f"{slug}_zh_slow.mp3"
-                if force or not p.exists() or not es.get("zh_slow", {}).get("ok"):
-                    try:
-                        async def _do():
-                            c = edge_tts.Communicate(e["zh"], zh_v, rate=RATE_SLOW)
-                            await c.save(str(p))
-                        asyncio.run(_do())
-                        es["zh_slow"] = {"ok": True, "voice": zh_v, "rate": RATE_SLOW,
-                                        "generated_at": datetime.now().isoformat()}
-                    except Exception as exc:
-                        es["zh_slow"] = {"ok": False, "error": str(exc)}
-
-            # 英文正常
-            if chk[2] == "☑" and e["en"]:
+            if chk_en and e["en"]:
                 p = adir / f"{slug}_en.mp3"
                 if force or not p.exists() or not es.get("en_normal", {}).get("ok"):
                     try:
@@ -597,20 +520,6 @@ class TTSAdminApp:
                                           "generated_at": datetime.now().isoformat()}
                     except Exception as exc:
                         es["en_normal"] = {"ok": False, "error": str(exc)}
-
-            # 英文慢
-            if chk[3] == "☑" and e["en"]:
-                p = adir / f"{slug}_en_slow.mp3"
-                if force or not p.exists() or not es.get("en_slow", {}).get("ok"):
-                    try:
-                        async def _do():
-                            c = edge_tts.Communicate(e["en"], en_v, rate=RATE_SLOW)
-                            await c.save(str(p))
-                        asyncio.run(_do())
-                        es["en_slow"] = {"ok": True, "voice": en_v, "rate": RATE_SLOW,
-                                        "generated_at": datetime.now().isoformat()}
-                    except Exception as exc:
-                        es["en_slow"] = {"ok": False, "error": str(exc)}
 
             ajson.write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
 
@@ -644,10 +553,9 @@ class TTSAdminApp:
             except Exception:
                 pass
         vals = list(self.tree.item(iid, "values"))
-        vals[8] = st
+        vals[6] = st
         self.tree.item(iid, values=vals)
 
-    # ── 关闭 ────────────────────────────────────────────
     def _on_close(self):
         self._closing = True
         self.root.destroy()
