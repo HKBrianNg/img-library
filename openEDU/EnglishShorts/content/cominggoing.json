@@ -1,112 +1,46 @@
 [
   {
-    "title": {
-      "zh": "该走了。",
-      "en": "Time to go."
-    },
-    "content": {
-      "zh": "该走了。",
-      "en": "Time to go."
-    }
+    "en": "Time to go.",
+    "name": "该走了。"
   },
   {
-    "title": {
-      "zh": "准备好了，可以走了。",
-      "en": "Ready to go."
-    },
-    "content": {
-      "zh": "准备好了，可以走了。",
-      "en": "Ready to go."
-    }
+    "en": "Ready to go.",
+    "name": "准备好了，可以走了。"
   },
   {
-    "title": {
-      "zh": "我回来了。",
-      "en": "I'm home."
-    },
-    "content": {
-      "zh": "我回来了。",
-      "en": "I'm home."
-    }
+    "en": "I'm home.",
+    "name": "我回来了。"
   },
   {
-    "title": {
-      "zh": "一起来吧。",
-      "en": "Come along."
-    },
-    "content": {
-      "zh": "一起来吧。",
-      "en": "Come along."
-    }
+    "en": "Come along.",
+    "name": "一起来吧。"
   },
   {
-    "title": {
-      "zh": "挪过去一点。",
-      "en": "Move over."
-    },
-    "content": {
-      "zh": "挪过去一点。",
-      "en": "Move over."
-    }
+    "en": "Move over.",
+    "name": "挪过去一点。"
   },
   {
-    "title": {
-      "zh": "下来。",
-      "en": "Get down."
-    },
-    "content": {
-      "zh": "下来。",
-      "en": "Get down."
-    }
+    "en": "Get down.",
+    "name": "下来。"
   },
   {
-    "title": {
-      "zh": "抓紧了。",
-      "en": "Hold on tight."
-    },
-    "content": {
-      "zh": "抓紧了。",
-      "en": "Hold on tight."
-    }
+    "en": "Hold on tight.",
+    "name": "抓紧了。"
   },
   {
-    "title": {
-      "zh": "玩得开心。",
-      "en": "Have fun."
-    },
-    "content": {
-      "zh": "玩得开心。",
-      "en": "Have fun."
-    }
+    "en": "Have fun.",
+    "name": "玩得开心。"
   },
   {
-    "title": {
-      "zh": "保重。",
-      "en": "Take care."
-    },
-    "content": {
-      "zh": "保重。",
-      "en": "Take care."
-    }
+    "en": "Take care.",
+    "name": "保重。"
   },
   {
-    "title": {
-      "zh": "睡个好觉。",
-      "en": "Sleep tight."
-    },
-    "content": {
-      "zh": "睡个好觉。",
-      "en": "Sleep tight."
-    }
+    "en": "Sleep tight.",
+    "name": "睡个好觉。"
   },
   {
-    "title": {
-      "zh": "准备好了吗？",
-      "en": "Get ready."
-    },
-    "content": {
-      "zh": "准备好了吗？",
-      "en": "Get ready."
-    }
+    "en": "Get ready.",
+    "name": "准备好了吗？"
   }
 ]

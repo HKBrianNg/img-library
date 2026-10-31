@@ -1,382 +1,154 @@
 [
   {
-    "title": {
-      "zh": "好好想想。",
-      "en": "Think it over."
-    },
-    "content": {
-      "zh": "好好想想。",
-      "en": "Think it over."
-    }
+    "en": "Think it over.",
+    "name": "好好想想。"
   },
   {
-    "title": {
-      "zh": "三思而行。",
-      "en": "Think twice."
-    },
-    "content": {
-      "zh": "三思而行。",
-      "en": "Think twice."
-    }
+    "en": "Think twice.",
+    "name": "三思而行。"
   },
   {
-    "title": {
-      "zh": "这事急不得。",
-      "en": "It takes time."
-    },
-    "content": {
-      "zh": "这事急不得。",
-      "en": "It takes time."
-    }
+    "en": "It takes time.",
+    "name": "这事急不得。"
   },
   {
-    "title": {
-      "zh": "时间会给出答案。",
-      "en": "Time will tell."
-    },
-    "content": {
-      "zh": "时间会给出答案。",
-      "en": "Time will tell."
-    }
+    "en": "Time will tell.",
+    "name": "时间会给出答案。"
   },
   {
-    "title": {
-      "zh": "你来决定。",
-      "en": "It's up to you."
-    },
-    "content": {
-      "zh": "你来决定。",
-      "en": "It's up to you."
-    }
+    "en": "It's up to you.",
+    "name": "你来决定。"
   },
   {
-    "title": {
-      "zh": "让我想想。",
-      "en": "Let me see."
-    },
-    "content": {
-      "zh": "让我想想。",
-      "en": "Let me see."
-    }
+    "en": "Let me see.",
+    "name": "让我想想。"
   },
   {
-    "title": {
-      "zh": "我还是算了。",
-      "en": "I'd rather not."
-    },
-    "content": {
-      "zh": "我还是算了。",
-      "en": "I'd rather not."
-    }
+    "en": "I'd rather not.",
+    "name": "我还是算了。"
   },
   {
-    "title": {
-      "zh": "随它去吧。",
-      "en": "Let it be."
-    },
-    "content": {
-      "zh": "随它去吧。",
-      "en": "Let it be."
-    }
+    "en": "Let it be.",
+    "name": "随它去吧。"
   },
   {
-    "title": {
-      "zh": "哪天都行。",
-      "en": "Any day will do."
-    },
-    "content": {
-      "zh": "哪天都行。",
-      "en": "Any day will do."
-    }
+    "en": "Any day will do.",
+    "name": "哪天都行。"
   },
   {
-    "title": {
-      "zh": "早该这样了。",
-      "en": "It's about time."
-    },
-    "content": {
-      "zh": "早该这样了。",
-      "en": "It's about time."
-    }
+    "en": "It's about time.",
+    "name": "早该这样了。"
   },
   {
-    "title": {
-      "zh": "说重点吧。",
-      "en": "Come to the point."
-    },
-    "content": {
-      "zh": "说重点吧。",
-      "en": "Come to the point."
-    }
+    "en": "Come to the point.",
+    "name": "说重点吧。"
   },
   {
-    "title": {
-      "zh": "再说一遍？",
-      "en": "Say again?"
-    },
-    "content": {
-      "zh": "再说一遍？",
-      "en": "Say again?"
-    }
+    "en": "Say again?",
+    "name": "再说一遍？"
   },
   {
-    "title": {
-      "zh": "从什么时候开始的？",
-      "en": "Since when?"
-    },
-    "content": {
-      "zh": "从什么时候开始的？",
-      "en": "Since when?"
-    }
+    "en": "Since when?",
+    "name": "从什么时候开始的？"
   },
   {
-    "title": {
-      "zh": "去哪儿？",
-      "en": "Where to?"
-    },
-    "content": {
-      "zh": "去哪儿？",
-      "en": "Where to?"
-    }
+    "en": "Where to?",
+    "name": "去哪儿？"
   },
   {
-    "title": {
-      "zh": "为了什么？",
-      "en": "What for?"
-    },
-    "content": {
-      "zh": "为了什么？",
-      "en": "What for?"
-    }
+    "en": "What for?",
+    "name": "为了什么？"
   },
   {
-    "title": {
-      "zh": "拿定主意吧。",
-      "en": "Make up your mind."
-    },
-    "content": {
-      "zh": "拿定主意吧。",
-      "en": "Make up your mind."
-    }
+    "en": "Make up your mind.",
+    "name": "拿定主意吧。"
   },
   {
-    "title": {
-      "zh": "试一试。",
-      "en": "Give it a try."
-    },
-    "content": {
-      "zh": "试一试。",
-      "en": "Give it a try."
-    }
+    "en": "Give it a try.",
+    "name": "试一试。"
   },
   {
-    "title": {
-      "zh": "随你说吧。",
-      "en": "Whatever you say."
-    },
-    "content": {
-      "zh": "随你说吧。",
-      "en": "Whatever you say."
-    }
+    "en": "Whatever you say.",
+    "name": "随你说吧。"
   },
   {
-    "title": {
-      "zh": "你说什么都行。",
-      "en": "Anything you say."
-    },
-    "content": {
-      "zh": "你说什么都行。",
-      "en": "Anything you say."
-    }
+    "en": "Anything you say.",
+    "name": "你说什么都行。"
   },
   {
-    "title": {
-      "zh": "我没意见。",
-      "en": "Fine with me."
-    },
-    "content": {
-      "zh": "我没意见。",
-      "en": "Fine with me."
-    }
+    "en": "Fine with me.",
+    "name": "我没意见。"
   },
   {
-    "title": {
-      "zh": "我这边没问题。",
-      "en": "Works for me."
-    },
-    "content": {
-      "zh": "我这边没问题。",
-      "en": "Works for me."
-    }
+    "en": "Works for me.",
+    "name": "我这边没问题。"
   },
   {
-    "title": {
-      "zh": "要不要随你。",
-      "en": "Take it or leave it."
-    },
-    "content": {
-      "zh": "要不要随你。",
-      "en": "Take it or leave it."
-    }
+    "en": "Take it or leave it.",
+    "name": "要不要随你。"
   },
   {
-    "title": {
-      "zh": "没门儿。",
-      "en": "Not a chance."
-    },
-    "content": {
-      "zh": "没门儿。",
-      "en": "Not a chance."
-    }
+    "en": "Not a chance.",
+    "name": "没门儿。"
   },
   {
-    "title": {
-      "zh": "不值得。",
-      "en": "It isn't worth it."
-    },
-    "content": {
-      "zh": "不值得。",
-      "en": "It isn't worth it."
-    }
+    "en": "It isn't worth it.",
+    "name": "不值得。"
   },
   {
-    "title": {
-      "zh": "越快越好。",
-      "en": "The sooner the better."
-    },
-    "content": {
-      "zh": "越快越好。",
-      "en": "The sooner the better."
-    }
+    "en": "The sooner the better.",
+    "name": "越快越好。"
   },
   {
-    "title": {
-      "zh": "看情况。",
-      "en": "It depends."
-    },
-    "content": {
-      "zh": "看情况。",
-      "en": "It depends."
-    }
+    "en": "It depends.",
+    "name": "看情况。"
   },
   {
-    "title": {
-      "zh": "随你便。",
-      "en": "Suit yourself."
-    },
-    "content": {
-      "zh": "随你便。",
-      "en": "Suit yourself."
-    }
+    "en": "Suit yourself.",
+    "name": "随你便。"
   },
   {
-    "title": {
-      "zh": "何必呢。",
-      "en": "Why bother."
-    },
-    "content": {
-      "zh": "何必呢。",
-      "en": "Why bother."
-    }
+    "en": "Why bother.",
+    "name": "何必呢。"
   },
   {
-    "title": {
-      "zh": "算我一个。",
-      "en": "I'm in."
-    },
-    "content": {
-      "zh": "算我一个。",
-      "en": "I'm in."
-    }
+    "en": "I'm in.",
+    "name": "算我一个。"
   },
   {
-    "title": {
-      "zh": "我不干了。",
-      "en": "I quit."
-    },
-    "content": {
-      "zh": "我不干了。",
-      "en": "I quit."
-    }
+    "en": "I quit.",
+    "name": "我不干了。"
   },
   {
-    "title": {
-      "zh": "我拒绝。",
-      "en": "I decline."
-    },
-    "content": {
-      "zh": "我拒绝。",
-      "en": "I decline."
-    }
+    "en": "I decline.",
+    "name": "我拒绝。"
   },
   {
-    "title": {
-      "zh": "我同意。",
-      "en": "I agree."
-    },
-    "content": {
-      "zh": "我同意。",
-      "en": "I agree."
-    }
+    "en": "I agree.",
+    "name": "我同意。"
   },
   {
-    "title": {
-      "zh": "我不同意。",
-      "en": "I disagree."
-    },
-    "content": {
-      "zh": "我不同意。",
-      "en": "I disagree."
-    }
+    "en": "I disagree.",
+    "name": "我不同意。"
   },
   {
-    "title": {
-      "zh": "放弃吧。",
-      "en": "Give up."
-    },
-    "content": {
-      "zh": "放弃吧。",
-      "en": "Give up."
-    }
+    "en": "Give up.",
+    "name": "放弃吧。"
   },
   {
-    "title": {
-      "zh": "再试一次。",
-      "en": "Try again."
-    },
-    "content": {
-      "zh": "再试一次。",
-      "en": "Try again."
-    }
+    "en": "Try again.",
+    "name": "再试一次。"
   },
   {
-    "title": {
-      "zh": "继续往前吧。",
-      "en": "Move on."
-    },
-    "content": {
-      "zh": "继续往前吧。",
-      "en": "Move on."
-    }
+    "en": "Move on.",
+    "name": "继续往前吧。"
   },
   {
-    "title": {
-      "zh": "就现在。",
-      "en": "Right now."
-    },
-    "content": {
-      "zh": "就现在。",
-      "en": "Right now."
-    }
+    "en": "Right now.",
+    "name": "就现在。"
   },
   {
-    "title": {
-      "zh": "今天不行。",
-      "en": "Not today."
-    },
-    "content": {
-      "zh": "今天不行。",
-      "en": "Not today."
-    }
+    "en": "Not today.",
+    "name": "今天不行。"
   }
 ]

@@ -1,122 +1,50 @@
 [
   {
-    "title": {
-      "zh": "我累坏了。",
-      "en": "I'm beat."
-    },
-    "content": {
-      "zh": "我累坏了。",
-      "en": "I'm beat."
-    }
+    "en": "I'm beat.",
+    "name": "我累坏了。"
   },
   {
-    "title": {
-      "zh": "我不干了。",
-      "en": "I'm done."
-    },
-    "content": {
-      "zh": "我不干了。",
-      "en": "I'm done."
-    }
+    "en": "I'm done.",
+    "name": "我不干了。"
   },
   {
-    "title": {
-      "zh": "我被弄糊涂了。",
-      "en": "I'm confused."
-    },
-    "content": {
-      "zh": "我被弄糊涂了。",
-      "en": "I'm confused."
-    }
+    "en": "I'm confused.",
+    "name": "我被弄糊涂了。"
   },
   {
-    "title": {
-      "zh": "好痛。",
-      "en": "That hurts."
-    },
-    "content": {
-      "zh": "好痛。",
-      "en": "That hurts."
-    }
+    "en": "That hurts.",
+    "name": "好痛。"
   },
   {
-    "title": {
-      "zh": "都结束了。",
-      "en": "It's over."
-    },
-    "content": {
-      "zh": "都结束了。",
-      "en": "It's over."
-    }
+    "en": "It's over.",
+    "name": "都结束了。"
   },
   {
-    "title": {
-      "zh": "管用了。",
-      "en": "It works."
-    },
-    "content": {
-      "zh": "管用了。",
-      "en": "It works."
-    }
+    "en": "It works.",
+    "name": "管用了。"
   },
   {
-    "title": {
-      "zh": "不会吧。",
-      "en": "No way."
-    },
-    "content": {
-      "zh": "不会吧。",
-      "en": "No way."
-    }
+    "en": "No way.",
+    "name": "不会吧。"
   },
   {
-    "title": {
-      "zh": "又来了。",
-      "en": "Not again."
-    },
-    "content": {
-      "zh": "又来了。",
-      "en": "Not again."
-    }
+    "en": "Not again.",
+    "name": "又来了。"
   },
   {
-    "title": {
-      "zh": "无可奉告。",
-      "en": "No comment."
-    },
-    "content": {
-      "zh": "无可奉告。",
-      "en": "No comment."
-    }
+    "en": "No comment.",
+    "name": "无可奉告。"
   },
   {
-    "title": {
-      "zh": "天哪。",
-      "en": "Holy cow."
-    },
-    "content": {
-      "zh": "天哪。",
-      "en": "Holy cow."
-    }
+    "en": "Holy cow.",
+    "name": "天哪。"
   },
   {
-    "title": {
-      "zh": "又怎么了？",
-      "en": "What now?"
-    },
-    "content": {
-      "zh": "又怎么了？",
-      "en": "What now?"
-    }
+    "en": "What now?",
+    "name": "又怎么了？"
   },
   {
-    "title": {
-      "zh": "一切都好。",
-      "en": "Everything's fine."
-    },
-    "content": {
-      "zh": "一切都好。",
-      "en": "Everything's fine."
-    }
+    "en": "Everything's fine.",
+    "name": "一切都好。"
   }
 ]

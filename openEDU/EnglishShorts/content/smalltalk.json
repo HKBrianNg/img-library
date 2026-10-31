@@ -1,472 +1,190 @@
 [
   {
-    "title": {
-      "zh": "最近怎么样？",
-      "en": "How's it going?"
-    },
-    "content": {
-      "zh": "最近怎么样？",
-      "en": "How's it going?"
-    }
+    "en": "How's it going?",
+    "name": "最近怎么样？"
   },
   {
-    "title": {
-      "zh": "挺好的。",
-      "en": "Pretty good."
-    },
-    "content": {
-      "zh": "挺好的。",
-      "en": "Pretty good."
-    }
+    "en": "Pretty good.",
+    "name": "挺好的。"
   },
   {
-    "title": {
-      "zh": "听起来不错。",
-      "en": "Sounds great."
-    },
-    "content": {
-      "zh": "听起来不错。",
-      "en": "Sounds great."
-    }
+    "en": "Sounds great.",
+    "name": "听起来不错。"
   },
   {
-    "title": {
-      "zh": "说来话长。",
-      "en": "It's a long story."
-    },
-    "content": {
-      "zh": "说来话长。",
-      "en": "It's a long story."
-    }
+    "en": "It's a long story.",
+    "name": "说来话长。"
   },
   {
-    "title": {
-      "zh": "我早知道了。",
-      "en": "I knew it."
-    },
-    "content": {
-      "zh": "我早知道了。",
-      "en": "I knew it."
-    }
+    "en": "I knew it.",
+    "name": "我早知道了。"
   },
   {
-    "title": {
-      "zh": "我早说过吧。",
-      "en": "I told you so."
-    },
-    "content": {
-      "zh": "我早说过吧。",
-      "en": "I told you so."
-    }
+    "en": "I told you so.",
+    "name": "我早说过吧。"
   },
   {
-    "title": {
-      "zh": "我不这么想。",
-      "en": "I don't think so."
-    },
-    "content": {
-      "zh": "我不这么想。",
-      "en": "I don't think so."
-    }
+    "en": "I don't think so.",
+    "name": "我不这么想。"
   },
   {
-    "title": {
-      "zh": "我们认识吗？",
-      "en": "Do I know you?"
-    },
-    "content": {
-      "zh": "我们认识吗？",
-      "en": "Do I know you?"
-    }
+    "en": "Do I know you?",
+    "name": "我们认识吗？"
   },
   {
-    "title": {
-      "zh": "你看着好眼熟。",
-      "en": "You look familiar."
-    },
-    "content": {
-      "zh": "你看着好眼熟。",
-      "en": "You look familiar."
-    }
+    "en": "You look familiar.",
+    "name": "你看着好眼熟。"
   },
   {
-    "title": {
-      "zh": "那到时候见。",
-      "en": "See you then."
-    },
-    "content": {
-      "zh": "那到时候见。",
-      "en": "See you then."
-    }
+    "en": "See you then.",
+    "name": "那到时候见。"
   },
   {
-    "title": {
-      "zh": "你吓我一跳。",
-      "en": "You scared me."
-    },
-    "content": {
-      "zh": "你吓我一跳。",
-      "en": "You scared me."
-    }
+    "en": "You scared me.",
+    "name": "你吓我一跳。"
   },
   {
-    "title": {
-      "zh": "怎么了？",
-      "en": "What's up?"
-    },
-    "content": {
-      "zh": "怎么了？",
-      "en": "What's up?"
-    }
+    "en": "What's up?",
+    "name": "怎么了？"
   },
   {
-    "title": {
-      "zh": "没什么。",
-      "en": "Not much."
-    },
-    "content": {
-      "zh": "没什么。",
-      "en": "Not much."
-    }
+    "en": "Not much.",
+    "name": "没什么。"
   },
   {
-    "title": {
-      "zh": "还行吧。",
-      "en": "Can't complain."
-    },
-    "content": {
-      "zh": "还行吧。",
-      "en": "Can't complain."
-    }
+    "en": "Can't complain.",
+    "name": "还行吧。"
   },
   {
-    "title": {
-      "zh": "你猜怎么着。",
-      "en": "Guess what."
-    },
-    "content": {
-      "zh": "你猜怎么着。",
-      "en": "Guess what."
-    }
+    "en": "Guess what.",
+    "name": "你猜怎么着。"
   },
   {
-    "title": {
-      "zh": "怎么会呢？",
-      "en": "How come?"
-    },
-    "content": {
-      "zh": "怎么会呢？",
-      "en": "How come?"
-    }
+    "en": "How come?",
+    "name": "怎么会呢？"
   },
   {
-    "title": {
-      "zh": "还有呢？",
-      "en": "What else?"
-    },
-    "content": {
-      "zh": "还有呢？",
-      "en": "What else?"
-    }
+    "en": "What else?",
+    "name": "还有呢？"
   },
   {
-    "title": {
-      "zh": "比如说？",
-      "en": "Like what?"
-    },
-    "content": {
-      "zh": "比如说？",
-      "en": "Like what?"
-    }
+    "en": "Like what?",
+    "name": "比如说？"
   },
   {
-    "title": {
-      "zh": "随便问问。",
-      "en": "Just checking."
-    },
-    "content": {
-      "zh": "随便问问。",
-      "en": "Just checking."
-    }
+    "en": "Just checking.",
+    "name": "随便问问。"
   },
   {
-    "title": {
-      "zh": "有什么新鲜事吗？",
-      "en": "Anything new?"
-    },
-    "content": {
-      "zh": "有什么新鲜事吗？",
-      "en": "Anything new?"
-    }
+    "en": "Anything new?",
+    "name": "有什么新鲜事吗？"
   },
   {
-    "title": {
-      "zh": "听起来不错。",
-      "en": "Sounds good."
-    },
-    "content": {
-      "zh": "听起来不错。",
-      "en": "Sounds good."
-    }
+    "en": "Sounds good.",
+    "name": "听起来不错。"
   },
   {
-    "title": {
-      "zh": "你在开玩笑吧。",
-      "en": "You're kidding."
-    },
-    "content": {
-      "zh": "你在开玩笑吧。",
-      "en": "You're kidding."
-    }
+    "en": "You're kidding.",
+    "name": "你在开玩笑吧。"
   },
   {
-    "title": {
-      "zh": "见到你很高兴。",
-      "en": "Good to see you."
-    },
-    "content": {
-      "zh": "见到你很高兴。",
-      "en": "Good to see you."
-    }
+    "en": "Good to see you.",
+    "name": "见到你很高兴。"
   },
   {
-    "title": {
-      "zh": "你也是。",
-      "en": "You too."
-    },
-    "content": {
-      "zh": "你也是。",
-      "en": "You too."
-    }
+    "en": "You too.",
+    "name": "你也是。"
   },
   {
-    "title": {
-      "zh": "回头再聊。",
-      "en": "Talk to you later."
-    },
-    "content": {
-      "zh": "回头再聊。",
-      "en": "Talk to you later."
-    }
+    "en": "Talk to you later.",
+    "name": "回头再聊。"
   },
   {
-    "title": {
-      "zh": "回头见。",
-      "en": "Catch you later."
-    },
-    "content": {
-      "zh": "回头见。",
-      "en": "Catch you later."
-    }
+    "en": "Catch you later.",
+    "name": "回头见。"
   },
   {
-    "title": {
-      "zh": "进行得怎么样？",
-      "en": "How did it go?"
-    },
-    "content": {
-      "zh": "进行得怎么样？",
-      "en": "How did it go?"
-    }
+    "en": "How did it go?",
+    "name": "进行得怎么样？"
   },
   {
-    "title": {
-      "zh": "说曹操曹操到。",
-      "en": "Speak of the devil."
-    },
-    "content": {
-      "zh": "说曹操曹操到。",
-      "en": "Speak of the devil."
-    }
+    "en": "Speak of the devil.",
+    "name": "说曹操曹操到。"
   },
   {
-    "title": {
-      "zh": "真的吗？不会吧。",
-      "en": "You don't say."
-    },
-    "content": {
-      "zh": "真的吗？不会吧。",
-      "en": "You don't say."
-    }
+    "en": "You don't say.",
+    "name": "真的吗？不会吧。"
   },
   {
-    "title": {
-      "zh": "我说得对吧？",
-      "en": "Am I right?"
-    },
-    "content": {
-      "zh": "我说得对吧？",
-      "en": "Am I right?"
-    }
+    "en": "Am I right?",
+    "name": "我说得对吧？"
   },
   {
-    "title": {
-      "zh": "一切都好吗？",
-      "en": "How's everything?"
-    },
-    "content": {
-      "zh": "一切都好吗？",
-      "en": "How's everything?"
-    }
+    "en": "How's everything?",
+    "name": "一切都好吗？"
   },
   {
-    "title": {
-      "zh": "没什么。",
-      "en": "Nothing much."
-    },
-    "content": {
-      "zh": "没什么。",
-      "en": "Nothing much."
-    }
+    "en": "Nothing much.",
+    "name": "没什么。"
   },
   {
-    "title": {
-      "zh": "有什么新鲜事吗？",
-      "en": "What's new?"
-    },
-    "content": {
-      "zh": "有什么新鲜事吗？",
-      "en": "What's new?"
-    }
+    "en": "What's new?",
+    "name": "有什么新鲜事吗？"
   },
   {
-    "title": {
-      "zh": "怎么会这样？",
-      "en": "How so?"
-    },
-    "content": {
-      "zh": "怎么会这样？",
-      "en": "How so?"
-    }
+    "en": "How so?",
+    "name": "怎么会这样？"
   },
   {
-    "title": {
-      "zh": "差不多吧。",
-      "en": "Pretty much."
-    },
-    "content": {
-      "zh": "差不多吧。",
-      "en": "Pretty much."
-    }
+    "en": "Pretty much.",
+    "name": "差不多吧。"
   },
   {
-    "title": {
-      "zh": "谁知道呢。",
-      "en": "Who knows."
-    },
-    "content": {
-      "zh": "谁知道呢。",
-      "en": "Who knows."
-    }
+    "en": "Who knows.",
+    "name": "谁知道呢。"
   },
   {
-    "title": {
-      "zh": "我想是吧。",
-      "en": "I guess."
-    },
-    "content": {
-      "zh": "我想是吧。",
-      "en": "I guess."
-    }
+    "en": "I guess.",
+    "name": "我想是吧。"
   },
   {
-    "title": {
-      "zh": "我可不知道。",
-      "en": "Beats me."
-    },
-    "content": {
-      "zh": "我可不知道。",
-      "en": "Beats me."
-    }
+    "en": "Beats me.",
+    "name": "我可不知道。"
   },
   {
-    "title": {
-      "zh": "不开玩笑，真的。",
-      "en": "No kidding."
-    },
-    "content": {
-      "zh": "不开玩笑，真的。",
-      "en": "No kidding."
-    }
+    "en": "No kidding.",
+    "name": "不开玩笑，真的。"
   },
   {
-    "title": {
-      "zh": "开玩笑的。",
-      "en": "Just kidding."
-    },
-    "content": {
-      "zh": "开玩笑的。",
-      "en": "Just kidding."
-    }
+    "en": "Just kidding.",
+    "name": "开玩笑的。"
   },
   {
-    "title": {
-      "zh": "你知道的。",
-      "en": "You know."
-    },
-    "content": {
-      "zh": "你知道的。",
-      "en": "You know."
-    }
+    "en": "You know.",
+    "name": "你知道的。"
   },
   {
-    "title": {
-      "zh": "你想得美。",
-      "en": "You wish."
-    },
-    "content": {
-      "zh": "你想得美。",
-      "en": "You wish."
-    }
+    "en": "You wish.",
+    "name": "你想得美。"
   },
   {
-    "title": {
-      "zh": "好消息。",
-      "en": "Good news."
-    },
-    "content": {
-      "zh": "好消息。",
-      "en": "Good news."
-    }
+    "en": "Good news.",
+    "name": "好消息。"
   },
   {
-    "title": {
-      "zh": "真可怜。",
-      "en": "Poor thing."
-    },
-    "content": {
-      "zh": "真可怜。",
-      "en": "Poor thing."
-    }
+    "en": "Poor thing.",
+    "name": "真可怜。"
   },
   {
-    "title": {
-      "zh": "祝你平安。",
-      "en": "Bless you."
-    },
-    "content": {
-      "zh": "祝你平安。",
-      "en": "Bless you."
-    }
+    "en": "Bless you.",
+    "name": "祝你平安。"
   },
   {
-    "title": {
-      "zh": "为了什么？",
-      "en": "For what?"
-    },
-    "content": {
-      "zh": "为了什么？",
-      "en": "For what?"
-    }
+    "en": "For what?",
+    "name": "为了什么？"
   },
   {
-    "title": {
-      "zh": "发生什么事了？",
-      "en": "What happened?"
-    },
-    "content": {
-      "zh": "发生什么事了？",
-      "en": "What happened?"
-    }
+    "en": "What happened?",
+    "name": "发生什么事了？"
   }
 ]

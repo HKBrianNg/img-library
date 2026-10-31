@@ -1,112 +1,46 @@
 [
   {
-    "title": {
-      "zh": "上车吧。",
-      "en": "Get in the car."
-    },
-    "content": {
-      "zh": "上车吧。",
-      "en": "Get in the car."
-    }
+    "en": "Get in the car.",
+    "name": "上车吧。"
   },
   {
-    "title": {
-      "zh": "把鞋带系好。",
-      "en": "Tie your shoes."
-    },
-    "content": {
-      "zh": "把鞋带系好。",
-      "en": "Tie your shoes."
-    }
+    "en": "Tie your shoes.",
+    "name": "把鞋带系好。"
   },
   {
-    "title": {
-      "zh": "穿暖和些。",
-      "en": "Dress warmly."
-    },
-    "content": {
-      "zh": "穿暖和些。",
-      "en": "Dress warmly."
-    }
+    "en": "Dress warmly.",
+    "name": "穿暖和些。"
   },
   {
-    "title": {
-      "zh": "外面挺冷的。",
-      "en": "It's chilly out."
-    },
-    "content": {
-      "zh": "外面挺冷的。",
-      "en": "It's chilly out."
-    }
+    "en": "It's chilly out.",
+    "name": "外面挺冷的。"
   },
   {
-    "title": {
-      "zh": "注意保暖。",
-      "en": "Stay warm."
-    },
-    "content": {
-      "zh": "注意保暖。",
-      "en": "Stay warm."
-    }
+    "en": "Stay warm.",
+    "name": "注意保暖。"
   },
   {
-    "title": {
-      "zh": "小心脚下。",
-      "en": "Watch your step."
-    },
-    "content": {
-      "zh": "小心脚下。",
-      "en": "Watch your step."
-    }
+    "en": "Watch your step.",
+    "name": "小心脚下。"
   },
   {
-    "title": {
-      "zh": "等等我。",
-      "en": "Wait for me."
-    },
-    "content": {
-      "zh": "等等我。",
-      "en": "Wait for me."
-    }
+    "en": "Wait for me.",
+    "name": "等等我。"
   },
   {
-    "title": {
-      "zh": "不急。",
-      "en": "No rush."
-    },
-    "content": {
-      "zh": "不急。",
-      "en": "No rush."
-    }
+    "en": "No rush.",
+    "name": "不急。"
   },
   {
-    "title": {
-      "zh": "快点儿。",
-      "en": "Hurry up."
-    },
-    "content": {
-      "zh": "快点儿。",
-      "en": "Hurry up."
-    }
+    "en": "Hurry up.",
+    "name": "快点儿。"
   },
   {
-    "title": {
-      "zh": "我要迟到了。",
-      "en": "I'm running late."
-    },
-    "content": {
-      "zh": "我要迟到了。",
-      "en": "I'm running late."
-    }
+    "en": "I'm running late.",
+    "name": "我要迟到了。"
   },
   {
-    "title": {
-      "zh": "我忘带钥匙了。",
-      "en": "I forgot my keys."
-    },
-    "content": {
-      "zh": "我忘带钥匙了。",
-      "en": "I forgot my keys."
-    }
+    "en": "I forgot my keys.",
+    "name": "我忘带钥匙了。"
   }
 ]

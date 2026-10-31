@@ -1,122 +1,50 @@
 [
   {
-    "title": {
-      "zh": "你饿吗？",
-      "en": "You hungry?"
-    },
-    "content": {
-      "zh": "你饿吗？",
-      "en": "You hungry?"
-    }
+    "en": "You hungry?",
+    "name": "你饿吗？"
   },
   {
-    "title": {
-      "zh": "我饿坏了。",
-      "en": "I'm starving."
-    },
-    "content": {
-      "zh": "我饿坏了。",
-      "en": "I'm starving."
-    }
+    "en": "I'm starving.",
+    "name": "我饿坏了。"
   },
   {
-    "title": {
-      "zh": "咱们出去吃吧。",
-      "en": "Let's eat out."
-    },
-    "content": {
-      "zh": "咱们出去吃吧。",
-      "en": "Let's eat out."
-    }
+    "en": "Let's eat out.",
+    "name": "咱们出去吃吧。"
   },
   {
-    "title": {
-      "zh": "我很乐意。",
-      "en": "I'd love to."
-    },
-    "content": {
-      "zh": "我很乐意。",
-      "en": "I'd love to."
-    }
+    "en": "I'd love to.",
+    "name": "我很乐意。"
   },
   {
-    "title": {
-      "zh": "尝一口。",
-      "en": "Try some."
-    },
-    "content": {
-      "zh": "尝一口。",
-      "en": "Try some."
-    }
+    "en": "Try some.",
+    "name": "尝一口。"
   },
   {
-    "title": {
-      "zh": "真好吃。",
-      "en": "It's tasty."
-    },
-    "content": {
-      "zh": "真好吃。",
-      "en": "It's tasty."
-    }
+    "en": "It's tasty.",
+    "name": "真好吃。"
   },
   {
-    "title": {
-      "zh": "我吃饱了。",
-      "en": "I'm full."
-    },
-    "content": {
-      "zh": "我吃饱了。",
-      "en": "I'm full."
-    }
+    "en": "I'm full.",
+    "name": "我吃饱了。"
   },
   {
-    "title": {
-      "zh": "我什么都吃。",
-      "en": "I eat anything."
-    },
-    "content": {
-      "zh": "我什么都吃。",
-      "en": "I eat anything."
-    }
+    "en": "I eat anything.",
+    "name": "我什么都吃。"
   },
   {
-    "title": {
-      "zh": "在这儿吃还是带走？",
-      "en": "For here or to go?"
-    },
-    "content": {
-      "zh": "在这儿吃还是带走？",
-      "en": "For here or to go?"
-    }
+    "en": "For here or to go?",
+    "name": "在这儿吃还是带走？"
   },
   {
-    "title": {
-      "zh": "干杯。",
-      "en": "Bottoms up."
-    },
-    "content": {
-      "zh": "干杯。",
-      "en": "Bottoms up."
-    }
+    "en": "Bottoms up.",
+    "name": "干杯。"
   },
   {
-    "title": {
-      "zh": "在这儿吃。",
-      "en": "For here."
-    },
-    "content": {
-      "zh": "在这儿吃。",
-      "en": "For here."
-    }
+    "en": "For here.",
+    "name": "在这儿吃。"
   },
   {
-    "title": {
-      "zh": "带走。",
-      "en": "To go."
-    },
-    "content": {
-      "zh": "带走。",
-      "en": "To go."
-    }
+    "en": "To go.",
+    "name": "带走。"
   }
 ]

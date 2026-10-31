@@ -1,322 +1,130 @@
 [
   {
-    "title": {
-      "zh": "冷静点。",
-      "en": "Calm down."
-    },
-    "content": {
-      "zh": "冷静点。",
-      "en": "Calm down."
-    }
+    "en": "Calm down.",
+    "name": "冷静点。"
   },
   {
-    "title": {
-      "zh": "别闹了。",
-      "en": "Stop it."
-    },
-    "content": {
-      "zh": "别闹了。",
-      "en": "Stop it."
-    }
+    "en": "Stop it.",
+    "name": "别闹了。"
   },
   {
-    "title": {
-      "zh": "别这么没礼貌。",
-      "en": "Stop being rude."
-    },
-    "content": {
-      "zh": "别这么没礼貌。",
-      "en": "Stop being rude."
-    }
+    "en": "Stop being rude.",
+    "name": "别这么没礼貌。"
   },
   {
-    "title": {
-      "zh": "别多嘴。",
-      "en": "Hold your tongue."
-    },
-    "content": {
-      "zh": "别多嘴。",
-      "en": "Hold your tongue."
-    }
+    "en": "Hold your tongue.",
+    "name": "别多嘴。"
   },
   {
-    "title": {
-      "zh": "饶了我吧。",
-      "en": "Give me a break."
-    },
-    "content": {
-      "zh": "饶了我吧。",
-      "en": "Give me a break."
-    }
+    "en": "Give me a break.",
+    "name": "饶了我吧。"
   },
   {
-    "title": {
-      "zh": "别烦我。",
-      "en": "Leave me alone."
-    },
-    "content": {
-      "zh": "别烦我。",
-      "en": "Leave me alone."
-    }
+    "en": "Leave me alone.",
+    "name": "别烦我。"
   },
   {
-    "title": {
-      "zh": "别缠着我。",
-      "en": "Don't bug me."
-    },
-    "content": {
-      "zh": "别缠着我。",
-      "en": "Don't bug me."
-    }
+    "en": "Don't bug me.",
+    "name": "别缠着我。"
   },
   {
-    "title": {
-      "zh": "小心！",
-      "en": "Watch out."
-    },
-    "content": {
-      "zh": "小心！",
-      "en": "Watch out."
-    }
+    "en": "Watch out.",
+    "name": "小心！"
   },
   {
-    "title": {
-      "zh": "别闹了，住手。",
-      "en": "Cut it out."
-    },
-    "content": {
-      "zh": "别闹了，住手。",
-      "en": "Cut it out."
-    }
+    "en": "Cut it out.",
+    "name": "别闹了，住手。"
   },
   {
-    "title": {
-      "zh": "说话注意点。",
-      "en": "Watch your mouth."
-    },
-    "content": {
-      "zh": "说话注意点。",
-      "en": "Watch your mouth."
-    }
+    "en": "Watch your mouth.",
+    "name": "说话注意点。"
   },
   {
-    "title": {
-      "zh": "忍住别说。",
-      "en": "Bite your tongue."
-    },
-    "content": {
-      "zh": "忍住别说。",
-      "en": "Bite your tongue."
-    }
+    "en": "Bite your tongue.",
+    "name": "忍住别说。"
   },
   {
-    "title": {
-      "zh": "想都别想。",
-      "en": "Don't even try it."
-    },
-    "content": {
-      "zh": "想都别想。",
-      "en": "Don't even try it."
-    }
+    "en": "Don't even try it.",
+    "name": "想都别想。"
   },
   {
-    "title": {
-      "zh": "别再说了。",
-      "en": "Say no more."
-    },
-    "content": {
-      "zh": "别再说了。",
-      "en": "Say no more."
-    }
+    "en": "Say no more.",
+    "name": "别再说了。"
   },
   {
-    "title": {
-      "zh": "别孩子气了。",
-      "en": "Act your age."
-    },
-    "content": {
-      "zh": "别孩子气了。",
-      "en": "Act your age."
-    }
+    "en": "Act your age.",
+    "name": "别孩子气了。"
   },
   {
-    "title": {
-      "zh": "别傻了。",
-      "en": "Don't be silly."
-    },
-    "content": {
-      "zh": "别傻了。",
-      "en": "Don't be silly."
-    }
+    "en": "Don't be silly.",
+    "name": "别傻了。"
   },
   {
-    "title": {
-      "zh": "真不害臊。",
-      "en": "Shame on you."
-    },
-    "content": {
-      "zh": "真不害臊。",
-      "en": "Shame on you."
-    }
+    "en": "Shame on you.",
+    "name": "真不害臊。"
   },
   {
-    "title": {
-      "zh": "别费心了。",
-      "en": "Don't bother."
-    },
-    "content": {
-      "zh": "别费心了。",
-      "en": "Don't bother."
-    }
+    "en": "Don't bother.",
+    "name": "别费心了。"
   },
   {
-    "title": {
-      "zh": "放弃吧，别白费劲了。",
-      "en": "Give it up."
-    },
-    "content": {
-      "zh": "放弃吧，别白费劲了。",
-      "en": "Give it up."
-    }
+    "en": "Give it up.",
+    "name": "放弃吧，别白费劲了。"
   },
   {
-    "title": {
-      "zh": "你自找的。",
-      "en": "You asked for it."
-    },
-    "content": {
-      "zh": "你自找的。",
-      "en": "You asked for it."
-    }
+    "en": "You asked for it.",
+    "name": "你自找的。"
   },
   {
-    "title": {
-      "zh": "温和点，别太较真。",
-      "en": "Go easy."
-    },
-    "content": {
-      "zh": "温和点，别太较真。",
-      "en": "Go easy."
-    }
+    "en": "Go easy.",
+    "name": "温和点，别太较真。"
   },
   {
-    "title": {
-      "zh": "别说了，放下吧。",
-      "en": "Drop it."
-    },
-    "content": {
-      "zh": "别说了，放下吧。",
-      "en": "Drop it."
-    }
+    "en": "Drop it.",
+    "name": "别说了，放下吧。"
   },
   {
-    "title": {
-      "zh": "别管了。",
-      "en": "Leave it."
-    },
-    "content": {
-      "zh": "别管了。",
-      "en": "Leave it."
-    }
+    "en": "Leave it.",
+    "name": "别管了。"
   },
   {
-    "title": {
-      "zh": "放手吧。",
-      "en": "Let go."
-    },
-    "content": {
-      "zh": "放手吧。",
-      "en": "Let go."
-    }
+    "en": "Let go.",
+    "name": "放手吧。"
   },
   {
-    "title": {
-      "zh": "退后，别逼我。",
-      "en": "Back off."
-    },
-    "content": {
-      "zh": "退后，别逼我。",
-      "en": "Back off."
-    }
+    "en": "Back off.",
+    "name": "退后，别逼我。"
   },
   {
-    "title": {
-      "zh": "别碰。",
-      "en": "Hands off."
-    },
-    "content": {
-      "zh": "别碰。",
-      "en": "Hands off."
-    }
+    "en": "Hands off.",
+    "name": "别碰。"
   },
   {
-    "title": {
-      "zh": "认真点。",
-      "en": "Get serious."
-    },
-    "content": {
-      "zh": "认真点。",
-      "en": "Get serious."
-    }
+    "en": "Get serious.",
+    "name": "认真点。"
   },
   {
-    "title": {
-      "zh": "别着急。",
-      "en": "Don't rush."
-    },
-    "content": {
-      "zh": "别着急。",
-      "en": "Don't rush."
-    }
+    "en": "Don't rush.",
+    "name": "别着急。"
   },
   {
-    "title": {
-      "zh": "冷静点，放松。",
-      "en": "Chill out."
-    },
-    "content": {
-      "zh": "冷静点，放松。",
-      "en": "Chill out."
-    }
+    "en": "Chill out.",
+    "name": "冷静点，放松。"
   },
   {
-    "title": {
-      "zh": "耐心点。",
-      "en": "Be patient."
-    },
-    "content": {
-      "zh": "耐心点。",
-      "en": "Be patient."
-    }
+    "en": "Be patient.",
+    "name": "耐心点。"
   },
   {
-    "title": {
-      "zh": "安静点。",
-      "en": "Be quiet."
-    },
-    "content": {
-      "zh": "安静点。",
-      "en": "Be quiet."
-    }
+    "en": "Be quiet.",
+    "name": "安静点。"
   },
   {
-    "title": {
-      "zh": "保持安静。",
-      "en": "Keep silent."
-    },
-    "content": {
-      "zh": "保持安静。",
-      "en": "Keep silent."
-    }
+    "en": "Keep silent.",
+    "name": "保持安静。"
   },
   {
-    "title": {
-      "zh": "小心点。",
-      "en": "Be careful."
-    },
-    "content": {
-      "zh": "小心点。",
-      "en": "Be careful."
-    }
+    "en": "Be careful.",
+    "name": "小心点。"
   }
 ]

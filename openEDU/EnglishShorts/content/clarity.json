@@ -1,82 +1,34 @@
 [
   {
-    "title": {
-      "zh": "大点声说。",
-      "en": "Speak up."
-    },
-    "content": {
-      "zh": "大点声说。",
-      "en": "Speak up."
-    }
+    "en": "Speak up.",
+    "name": "大点声说。"
   },
   {
-    "title": {
-      "zh": "长话短说。",
-      "en": "Long story short."
-    },
-    "content": {
-      "zh": "长话短说。",
-      "en": "Long story short."
-    }
+    "en": "Long story short.",
+    "name": "长话短说。"
   },
   {
-    "title": {
-      "zh": "换个话题吧。",
-      "en": "Change the subject."
-    },
-    "content": {
-      "zh": "换个话题吧。",
-      "en": "Change the subject."
-    }
+    "en": "Change the subject.",
+    "name": "换个话题吧。"
   },
   {
-    "title": {
-      "zh": "你还不明白吗？",
-      "en": "Don't you see?"
-    },
-    "content": {
-      "zh": "你还不明白吗？",
-      "en": "Don't you see?"
-    }
+    "en": "Don't you see?",
+    "name": "你还不明白吗？"
   },
   {
-    "title": {
-      "zh": "少来了，别开玩笑了。",
-      "en": "Get out of here."
-    },
-    "content": {
-      "zh": "少来了，别开玩笑了。",
-      "en": "Get out of here."
-    }
+    "en": "Get out of here.",
+    "name": "少来了，别开玩笑了。"
   },
   {
-    "title": {
-      "zh": "说来话长。",
-      "en": "Long story."
-    },
-    "content": {
-      "zh": "说来话长。",
-      "en": "Long story."
-    }
+    "en": "Long story.",
+    "name": "说来话长。"
   },
   {
-    "title": {
-      "zh": "说正经的。",
-      "en": "Joking aside."
-    },
-    "content": {
-      "zh": "说正经的。",
-      "en": "Joking aside."
-    }
+    "en": "Joking aside.",
+    "name": "说正经的。"
   },
   {
-    "title": {
-      "zh": "回答我。",
-      "en": "Answer me."
-    },
-    "content": {
-      "zh": "回答我。",
-      "en": "Answer me."
-    }
+    "en": "Answer me.",
+    "name": "回答我。"
   }
 ]

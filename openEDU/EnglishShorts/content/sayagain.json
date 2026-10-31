@@ -1,62 +1,26 @@
 [
   {
-    "title": {
-      "zh": "我没听清。",
-      "en": "I didn't catch that."
-    },
-    "content": {
-      "zh": "我没听清。",
-      "en": "I didn't catch that."
-    }
+    "en": "I didn't catch that.",
+    "name": "我没听清。"
   },
   {
-    "title": {
-      "zh": "再说一遍？",
-      "en": "Come again?"
-    },
-    "content": {
-      "zh": "再说一遍？",
-      "en": "Come again?"
-    }
+    "en": "Come again?",
+    "name": "再说一遍？"
   },
   {
-    "title": {
-      "zh": "请大点声。",
-      "en": "Louder please."
-    },
-    "content": {
-      "zh": "请大点声。",
-      "en": "Louder please."
-    }
+    "en": "Louder please.",
+    "name": "请大点声。"
   },
   {
-    "title": {
-      "zh": "你听见我说话了吗？",
-      "en": "Did you hear me?"
-    },
-    "content": {
-      "zh": "你听见我说话了吗？",
-      "en": "Did you hear me?"
-    }
+    "en": "Did you hear me?",
+    "name": "你听见我说话了吗？"
   },
   {
-    "title": {
-      "zh": "我们能聊聊吗？",
-      "en": "Can we talk?"
-    },
-    "content": {
-      "zh": "我们能聊聊吗？",
-      "en": "Can we talk?"
-    }
+    "en": "Can we talk?",
+    "name": "我们能聊聊吗？"
   },
   {
-    "title": {
-      "zh": "说不好。",
-      "en": "It's hard to tell."
-    },
-    "content": {
-      "zh": "说不好。",
-      "en": "It's hard to tell."
-    }
+    "en": "It's hard to tell.",
+    "name": "说不好。"
   }
 ]

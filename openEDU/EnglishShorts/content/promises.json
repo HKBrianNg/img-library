@@ -1,82 +1,34 @@
 [
   {
-    "title": {
-      "zh": "我欠你一个人情。",
-      "en": "I owe you one."
-    },
-    "content": {
-      "zh": "我欠你一个人情。",
-      "en": "I owe you one."
-    }
+    "en": "I owe you one.",
+    "name": "我欠你一个人情。"
   },
   {
-    "title": {
-      "zh": "我向你保证。",
-      "en": "You have my word."
-    },
-    "content": {
-      "zh": "我向你保证。",
-      "en": "You have my word."
-    }
+    "en": "You have my word.",
+    "name": "我向你保证。"
   },
   {
-    "title": {
-      "zh": "一言为定。",
-      "en": "It's a deal."
-    },
-    "content": {
-      "zh": "一言为定。",
-      "en": "It's a deal."
-    }
+    "en": "It's a deal.",
+    "name": "一言为定。"
   },
   {
-    "title": {
-      "zh": "我们扯平了。",
-      "en": "We are even."
-    },
-    "content": {
-      "zh": "我们扯平了。",
-      "en": "We are even."
-    }
+    "en": "We are even.",
+    "name": "我们扯平了。"
   },
   {
-    "title": {
-      "zh": "算我一个。",
-      "en": "Count me in."
-    },
-    "content": {
-      "zh": "算我一个。",
-      "en": "Count me in."
-    }
+    "en": "Count me in.",
+    "name": "算我一个。"
   },
   {
-    "title": {
-      "zh": "我是认真的。",
-      "en": "I mean it."
-    },
-    "content": {
-      "zh": "我是认真的。",
-      "en": "I mean it."
-    }
+    "en": "I mean it.",
+    "name": "我是认真的。"
   },
   {
-    "title": {
-      "zh": "如你所愿。",
-      "en": "As you wish."
-    },
-    "content": {
-      "zh": "如你所愿。",
-      "en": "As you wish."
-    }
+    "en": "As you wish.",
+    "name": "如你所愿。"
   },
   {
-    "title": {
-      "zh": "相信我。",
-      "en": "Believe me."
-    },
-    "content": {
-      "zh": "相信我。",
-      "en": "Believe me."
-    }
+    "en": "Believe me.",
+    "name": "相信我。"
   }
 ]

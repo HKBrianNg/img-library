@@ -1,112 +1,46 @@
 [
   {
-    "title": {
-      "zh": "接个电话。",
-      "en": "Answer the phone."
-    },
-    "content": {
-      "zh": "接个电话。",
-      "en": "Answer the phone."
-    }
+    "en": "Answer the phone.",
+    "name": "接个电话。"
   },
   {
-    "title": {
-      "zh": "打错了。",
-      "en": "Wrong number."
-    },
-    "content": {
-      "zh": "打错了。",
-      "en": "Wrong number."
-    }
+    "en": "Wrong number.",
+    "name": "打错了。"
   },
   {
-    "title": {
-      "zh": "电话断了。",
-      "en": "We got cut off."
-    },
-    "content": {
-      "zh": "电话断了。",
-      "en": "We got cut off."
-    }
+    "en": "We got cut off.",
+    "name": "电话断了。"
   },
   {
-    "title": {
-      "zh": "你刚刚在哪儿？",
-      "en": "Where were you?"
-    },
-    "content": {
-      "zh": "你刚刚在哪儿？",
-      "en": "Where were you?"
-    }
+    "en": "Where were you?",
+    "name": "你刚刚在哪儿？"
   },
   {
-    "title": {
-      "zh": "给我打个电话。",
-      "en": "Give me a call."
-    },
-    "content": {
-      "zh": "给我打个电话。",
-      "en": "Give me a call."
-    }
+    "en": "Give me a call.",
+    "name": "给我打个电话。"
   },
   {
-    "title": {
-      "zh": "我打不通。",
-      "en": "I can't get through."
-    },
-    "content": {
-      "zh": "我打不通。",
-      "en": "I can't get through."
-    }
+    "en": "I can't get through.",
+    "name": "我打不通。"
   },
   {
-    "title": {
-      "zh": "谁打来的？",
-      "en": "Who's calling?"
-    },
-    "content": {
-      "zh": "谁打来的？",
-      "en": "Who's calling?"
-    }
+    "en": "Who's calling?",
+    "name": "谁打来的？"
   },
   {
-    "title": {
-      "zh": "我手机没电了。",
-      "en": "My phone died."
-    },
-    "content": {
-      "zh": "我手机没电了。",
-      "en": "My phone died."
-    }
+    "en": "My phone died.",
+    "name": "我手机没电了。"
   },
   {
-    "title": {
-      "zh": "电话占线。",
-      "en": "The line is busy."
-    },
-    "content": {
-      "zh": "电话占线。",
-      "en": "The line is busy."
-    }
+    "en": "The line is busy.",
+    "name": "电话占线。"
   },
   {
-    "title": {
-      "zh": "你是谁？",
-      "en": "Who is this?"
-    },
-    "content": {
-      "zh": "你是谁？",
-      "en": "Who is this?"
-    }
+    "en": "Who is this?",
+    "name": "你是谁？"
   },
   {
-    "title": {
-      "zh": "挂电话吧。",
-      "en": "Hang up."
-    },
-    "content": {
-      "zh": "挂电话吧。",
-      "en": "Hang up."
-    }
+    "en": "Hang up.",
+    "name": "挂电话吧。"
   }
 ]

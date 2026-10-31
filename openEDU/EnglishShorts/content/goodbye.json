@@ -1,42 +1,18 @@
 [
   {
-    "title": {
-      "zh": "我得走了。",
-      "en": "Got to go."
-    },
-    "content": {
-      "zh": "我得走了。",
-      "en": "Got to go."
-    }
+    "en": "Got to go.",
+    "name": "我得走了。"
   },
   {
-    "title": {
-      "zh": "再见。",
-      "en": "See you."
-    },
-    "content": {
-      "zh": "再见。",
-      "en": "See you."
-    }
+    "en": "See you.",
+    "name": "再见。"
   },
   {
-    "title": {
-      "zh": "再见啦。",
-      "en": "So long."
-    },
-    "content": {
-      "zh": "再见啦。",
-      "en": "So long."
-    }
+    "en": "So long.",
+    "name": "再见啦。"
   },
   {
-    "title": {
-      "zh": "回来吧。",
-      "en": "Come back."
-    },
-    "content": {
-      "zh": "回来吧。",
-      "en": "Come back."
-    }
+    "en": "Come back.",
+    "name": "回来吧。"
   }
 ]

@@ -1,152 +1,62 @@
 [
   {
-    "title": {
-      "zh": "几点了？",
-      "en": "What time is it?"
-    },
-    "content": {
-      "zh": "几点了？",
-      "en": "What time is it?"
-    }
+    "en": "What time is it?",
+    "name": "几点了？"
   },
   {
-    "title": {
-      "zh": "还早着呢。",
-      "en": "It's still early."
-    },
-    "content": {
-      "zh": "还早着呢。",
-      "en": "It's still early."
-    }
+    "en": "It's still early.",
+    "name": "还早着呢。"
   },
   {
-    "title": {
-      "zh": "天不早了。",
-      "en": "It's getting late."
-    },
-    "content": {
-      "zh": "天不早了。",
-      "en": "It's getting late."
-    }
+    "en": "It's getting late.",
+    "name": "天不早了。"
   },
   {
-    "title": {
-      "zh": "我得走了。",
-      "en": "I got to go."
-    },
-    "content": {
-      "zh": "我得走了。",
-      "en": "I got to go."
-    }
+    "en": "I got to go.",
+    "name": "我得走了。"
   },
   {
-    "title": {
-      "zh": "我在赶时间。",
-      "en": "I'm in a hurry."
-    },
-    "content": {
-      "zh": "我在赶时间。",
-      "en": "I'm in a hurry."
-    }
+    "en": "I'm in a hurry.",
+    "name": "我在赶时间。"
   },
   {
-    "title": {
-      "zh": "请排好队。",
-      "en": "Line up please."
-    },
-    "content": {
-      "zh": "请排好队。",
-      "en": "Line up please."
-    }
+    "en": "Line up please.",
+    "name": "请排好队。"
   },
   {
-    "title": {
-      "zh": "我们轮流来。",
-      "en": "Let's take turns."
-    },
-    "content": {
-      "zh": "我们轮流来。",
-      "en": "Let's take turns."
-    }
+    "en": "Let's take turns.",
+    "name": "我们轮流来。"
   },
   {
-    "title": {
-      "zh": "轮到你了。",
-      "en": "It's your turn."
-    },
-    "content": {
-      "zh": "轮到你了。",
-      "en": "It's your turn."
-    }
+    "en": "It's your turn.",
+    "name": "轮到你了。"
   },
   {
-    "title": {
-      "zh": "我到楼层了。",
-      "en": "This is my floor."
-    },
-    "content": {
-      "zh": "我到楼层了。",
-      "en": "This is my floor."
-    }
+    "en": "This is my floor.",
+    "name": "我到楼层了。"
   },
   {
-    "title": {
-      "zh": "今天星期几？",
-      "en": "What day is it today?"
-    },
-    "content": {
-      "zh": "今天星期几？",
-      "en": "What day is it today?"
-    }
+    "en": "What day is it today?",
+    "name": "今天星期几？"
   },
   {
-    "title": {
-      "zh": "今天是星期五。",
-      "en": "Today is Friday."
-    },
-    "content": {
-      "zh": "今天是星期五。",
-      "en": "Today is Friday."
-    }
+    "en": "Today is Friday.",
+    "name": "今天是星期五。"
   },
   {
-    "title": {
-      "zh": "你在排队吗？",
-      "en": "Are you in line?"
-    },
-    "content": {
-      "zh": "你在排队吗？",
-      "en": "Are you in line?"
-    }
+    "en": "Are you in line?",
+    "name": "你在排队吗？"
   },
   {
-    "title": {
-      "zh": "今天就到这儿吧。",
-      "en": "Let's call it a day."
-    },
-    "content": {
-      "zh": "今天就到这儿吧。",
-      "en": "Let's call it a day."
-    }
+    "en": "Let's call it a day.",
+    "name": "今天就到这儿吧。"
   },
   {
-    "title": {
-      "zh": "稍等一下。",
-      "en": "One second."
-    },
-    "content": {
-      "zh": "稍等一下。",
-      "en": "One second."
-    }
+    "en": "One second.",
+    "name": "稍等一下。"
   },
   {
-    "title": {
-      "zh": "光阴似箭。",
-      "en": "Time flies."
-    },
-    "content": {
-      "zh": "光阴似箭。",
-      "en": "Time flies."
-    }
+    "en": "Time flies.",
+    "name": "光阴似箭。"
   }
 ]

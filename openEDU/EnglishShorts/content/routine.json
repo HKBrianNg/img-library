@@ -1,82 +1,34 @@
 [
   {
-    "title": {
-      "zh": "穿好衣服。",
-      "en": "Get dressed."
-    },
-    "content": {
-      "zh": "穿好衣服。",
-      "en": "Get dressed."
-    }
+    "en": "Get dressed.",
+    "name": "穿好衣服。"
   },
   {
-    "title": {
-      "zh": "起床了。",
-      "en": "Wake up."
-    },
-    "content": {
-      "zh": "起床了。",
-      "en": "Wake up."
-    }
+    "en": "Wake up.",
+    "name": "起床了。"
   },
   {
-    "title": {
-      "zh": "起来吧。",
-      "en": "Get up."
-    },
-    "content": {
-      "zh": "起来吧。",
-      "en": "Get up."
-    }
+    "en": "Get up.",
+    "name": "起来吧。"
   },
   {
-    "title": {
-      "zh": "站起来。",
-      "en": "Stand up."
-    },
-    "content": {
-      "zh": "站起来。",
-      "en": "Stand up."
-    }
+    "en": "Stand up.",
+    "name": "站起来。"
   },
   {
-    "title": {
-      "zh": "上楼去。",
-      "en": "Go upstairs."
-    },
-    "content": {
-      "zh": "上楼去。",
-      "en": "Go upstairs."
-    }
+    "en": "Go upstairs.",
+    "name": "上楼去。"
   },
   {
-    "title": {
-      "zh": "下楼去。",
-      "en": "Go downstairs."
-    },
-    "content": {
-      "zh": "下楼去。",
-      "en": "Go downstairs."
-    }
+    "en": "Go downstairs.",
+    "name": "下楼去。"
   },
   {
-    "title": {
-      "zh": "还没睡吗？",
-      "en": "Still up?"
-    },
-    "content": {
-      "zh": "还没睡吗？",
-      "en": "Still up?"
-    }
+    "en": "Still up?",
+    "name": "还没睡吗？"
   },
   {
-    "title": {
-      "zh": "做个好梦。",
-      "en": "Sweet dreams."
-    },
-    "content": {
-      "zh": "做个好梦。",
-      "en": "Sweet dreams."
-    }
+    "en": "Sweet dreams.",
+    "name": "做个好梦。"
   }
 ]

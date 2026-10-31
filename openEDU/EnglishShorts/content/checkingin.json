@@ -1,122 +1,50 @@
 [
   {
-    "title": {
-      "zh": "你还好吧？",
-      "en": "You doing okay?"
-    },
-    "content": {
-      "zh": "你还好吧？",
-      "en": "You doing okay?"
-    }
+    "en": "You doing okay?",
+    "name": "你还好吧？"
   },
   {
-    "title": {
-      "zh": "你醒了吗？",
-      "en": "Are you awake?"
-    },
-    "content": {
-      "zh": "你醒了吗？",
-      "en": "Are you awake?"
-    }
+    "en": "Are you awake?",
+    "name": "你醒了吗？"
   },
   {
-    "title": {
-      "zh": "我不舒服。",
-      "en": "I don't feel well."
-    },
-    "content": {
-      "zh": "我不舒服。",
-      "en": "I don't feel well."
-    }
+    "en": "I don't feel well.",
+    "name": "我不舒服。"
   },
   {
-    "title": {
-      "zh": "我感冒了。",
-      "en": "I have a cold."
-    },
-    "content": {
-      "zh": "我感冒了。",
-      "en": "I have a cold."
-    }
+    "en": "I have a cold.",
+    "name": "我感冒了。"
   },
   {
-    "title": {
-      "zh": "好好休息。",
-      "en": "Get some rest."
-    },
-    "content": {
-      "zh": "好好休息。",
-      "en": "Get some rest."
-    }
+    "en": "Get some rest.",
+    "name": "好好休息。"
   },
   {
-    "title": {
-      "zh": "多喝点水。",
-      "en": "Drink more water."
-    },
-    "content": {
-      "zh": "多喝点水。",
-      "en": "Drink more water."
-    }
+    "en": "Drink more water.",
+    "name": "多喝点水。"
   },
   {
-    "title": {
-      "zh": "怎么了？",
-      "en": "What's wrong?"
-    },
-    "content": {
-      "zh": "怎么了？",
-      "en": "What's wrong?"
-    }
+    "en": "What's wrong?",
+    "name": "怎么了？"
   },
   {
-    "title": {
-      "zh": "别紧张，放轻松。",
-      "en": "Take it easy."
-    },
-    "content": {
-      "zh": "别紧张，放轻松。",
-      "en": "Take it easy."
-    }
+    "en": "Take it easy.",
+    "name": "别紧张，放轻松。"
   },
   {
-    "title": {
-      "zh": "祝你早日康复。",
-      "en": "Feel better."
-    },
-    "content": {
-      "zh": "祝你早日康复。",
-      "en": "Feel better."
-    }
+    "en": "Feel better.",
+    "name": "祝你早日康复。"
   },
   {
-    "title": {
-      "zh": "你看起来有点累。",
-      "en": "You look tired."
-    },
-    "content": {
-      "zh": "你看起来有点累。",
-      "en": "You look tired."
-    }
+    "en": "You look tired.",
+    "name": "你看起来有点累。"
   },
   {
-    "title": {
-      "zh": "你没事吧？",
-      "en": "Are you all right?"
-    },
-    "content": {
-      "zh": "你没事吧？",
-      "en": "Are you all right?"
-    }
+    "en": "Are you all right?",
+    "name": "你没事吧？"
   },
   {
-    "title": {
-      "zh": "我不太舒服。",
-      "en": "I don't feel good."
-    },
-    "content": {
-      "zh": "我不太舒服。",
-      "en": "I don't feel good."
-    }
+    "en": "I don't feel good.",
+    "name": "我不太舒服。"
   }
 ]

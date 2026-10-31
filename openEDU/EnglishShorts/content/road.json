@@ -1,82 +1,34 @@
 [
   {
-    "title": {
-      "zh": "靠边停车。",
-      "en": "Pull over."
-    },
-    "content": {
-      "zh": "靠边停车。",
-      "en": "Pull over."
-    }
+    "en": "Pull over.",
+    "name": "靠边停车。"
   },
   {
-    "title": {
-      "zh": "一直往前走。",
-      "en": "Go straight."
-    },
-    "content": {
-      "zh": "一直往前走。",
-      "en": "Go straight."
-    }
+    "en": "Go straight.",
+    "name": "一直往前走。"
   },
   {
-    "title": {
-      "zh": "让一下。",
-      "en": "Move aside."
-    },
-    "content": {
-      "zh": "让一下。",
-      "en": "Move aside."
-    }
+    "en": "Move aside.",
+    "name": "让一下。"
   },
   {
-    "title": {
-      "zh": "开车小心。",
-      "en": "Drive safe."
-    },
-    "content": {
-      "zh": "开车小心。",
-      "en": "Drive safe."
-    }
+    "en": "Drive safe.",
+    "name": "开车小心。"
   },
   {
-    "title": {
-      "zh": "慢一点。",
-      "en": "Slow down."
-    },
-    "content": {
-      "zh": "慢一点。",
-      "en": "Slow down."
-    }
+    "en": "Slow down.",
+    "name": "慢一点。"
   },
   {
-    "title": {
-      "zh": "在那边。",
-      "en": "Over there."
-    },
-    "content": {
-      "zh": "在那边。",
-      "en": "Over there."
-    }
+    "en": "Over there.",
+    "name": "在那边。"
   },
   {
-    "title": {
-      "zh": "往这边走。",
-      "en": "This way."
-    },
-    "content": {
-      "zh": "往这边走。",
-      "en": "This way."
-    }
+    "en": "This way.",
+    "name": "往这边走。"
   },
   {
-    "title": {
-      "zh": "跟我来。",
-      "en": "Follow me."
-    },
-    "content": {
-      "zh": "跟我来。",
-      "en": "Follow me."
-    }
+    "en": "Follow me.",
+    "name": "跟我来。"
   }
 ]

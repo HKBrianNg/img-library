@@ -1,102 +1,42 @@
 [
   {
-    "title": {
-      "zh": "过来玩吧。",
-      "en": "Come over."
-    },
-    "content": {
-      "zh": "过来玩吧。",
-      "en": "Come over."
-    }
+    "en": "Come over.",
+    "name": "过来玩吧。"
   },
   {
-    "title": {
-      "zh": "您先请。",
-      "en": "After you."
-    },
-    "content": {
-      "zh": "您先请。",
-      "en": "After you."
-    }
+    "en": "After you.",
+    "name": "您先请。"
   },
   {
-    "title": {
-      "zh": "让我来吧。",
-      "en": "Allow me."
-    },
-    "content": {
-      "zh": "让我来吧。",
-      "en": "Allow me."
-    }
+    "en": "Allow me.",
+    "name": "让我来吧。"
   },
   {
-    "title": {
-      "zh": "进来吧。",
-      "en": "Come on in."
-    },
-    "content": {
-      "zh": "进来吧。",
-      "en": "Come on in."
-    }
+    "en": "Come on in.",
+    "name": "进来吧。"
   },
   {
-    "title": {
-      "zh": "我请客。",
-      "en": "It's on me."
-    },
-    "content": {
-      "zh": "我请客。",
-      "en": "It's on me."
-    }
+    "en": "It's on me.",
+    "name": "我请客。"
   },
   {
-    "title": {
-      "zh": "太感谢了。",
-      "en": "I appreciate it."
-    },
-    "content": {
-      "zh": "太感谢了。",
-      "en": "I appreciate it."
-    }
+    "en": "I appreciate it.",
+    "name": "太感谢了。"
   },
   {
-    "title": {
-      "zh": "别客气。",
-      "en": "Not at all."
-    },
-    "content": {
-      "zh": "别客气。",
-      "en": "Not at all."
-    }
+    "en": "Not at all.",
+    "name": "别客气。"
   },
   {
-    "title": {
-      "zh": "请便，别客气。",
-      "en": "Be my guest."
-    },
-    "content": {
-      "zh": "请便，别客气。",
-      "en": "Be my guest."
-    }
+    "en": "Be my guest.",
+    "name": "请便，别客气。"
   },
   {
-    "title": {
-      "zh": "万分感谢。",
-      "en": "Thanks a million."
-    },
-    "content": {
-      "zh": "万分感谢。",
-      "en": "Thanks a million."
-    }
+    "en": "Thanks a million.",
+    "name": "万分感谢。"
   },
   {
-    "title": {
-      "zh": "祝你一切顺利。",
-      "en": "All the best."
-    },
-    "content": {
-      "zh": "祝你一切顺利。",
-      "en": "All the best."
-    }
+    "en": "All the best.",
+    "name": "祝你一切顺利。"
   }
 ]

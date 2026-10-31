@@ -1,442 +1,178 @@
 [
   {
-    "title": {
-      "zh": "想得美。",
-      "en": "Nice try."
-    },
-    "content": {
-      "zh": "想得美。",
-      "en": "Nice try."
-    }
+    "en": "Nice try.",
+    "name": "想得美。"
   },
   {
-    "title": {
-      "zh": "干得好！",
-      "en": "Way to go."
-    },
-    "content": {
-      "zh": "干得好！",
-      "en": "Way to go."
-    }
+    "en": "Way to go.",
+    "name": "干得好！"
   },
   {
-    "title": {
-      "zh": "做得好。",
-      "en": "Good job."
-    },
-    "content": {
-      "zh": "做得好。",
-      "en": "Good job."
-    }
+    "en": "Good job.",
+    "name": "做得好。"
   },
   {
-    "title": {
-      "zh": "还不错。",
-      "en": "Not bad."
-    },
-    "content": {
-      "zh": "还不错。",
-      "en": "Not bad."
-    }
+    "en": "Not bad.",
+    "name": "还不错。"
   },
   {
-    "title": {
-      "zh": "有可能。",
-      "en": "Could be."
-    },
-    "content": {
-      "zh": "有可能。",
-      "en": "Could be."
-    }
+    "en": "Could be.",
+    "name": "有可能。"
   },
   {
-    "title": {
-      "zh": "没错。",
-      "en": "That's right."
-    },
-    "content": {
-      "zh": "没错。",
-      "en": "That's right."
-    }
+    "en": "That's right.",
+    "name": "没错。"
   },
   {
-    "title": {
-      "zh": "确实如此。",
-      "en": "That's true."
-    },
-    "content": {
-      "zh": "确实如此。",
-      "en": "That's true."
-    }
+    "en": "That's true.",
+    "name": "确实如此。"
   },
   {
-    "title": {
-      "zh": "这不可能。",
-      "en": "That's impossible."
-    },
-    "content": {
-      "zh": "这不可能。",
-      "en": "That's impossible."
-    }
+    "en": "That's impossible.",
+    "name": "这不可能。"
   },
   {
-    "title": {
-      "zh": "绝对不行。",
-      "en": "Absolutely not."
-    },
-    "content": {
-      "zh": "绝对不行。",
-      "en": "Absolutely not."
-    }
+    "en": "Absolutely not.",
+    "name": "绝对不行。"
   },
   {
-    "title": {
-      "zh": "我也不。",
-      "en": "Neither do I."
-    },
-    "content": {
-      "zh": "我也不。",
-      "en": "Neither do I."
-    }
+    "en": "Neither do I.",
+    "name": "我也不。"
   },
   {
-    "title": {
-      "zh": "算是吧。",
-      "en": "Sort of."
-    },
-    "content": {
-      "zh": "算是吧。",
-      "en": "Sort of."
-    }
+    "en": "Sort of.",
+    "name": "算是吧。"
   },
   {
-    "title": {
-      "zh": "不太算。",
-      "en": "Not really."
-    },
-    "content": {
-      "zh": "不太算。",
-      "en": "Not really."
-    }
+    "en": "Not really.",
+    "name": "不太算。"
   },
   {
-    "title": {
-      "zh": "不完全是。",
-      "en": "Not exactly."
-    },
-    "content": {
-      "zh": "不完全是。",
-      "en": "Not exactly."
-    }
+    "en": "Not exactly.",
+    "name": "不完全是。"
   },
   {
-    "title": {
-      "zh": "谁在乎呢。",
-      "en": "Who cares."
-    },
-    "content": {
-      "zh": "谁在乎呢。",
-      "en": "Who cares."
-    }
+    "en": "Who cares.",
+    "name": "谁在乎呢。"
   },
   {
-    "title": {
-      "zh": "为什么不呢。",
-      "en": "Why not."
-    },
-    "content": {
-      "zh": "为什么不呢。",
-      "en": "Why not."
-    }
+    "en": "Why not.",
+    "name": "为什么不呢。"
   },
   {
-    "title": {
-      "zh": "我也是。",
-      "en": "Same here."
-    },
-    "content": {
-      "zh": "我也是。",
-      "en": "Same here."
-    }
+    "en": "Same here.",
+    "name": "我也是。"
   },
   {
-    "title": {
-      "zh": "我的错。",
-      "en": "My mistake."
-    },
-    "content": {
-      "zh": "我的错。",
-      "en": "My mistake."
-    }
+    "en": "My mistake.",
+    "name": "我的错。"
   },
   {
-    "title": {
-      "zh": "我想是吧。",
-      "en": "I guess so."
-    },
-    "content": {
-      "zh": "我想是吧。",
-      "en": "I guess so."
-    }
+    "en": "I guess so.",
+    "name": "我想是吧。"
   },
   {
-    "title": {
-      "zh": "你确定吗？",
-      "en": "Are you sure?"
-    },
-    "content": {
-      "zh": "你确定吗？",
-      "en": "Are you sure?"
-    }
+    "en": "Are you sure?",
+    "name": "你确定吗？"
   },
   {
-    "title": {
-      "zh": "你是认真的吗？",
-      "en": "Are you serious?"
-    },
-    "content": {
-      "zh": "你是认真的吗？",
-      "en": "Are you serious?"
-    }
+    "en": "Are you serious?",
+    "name": "你是认真的吗？"
   },
   {
-    "title": {
-      "zh": "我表示怀疑。",
-      "en": "I doubt that."
-    },
-    "content": {
-      "zh": "我表示怀疑。",
-      "en": "I doubt that."
-    }
+    "en": "I doubt that.",
+    "name": "我表示怀疑。"
   },
   {
-    "title": {
-      "zh": "信不信由你。",
-      "en": "Believe it or not."
-    },
-    "content": {
-      "zh": "信不信由你。",
-      "en": "Believe it or not."
-    }
+    "en": "Believe it or not.",
+    "name": "信不信由你。"
   },
   {
-    "title": {
-      "zh": "没这回事。",
-      "en": "No such thing."
-    },
-    "content": {
-      "zh": "没这回事。",
-      "en": "No such thing."
-    }
+    "en": "No such thing.",
+    "name": "没这回事。"
   },
   {
-    "title": {
-      "zh": "没什么，小事一桩。",
-      "en": "It's nothing."
-    },
-    "content": {
-      "zh": "没什么，小事一桩。",
-      "en": "It's nothing."
-    }
+    "en": "It's nothing.",
+    "name": "没什么，小事一桩。"
   },
   {
-    "title": {
-      "zh": "一切都好，没事。",
-      "en": "It's all good."
-    },
-    "content": {
-      "zh": "一切都好，没事。",
-      "en": "It's all good."
-    }
+    "en": "It's all good.",
+    "name": "一切都好，没事。"
   },
   {
-    "title": {
-      "zh": "这不公平。",
-      "en": "That's not fair."
-    },
-    "content": {
-      "zh": "这不公平。",
-      "en": "That's not fair."
-    }
+    "en": "That's not fair.",
+    "name": "这不公平。"
   },
   {
-    "title": {
-      "zh": "现实点吧。",
-      "en": "Get real."
-    },
-    "content": {
-      "zh": "现实点吧。",
-      "en": "Get real."
-    }
+    "en": "Get real.",
+    "name": "现实点吧。"
   },
   {
-    "title": {
-      "zh": "可不是嘛。",
-      "en": "You're telling me."
-    },
-    "content": {
-      "zh": "可不是嘛。",
-      "en": "You're telling me."
-    }
+    "en": "You're telling me.",
+    "name": "可不是嘛。"
   },
   {
-    "title": {
-      "zh": "说真的，真的吗？",
-      "en": "For real."
-    },
-    "content": {
-      "zh": "说真的，真的吗？",
-      "en": "For real."
-    }
+    "en": "For real.",
+    "name": "说真的，真的吗？"
   },
   {
-    "title": {
-      "zh": "常有的事。",
-      "en": "It happens."
-    },
-    "content": {
-      "zh": "常有的事。",
-      "en": "It happens."
-    }
+    "en": "It happens.",
+    "name": "常有的事。"
   },
   {
-    "title": {
-      "zh": "说得也是。",
-      "en": "Fair enough."
-    },
-    "content": {
-      "zh": "说得也是。",
-      "en": "Fair enough."
-    }
+    "en": "Fair enough.",
+    "name": "说得也是。"
   },
   {
-    "title": {
-      "zh": "无意冒犯。",
-      "en": "No offense."
-    },
-    "content": {
-      "zh": "无意冒犯。",
-      "en": "No offense."
-    }
+    "en": "No offense.",
+    "name": "无意冒犯。"
   },
   {
-    "title": {
-      "zh": "没什么大不了。",
-      "en": "No biggie."
-    },
-    "content": {
-      "zh": "没什么大不了。",
-      "en": "No biggie."
-    }
+    "en": "No biggie.",
+    "name": "没什么大不了。"
   },
   {
-    "title": {
-      "zh": "小意思。",
-      "en": "No sweat."
-    },
-    "content": {
-      "zh": "小意思。",
-      "en": "No sweat."
-    }
+    "en": "No sweat.",
+    "name": "小意思。"
   },
   {
-    "title": {
-      "zh": "毫无疑问。",
-      "en": "No doubt."
-    },
-    "content": {
-      "zh": "毫无疑问。",
-      "en": "No doubt."
-    }
+    "en": "No doubt.",
+    "name": "毫无疑问。"
   },
   {
-    "title": {
-      "zh": "怪不得。",
-      "en": "No wonder."
-    },
-    "content": {
-      "zh": "怪不得。",
-      "en": "No wonder."
-    }
+    "en": "No wonder.",
+    "name": "怪不得。"
   },
   {
-    "title": {
-      "zh": "我的错。",
-      "en": "My bad."
-    },
-    "content": {
-      "zh": "我的错。",
-      "en": "My bad."
-    }
+    "en": "My bad.",
+    "name": "我的错。"
   },
   {
-    "title": {
-      "zh": "一切都好。",
-      "en": "All good."
-    },
-    "content": {
-      "zh": "一切都好。",
-      "en": "All good."
-    }
+    "en": "All good.",
+    "name": "一切都好。"
   },
   {
-    "title": {
-      "zh": "太可惜了。",
-      "en": "Too bad."
-    },
-    "content": {
-      "zh": "太可惜了。",
-      "en": "Too bad."
-    }
+    "en": "Too bad.",
+    "name": "太可惜了。"
   },
   {
-    "title": {
-      "zh": "当然，没错。",
-      "en": "You bet."
-    },
-    "content": {
-      "zh": "当然，没错。",
-      "en": "You bet."
-    }
+    "en": "You bet.",
+    "name": "当然，没错。"
   },
   {
-    "title": {
-      "zh": "我也这么认为。",
-      "en": "I'll say."
-    },
-    "content": {
-      "zh": "我也这么认为。",
-      "en": "I'll say."
-    }
+    "en": "I'll say.",
+    "name": "我也这么认为。"
   },
   {
-    "title": {
-      "zh": "过奖了。",
-      "en": "I'm flattered."
-    },
-    "content": {
-      "zh": "过奖了。",
-      "en": "I'm flattered."
-    }
+    "en": "I'm flattered.",
+    "name": "过奖了。"
   },
   {
-    "title": {
-      "zh": "这不可能。",
-      "en": "It's impossible."
-    },
-    "content": {
-      "zh": "这不可能。",
-      "en": "It's impossible."
-    }
+    "en": "It's impossible.",
+    "name": "这不可能。"
   },
   {
-    "title": {
-      "zh": "有点儿，算是吧。",
-      "en": "Kind of."
-    },
-    "content": {
-      "zh": "有点儿，算是吧。",
-      "en": "Kind of."
-    }
+    "en": "Kind of.",
+    "name": "有点儿，算是吧。"
   }
 ]

@@ -1,102 +1,42 @@
 [
   {
-    "title": {
-      "zh": "我有麻烦了。",
-      "en": "I'm in trouble."
-    },
-    "content": {
-      "zh": "我有麻烦了。",
-      "en": "I'm in trouble."
-    }
+    "en": "I'm in trouble.",
+    "name": "我有麻烦了。"
   },
   {
-    "title": {
-      "zh": "我睡过头了。",
-      "en": "I overslept."
-    },
-    "content": {
-      "zh": "我睡过头了。",
-      "en": "I overslept."
-    }
+    "en": "I overslept.",
+    "name": "我睡过头了。"
   },
   {
-    "title": {
-      "zh": "我做噩梦了。",
-      "en": "I had a nightmare."
-    },
-    "content": {
-      "zh": "我做噩梦了。",
-      "en": "I had a nightmare."
-    }
+    "en": "I had a nightmare.",
+    "name": "我做噩梦了。"
   },
   {
-    "title": {
-      "zh": "我不是故意的。",
-      "en": "I didn't mean it."
-    },
-    "content": {
-      "zh": "我不是故意的。",
-      "en": "I didn't mean it."
-    }
+    "en": "I didn't mean it.",
+    "name": "我不是故意的。"
   },
   {
-    "title": {
-      "zh": "它坏了。",
-      "en": "It doesn't work."
-    },
-    "content": {
-      "zh": "它坏了。",
-      "en": "It doesn't work."
-    }
+    "en": "It doesn't work.",
+    "name": "它坏了。"
   },
   {
-    "title": {
-      "zh": "重新开始。",
-      "en": "Start over."
-    },
-    "content": {
-      "zh": "重新开始。",
-      "en": "Start over."
-    }
+    "en": "Start over.",
+    "name": "重新开始。"
   },
   {
-    "title": {
-      "zh": "帮帮我。",
-      "en": "Help me out."
-    },
-    "content": {
-      "zh": "帮帮我。",
-      "en": "Help me out."
-    }
+    "en": "Help me out.",
+    "name": "帮帮我。"
   },
   {
-    "title": {
-      "zh": "我不明白。",
-      "en": "I don't get it."
-    },
-    "content": {
-      "zh": "我不明白。",
-      "en": "I don't get it."
-    }
+    "en": "I don't get it.",
+    "name": "我不明白。"
   },
   {
-    "title": {
-      "zh": "我搞砸了。",
-      "en": "I messed up."
-    },
-    "content": {
-      "zh": "我搞砸了。",
-      "en": "I messed up."
-    }
+    "en": "I messed up.",
+    "name": "我搞砸了。"
   },
   {
-    "title": {
-      "zh": "我受够了。",
-      "en": "I'm sick of it."
-    },
-    "content": {
-      "zh": "我受够了。",
-      "en": "I'm sick of it."
-    }
+    "en": "I'm sick of it.",
+    "name": "我受够了。"
   }
 ]

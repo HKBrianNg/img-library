@@ -1,72 +1,30 @@
 [
   {
-    "title": {
-      "zh": "合适吗？",
-      "en": "Does it fit?"
-    },
-    "content": {
-      "zh": "合适吗？",
-      "en": "Does it fit?"
-    }
+    "en": "Does it fit?",
+    "name": "合适吗？"
   },
   {
-    "title": {
-      "zh": "正合适。",
-      "en": "Perfect fit."
-    },
-    "content": {
-      "zh": "正合适。",
-      "en": "Perfect fit."
-    }
+    "en": "Perfect fit.",
+    "name": "正合适。"
   },
   {
-    "title": {
-      "zh": "好吗？行吗？",
-      "en": "Is it good?"
-    },
-    "content": {
-      "zh": "好吗？行吗？",
-      "en": "Is it good?"
-    }
+    "en": "Is it good?",
+    "name": "好吗？行吗？"
   },
   {
-    "title": {
-      "zh": "你准备好了吗？",
-      "en": "You ready?"
-    },
-    "content": {
-      "zh": "你准备好了吗？",
-      "en": "You ready?"
-    }
+    "en": "You ready?",
+    "name": "你准备好了吗？"
   },
   {
-    "title": {
-      "zh": "我都准备好了。",
-      "en": "I'm all set."
-    },
-    "content": {
-      "zh": "我都准备好了。",
-      "en": "I'm all set."
-    }
+    "en": "I'm all set.",
+    "name": "我都准备好了。"
   },
   {
-    "title": {
-      "zh": "不合身。",
-      "en": "It doesn't fit."
-    },
-    "content": {
-      "zh": "不合身。",
-      "en": "It doesn't fit."
-    }
+    "en": "It doesn't fit.",
+    "name": "不合身。"
   },
   {
-    "title": {
-      "zh": "太紧了。",
-      "en": "It's too tight."
-    },
-    "content": {
-      "zh": "太紧了。",
-      "en": "It's too tight."
-    }
+    "en": "It's too tight.",
+    "name": "太紧了。"
   }
 ]
