@@ -2,6 +2,16 @@
 # -*- coding: utf-8 -*-
 import os
 import sys
+import html
+import gzip
+import zlib
+
+# ─── 嘗試載入 brotli，沒有安裝也不崩潰 ─────────────────────
+try:
+    import brotli
+    HAS_BROTLI = True
+except ImportError:
+    HAS_BROTLI = False
 
 # ─── 必須在導入 PySide6 之前設定 Chromium 參數 ─────────────
 os.environ["QTWEBENGINE_CHROMIUM_FLAGS"] = (
@@ -16,13 +26,13 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 from PySide6.QtWidgets import (
-    QApplication, QMainWindow, QWidget, QSplitter,
-    QTreeWidget, QTreeWidgetItem, QTextBrowser,
+    QApplication, QMainWindow, QWidget, QSplitter, QStackedWidget,
+    QTreeWidget, QTreeWidgetItem, QTextBrowser, QPlainTextEdit,
     QVBoxLayout, QHBoxLayout, QPushButton, QLabel, QStatusBar, QComboBox
 )
 from PySide6.QtWebEngineWidgets import QWebEngineView
 from PySide6.QtWebEngineCore import QWebEnginePage
-from PySide6.QtGui import QDesktopServices
+from PySide6.QtGui import QDesktopServices, QColor
 from PySide6.QtCore import Qt, QUrl, QThread, Signal
 
 # ─── 隱藏名單 ─────────────────────────────────────────────
@@ -38,17 +48,17 @@ BRANCH = "main"
 CDN_PATH_PREFIX = "openEDU"
 PURGE_BASE = "https://purge.jsdelivr.net"
 
-# ✅ 只保留你測試可用的兩個 jsdelivr 節點，均支援清緩存
+# ✅ gcore 放到第一個，預設選中
 CDN_OPTIONS = [
-    ("fastly.jsdelivr.net", f"https://fastly.jsdelivr.net/gh/{GITHUB_USER}/{REPO_NAME}@{BRANCH}"),
-    ("gcore.jsdelivr.net", f"https://gcore.jsdelivr.net/gh/{GITHUB_USER}/{REPO_NAME}@{BRANCH}")
+    ("gcore.jsdelivr.net", f"https://gcore.jsdelivr.net/gh/{GITHUB_USER}/{REPO_NAME}@{BRANCH}"),
+    ("fastly.jsdelivr.net", f"https://fastly.jsdelivr.net/gh/{GITHUB_USER}/{REPO_NAME}@{BRANCH}")
 ]
 
 BROWSER_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-    "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "Accept": "*/*",
     "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Encoding": "gzip, deflate",  # 不再寫 identity，不跟 Cloudflare 對抗，我們自己手動解壓
     "Referer": "https://github.com/",
     "Sec-Fetch-Mode": "no-cors",
     "Sec-Fetch-Site": "cross-site",
@@ -197,10 +207,16 @@ class MainWindow(QMainWindow):
             self.current_url = local_to_cdn_url(self.current_path, self.selected_cdn_base)
             self.info_cdn.setHtml(
                 f"<b>☁️ CDN 鏡像</b><br>"
-                f"<b>URL:</b> <a href='{self.current_url}'>{self.current_url}</a><br>"
+                f"<b>URL:</b> <a style='color:#ffffff;text-decoration:none;' href='{self.current_url}'>{self.current_url}</a><br>"
                 f"<b>狀態:</b> 等待探測"
             )
-            self.view_cdn.setHtml("<center><p>點擊「🔍 探測 CDN」載入預覽</p></center>")
+            self.view_cdn.setHtml("""
+            <html style="background:#252526;color:#fff;">
+                <body style="text-align:center;padding-top:40px;">
+                    <p>點擊「🔍 探測 CDN」載入預覽</p>
+                </body>
+            </html>
+            """)
             self.btn_purge.setEnabled(False)
 
     def _build_body(self):
@@ -216,12 +232,30 @@ class MainWindow(QMainWindow):
         self.info_local = QTextBrowser()
         self.info_local.setMaximumHeight(160)
         self.info_local.setHtml("<b>📄 本地資訊</b><br>請選擇檔案或資料夾")
+
+        self.local_stack = QStackedWidget()
+        self.txt_view = QPlainTextEdit()
+        self.txt_view.setReadOnly(True)
+        self.txt_view.setStyleSheet("""
+            QPlainTextEdit {
+                background-color:#252526;
+                color:#ffffff;
+                font-family:Consolas,monospace;
+                font-size:12px;
+                border:1px solid #333;
+            }
+        """)
+
         self.view_local = QWebEngineView()
         self.view_local.setPage(CustomWebPage(self))
+
+        self.local_stack.addWidget(self.txt_view)
+        self.local_stack.addWidget(self.view_local)
+
         lay_local.addWidget(QLabel("📄 本地資訊"))
         lay_local.addWidget(self.info_local)
         lay_local.addWidget(QLabel("👁 本地預覽"))
-        lay_local.addWidget(self.view_local, 1)
+        lay_local.addWidget(self.local_stack, 1)
 
         widget_cdn = QWidget()
         lay_cdn = QVBoxLayout(widget_cdn)
@@ -232,6 +266,7 @@ class MainWindow(QMainWindow):
         self.info_cdn.setHtml("<b>☁️ CDN 鏡像資訊</b><br>等待選擇檔案")
         self.view_cdn = QWebEngineView()
         self.view_cdn.setPage(CustomWebPage(self))
+        self.view_cdn.page().setBackgroundColor(QColor("#252526"))
         lay_cdn.addWidget(QLabel("☁️ CDN 鏡像資訊"))
         lay_cdn.addWidget(self.info_cdn)
         lay_cdn.addWidget(QLabel("🌐 CDN 預覽"))
@@ -291,30 +326,92 @@ class MainWindow(QMainWindow):
 
         if is_dir:
             self.info_local.setHtml(f"<b>📁 資料夾</b><br>名稱:{name}<br>路徑:{self.current_path}")
+            self.local_stack.setCurrentIndex(1)
             self.view_local.setHtml("<center><h3>📁 資料夾</h3></center>")
             self.current_url = ""
             self.info_cdn.setHtml("<b>☁️ CDN</b><br>請選擇檔案")
-            self.view_cdn.setHtml("<center><h2>📁 資料夾</h2></center>")
+            self.view_cdn.setHtml("""
+            <html style="background:#252526;color:#fff;">
+                <body style="text-align:center;padding-top:40px;">
+                    <h2>📁 資料夾</h2>
+                </body>
+            </html>
+            """)
             self.btn_probe.setEnabled(False)
             self.btn_purge.setEnabled(False)
             self.label_status.setText("狀態：已選資料夾")
         else:
             ext = name.split(".")[-1].lower()
             self.info_local.setHtml(f"<b>📄 檔案</b><br>名稱:{name}<br>類型:{ext}<br>路徑:{self.current_path}")
-            self.view_local.setUrl(QUrl.fromLocalFile(self.current_path))
             self.current_url = local_to_cdn_url(self.current_path, self.selected_cdn_base)
             self.info_cdn.setHtml(
                 f"<b>☁️ CDN 鏡像</b><br>"
-                f"<b>URL:</b> <a href='{self.current_url}'>{self.current_url}</a><br>"
+                f"<b>URL:</b> <a style='color:#ffffff;text-decoration:none;' href='{self.current_url}'>{self.current_url}</a><br>"
                 f"<b>狀態:</b> 等待探測"
             )
-            self.view_cdn.setHtml("<center><p>點擊「🔍 探測 CDN」載入預覽</p></center>")
+            self.view_cdn.setHtml("""
+            <html style="background:#252526;color:#fff;">
+                <body style="text-align:center;padding-top:40px;">
+                    <p>點擊「🔍 探測 CDN」載入預覽</p>
+                </body>
+            </html>
+            """)
             self.btn_probe.setEnabled(True)
             self.btn_purge.setEnabled(False)
             self.label_status.setText(f"狀態：已選檔案 ({ext})")
 
+            text_exts = {"lrc", "txt", "json", "md"}
+            if ext in text_exts:
+                content = ""
+                try:
+                    with open(self.current_path, "r", encoding="utf-8") as f:
+                        content = f.read()
+                except UnicodeDecodeError:
+                    try:
+                        with open(self.current_path, "r", encoding="gbk") as f:
+                            content = f.read()
+                    except Exception:
+                        with open(self.current_path, "r", encoding="utf-8", errors="replace") as f:
+                            content = f.read()
+                except Exception as e:
+                    content = f"讀取失敗：{str(e)}"
+
+                self.txt_view.setPlainText(content)
+                self.local_stack.setCurrentIndex(0)
+            else:
+                self.view_local.setUrl(QUrl.fromLocalFile(self.current_path))
+                self.local_stack.setCurrentIndex(1)
+
     def on_item_double(self, item):
         pass
+
+    def fetch_remote_text(self, url):
+        try:
+            r = requests.get(url, headers=BROWSER_HEADERS, timeout=10, verify=False)
+            r.raise_for_status()
+            raw = r.content
+            enc = r.headers.get("Content-Encoding", "").lower()
+
+            # 手動解壓縮
+            if enc == "br":
+                if not HAS_BROTLI:
+                    return "❌ 需要 brotli 庫，請執行 pip install brotli"
+                raw = brotli.decompress(raw)
+            elif enc == "gzip":
+                raw = gzip.decompress(raw)
+            elif enc == "deflate":
+                raw = zlib.decompress(raw)
+
+            # 文字編碼嘗試
+            try:
+                return raw.decode("utf-8")
+            except UnicodeDecodeError:
+                try:
+                    return raw.decode("gbk")
+                except UnicodeDecodeError:
+                    return raw.decode("utf-8", errors="replace")
+        except Exception as e:
+            return f"讀取遠端文字失敗：{str(e)}"
 
     def on_probe(self):
         if not self.current_url:
@@ -322,10 +419,16 @@ class MainWindow(QMainWindow):
         self.label_status.setText("狀態：探測中...")
         self.info_cdn.setHtml(
             f"<b>☁️ CDN 鏡像</b><br>"
-            f"<b>URL:</b> <a href='{self.current_url}'>{self.current_url}</a><br>"
+            f"<b>URL:</b> <a style='color:#ffffff;text-decoration:none;' href='{self.current_url}'>{self.current_url}</a><br>"
             f"<b>狀態:</b> 探測中..."
         )
-        self.view_cdn.setHtml("<center><p>探測驗證中...</p></center>")
+        self.view_cdn.setHtml("""
+        <html style="background:#252526;color:#fff;">
+            <body style="text-align:center;padding-top:40px;">
+                <p>探測驗證中...</p>
+            </body>
+        </html>
+        """)
 
         if self.probe_thread and self.probe_thread.isRunning():
             self.probe_thread.quit()
@@ -339,15 +442,33 @@ class MainWindow(QMainWindow):
         self.label_status.setText(f"狀態：{msg}")
         self.info_cdn.setHtml(
             f"<b>☁️ CDN 鏡像</b><br>"
-            f"<b>URL:</b> <a href='{url}'>{url}</a><br>"
+            f"<b>URL:</b> <a style='color:#ffffff;text-decoration:none;' href='{url}'>{url}</a><br>"
             f"<b>狀態:</b> {msg}<br>"
             f"<b>HTTP:</b> {code}"
         )
         self.btn_purge.setEnabled(code == 200 and "jsdelivr.net" in self.selected_cdn_base)
         if code == 200:
-            self.view_cdn.setUrl(QUrl(url))
+            ext = url.split(".")[-1].lower()
+            text_exts = {"lrc", "txt", "json", "md"}
+            if ext in text_exts:
+                remote_text = self.fetch_remote_text(url)
+                escaped = html.escape(remote_text)
+                html_content = f"""
+                <html style="background:#252526; color:#ffffff;">
+                <pre style="font-family:Consolas,monospace; font-size:12px; white-space:pre-wrap; padding:8px; margin:0;">{escaped}</pre>
+                </html>
+                """
+                self.view_cdn.setHtml(html_content, QUrl(url))
+            else:
+                self.view_cdn.setUrl(QUrl(url))
         else:
-            self.view_cdn.setHtml("<center><h2>❌ 載入失敗</h2></center>")
+            self.view_cdn.setHtml("""
+            <html style="background:#252526;color:#fff;">
+                <body style="text-align:center;padding-top:40px;">
+                    <h2>❌ 載入失敗</h2>
+                </body>
+            </html>
+            """)
         self.statusBar().showMessage(f"📋 探測完成：{msg}")
 
     def on_purge(self):
@@ -381,7 +502,6 @@ class MainWindow(QMainWindow):
             QTextBrowser {
                 background-color:#252526; color:#fff; border:1px solid #333;
             }
-            QTextBrowser a { color:#66b3ff; }
             QSplitter::handle { background-color:#444; }
             QStatusBar { background-color:#007acc; color:white; padding:4px; }
             QComboBox {
