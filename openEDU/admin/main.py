@@ -48,17 +48,17 @@ BRANCH = "main"
 CDN_PATH_PREFIX = "openEDU"
 PURGE_BASE = "https://purge.jsdelivr.net"
 
-# ✅ gcore 放到第一個，預設選中
 CDN_OPTIONS = [
     ("gcore.jsdelivr.net", f"https://gcore.jsdelivr.net/gh/{GITHUB_USER}/{REPO_NAME}@{BRANCH}"),
     ("fastly.jsdelivr.net", f"https://fastly.jsdelivr.net/gh/{GITHUB_USER}/{REPO_NAME}@{BRANCH}")
 ]
 
+# ✅ 恢復正常Accept-Encoding，交由r.raw讀原始位元組、程式自行嘗試解壓，失敗直接fallback
 BROWSER_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
     "Accept": "*/*",
     "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-    "Accept-Encoding": "gzip, deflate",  # 不再寫 identity，不跟 Cloudflare 對抗，我們自己手動解壓
+    "Accept-Encoding": "gzip, deflate, br",
     "Referer": "https://github.com/",
     "Sec-Fetch-Mode": "no-cors",
     "Sec-Fetch-Site": "cross-site",
@@ -385,31 +385,38 @@ class MainWindow(QMainWindow):
     def on_item_double(self, item):
         pass
 
+    # ✅ 重點修改版本：r.raw.read()拿原始bytes，解壓失敗直接使用原始內容，不會拋錯中斷
     def fetch_remote_text(self, url):
         try:
-            r = requests.get(url, headers=BROWSER_HEADERS, timeout=10, verify=False)
-            r.raise_for_status()
-            raw = r.content
-            enc = r.headers.get("Content-Encoding", "").lower()
+            with requests.get(url, headers=BROWSER_HEADERS, timeout=10, verify=False, stream=True) as r:
+                r.raise_for_status()
+                raw = r.raw.read()
+                enc = r.headers.get("Content-Encoding", "").lower().strip()
 
-            # 手動解壓縮
-            if enc == "br":
-                if not HAS_BROTLI:
-                    return "❌ 需要 brotli 庫，請執行 pip install brotli"
-                raw = brotli.decompress(raw)
-            elif enc == "gzip":
-                raw = gzip.decompress(raw)
-            elif enc == "deflate":
-                raw = zlib.decompress(raw)
+                decompressed = raw
+                if enc == "br" and HAS_BROTLI:
+                    try:
+                        decompressed = brotli.decompress(raw)
+                    except Exception:
+                        decompressed = raw
+                elif enc == "gzip":
+                    try:
+                        decompressed = gzip.decompress(raw)
+                    except Exception:
+                        decompressed = raw
+                elif enc == "deflate":
+                    try:
+                        decompressed = zlib.decompress(raw)
+                    except Exception:
+                        decompressed = raw
 
-            # 文字編碼嘗試
-            try:
-                return raw.decode("utf-8")
-            except UnicodeDecodeError:
                 try:
-                    return raw.decode("gbk")
+                    return decompressed.decode("utf-8")
                 except UnicodeDecodeError:
-                    return raw.decode("utf-8", errors="replace")
+                    try:
+                        return decompressed.decode("gbk")
+                    except UnicodeDecodeError:
+                        return decompressed.decode("utf-8", errors="replace")
         except Exception as e:
             return f"讀取遠端文字失敗：{str(e)}"
 
