@@ -1,0 +1,76 @@
+# openEDU/admin/style.qss
+QMainWindow, QWidget {
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+    font-family: "Segoe UI", sans-serif;
+    font-size: 13px;
+}
+
+QFrame#toolbar {
+    background-color: #252526;
+    border-bottom: 1px solid #333;
+}
+
+QPushButton {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #555;
+    padding: 6px 12px;
+    border-radius: 3px;
+}
+QPushButton:hover {
+    background-color: #444;
+}
+QPushButton:disabled {
+    color: #777;
+    border-color: #333;
+}
+
+QTreeWidget {
+    background-color: #252526;
+    color: #d4d4d4;
+    border: 1px solid #333;
+    outline: none;
+}
+QTreeWidget::item {
+    padding: 2px 0px;
+}
+QTreeWidget::item:selected {
+    background-color: #094771;
+    color: #ffffff;
+}
+QTreeWidget::item:hover:!selected {
+    background-color: #2a2d2e;
+}
+
+QTextEdit, QTextBrowser {
+    background-color: #252526;
+    color: #d4d4d4;
+    border: 1px solid #333;
+    outline: none;
+}
+
+QComboBox {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #555;
+    padding: 4px 6px;
+    border-radius: 3px;
+}
+QComboBox::drop-down {
+    border: none;
+}
+
+QSplitter::handle {
+    background-color: #333;
+}
+
+QStatusBar {
+    background-color: #007acc;
+    color: white;
+    padding: 4px;
+}
+
+QLabel {
+    color: #d4d4d4;
+}
