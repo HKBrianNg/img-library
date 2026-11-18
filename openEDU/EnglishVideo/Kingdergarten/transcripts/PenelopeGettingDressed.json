@@ -1,0 +1,24 @@
+{
+    "lines": [
+        { "index": 1, "start": "00:03", "en": "Penelope!", "zh": "佩内洛普！" },
+        { "index": 2, "start": "00:07", "en": "It's time to get up.", "zh": "该起床了。" },
+        { "index": 3, "start": "00:13", "en": "Good morning.", "zh": "早上好。" },
+        { "index": 4, "start": "00:17", "en": "Today I'm going to get dressed all by myself.", "zh": "今天我要自己穿衣服。" },
+        { "index": 5, "start": "00:25", "en": "First, my T-shirt.", "zh": "先穿T恤。" },
+        { "index": 6, "start": "00:30", "en": "Where is the neck hole?", "zh": "领口在哪里？" },
+        { "index": 7, "start": "00:36", "en": "This way? No.", "zh": "这边？不对。" },
+        { "index": 8, "start": "00:40", "en": "This way! Yes.", "zh": "这边！对了。" },
+        { "index": 9, "start": "00:46", "en": "One arm in. Two arms in.", "zh": "一只袖子进去了。两只袖子都进去了。" },
+        { "index": 10, "start": "00:54", "en": "Good. Now my shorts.", "zh": "好。现在穿短裤。" },
+        { "index": 11, "start": "01:02", "en": "Left leg. Right leg.", "zh": "左腿。右腿。" },
+        { "index": 12, "start": "01:10", "en": "Up, up, up!", "zh": "提上去，提上去！" },
+        { "index": 13, "start": "01:16", "en": "Done! I did it!", "zh": "好了！我做到了！" },
+        { "index": 14, "start": "01:22", "en": "Now my socks.", "zh": "现在穿袜子。" },
+        { "index": 15, "start": "01:30", "en": "This one is for my left foot.", "zh": "这只穿左脚。" },
+        { "index": 16, "start": "01:36", "en": "This one is for my right foot.", "zh": "这只穿右脚。" },
+        { "index": 17, "start": "01:44", "en": "And my shoes.", "zh": "还有鞋子。" },
+        { "index": 18, "start": "01:52", "en": "Buckle my shoes.", "zh": "扣好鞋扣。" },
+        { "index": 19, "start": "02:00", "en": "Look at me! I'm all dressed.", "zh": "看我！我穿好衣服了。" },
+        { "index": 20, "start": "02:08", "en": "Well done, Penelope!", "zh": "做得好，佩内洛普！" }
+    ]
+}

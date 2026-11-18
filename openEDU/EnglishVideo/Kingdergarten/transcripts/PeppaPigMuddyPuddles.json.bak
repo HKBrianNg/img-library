@@ -1,0 +1,29 @@
+{
+  "lines": [
+    { "index": 1, "start": "00:03", "en": "I am Peppa Pig.", "zh": "我是小猪佩奇。" },
+    { "index": 2, "start": "00:04", "en": "This is my little brother, George.", "zh": "这是我的弟弟，乔治。" },
+    { "index": 3, "start": "00:06", "en": "This is Mummy Pig.", "zh": "这是猪妈妈。" },
+    { "index": 4, "start": "00:08", "en": "And this is Daddy Pig.", "zh": "这是猪爸爸。" },
+    { "index": 5, "start": "00:24", "en": "It is raining today.", "zh": "今天在下雨。" },
+    { "index": 6, "start": "00:28", "en": "So Peppa and George cannot play outside.", "zh": "所以佩奇和乔治不能出去玩。" },
+    { "index": 7, "start": "00:34", "en": "Daddy, it's stopped raining. Can we go out to play?", "zh": "爸爸，雨停了。我们能出去玩吗？" },
+    { "index": 8, "start": "00:39", "en": "Alright. Run along, you two.", "zh": "好呀。你们两个去吧。" },
+    { "index": 9, "start": "00:47", "en": "Peppa loves jumping in muddy puddles.", "zh": "佩奇喜欢在泥坑里跳。" },
+    { "index": 10, "start": "00:53", "en": "I love muddy puddles!", "zh": "我喜欢泥坑！" },
+    { "index": 11, "start": "01:00", "en": "Peppa! If you jump in muddy puddles, you must wear your boots.", "zh": "佩奇！如果你在泥坑里跳，必须穿靴子。" },
+    { "index": 12, "start": "01:08", "en": "Sorry, Mummy.", "zh": "对不起，妈妈。" },
+    { "index": 13, "start": "01:16", "en": "George likes to jump in muddy puddles, too.", "zh": "乔治也喜欢在泥坑里跳。" },
+    { "index": 14, "start": "01:22", "en": "George! If you jump in muddy puddles, you must wear your boots.", "zh": "乔治！如果你在泥坑里跳，必须穿靴子。" },
+    { "index": 15, "start": "01:31", "en": "Peppa likes to look after her little brother, George.", "zh": "佩奇喜欢照顾弟弟乔治。" },
+    { "index": 16, "start": "01:41", "en": "George, let's find some more puddles.", "zh": "乔治，我们再去找更多水坑吧。" },
+    { "index": 17, "start": "01:50", "en": "Look, George! There's a really big puddle.", "zh": "看，乔治！有一个好大的水坑。" },
+    { "index": 18, "start": "01:59", "en": "Stop, George! I must check if it's safe for you.", "zh": "等等，乔治！我要先看看对你安不安全。" },
+    { "index": 19, "start": "02:09", "en": "Sorry George. It's only mud.", "zh": "对不起乔治。只是泥而已。" },
+    { "index": 20, "start": "02:17", "en": "Come on, George, let's go and show Daddy.", "zh": "来吧乔治，我们去给爸爸看。" },
+    { "index": 21, "start": "02:27", "en": "Guess what we have been doing?", "zh": "猜猜我们刚才在做什么？" },
+    { "index": 22, "start": "02:34", "en": "You have been jumping in muddy puddles!", "zh": "你们刚才在泥坑里跳！" },
+    { "index": 23, "start": "02:42", "en": "Yes! We've been jumping in muddy puddles!", "zh": "对！我们刚才在泥坑里跳！" },
+    { "index": 24, "start": "02:51", "en": "It's only mud. Let's clean up before Mummy sees.", "zh": "只是泥。趁妈妈没看到，我们快擦干净。" },
+    { "index": 25, "start": "03:00", "en": "Everyone loves jumping up and down in muddy puddles.", "zh": "大家都喜欢在泥坑里跳上跳下。" }
+  ]
+}

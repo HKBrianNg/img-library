@@ -1,0 +1,16 @@
+{
+    "lines": [
+        { "index": 1, "start": "00:05", "en": "Hello! I'm A.", "zh": "你好！我是 A。" },
+        { "index": 2, "start": "00:12", "en": "A says aaaaa.", "zh": "A 发 aaaaa。" },
+        { "index": 3, "start": "00:20", "en": "B says buh buh.", "zh": "B 发 buh buh。" },
+        { "index": 4, "start": "00:28", "en": "C says cuh cuh.", "zh": "C 发 cuh cuh。" },
+        { "index": 5, "start": "00:36", "en": "D says duh duh.", "zh": "D 发 duh duh。" },
+        { "index": 6, "start": "00:45", "en": "E says ehh ehh.", "zh": "E 发 ehh ehh。" },
+        { "index": 7, "start": "00:54", "en": "F says fff fff.", "zh": "F 发 fff。" },
+        { "index": 8, "start": "01:03", "en": "A, B, C, D, E, F!", "zh": "A, B, C, D, E, F！" },
+        { "index": 9, "start": "01:12", "en": "Let's make a word!", "zh": "我们来拼一个词！" },
+        { "index": 10, "start": "01:20", "en": "C-A-T. Cat!", "zh": "C-A-T。猫！" },
+        { "index": 11, "start": "01:28", "en": "H-A-T. Hat!", "zh": "H-A-T。帽子！" },
+        { "index": 12, "start": "01:36", "en": "We did it! High five!", "zh": "我们做到了！击掌！" }
+    ]
+}

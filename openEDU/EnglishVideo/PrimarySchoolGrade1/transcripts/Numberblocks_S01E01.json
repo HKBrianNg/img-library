@@ -1,0 +1,14 @@
+{
+    "lines": [
+        { "index": 1, "start": 0.0, "en": "One.", "zh": "一。" },
+        { "index": 2, "start": 3.0, "en": "I am One. I am tall and I am fun.", "zh": "我是一。我高高的，我很有趣。" },
+        { "index": 3, "start": 8.5, "en": "One little block. That's all I am.", "zh": "一个小方块。我就这么简单。" },
+        { "index": 4, "start": 14.0, "en": "Look! Another one!", "zh": "看！另一个！" },
+        { "index": 5, "start": 18.0, "en": "One plus one equals two!", "zh": "一加一等于二！" },
+        { "index": 6, "start": 22.5, "en": "Two! We are Two!", "zh": "二！我们是二！" },
+        { "index": 7, "start": 27.0, "en": "We can do tricks. Look at us!", "zh": "我们会变魔术。看我们！" },
+        { "index": 8, "start": 33.0, "en": "One, two. One, two. Clap, clap, clap!", "zh": "一、二。一、二。拍手，拍手，拍手！" },
+        { "index": 9, "start": 39.0, "en": "We make a line. We make a square.", "zh": "我们排成一条线。我们变成一个正方形。" },
+        { "index": 10, "start": 45.0, "en": "One and one is two. Well done, us!", "zh": "一加一等于二。我们做得好！" }
+    ]
+}

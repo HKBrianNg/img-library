@@ -1,0 +1,26 @@
+{
+  "lines": [
+    { "index": 1, "start": "00:05", "en": "I am Peppa Pig.", "zh": "我是小猪佩奇。" },
+    { "index": 2, "start": "00:09", "en": "This is my little brother, George.", "zh": "这是我的弟弟，乔治。" },
+    { "index": 3, "start": "00:15", "en": "George loves Mr. Dinosaur.", "zh": "乔治喜欢恐龙先生。" },
+    { "index": 4, "start": "00:22", "en": "Roar! Roar!", "zh": "吼！吼！" },
+    { "index": 5, "start": "00:28", "en": "Mr. Dinosaur is George's favourite toy.", "zh": "恐龙先生是乔治最喜欢的玩具。" },
+    { "index": 6, "start": "00:36", "en": "Oh! Mr. Dinosaur is lost!", "zh": "噢！恐龙先生不见了！" },
+    { "index": 7, "start": "00:43", "en": "George is crying.", "zh": "乔治在哭。" },
+    { "index": 8, "start": "00:50", "en": "Don't worry, George. I will help you.", "zh": "别担心，乔治。我来帮你。" },
+    { "index": 9, "start": "00:58", "en": "I am a detective now.", "zh": "我现在是小侦探了。" },
+    { "index": 10, "start": "01:06", "en": "Let's look for Mr. Dinosaur.", "zh": "我们去找恐龙先生吧。" },
+    { "index": 11, "start": "01:14", "en": "Is he in the bath?", "zh": "他在浴缸里吗？" },
+    { "index": 12, "start": "01:21", "en": "No. He is not here.", "zh": "不。他不在那里。" },
+    { "index": 13, "start": "01:29", "en": "Is he in the bed?", "zh": "他在床里吗？" },
+    { "index": 14, "start": "01:36", "en": "No. He is not there.", "zh": "不。他不在那儿。" },
+    { "index": 15, "start": "01:44", "en": "Is he in the garden?", "zh": "他在花园里吗？" },
+    { "index": 16, "start": "01:52", "en": "Look! Mr. Dinosaur is in the tree!", "zh": "看！恐龙先生在树上！" },
+    { "index": 17, "start": "02:00", "en": "Daddy, can you get him down?", "zh": "爸爸，你能把他拿下来吗？" },
+    { "index": 18, "start": "02:08", "en": "Of course, Peppa.", "zh": "当然可以，佩奇。" },
+    { "index": 19, "start": "02:16", "en": "Here is Mr. Dinosaur!", "zh": "恐龙先生回来啦！" },
+    { "index": 20, "start": "02:24", "en": "George is happy again.", "zh": "乔治又开心了。" },
+    { "index": 21, "start": "02:32", "en": "Thank you, Peppa.", "zh": "谢谢你，佩奇。" },
+    { "index": 22, "start": "02:40", "en": "You are welcome, George.", "zh": "不客气，乔治。" }
+  ]
+}
