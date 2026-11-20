@@ -4,7 +4,6 @@
   "categories": [
     {
       "name": "儿歌",
-      "en": "Children Songs",
       "items": [
         {
           "name": "孩子的天空",
@@ -24,7 +23,6 @@
     },
     {
       "name": "流行歌曲",
-      "en": "Pop Music",
       "items": [
         {
           "name": "黄昏",
@@ -130,6 +128,13 @@
           "artist": "孙燕姿",
           "audio": "/audio/starting-to-understand.m4a",
           "lyric": "/lyric/starting-to-understand.lrc"
+        },
+         {
+          "name": "富士山下",
+          "en": "富士山下",
+          "artist": "陈奕迅",
+          "audio": "/audio/undefined",
+          "lyric": "/lyric/1450_1795172104926.lrc"
         }
       ]
     }
