@@ -135,6 +135,13 @@
           "artist": "王力宏",
           "audio": "/audio/心跳.mp3",
           "lyric": "/lyric/心跳.lrc"
+        },
+        {
+          "name": "暧昧",
+          "en": "暧昧",
+          "artist": "薛之谦",
+          "audio": "/audio/暧昧.mp3",
+          "lyric": "/lyric/暧昧.lrc"
         }
       ]
     }
