@@ -128,13 +128,6 @@
           "artist": "孙燕姿",
           "audio": "/audio/starting-to-understand.m4a",
           "lyric": "/lyric/starting-to-understand.lrc"
-        },
-         {
-          "name": "富士山下",
-          "en": "富士山下",
-          "artist": "陈奕迅",
-          "audio": "/audio/undefined",
-          "lyric": "/lyric/1450_1795172104926.lrc"
         }
       ]
     }

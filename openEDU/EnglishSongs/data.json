@@ -4,7 +4,6 @@
   "categories": [
     {
       "name": "儿歌",
-      "en": "Children Songs",
       "items": [
         {
           "name": "宾果",
@@ -87,7 +86,6 @@
     },
     {
       "name": "流行歌曲",
-      "en": "Pop Music",
       "items": [
         {
           "name": "情感",
