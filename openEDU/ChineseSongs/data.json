@@ -128,6 +128,13 @@
           "artist": "孙燕姿",
           "audio": "/audio/starting-to-understand.m4a",
           "lyric": "/lyric/starting-to-understand.lrc"
+        },
+        {
+          "name": "心跳",
+          "en": "Heart beat",
+          "artist": "王力宏",
+          "audio": "/audio/心跳.mp3",
+          "lyric": "/lyric/心跳.lrc"
         }
       ]
     }
