@@ -15,12 +15,16 @@
         "generated_at": "2026-11-22T16:02:44.000Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:36:46.237Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:36:47.700Z"
       }
     },
     "1": {
@@ -37,12 +41,16 @@
         "generated_at": "2026-11-22T16:02:47.797Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:36:49.673Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:36:51.356Z"
       }
     },
     "2": {
@@ -59,12 +67,16 @@
         "generated_at": "2026-11-22T16:02:51.426Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:36:53.562Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:36:55.158Z"
       }
     },
     "3": {
@@ -81,12 +93,16 @@
         "generated_at": "2026-11-22T16:02:54.185Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:36:57.074Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:36:58.662Z"
       }
     },
     "4": {
@@ -103,12 +119,16 @@
         "generated_at": "2026-11-22T16:02:57.150Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:00.333Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:03.790Z"
       }
     },
     "5": {
@@ -125,12 +145,16 @@
         "generated_at": "2026-11-22T16:03:00.775Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:06.811Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:08.366Z"
       }
     },
     "6": {
@@ -147,12 +171,16 @@
         "generated_at": "2026-11-22T16:03:05.612Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:10.374Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:12.060Z"
       }
     },
     "7": {
@@ -169,12 +197,16 @@
         "generated_at": "2026-11-22T16:03:08.172Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:14.188Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:16.455Z"
       }
     },
     "8": {
@@ -191,12 +223,16 @@
         "generated_at": "2026-11-22T16:03:10.668Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:21.671Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:23.477Z"
       }
     },
     "9": {
@@ -213,12 +249,16 @@
         "generated_at": "2026-11-22T16:03:13.196Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:25.294Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:26.991Z"
       }
     },
     "10": {
@@ -235,12 +275,16 @@
         "generated_at": "2026-11-22T16:03:15.454Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:29.072Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:30.549Z"
       }
     },
     "11": {
@@ -257,12 +301,16 @@
         "generated_at": "2026-11-22T16:03:18.120Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:33.870Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:35.269Z"
       }
     },
     "12": {
@@ -279,12 +327,16 @@
         "generated_at": "2026-11-22T16:03:21.295Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:40.640Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:42.829Z"
       }
     },
     "13": {
@@ -301,12 +353,16 @@
         "generated_at": "2026-11-22T16:03:23.504Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:45.073Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:46.546Z"
       }
     },
     "14": {
@@ -323,12 +379,16 @@
         "generated_at": "2026-11-22T16:03:26.173Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:48.223Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:49.704Z"
       }
     },
     "15": {
@@ -345,12 +405,16 @@
         "generated_at": "2026-11-22T16:03:29.220Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:53.549Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:55.456Z"
       }
     },
     "16": {
@@ -367,12 +431,16 @@
         "generated_at": "2026-11-22T16:03:31.967Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:56.903Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:37:58.105Z"
       }
     },
     "17": {
@@ -389,12 +457,16 @@
         "generated_at": "2026-11-22T16:03:35.772Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:02.716Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:04.013Z"
       }
     },
     "18": {
@@ -411,12 +483,16 @@
         "generated_at": "2026-11-22T16:03:38.180Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:07.149Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:08.559Z"
       }
     },
     "19": {
@@ -433,12 +509,16 @@
         "generated_at": "2026-11-22T16:03:41.866Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:10.235Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:13.686Z"
       }
     },
     "20": {
@@ -455,12 +535,16 @@
         "generated_at": "2026-11-22T16:03:46.855Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:17.223Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:18.549Z"
       }
     },
     "21": {
@@ -477,12 +561,16 @@
         "generated_at": "2026-11-22T16:03:49.138Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:19.988Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:21.956Z"
       }
     },
     "22": {
@@ -499,12 +587,16 @@
         "generated_at": "2026-11-22T16:03:51.808Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:24.028Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:25.859Z"
       }
     },
     "23": {
@@ -521,12 +613,16 @@
         "generated_at": "2026-11-22T16:03:54.299Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:28.583Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:30.403Z"
       }
     },
     "24": {
@@ -543,12 +639,16 @@
         "generated_at": "2026-11-22T16:03:56.691Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:33.901Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:35.411Z"
       }
     },
     "25": {
@@ -565,12 +665,16 @@
         "generated_at": "2026-11-22T16:04:00.091Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:37.886Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:41.952Z"
       }
     },
     "26": {
@@ -587,12 +691,16 @@
         "generated_at": "2026-11-22T16:04:02.715Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:44.406Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:48.495Z"
       }
     },
     "27": {
@@ -609,12 +717,16 @@
         "generated_at": "2026-11-22T16:04:05.410Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:49.868Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:51.750Z"
       }
     },
     "28": {
@@ -631,12 +743,16 @@
         "generated_at": "2026-11-22T16:04:07.943Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:54.003Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:38:57.764Z"
       }
     },
     "29": {
@@ -653,12 +769,16 @@
         "generated_at": "2026-11-22T16:04:10.630Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:01.260Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:08.475Z"
       }
     },
     "30": {
@@ -675,12 +795,16 @@
         "generated_at": "2026-11-22T16:04:13.426Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:10.225Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:13.581Z"
       }
     },
     "31": {
@@ -697,12 +821,16 @@
         "generated_at": "2026-11-22T16:04:16.295Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:14.929Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:16.569Z"
       }
     },
     "32": {
@@ -719,12 +847,16 @@
         "generated_at": "2026-11-22T16:04:19.138Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:18.905Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:22.304Z"
       }
     },
     "33": {
@@ -741,12 +873,16 @@
         "generated_at": "2026-11-22T16:04:22.040Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:24.524Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:26.006Z"
       }
     },
     "34": {
@@ -763,12 +899,16 @@
         "generated_at": "2026-11-22T16:04:24.467Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:27.876Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:29.523Z"
       }
     },
     "35": {
@@ -785,12 +925,16 @@
         "generated_at": "2026-11-22T16:04:27.063Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:31.855Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:39.449Z"
       }
     },
     "36": {
@@ -807,12 +951,16 @@
         "generated_at": "2026-11-22T16:04:29.643Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:41.358Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:42.942Z"
       }
     },
     "37": {
@@ -829,12 +977,16 @@
         "generated_at": "2026-11-22T16:04:32.105Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:44.612Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:45.877Z"
       }
     },
     "38": {
@@ -851,12 +1003,16 @@
         "generated_at": "2026-11-22T16:04:35.674Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:47.588Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:48.900Z"
       }
     },
     "39": {
@@ -873,12 +1029,16 @@
         "generated_at": "2026-11-22T16:04:38.333Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:51.651Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:53.261Z"
       }
     },
     "40": {
@@ -895,12 +1055,16 @@
         "generated_at": "2026-11-22T16:04:40.639Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:54.654Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:55.872Z"
       }
     },
     "41": {
@@ -917,12 +1081,16 @@
         "generated_at": "2026-11-22T16:04:43.849Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:39:57.628Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:00.440Z"
       }
     },
     "42": {
@@ -939,12 +1107,16 @@
         "generated_at": "2026-11-22T16:04:47.616Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:03.687Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:05.319Z"
       }
     },
     "43": {
@@ -961,12 +1133,16 @@
         "generated_at": "2026-11-22T16:04:50.067Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:07.289Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:08.985Z"
       }
     },
     "44": {
@@ -983,12 +1159,16 @@
         "generated_at": "2026-11-22T16:04:52.360Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:10.518Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:11.857Z"
       }
     },
     "45": {
@@ -1005,12 +1185,16 @@
         "generated_at": "2026-11-22T16:04:55.489Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:13.843Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:15.975Z"
       }
     },
     "46": {
@@ -1027,12 +1211,16 @@
         "generated_at": "2026-11-22T16:04:57.873Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:18.327Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:21.814Z"
       }
     },
     "47": {
@@ -1049,12 +1237,16 @@
         "generated_at": "2026-11-22T16:05:00.709Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:24.228Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:25.877Z"
       }
     },
     "48": {
@@ -1071,12 +1263,16 @@
         "generated_at": "2026-11-22T16:05:03.240Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:27.255Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:28.586Z"
       }
     },
     "49": {
@@ -1093,12 +1289,16 @@
         "generated_at": "2026-11-22T16:05:05.802Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:30.410Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:31.934Z"
       }
     },
     "50": {
@@ -1115,12 +1315,16 @@
         "generated_at": "2026-11-22T16:05:08.484Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:34.586Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:36.438Z"
       }
     },
     "51": {
@@ -1137,12 +1341,16 @@
         "generated_at": "2026-11-22T16:05:11.151Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:39.798Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:41.284Z"
       }
     },
     "52": {
@@ -1159,12 +1367,16 @@
         "generated_at": "2026-11-22T16:05:13.538Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:42.852Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:44.403Z"
       }
     },
     "53": {
@@ -1181,12 +1393,16 @@
         "generated_at": "2026-11-22T16:05:16.248Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:46.396Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:48.881Z"
       }
     },
     "54": {
@@ -1203,12 +1419,16 @@
         "generated_at": "2026-11-22T16:05:18.583Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:50.757Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:52.287Z"
       }
     },
     "55": {
@@ -1225,12 +1445,16 @@
         "generated_at": "2026-11-22T16:05:22.181Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:54.424Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:40:57.851Z"
       }
     },
     "56": {
@@ -1247,12 +1471,16 @@
         "generated_at": "2026-11-22T16:05:24.523Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:41:00.299Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:41:05.004Z"
       }
     },
     "57": {
@@ -1269,12 +1497,16 @@
         "generated_at": "2026-11-22T16:05:27.226Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:41:06.754Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:41:08.129Z"
       }
     },
     "58": {
@@ -1291,12 +1523,16 @@
         "generated_at": "2026-11-22T16:05:29.646Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:41:09.718Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:41:11.907Z"
       }
     },
     "59": {
@@ -1313,12 +1549,16 @@
         "generated_at": "2026-11-22T16:05:32.484Z"
       },
       "zh_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:41:13.493Z"
       },
       "en_content_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: getaddrinfo ENOTFOUND speech.platform.bing.com (code=ENOTFOUND)"
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T02:41:17.507Z"
       }
     }
   }
