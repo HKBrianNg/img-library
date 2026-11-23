@@ -1,0 +1,621 @@
+{
+  "chapter": "reactions",
+  "entries": {
+    "0": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:02:42.712Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:02:43.845Z"
+      }
+    },
+    "1": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:02:45.132Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:02:46.461Z"
+      }
+    },
+    "2": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:02:47.590Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:02:48.830Z"
+      }
+    },
+    "3": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:02:49.967Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:02:51.058Z"
+      }
+    },
+    "4": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:02:52.536Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:02:53.914Z"
+      }
+    },
+    "5": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:02:55.218Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:02:56.626Z"
+      }
+    },
+    "6": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:02:57.869Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:02:59.095Z"
+      }
+    },
+    "7": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:00.661Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:02.192Z"
+      }
+    },
+    "8": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:03.984Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:05.156Z"
+      }
+    },
+    "9": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:06.501Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:07.740Z"
+      }
+    },
+    "10": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:09.073Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:10.622Z"
+      }
+    },
+    "11": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:12.358Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:13.530Z"
+      }
+    },
+    "12": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:14.819Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:16.404Z"
+      }
+    },
+    "13": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:18.098Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:19.297Z"
+      }
+    },
+    "14": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:20.500Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:21.702Z"
+      }
+    },
+    "15": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:22.694Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:23.972Z"
+      }
+    },
+    "16": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:25.189Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:26.283Z"
+      }
+    },
+    "17": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:27.315Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:28.508Z"
+      }
+    },
+    "18": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:29.665Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:30.854Z"
+      }
+    },
+    "19": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:32.177Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:33.495Z"
+      }
+    },
+    "20": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:34.679Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:35.821Z"
+      }
+    },
+    "21": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:37.396Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:39.108Z"
+      }
+    },
+    "22": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:40.467Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:41.527Z"
+      }
+    },
+    "23": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:42.816Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:43.868Z"
+      }
+    },
+    "24": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:45.332Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:46.608Z"
+      }
+    },
+    "25": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:47.756Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:48.995Z"
+      }
+    },
+    "26": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:50.243Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:51.398Z"
+      }
+    },
+    "27": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:52.597Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:53.634Z"
+      }
+    },
+    "28": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:55.441Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:57.695Z"
+      }
+    },
+    "29": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:03:59.147Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:00.661Z"
+      }
+    },
+    "30": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:02.528Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:03.843Z"
+      }
+    },
+    "31": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:06.533Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:08.717Z"
+      }
+    },
+    "32": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:14.211Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:15.748Z"
+      }
+    },
+    "33": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:17.201Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:18.310Z"
+      }
+    },
+    "34": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:20.394Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:21.436Z"
+      }
+    },
+    "35": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:22.615Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:23.792Z"
+      }
+    },
+    "36": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:24.871Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:26.072Z"
+      }
+    },
+    "37": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:27.351Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:28.447Z"
+      }
+    },
+    "38": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:29.811Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:30.959Z"
+      }
+    },
+    "39": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:32.330Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:33.508Z"
+      }
+    },
+    "40": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:35.027Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:36.203Z"
+      }
+    },
+    "41": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:37.714Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:38.942Z"
+      }
+    },
+    "42": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:39.984Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:41.116Z"
+      }
+    },
+    "43": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:42.342Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:04:43.585Z"
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "chapter": "sides",
+  "entries": {
+    "0": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:11:47.182Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:11:48.981Z"
+      }
+    },
+    "1": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:11:51.145Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:11:55.093Z"
+      }
+    },
+    "2": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:11:57.347Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:12:01.017Z"
+      }
+    },
+    "3": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:12:03.658Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:12:05.083Z"
+      }
+    },
+    "4": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:12:07.289Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:12:08.762Z"
+      }
+    },
+    "5": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:12:10.263Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T12:12:12.239Z"
+      }
+    }
+  }
+}
