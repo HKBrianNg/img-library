@@ -661,14 +661,16 @@
     },
     "47": {
       "zh_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: Client network socket disconnected before secure TLS connection was established (code=ECONNRESET)"
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T13:49:28.673Z"
       },
       "en_normal": {
         "ok": true,
         "voice": "en-US-JennyNeural",
         "rate": "-8%",
-        "generated_at": "2026-11-23T12:00:18.372Z"
+        "generated_at": "2026-11-23T13:49:29.805Z"
       }
     },
     "48": {

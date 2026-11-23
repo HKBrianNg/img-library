@@ -90,23 +90,27 @@
         "ok": true,
         "voice": "zh-CN-XiaoxiaoNeural",
         "rate": "-8%",
-        "generated_at": "2026-11-23T11:52:27.619Z"
-      },
-      "en_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: Client network socket disconnected before secure TLS connection was established (code=ECONNRESET)"
-      }
-    },
-    "7": {
-      "zh_normal": {
-        "ok": false,
-        "error": "Edge TTS WebSocket error: socket hang up (code=ECONNRESET)"
+        "generated_at": "2026-11-23T13:49:23.009Z"
       },
       "en_normal": {
         "ok": true,
         "voice": "en-US-JennyNeural",
         "rate": "-8%",
-        "generated_at": "2026-11-23T11:52:29.520Z"
+        "generated_at": "2026-11-23T13:49:24.478Z"
+      }
+    },
+    "7": {
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T13:49:26.009Z"
+      },
+      "en_normal": {
+        "ok": true,
+        "voice": "en-US-JennyNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T13:49:27.113Z"
       }
     },
     "8": {

@@ -6,7 +6,13 @@
         "ok": true,
         "voice": "en-US-JennyNeural",
         "rate": "-8%",
-        "generated_at": "2026-11-22T15:06:26.642Z"
+        "generated_at": "2026-11-23T13:49:21.860Z"
+      },
+      "zh_normal": {
+        "ok": true,
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-23T13:49:18.921Z"
       }
     },
     "1": {
