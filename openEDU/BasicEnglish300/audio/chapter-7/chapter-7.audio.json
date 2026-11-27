@@ -1,0 +1,237 @@
+{
+  "chapter": "chapter-7",
+  "entries": {
+    "0": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:19:43.571Z"
+      }
+    },
+    "1": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:19:51.275Z"
+      }
+    },
+    "2": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:19:54.804Z"
+      }
+    },
+    "3": {
+      "yue_normal": {
+        "ok": false,
+        "error": "Edge TTS synthesis timed out after 60000 milliseconds without activity."
+      }
+    },
+    "4": {
+      "yue_normal": {
+        "ok": false,
+        "error": "Stream closed before the synthesis completed (no turn.end received). The audio is likely truncated."
+      }
+    },
+    "5": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:21:30.674Z"
+      }
+    },
+    "6": {
+      "yue_normal": {
+        "ok": false,
+        "error": "Edge TTS synthesis timed out after 60000 milliseconds without activity."
+      }
+    },
+    "7": {
+      "yue_normal": {
+        "ok": false,
+        "error": "Stream closed before the synthesis completed (no turn.end received). The audio is likely truncated."
+      }
+    },
+    "8": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:22:55.613Z"
+      }
+    },
+    "9": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:22:56.821Z"
+      }
+    },
+    "10": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:22:59.132Z"
+      }
+    },
+    "11": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:23:02.072Z"
+      }
+    },
+    "12": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:23:07.372Z"
+      }
+    },
+    "13": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:23:13.653Z"
+      }
+    },
+    "14": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:23:15.192Z"
+      }
+    },
+    "15": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:23:17.863Z"
+      }
+    },
+    "16": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:23:34.048Z"
+      }
+    },
+    "17": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:23:54.505Z"
+      }
+    },
+    "18": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:23:58.626Z"
+      }
+    },
+    "19": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:24:01.019Z"
+      }
+    },
+    "20": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:24:03.573Z"
+      }
+    },
+    "21": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:24:05.305Z"
+      }
+    },
+    "22": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:24:07.483Z"
+      }
+    },
+    "23": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:24:11.566Z"
+      }
+    },
+    "24": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:24:13.301Z"
+      }
+    },
+    "25": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:24:17.408Z"
+      }
+    },
+    "26": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:24:18.584Z"
+      }
+    },
+    "27": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:24:20.700Z"
+      }
+    },
+    "28": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:24:21.777Z"
+      }
+    },
+    "29": {
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T02:24:22.908Z"
+      }
+    }
+  }
+}
