@@ -13,6 +13,12 @@
         "voice": "en-US-JennyNeural",
         "rate": "-8%",
         "generated_at": "2026-11-23T12:10:44.095Z"
+      },
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T01:47:21.295Z"
       }
     },
     "1": {
@@ -27,6 +33,12 @@
         "voice": "en-US-JennyNeural",
         "rate": "-8%",
         "generated_at": "2026-11-23T12:10:49.185Z"
+      },
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T01:47:21.805Z"
       }
     },
     "2": {
@@ -41,6 +53,12 @@
         "voice": "en-US-JennyNeural",
         "rate": "-8%",
         "generated_at": "2026-11-23T12:10:58.985Z"
+      },
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T01:47:22.363Z"
       }
     },
     "3": {
@@ -55,6 +73,12 @@
         "voice": "en-US-JennyNeural",
         "rate": "-8%",
         "generated_at": "2026-11-23T12:11:04.850Z"
+      },
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T01:47:23.021Z"
       }
     },
     "4": {
@@ -69,6 +93,12 @@
         "voice": "en-US-JennyNeural",
         "rate": "-8%",
         "generated_at": "2026-11-23T12:11:10.761Z"
+      },
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T01:47:23.279Z"
       }
     },
     "5": {
@@ -83,6 +113,12 @@
         "voice": "en-US-JennyNeural",
         "rate": "-8%",
         "generated_at": "2026-11-23T12:11:16.060Z"
+      },
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T01:47:24.130Z"
       }
     },
     "6": {
@@ -97,6 +133,12 @@
         "voice": "en-US-JennyNeural",
         "rate": "-8%",
         "generated_at": "2026-11-23T12:11:22.192Z"
+      },
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T01:47:24.837Z"
       }
     },
     "7": {
@@ -111,6 +153,12 @@
         "voice": "en-US-JennyNeural",
         "rate": "-8%",
         "generated_at": "2026-11-23T12:11:38.239Z"
+      },
+      "yue_normal": {
+        "ok": true,
+        "voice": "zh-HK-HiuMaanNeural",
+        "rate": "-8%",
+        "generated_at": "2026-11-27T01:47:25.103Z"
       }
     }
   }
